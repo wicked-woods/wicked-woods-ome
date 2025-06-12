@@ -3,7 +3,7 @@ startDate: 5/26/2022
 endDate: 5/28/2022
 address: 3901 Kootenay Hwy, Fairmont Hot Springs, BC V0B 1L1, Canada
 timeZone: America/Denver
-imageURL: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2FDAA28B1F-8634-49ED-B740-435A751FAAC6.png?alt=media&token=3359edfa-99c5-4b8e-bb39-417f6ce0cfe4
+iconImageURL: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2FDAA28B1F-8634-49ED-B740-435A751FAAC6.png?alt=media&token=3359edfa-99c5-4b8e-bb39-417f6ce0cfe4
 siteMapImageURL: https://edm.com/.image/t_share/MTg4NzQ0ODA4NzcxMTAyNDUy/festival-map-final-1300x1300.png
 contactNumber:
 - phoneNumber: '4034931800'
@@ -17,14 +17,14 @@ contactNumber:
     
 stages:   
 - name: Unicorn Lounge
-  imageURL: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2FE26FA130-C383-4DD6-B6F9-4407EEDE35EE.png?alt=media&token=37377bef-abe5-4f33-9bfd-93efd1168e3f
+  iconImageURL: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2FE26FA130-C383-4DD6-B6F9-4407EEDE35EE.png?alt=media&token=37377bef-abe5-4f33-9bfd-93efd1168e3f
   color: 0x6E4E5A
 
 - name: The Hallow
-  imageURL: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2FD0CAB6CC-E585-4A03-A0A6-575CB1FD0A3F.png?alt=media&token=99d4919c-ee3e-4964-87c4-d380da29019a
+  iconImageURL: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2FD0CAB6CC-E585-4A03-A0A6-575CB1FD0A3F.png?alt=media&token=99d4919c-ee3e-4964-87c4-d380da29019a
   color: 0x726651
   
 - name: Ursus
-  imageURL: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2F4C600F9E-D218-4340-AC09-DFC22F378734.png?alt=media&token=27e7da65-75a9-4d79-8e79-060953ea7ed1
+  iconImageURL: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2F4C600F9E-D218-4340-AC09-DFC22F378734.png?alt=media&token=27e7da65-75a9-4d79-8e79-060953ea7ed1
   color: 0x6E4E5A
 

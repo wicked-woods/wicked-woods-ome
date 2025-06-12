@@ -3,7 +3,7 @@ startDate: 6/8/2023
 endDate: 6/11/2023
 address: 3901 Kootenay Hwy, Fairmont Hot Springs, BC V0B 1L1, Canada
 timeZone: America/Denver
-imageURL: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2F54F37A50-9698-41B3-AF27-2BC3EE1599FD.png?alt=media&token=d8b07305-f201-4826-bb91-1f31e209741f
+iconImageURL: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2F54F37A50-9698-41B3-AF27-2BC3EE1599FD.png?alt=media&token=d8b07305-f201-4826-bb91-1f31e209741f
 siteMapImageURL: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2FB9AB0E38-CCCD-4A79-8E78-D971B13D1DA6.png?alt=media&token=0dabdd19-84c8-4878-9b9f-d4decc5c3d27
 contactNumbers:
 - phoneNumber: '2506884133'
@@ -13,17 +13,17 @@ contactNumbers:
 
 stages:  
 - name: The Hallow
-  imageURL: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2FC9F41387-F984-4F47-9587-4362FECF75CB.png?alt=media&token=7f98ab02-deed-4913-b610-7a62f22e75d1
+  iconImageURL: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2FC9F41387-F984-4F47-9587-4362FECF75CB.png?alt=media&token=7f98ab02-deed-4913-b610-7a62f22e75d1
   color: 0x143144
 
 - name: Unicorn Lounge
-  imageURL: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2F9F8BB2AD-23E5-44B7-BE16-CAC3A36E28F1.png?alt=media&token=7a0e960a-4e28-4016-b738-6ca4fa8d8b88
+  iconImageURL: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2F9F8BB2AD-23E5-44B7-BE16-CAC3A36E28F1.png?alt=media&token=7a0e960a-4e28-4016-b738-6ca4fa8d8b88
   color: 0x401F34
   
 - name: The Portal
-  imageURL: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2FC85AE194-2BEC-4175-B70A-3E86FF72E579.png?alt=media&token=a38280af-eda6-409d-9f36-579d1895fbf2
+  iconImageURL: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2FC85AE194-2BEC-4175-B70A-3E86FF72E579.png?alt=media&token=a38280af-eda6-409d-9f36-579d1895fbf2
   color: 0xA62428
     
 - name: Ursus
-  imageURL: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2FA15DB478-8775-4893-90BA-D688AEF46E1F.png?alt=media&token=700c1b76-7770-480d-9c8f-bca234518dbe
+  iconImageURL: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2FA15DB478-8775-4893-90BA-D688AEF46E1F.png?alt=media&token=700c1b76-7770-480d-9c8f-bca234518dbe
   color: 0xDE5F29
