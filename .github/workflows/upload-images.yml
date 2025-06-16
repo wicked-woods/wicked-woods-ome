@@ -4,7 +4,6 @@ on:
   push:
     branches:
       - main
-      - image-upload-pipeline # remove after testing
 
 jobs:
   deploy:
