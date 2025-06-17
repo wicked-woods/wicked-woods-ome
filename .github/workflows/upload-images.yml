@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - main
+      - upload-images.yml # remove after testing
 
 jobs:
   deploy:
@@ -25,9 +26,17 @@ jobs:
           aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
           aws-region: ${{ env.AWS_REGION }}
 
+      - name: Create zip of repository
+        run: |
+          zip -r ${{ github.event.repository.name }}.zip . -x "*.png" "*.jpg" "*.jpeg" "*.gif" "*.bmp" "*.tiff" "*.webp" "*.ico" "*.svg"
+
+      - name: Upload zip to S3
+        run: |
+          aws s3 cp ${{ github.event.repository.name }}.zip s3://${S3_BUCKET}/${{ github.event.repository.name }}.zip
+
       - name: Sync files to S3 bucket
         run: |
-          aws s3 sync . s3://${S3_BUCKET} --delete
+          aws s3 sync . s3://${S3_BUCKET}/wicked-woods-ome/ --delete --exclude "${{ github.event.repository.name }}.zip"
 
       - name: Invalidate CloudFront cache
         run: |
