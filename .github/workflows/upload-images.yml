@@ -4,7 +4,7 @@ on:
   push:
     branches:
       - main
-      - upload-images.yml # remove after testing
+      - image-upload-pipeline # remove after testing
 
 jobs:
   deploy:
