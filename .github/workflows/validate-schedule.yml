@@ -46,10 +46,8 @@ jobs:
 
       - name: Run CLI tool
         run: |
-          pwd
-          ls
           echo "Running validation tool..."
-          ./${BINARY_NAME} validate ./2024
+          ./${BINARY_NAME} validate .
 
   deploy:
     needs: validate
