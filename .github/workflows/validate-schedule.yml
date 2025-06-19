@@ -39,6 +39,14 @@ jobs:
       #     curl -sL "$DOWNLOAD_URL" -o "$BINARY_NAME"
       #     chmod +x "$BINARY_NAME"
 
+      - name: Install AWS CLI
+        run: |
+          apt-get update && apt-get install -y curl unzip
+          curl "https://awscli.amazonaws.com/awscli-exe-linux-x86_64.zip" -o "awscliv2.zip"
+          unzip awscliv2.zip
+          ./aws/install
+          aws --version
+
       - name: Configure AWS credentials
         uses: aws-actions/configure-aws-credentials@v1
         with:
