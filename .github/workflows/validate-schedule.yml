@@ -8,6 +8,9 @@ on:
 
 jobs:
   deploy:
+    strategy:
+      matrix:
+        swift: [ '6.1' ]
     runs-on: ubuntu-latest
     container: swift:${{ matrix.swift }}
 
