@@ -23,49 +23,26 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2
 
-      # - name: Get latest release tag
-      #   id: get_release
-      #   run: |
-      #     TAG=$(curl -s "https://api.github.com/repos/${REPO}/releases/latest" | jq -r .tag_name)
-      #     echo "Latest release tag is $TAG"
-      #     echo "tag=$TAG" >> $GITHUB_OUTPUT
-
-      # - name: Download CLI binary from latest release
-      #   run: |
-      #     TAG=${{ steps.get_release.outputs.tag }}
-      #     DOWNLOAD_URL="https://github.com/${REPO}/releases/download/${TAG}/${BINARY_NAME}"
-
-      #     echo "Downloading $BINARY_NAME from $DOWNLOAD_URL"
-      #     curl -sL "$DOWNLOAD_URL" -o "$BINARY_NAME"
-      #     chmod +x "$BINARY_NAME"
-
-      - name: Install AWS CLI
+      - name: Get latest release tag
+        id: get_release
         run: |
-          apt-get update && apt-get install -y curl unzip
-          curl "https://awscli.amazonaws.com/awscli-exe-linux-x86_64.zip" -o "awscliv2.zip"
-          unzip awscliv2.zip
-          ./aws/install
-          aws --version
+          TAG=$(curl -s "https://api.github.com/repos/${REPO}/releases/latest" | jq -r .tag_name)
+          echo "Latest release tag is $TAG"
+          echo "tag=$TAG" >> $GITHUB_OUTPUT
 
-      - name: Configure AWS credentials
-        uses: aws-actions/configure-aws-credentials@v1
-        with:
-          aws-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID }}
-          aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
-          aws-region: ${{ env.AWS_REGION }}
-
-
-      - name: Download CLI binary
+      - name: Download CLI binary from latest release
         run: |
-          aws s3 cp s3://wicked-woods-distribution-bucket/open-music-event-linux-6.1.zip open-music-event-linux-6.1.zip
-          ls
+          TAG=${{ steps.get_release.outputs.tag }}
+          DOWNLOAD_URL="https://github.com/${REPO}/releases/download/${TAG}/${BINARY_NAME}"
+
+          echo "Downloading $BINARY_NAME from $DOWNLOAD_URL"
+          curl -sL "$DOWNLOAD_URL" -o "$BINARY_NAME"
+          chmod +x "$BINARY_NAME"
 
       - name: Unzip
         run: |
-          unzip open-music-event-linux-6.1.zip
-          ls
+          unzip $BINARY_NAME
           chmod +x open-music-event
-
 
       - name: Run CLI tool
         run: |
