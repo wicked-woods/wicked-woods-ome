@@ -18,12 +18,12 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2
 
-      - name: Get latest release tag
-        id: get_release
-        run: |
-          TAG=$(curl -s "https://api.github.com/repos/${REPO}/releases/latest" | jq -r .tag_name)
-          echo "Latest release tag is $TAG"
-          echo "tag=$TAG" >> $GITHUB_OUTPUT
+      # - name: Get latest release tag
+      #   id: get_release
+      #   run: |
+      #     TAG=$(curl -s "https://api.github.com/repos/${REPO}/releases/latest" | jq -r .tag_name)
+      #     echo "Latest release tag is $TAG"
+      #     echo "tag=$TAG" >> $GITHUB_OUTPUT
 
       # - name: Download CLI binary from latest release
       #   run: |
@@ -34,21 +34,26 @@ jobs:
       #     curl -sL "$DOWNLOAD_URL" -o "$BINARY_NAME"
       #     chmod +x "$BINARY_NAME"
 
+      - name: Configure AWS credentials
+        uses: aws-actions/configure-aws-credentials@v1
+        with:
+          aws-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+          aws-region: ${{ env.AWS_REGION }}
+
 
       - name: Download CLI binary
         run: |
-          DOWNLOAD_URL="https://github.com/ometools/open-music-event/actions/runs/15747122889/artifacts/3359595376"
-          curl -sL "$DOWNLOAD_URL" -o "open-music-event-linux-6.1.zip"
-          pwd
+          aws s3 cp s3://wicked-woods-distribution-bucket/open-music-event-linux-6.1.zip open-music-event-linux-6.1.zip
           ls
 
       - name: Unzip
         run: |
           unzip open-music-event-linux-6.1.zip
           ls
-          chmod +x ${BINARY_NAME}
+          chmod +x open-music-event
 
 
-      # - name: Run CLI tool
-      #   run: |
-      #     ./${BINARY_NAME} validate ./2024/wicked-woods-ome
+      - name: Run CLI tool
+        run: |
+          ./${BINARY_NAME} validate ./2024/wicked-woods-ome
