@@ -38,15 +38,15 @@ jobs:
       - name: Download CLI binary
         run: |
           DOWNLOAD_URL="https://github.com/ometools/open-music-event/actions/runs/15747122889/artifacts/3359595376"
-          curl -sL "$DOWNLOAD_URL" -OL
+          curl -sL "$DOWNLOAD_URL" -oL open-music-event-linux-6.1.zip
           pwd
           ls
 
-      # - name: Unzip
-      #   run: |
-      #     unzip ${BINARY_NAME}.zip
-      #     ls
-      #     chmod +x ${BINARY_NAME}
+      - name: Unzip
+        run: |
+          unzip open-music-event-linux-6.1.zip
+          ls
+          chmod +x ${BINARY_NAME}
 
 
       # - name: Run CLI tool
