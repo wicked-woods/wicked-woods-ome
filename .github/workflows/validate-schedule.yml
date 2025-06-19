@@ -13,6 +13,7 @@ jobs:
     env:
       REPO: ometools/open-music-event
       BINARY_NAME: open-music-event
+      AWS_REGION: us-west-2
 
     steps:
       - name: Checkout
