@@ -1,0 +1,87 @@
+name: Validate and Upload
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  validate:
+    strategy:
+      matrix:
+        swift: [ '6.1' ]
+    runs-on: ubuntu-latest
+    container: swift:${{ matrix.swift }}
+
+    env:
+      REPO: ometools/open-music-event
+      BINARY_NAME: open-music-event
+      AWS_REGION: us-west-2
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+
+      - name: Install dependencies
+        run: |
+          apt-get update
+          apt-get install -y curl jq
+
+      - name: Get latest release tag
+        id: get_release
+        run: |
+          TAG=$(curl -s "https://api.github.com/repos/${REPO}/releases/latest" | jq -r .tag_name)
+          echo "Latest release tag is $TAG"
+          echo "tag=$TAG" >> $GITHUB_OUTPUT
+
+      - name: Download CLI binary from latest release
+        run: |
+          TAG=${{ steps.get_release.outputs.tag }}
+          DOWNLOAD_URL="https://github.com/${REPO}/releases/download/${TAG}/${BINARY_NAME}"
+
+          echo "Downloading $BINARY_NAME from $DOWNLOAD_URL"
+          curl -sL "$DOWNLOAD_URL" -o "$BINARY_NAME"
+          chmod +x "$BINARY_NAME"
+
+      - name: Run CLI tool
+        run: |
+          echo "Running validation tool..."
+          ./${BINARY_NAME} validate .
+
+  upload:
+    needs: validate
+    runs-on: ubuntu-latest
+
+    env:
+      AWS_REGION: us-west-2
+      S3_BUCKET: wicked-woods-distribution-bucket
+      DISTRIBUTION_ID: E3LMXX06QSLNNW
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+
+      - name: Configure AWS credentials
+        uses: aws-actions/configure-aws-credentials@v1
+        with:
+          aws-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+          aws-region: ${{ env.AWS_REGION }}
+
+      - name: Create zip of repository
+        run: |
+          zip -r ${{ github.event.repository.name }}.zip . -x "*.png" "*.jpg" "*.jpeg" "*.gif" "*.bmp" "*.tiff" "*.webp" "*.ico" "*.svg"
+
+      - name: Upload zip to S3
+        run: |
+          aws s3 cp ${{ github.event.repository.name }}.zip s3://${S3_BUCKET}/${{ github.event.repository.name }}.zip
+
+      - name: Sync repository to S3
+        run: |
+          aws s3 sync . s3://${S3_BUCKET}/wicked-woods-ome/ --delete --exclude "${{ github.event.repository.name }}.zip"
+
+      - name: Invalidate CloudFront cache
+        run: |
+          aws cloudfront create-invalidation \
+            --distribution-id $DISTRIBUTION_ID \
+            --paths "/*"
