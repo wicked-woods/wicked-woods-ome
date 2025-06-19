@@ -48,4 +48,4 @@ jobs:
         run: |
           pwd
           ls
-          ./${BINARY_NAME} validate ./2024/wicked-woods-ome
+          ./${BINARY_NAME} validate ./2024
