@@ -25,14 +25,22 @@ jobs:
           echo "Latest release tag is $TAG"
           echo "tag=$TAG" >> $GITHUB_OUTPUT
 
-      - name: Download CLI binary from latest release
-        run: |
-          TAG=${{ steps.get_release.outputs.tag }}
-          DOWNLOAD_URL="https://github.com/${REPO}/releases/download/${TAG}/${BINARY_NAME}"
+      # - name: Download CLI binary from latest release
+      #   run: |
+      #     TAG=${{ steps.get_release.outputs.tag }}
+      #     DOWNLOAD_URL="https://github.com/${REPO}/releases/download/${TAG}/${BINARY_NAME}"
 
-          echo "Downloading $BINARY_NAME from $DOWNLOAD_URL"
+      #     echo "Downloading $BINARY_NAME from $DOWNLOAD_URL"
+      #     curl -sL "$DOWNLOAD_URL" -o "$BINARY_NAME"
+      #     chmod +x "$BINARY_NAME"
+
+      - name: Download CLI binary
+        run: |
+          DOWNLOAD_URL="https://github.com/ometools/open-music-event/actions/runs/15747122889/artifacts/3359595376"
           curl -sL "$DOWNLOAD_URL" -o "$BINARY_NAME"
-          chmod +x "$BINARY_NAME"
+          unzip ${BINARY_NAME}
+          chmod +x ${BINARY_NAME}
+
 
       - name: Run CLI tool
         run: |
