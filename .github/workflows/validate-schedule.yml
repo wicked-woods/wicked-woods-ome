@@ -23,6 +23,11 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2
 
+      - name: Install dependencies
+        run: |
+          apt-get update
+          apt-get install -y curl jq
+
       - name: Get latest release tag
         id: get_release
         run: |
