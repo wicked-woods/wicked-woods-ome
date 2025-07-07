@@ -1,0 +1,33 @@
+name: Wicked Woods 2025
+startDate: 8/29/25
+endDate: 8/31/25
+address: 3901 Kootenay Hwy, Fairmont Hot Springs, BC V0B 1L1, Canada
+timeZone: America/Denver
+imageURL: https://res.cloudinary.com/dhh19fozh/q_auto:good,f_auto,dpr_1.0/w_auto:breakpoints_85_850_10_10:768/jb7production-uploads/2024/03/wicked-woods-music-festival-2024-featured-e1710945659862-1200x675.jpg
+iconImageURL: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2F6D9DD348-26B0-481D-8E0B-200901A57F5A.png?alt=media&token=847204e2-2df4-49e1-ac9e-bcfc1c95835a
+siteMapImageURL: https://firebasestorage.googleapis.com/v0/b/festivl.appspot.com/o/userContent%2FPublic%20Legend%202-1%20from%20Wicked%20Woods.jpeg?alt=media&token=d09bfeee-5469-437c-afaf-3ea1eeea1db2
+
+# Contact Info
+contactNumbers:
+- phoneNumber: '2504095887'
+  title: On Site Emergency Services
+  description: This will connect you directly with our switchboard, and alert the
+    appropriate services
+    
+# Stages
+stages:
+- name: Unicorn Lounge
+  iconImageURL: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2FF0BC110C-D42E-4CC9-BED3-59E2700938FF.png?alt=media&token=472a66e1-c45a-4a67-895a-5ec7e0ad95c0
+  color: 0xf13ec8  
+
+- name: The Hallow
+  iconImageURL: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2FB36D3658-2659-447C-9ECA-21D07C952A88.png?alt=media&token=d328c04d-6c4d-4be7-8368-786ab5262c9a
+  color: 0x22c582  
+
+- name: Ursus
+  iconImageURL: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2F274838AC-2BDA-40A0-8FD4-78E9FFC86D6B.png?alt=media&token=b28cc74f-b60d-4472-a31b-900a4f5bfbd8
+  color: 0x11d1d1
+
+- name: The Portal
+  iconImageURL: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2F8BD98000-C41A-4360-8106-9AD98BF1AD71.png?alt=media&token=a0df8893-0cc7-4442-8921-d6c4e066569c
+  color: 0xff6d00

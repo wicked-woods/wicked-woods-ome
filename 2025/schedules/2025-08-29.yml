@@ -1,0 +1,143 @@
+date: '2025-08-29'
+performances:
+  The Portal:
+  - artist: RuneKey
+    time: 4:00 PM
+
+  - artist: Dorothy
+    time: 5:00 PM
+
+  - artist: Fun Dipz
+    time: 6:00 PM
+
+  - artist: KTNY
+    time: 7:00 PM
+
+  - artist: RENNIE
+    time: 8:00 PM
+
+  - artist: activist
+    time: 9:00 PM
+    endTime: 10:30 PM
+
+  - artist: Paint department
+    time: 10:30 PM
+    endTime: 12:00 AM
+
+  - artist: Garneau
+    time: 12:00 AM
+    endTime: 1:30 AM
+
+  - artist: secret headliner
+    time: 1:30 AM
+    endTime: 2:30 AM
+
+  - artist: Jay Michael
+    time: 2:30 AM
+    endTime: 3:30 AM
+
+  - artist: Sorsari
+    time: 3:30 AM
+
+  - artist: Yedgar
+    time: 4:30 AM
+
+  - artist: The Saint
+    time: 5:30 AM
+
+  - artist: Gabby Haze
+    time: 6:30 AM
+    endTime: 7:30 AM
+  
+  Unicorn Lounge:
+  - artist: Fram3s
+    time: 4:30 PM
+
+  - artist: FunkinRight
+    time: 5:30 PM
+
+  - artist: Double Trouble
+    time: 6:30 PM
+    endTime: 8:00 PM
+
+  - artist: M3RF
+    time: 8:00 PM
+    endTime: 9:30 PM
+
+  - artist: Burchill
+    time: 9:30 PM
+    endTime: 11:00 PM
+
+  - artist: Pineo and Loeb
+    time: 11:00 PM
+    endTime: 12:30 AM
+
+  - artist: Slynk
+    time: 12:30 AM
+    endTime: 2:00 AM
+
+  - artist: Wes Please
+    time: 2:00 AM
+    endTime: 3:30 AM
+
+  - artist: Freddy J
+    time: 3:30 AM
+
+  - artist: Underdog
+    time: 4:30 AM
+    endTime: 5:30 AM
+
+  - artist: Lola Phyne
+    time: 6:00 AM
+    endTime: 7:00 AM
+  
+  The Hallow:
+  - title: Stylust (Hip Hop Step)
+    artist: Stylust 
+    time: 4:00 PM
+
+  - artist: Shallow Wells
+    time: 5:00 PM
+
+  - artist: Toshiilove
+    time: 6:00 PM
+
+  - artist: Swagga Cats
+    time: 7:00 PM
+
+  - artist: Hi, Society/Kelluna
+    time: 8:00 PM
+    endTime: 10:30 PM
+
+  - artist: Trevor Galore
+    time: 10:30 PM
+    endTime: 11:30 PM
+
+  - artist: Zen Selekta
+    time: 11:30 PM
+    endTime: 1:00 AM
+
+  - artist: Khiva
+    time: 1:00 AM
+    endTime: 2:30 AM
+
+  - artist: PuppyCat
+    time: 2:30 AM
+
+  - artist: MoJo
+    time: 3:30 AM
+
+  - artist: Yetz
+    time: 4:30 AM
+    endTime: 5:30 AM
+  
+  Ursus:
+  - title: Opening Ceremony With Vitantonio Spinelli and Jeff Holden
+    artists:
+      - Jeff Holden of Holden Space
+      - Vitantonio Spinelli
+    time: 2:00 PM
+
+  - artist: Drezus
+    time: 3:00 PM
+    endTime: 4:30 PM
