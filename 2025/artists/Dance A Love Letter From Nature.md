@@ -1,5 +1,0 @@
----
-kind:
-  type: Workshop
-links: []
----
