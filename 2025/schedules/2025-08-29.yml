@@ -16,11 +16,11 @@ performances:
   - artist: RENNIE
     time: 8:00 PM
 
-  - artist: activist
+  - artist: Activist
     time: 9:00 PM
     endTime: 10:30 PM
 
-  - artist: Paint department
+  - artist: Paint Department
     time: 10:30 PM
     endTime: 12:00 AM
 
@@ -28,7 +28,7 @@ performances:
     time: 12:00 AM
     endTime: 1:30 AM
 
-  - artist: secret headliner
+  - artist: Secret Headliner
     time: 1:30 AM
     endTime: 2:30 AM
 
@@ -68,7 +68,7 @@ performances:
     time: 9:30 PM
     endTime: 11:00 PM
 
-  - artist: Pineo and Loeb
+  - artist: PINEO & LOEB
     time: 11:00 PM
     endTime: 12:30 AM
 
@@ -93,16 +93,16 @@ performances:
   
   The Hallow:
   - title: Stylust (Hip Hop Step)
-    artist: Stylust 
+    artist: STYLUST 
     time: 4:00 PM
 
   - artist: Shallow Wells
     time: 5:00 PM
 
-  - artist: Toshiilove
+  - artist: Toshiinlove
     time: 6:00 PM
 
-  - artist: Swagga Cats
+  - artist: SwaggaCats
     time: 7:00 PM
 
   - artist: Hi, Society/Kelluna
@@ -113,11 +113,11 @@ performances:
     time: 10:30 PM
     endTime: 11:30 PM
 
-  - artist: Zen Selekta
+  - artist: ZEN SELEKTA
     time: 11:30 PM
     endTime: 1:00 AM
 
-  - artist: Khiva
+  - artist: KHIVA
     time: 1:00 AM
     endTime: 2:30 AM
 

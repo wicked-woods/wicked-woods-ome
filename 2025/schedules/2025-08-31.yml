@@ -7,16 +7,16 @@ performances:
   - artist: Calamity
     time: 4:00 PM
 
-  - artist: kerz
+  - artist: KERZ
     time: 5:00 PM
 
   - artist: JEP
     time: 6:00 PM
 
-  - artist: viravira
+  - artist: ViraVira
     time: 7:00 PM
 
-  - artist: rosso
+  - artist: Rosso
     time: 8:00 PM
 
   - artist: Howl
@@ -25,7 +25,7 @@ performances:
   - artist: Handsome Tiger
     time: 10:00 PM
 
-  - artist: illustrator
+  - artist: Illustrator
     time: 11:00 PM
 
   - artist: Mood Change
@@ -75,11 +75,11 @@ performances:
   - artist: Maculate
     time: 7:00 PM
 
-  - artist: Spanda
+  - artist: Spānda
     time: 8:00 PM
     endTime: 9:30 PM
 
-  - artist: SIVZ
+  - artist: Sivz
     time: 9:30 PM
     endTime: 10:45 PM
 
@@ -140,7 +140,7 @@ performances:
     time: 10:00 PM
     endTime: 11:30 PM
 
-  - artist: Stylust
+  - artist: STYLUST
     time: 11:30 PM
     endTime: 1:00 AM
 
@@ -158,7 +158,7 @@ performances:
   - artist: Steppin' West
     time: 4:30 AM
 
-  - artist: Melo. Nade
+  - artist: Melo.Nade
     time: 5:30 AM
     endTime: 7:00 AM
 
@@ -184,7 +184,7 @@ performances:
     time: 9:00 PM
     endTime: 10:30 PM
 
-  - artist: COFRESI
+  - artist: Cofresi
     time: 10:30 PM
     endTime: 12:00 AM
 
