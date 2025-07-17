@@ -1,5 +1,5 @@
 ---
-imageURL: https://wickedwoods.festivalpro.com/?getPublicFile&ENCSTR=hubEXTDVgJfSWWakOuBg
+imageURL: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/KRTURE.jpg
 logoURL: https://wickedwoods.festivalpro.com/?getFile&FILEID=36485
 links:
 - url: https://soundcloud.com/KR3TURE

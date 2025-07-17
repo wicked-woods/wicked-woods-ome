@@ -1,5 +1,5 @@
 ---
-imageURL: https://wickedwoods.festivalpro.com/?getPublicFile&ENCSTR=hDmKlviVHnmvNoBqbDOc
+imageURL: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/AbstraktSonance.jpg
 logoURL: https://wickedwoods.festivalpro.com/?getFile&FILEID=31281
 kind:
   type: Live Performance

@@ -1,5 +1,5 @@
 ---
-imageURL: https://wickedwoods.festivalpro.com/?getPublicFile&ENCSTR=gKYOWwghKMBPTAqkXscH
+imageURL: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/JayMichael.jpg
 logoURL: https://wickedwoods.festivalpro.com/?getFile&FILEID=32291
 kind:
   type: Live Performance

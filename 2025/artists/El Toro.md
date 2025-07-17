@@ -1,5 +1,5 @@
 ---
-imageURL: https://wickedwoods.festivalpro.com/?getPublicFile&ENCSTR=jalmHfYBOJgxmoqQsGAu
+imageURL: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/ElToro.jpeg
 logoURL: https://wickedwoods.festivalpro.com/?getFile&FILEID=33979
 kind:
   type: Live Performance

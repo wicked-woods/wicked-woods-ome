@@ -1,5 +1,5 @@
 ---
-imageURL: https://wickedwoods.festivalpro.com/?getPublicFile&ENCSTR=VgAnqUUAGaNFdtrAHYYs
+imageURL: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/JustK.jpg
 logoURL: https://wickedwoods.festivalpro.com/?getFile&FILEID=33329
 kind:
   type: Live Performance
