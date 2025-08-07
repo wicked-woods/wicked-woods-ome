@@ -1,4 +1,5 @@
-name: Safety & Harm Reduction
+name: Harm Reduction
 description: Important safety information, harm reduction resources, and emergency contacts
 iconImageURL: https://firebasestorage.googleapis.com/v0/b/festivl.appspot.com/o/icons%2Fsafety.png?alt=media
 sortIndex: 3
+firebaseTopicName: "wicked-woods_2025_harm-reduction"

@@ -2,3 +2,4 @@ name: Travel & Camping
 description: Everything you need to know about getting to the festival and setting up camp
 iconImageURL: https://firebasestorage.googleapis.com/v0/b/festivl.appspot.com/o/icons%2Fcamping.png?alt=media
 sortIndex: 2
+firebaseTopicName: "wicked-woods_2025_travel-camping"
