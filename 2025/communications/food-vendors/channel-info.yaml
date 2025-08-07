@@ -2,3 +2,4 @@ name: Food & Vendors
 description: Information about food vendors, merchandise, and local artisans
 iconImageURL: https://firebasestorage.googleapis.com/v0/b/festivl.appspot.com/o/icons%2Ffood.png?alt=media
 sortIndex: 4
+firebaseTopicName: "wicked-woods_2025_food-vendors"
