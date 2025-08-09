@@ -92,7 +92,7 @@ performances:
     endTime: 7:00 AM
   
   The Hallow:
-  - title: Stylust (Hip Hop Step)
+  - title: Stylust (Hip Hop Set)
     artist: STYLUST 
     time: 4:00 PM
 
@@ -130,7 +130,7 @@ performances:
   - artist: Yetz
     time: 4:30 AM
     endTime: 5:30 AM
-  
+
   Ursus:
   - title: Opening Ceremony With Vitantonio Spinelli and Jeff Holden
     artists:
@@ -141,3 +141,51 @@ performances:
   - artist: Drezus
     time: 3:00 PM
     endTime: 4:30 PM
+  
+  Relaxation Ridge:
+  - title: Opening Meditation & Stretch
+    artist: Allie Bruni
+    time: 10:00 AM
+    endTime: 10:30 AM
+
+  - title: Holden Space Sound Journey
+    artist: Jeff Holden
+    time: 10:30 AM
+    endTime: 12:00 PM
+
+  - title: Wellbeing & Interactive Sobriety Workshop
+    artist: Jeff Holden
+    time: 12:00 PM
+    endTime: 1:00 PM
+
+  - title: Somatic Steez & Clothing Swap
+    artist: Kylie Kerik
+    time: 1:30 PM
+    endTime: 2:30 PM
+
+  - title: Substance Use and Drug Checking
+    artist: ANKORS
+    time: 4:30 PM
+    endTime: 5:30 PM
+
+  - title: Intro Into Exotic Pole
+    artist: Chainie & Erica
+    time: 6:00 PM
+    endTime: 7:00 PM
+
+  - title: Community Drum Experience
+    artist: Patrick Carrick
+    time: 7:30 PM
+    endTime: 9:00 PM
+
+Aurora Gallery:
+  - title: Rave Braids & Hair Accessories
+    artist: Joanne Brampton
+    time: 12:00 PM
+    endTime: 1:00 PM
+
+  - title: Knit a Stick
+    artist: Jesse Walken
+    time: 2:00 PM
+    endTime: 3:00 PM
+
