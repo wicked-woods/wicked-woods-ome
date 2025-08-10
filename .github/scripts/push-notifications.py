@@ -90,3 +90,4 @@ def get_pending_notifications():
 
 get_creds_file()
 get_pending_notifications()
+print("script has run")
