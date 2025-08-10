@@ -37,6 +37,7 @@ def send_notification(filename, channel_info_file):
                       body += line
 
     cred = credentials.Certificate("creds.json")
+    firebase_admin.initialize_app(cred)
     message = messaging.Message(
         notification=messaging.Notification(
             title=title,
