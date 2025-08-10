@@ -1,6 +1,5 @@
 ---
 title: Local Artisan Market 🎨
-timestamp: 2025-07-10T14:00:00-06:00
 isPinned: false
 ---
 

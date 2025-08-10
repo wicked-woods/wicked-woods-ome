@@ -1,6 +1,5 @@
 ---
 title: Secret Headliner Revealed 🤫
-timestamp: 2025-07-15T18:00:00-06:00
 ---
 
 After weeks of speculation and cryptic clues, we're finally ready to reveal our secret headliner...
