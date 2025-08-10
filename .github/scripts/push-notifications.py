@@ -68,6 +68,7 @@ def get_pending_notifications():
                 sent_notifications.append(obj["Key"])
 
     # loop communications files
+    print(os.getcwd())
     for subdir, dirs, files in os.walk(notifications_directory):
         for file in files:
             filename = os.path.join(subdir, file)
