@@ -1,6 +1,5 @@
 ---
 title: Food Vendor Lineup 2025 🍕
-timestamp: 2025-06-25T11:00:00-06:00
 isPinned: true
 ---
 

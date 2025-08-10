@@ -1,6 +1,5 @@
 ---
 title: Arrival Information & Parking 🚗
-timestamp: 2025-08-01T09:00:00-06:00
 isPinned: true
 ---
 

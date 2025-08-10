@@ -1,6 +1,5 @@
 ---
 title: Festival Safety Guidelines 🛡️
-timestamp: 2025-07-01T10:00:00-06:00
 isPinned: true
 ---
 

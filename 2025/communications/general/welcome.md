@@ -1,6 +1,5 @@
 ---
 title: Welcome to Wicked Woods 2025 🌲
-timestamp: 2025-04-15T10:00:00-06:00
 isPinned: true
 headerImageURL: https://res.cloudinary.com/dhh19fozh/q_auto:good,f_auto,dpr_1.0/w_auto:breakpoints_85_850_10_10:768/jb7production-uploads/2024/03/wicked-woods-music-festival-2024-featured-e1710945659862-1200x675.jpg
 ---

@@ -1,6 +1,5 @@
 ---
 title: Camping Guide & What to Bring 🏕️
-timestamp: 2025-06-10T12:00:00-06:00
 isPinned: true
 ---
 

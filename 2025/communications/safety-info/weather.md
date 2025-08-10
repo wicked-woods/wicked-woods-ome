@@ -1,6 +1,5 @@
 ---
 title: Weather Update - Know Before You Go 🌤️
-timestamp: 2025-08-25T16:00:00-06:00
 isPinned: false
 ---
 
