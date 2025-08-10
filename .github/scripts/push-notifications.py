@@ -70,6 +70,7 @@ def get_pending_notifications():
     # loop communications files
     for subdir, dirs, files in os.walk(notifications_directory):
         for file in files:
+            print(file)
             filename = os.path.join(subdir, file)
             object_name = filename.split(notifications_directory)[1]
             object_name = object_name.replace("\\","/")
@@ -86,7 +87,7 @@ def get_pending_notifications():
                     send_notification(filename, channel_info_file)
 
                 # upload key to s3
-                s3_client.upload_file(filename, bucket_name, object_name)
+                # s3_client.upload_file(filename, bucket_name, object_name)
 
 get_creds_file()
 get_pending_notifications()
