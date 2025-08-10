@@ -1,5 +1,5 @@
 ---
-imageURL: https://wickedwoods.festivalpro.com/?getPublicFile&ENCSTR=VjaClOjnbAUnKdxbTzGv
+imageURL: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/PyroMystiques.png
 logoURL: https://wickedwoods.festivalpro.com/?getFile&FILEID=33121
 kind:
   type: Dance Performance

@@ -1,5 +1,5 @@
 ---
-imageURL: https://wickedwoods.festivalpro.com/?getPublicFile&ENCSTR=bRjTKLjLctHmbapSFUmr
+imageURL: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/MtDoyle.jpg
 logoURL: https://wickedwoods.festivalpro.com/?getFile&FILEID=33041
 links:
 - url: https://soundcloud.com/mt-doyle-eats-pizza

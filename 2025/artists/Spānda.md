@@ -1,5 +1,5 @@
 ---
-imageURL: https://wickedwoods.festivalpro.com/?getPublicFile&ENCSTR=cVEUEEaIcnwZYGjGsvll
+imageURL: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/Spanda.jpg
 logoURL: https://wickedwoods.festivalpro.com/?getFile&FILEID=36917
 kind:
   type: Live Performance

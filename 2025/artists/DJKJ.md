@@ -1,5 +1,5 @@
 ---
-imageURL: https://wickedwoods.festivalpro.com/?getPublicFile&ENCSTR=XDhtzPteMrMOwOSWZKiT
+imageURL: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/DJKJ.JPG
 links:
 - url: https://soundcloud.com/djkj-1
   linkType:

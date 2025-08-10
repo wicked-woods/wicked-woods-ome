@@ -1,5 +1,5 @@
 ---
-imageURL: https://wickedwoods.festivalpro.com/?getPublicFile&ENCSTR=PVkmbwmlkFvtBGVAdQHX
+imageURL: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/ZENSELEKTA.jpeg
 logoURL: https://wickedwoods.festivalpro.com/?getFile&FILEID=35799
 kind:
   type: Live Performance

@@ -1,5 +1,5 @@
 ---
-imageURL: https://wickedwoods.festivalpro.com/?getPublicFile&ENCSTR=DsJxVHfUGXPlMGzGhoZC
+imageURL: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/ChainieLaycock.JPG
 logoURL: https://wickedwoods.festivalpro.com/?getFile&FILEID=36871
 kind:
   type: Workshop
