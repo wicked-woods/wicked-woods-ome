@@ -19,7 +19,7 @@ def send_notification():
         data={
             'updated': "true",
         },
-        topic="wicked-woods_2025_general",
+        topic="data-updates",
     )
     
     # send message
