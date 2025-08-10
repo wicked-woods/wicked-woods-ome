@@ -5,7 +5,7 @@ from firebase_admin import credentials
 from firebase_admin import messaging
 
 bucket_name = "wicked-woods-notifications"
-notifications_directory = "wicked-woods-ome/2025/communications"
+notifications_directory = "2025/communications"
 creds_file = "ome-push-notifications-firebase-adminsdk-fbsvc-e58bb1d562.json"
 
 def get_creds_file():
@@ -68,7 +68,6 @@ def get_pending_notifications():
                 sent_notifications.append(obj["Key"])
 
     # loop communications files
-    print(os.getcwd())
     for subdir, dirs, files in os.walk(notifications_directory):
         for file in files:
             filename = os.path.join(subdir, file)
