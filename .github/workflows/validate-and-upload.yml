@@ -8,6 +8,7 @@ on:
 
 jobs:
   validate:
+    if: github.event_name == 'push' && github.ref == 'refs/heads/main'
     strategy:
       matrix:
         swift: [ '6.1' ]
@@ -89,7 +90,6 @@ jobs:
             --paths "/*"
 
   send_notifications:
-    needs: validate
     runs-on: ubuntu-latest
 
     steps:
@@ -112,4 +112,4 @@ jobs:
       run: pip install boto3 firebase-admin
 
     - name: Run Python script
-      run: python .github/scripts/script.py
+      run: python .github/scripts/push-notifications.py
