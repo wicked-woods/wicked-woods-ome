@@ -1,7 +1,7 @@
-name: General
+name: Emergencies
 description: Official festival announcements and important updates
 iconImageURL: https://firebasestorage.googleapis.com/v0/b/festivl.appspot.com/o/icons%2Fannouncements.png?alt=media
-sortIndex: 1
+sortIndex: 0
 firebaseTopicName: "wicked-woods-2025-emergency"
 defaultNotificationState: "subscribed"
 notificationsRequired: true
