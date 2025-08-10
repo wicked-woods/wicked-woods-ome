@@ -1,5 +1,5 @@
 ---
-imageURL: https://wickedwoods.festivalpro.com/?getPublicFile&ENCSTR=gvefHJEjEeDGmWEwprdB
+imageURL: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/RaveBraidsHairAccessories.jpeg
 kind:
   type: Workshop
 links: []

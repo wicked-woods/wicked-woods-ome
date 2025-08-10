@@ -1,5 +1,5 @@
 ---
-imageURL: https://wickedwoods.festivalpro.com/?getPublicFile&ENCSTR=yCCTYDZFNzAgSOuhwBTr
+imageURL: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/FreddyJ.jpg
 logoURL: https://wickedwoods.festivalpro.com/?getFile&FILEID=33157
 kind:
   type: Live Performance

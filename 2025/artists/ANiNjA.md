@@ -1,5 +1,5 @@
 ---
-imageURL: https://wickedwoods.festivalpro.com/?getPublicFile&ENCSTR=zUllloDLFHcbpxpwGpwu
+imageURL: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/ANiNjA.jpg
 logoURL: https://wickedwoods.festivalpro.com/?getFile&FILEID=31831
 kind:
   type: Live Performance

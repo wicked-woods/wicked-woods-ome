@@ -1,5 +1,5 @@
 ---
-imageURL: https://wickedwoods.festivalpro.com/?getPublicFile&ENCSTR=qAYVhfowGhyNpawsYCJn
+imageURL: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/BunnyHops.png
 logoURL: https://wickedwoods.festivalpro.com/?getFile&FILEID=31189
 kind:
   type: Live Performance
