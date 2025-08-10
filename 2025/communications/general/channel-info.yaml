@@ -3,3 +3,4 @@ description: Official festival announcements and important updates
 iconImageURL: https://firebasestorage.googleapis.com/v0/b/festivl.appspot.com/o/icons%2Fannouncements.png?alt=media
 sortIndex: 1
 firebaseTopicName: "wicked-woods_2025_general"
+defaultNotificationState: "subscribed"
