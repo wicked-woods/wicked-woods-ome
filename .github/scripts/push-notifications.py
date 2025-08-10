@@ -5,7 +5,7 @@ from firebase_admin import credentials
 from firebase_admin import messaging
 
 bucket_name = "wicked-woods-notifications"
-event_name = 2025
+event_name = "2025"
 notifications_directory = "2025/communications"
 creds_file = "ome-push-notifications-firebase-adminsdk-fbsvc-e58bb1d562.json"
 
