@@ -5,6 +5,7 @@ from firebase_admin import credentials
 from firebase_admin import messaging
 
 bucket_name = "wicked-woods-notifications"
+event_name = "2025"
 notifications_directory = "2025/communications"
 creds_file = "ome-push-notifications-firebase-adminsdk-fbsvc-e58bb1d562.json"
 
@@ -36,6 +37,12 @@ def send_notification(filename, channel_info_file):
                  elif delineator_count >= 2:
                       body += line
 
+    # get channel
+    channel_name = filename.split("/")[-2]
+
+    # get post_stub
+    post_stub = filename.replace("\\","/").split("/")[-1].replace(".md","")
+    
     cred = credentials.Certificate("creds.json")
     firebase_admin.initialize_app(cred)
     message = messaging.Message(
@@ -43,6 +50,11 @@ def send_notification(filename, channel_info_file):
             title=title,
             body=body,
         ),
+        data={
+            'event': event_name,
+            'channel': channel_name,
+            'post-stub': post_stub,
+        },
         topic=firebase_topic_name,
     )
     
@@ -79,12 +91,20 @@ def get_pending_notifications():
             if object_name not in sent_notifications:
                 # filter out channel-info
                 if "channel-info.yaml" not in object_name:
-                    # get channel-info
-                    channel = object_name.split("/")[1]
-                    channel_info_file = notifications_directory + "/" + channel + "/channel-info.yaml"
-                    
-                    print("sending " + object_name)
-                    send_notification(filename, channel_info_file)
+                    # check if "sendPush: true" in file
+                    send = False
+                    with open(filename, 'r', encoding='utf-8') as f:
+                        for line in f:
+                             if "sendPush: true" in line:
+                                  send = True
+                                  break
+                    if send:
+                        # get channel-info
+                        channel = object_name.split("/")[1]
+                        channel_info_file = notifications_directory + "/" + channel + "/channel-info.yaml"
+                        
+                        print("sending " + object_name)
+                        send_notification(filename, channel_info_file)
 
                 # upload key to s3
                 s3_client.upload_file(filename, bucket_name, object_name)
