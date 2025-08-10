@@ -46,7 +46,7 @@ def send_notification(filename, channel_info_file):
     )
     
     # send message
-    # response = messaging.send(message)
+    response = messaging.send(message)
                       
 
 
