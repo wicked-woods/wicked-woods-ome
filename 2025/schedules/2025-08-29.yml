@@ -141,6 +141,15 @@ performances:
   - artist: Drezus
     time: 3:00 PM
     endTime: 4:30 PM
+
+ - title: Community Drum Experience
+    artist: Patrick Carrick
+    time: 7:00 PM
+    endTime: 8:30 PM
+
+  - artist: Cirque De La Nuit
+    time: 9:00 PM
+    endTime: 10:00 PM
   
   Relaxation Ridge:
   - title: Opening Meditation & Stretch
@@ -172,11 +181,6 @@ performances:
     artist: Chainie & Erica
     time: 6:00 PM
     endTime: 7:00 PM
-
-  - title: Community Drum Experience
-    artist: Patrick Carrick
-    time: 7:30 PM
-    endTime: 9:00 PM
 
   Aurora Gallery:
   - title: Rave Braids & Hair Accessories
