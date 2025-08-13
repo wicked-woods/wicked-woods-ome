@@ -17,7 +17,7 @@ contactNumbers:
 # Stages
 stages:
 - name: Unicorn Lounge
-  iconImageURL: https://firebasestorage.googleapis.com/v0/b/festivl.appspot.com/o/wicked-woods-2025%2FUnicorn%20lounge%20white.png?alt=media&token=4c9586fb-cd74-4923-9216-97dba7d9d0cb
+  iconImageURL: https://firebasestorage.googleapis.com/v0/b/festivl.appspot.com/o/wicked-woods-2025%2FUnicorn%20lounge%20Cropped.png?alt=media&token=0a88c291-a676-4503-8c6b-bec7ed27c3a9
   color: 0xf13ec8  
 
 - name: The Hallow
@@ -25,11 +25,11 @@ stages:
   color: 0x22c582  
 
 - name: Ursus
-  iconImageURL: https://firebasestorage.googleapis.com/v0/b/festivl.appspot.com/o/wicked-woods-2025%2FUrsusLogo%20white.png?alt=media&token=7626ffbd-7ef6-4c1f-a33f-5674e83b0be4
+  iconImageURL: https://firebasestorage.googleapis.com/v0/b/festivl.appspot.com/o/wicked-woods-2025%2FUrsusLogo%20Cropped.png?alt=media&token=ff0ae725-810c-4ac0-a333-3a9946785a2c
   color: 0x11d1d1
 
 - name: The Portal
-  iconImageURL: https://firebasestorage.googleapis.com/v0/b/festivl.appspot.com/o/wicked-woods-2025%2FPortalLogo%20White.png?alt=media&token=96bbf3f6-5db0-4093-bc03-1e94164fbc5f
+  iconImageURL: https://firebasestorage.googleapis.com/v0/b/festivl.appspot.com/o/wicked-woods-2025%2FPortalLogo%20Croped.png?alt=media&token=477375fc-d185-4a38-aa41-feaca687f800
   color: 0xff6d00
 
 - name: Relaxation Ridge
