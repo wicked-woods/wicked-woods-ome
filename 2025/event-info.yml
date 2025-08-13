@@ -21,7 +21,7 @@ stages:
   color: 0xf13ec8  
 
 - name: The Hallow
-  iconImageURL: https://firebasestorage.googleapis.com/v0/b/festivl.appspot.com/o/wicked-woods-2025%2FHallowlogo%20white.png?alt=media&token=d1fbdd41-50ef-44a5-b44a-ddeb998c9ead
+  iconImageURL: https://firebasestorage.googleapis.com/v0/b/festivl.appspot.com/o/wicked-woods-2025%2FHallowlogo%20White%20(1).png?alt=media&token=865a3cd2-050b-4da4-9462-224ae4319929
   color: 0x22c582  
 
 - name: Ursus
