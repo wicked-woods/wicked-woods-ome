@@ -34,10 +34,10 @@ stages:
 
 - name: Relaxation Ridge
   category: workshop
-  iconImageURL: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2F8BD98000-C41A-4360-8106-9AD98BF1AD71.png?alt=media&token=a0df8893-0cc7-4442-8921-d6c4e066569c
+  iconImageURL: https://firebasestorage.googleapis.com/v0/b/festivl.appspot.com/o/wicked-woods-2025%2FRelaxation%20Ridge%20Logo%202025.png?alt=media&token=e5d8e8b5-d330-4a7f-9497-e2f44ad00c69
   color: 0x9b59b6
 
 - name: Aurora Gallery
   category: workshop
-  iconImageURL: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2F8BD98000-C41A-4360-8106-9AD98BF1AD71.png?alt=media&token=a0df8893-0cc7-4442-8921-d6c4e066569c
+  iconImageURL: https://firebasestorage.googleapis.com/v0/b/festivl.appspot.com/o/wicked-woods-2025%2FAurora%20Gallery%20Transparent%20Branding%20Image.png?alt=media&token=73a7400c-b31e-4d06-855b-baac32d7c986
   color: 0x9b59b6
