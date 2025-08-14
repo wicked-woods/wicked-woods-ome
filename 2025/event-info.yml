@@ -21,7 +21,7 @@ contactNumbers:
 # Stages
 stages:
 - name: Unicorn Lounge
-  iconImageURL: https://firebasestorage.googleapis.com/v0/b/festivl.appspot.com/o/wicked-woods-2025%2FHallowlogo%20black.png?alt=media&token=74567786-e3c7-464b-932a-c6afcbb0a7d5
+  iconImageURL: https://firebasestorage.googleapis.com/v0/b/festivl.appspot.com/o/wicked-woods-2025%2FUnicorn%20Lounge%20Cropped.png?alt=media&token=8e1e4dd5-192a-47bd-9d2d-38edfabe9042
   color: 0xe02c9a
 
 - name: The Hallow
