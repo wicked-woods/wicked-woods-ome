@@ -17,20 +17,20 @@ contactNumbers:
 # Stages
 stages:
 - name: Unicorn Lounge
-  iconImageURL: https://firebasestorage.googleapis.com/v0/b/festivl.appspot.com/o/wicked-woods-2025%2FUnicorn%20lounge%20Cropped.png?alt=media&token=0a88c291-a676-4503-8c6b-bec7ed27c3a9
-  color: 0xf13ec8  
+  iconImageURL: https://firebasestorage.googleapis.com/v0/b/festivl.appspot.com/o/wicked-woods-2025%2FHallowlogo%20black.png?alt=media&token=74567786-e3c7-464b-932a-c6afcbb0a7d5
+  color: 0xeo2c9a
 
 - name: The Hallow
   iconImageURL: https://firebasestorage.googleapis.com/v0/b/festivl.appspot.com/o/wicked-woods-2025%2FHallowlogo%20White%20(1).png?alt=media&token=865a3cd2-050b-4da4-9462-224ae4319929
-  color: 0x22c582  
+  color: 0x7f4adf
 
 - name: Ursus
   iconImageURL: https://firebasestorage.googleapis.com/v0/b/festivl.appspot.com/o/wicked-woods-2025%2FUrsusLogo%20Cropped.png?alt=media&token=ff0ae725-810c-4ac0-a333-3a9946785a2c
-  color: 0x11d1d1
+  color: 0x009af7
 
 - name: The Portal
   iconImageURL: https://firebasestorage.googleapis.com/v0/b/festivl.appspot.com/o/wicked-woods-2025%2FPortalLogo%20Croped.png?alt=media&token=477375fc-d185-4a38-aa41-feaca687f800
-  color: 0xff6d00
+  color: 0x01a484
 
 - name: Relaxation Ridge
   category: workshop
