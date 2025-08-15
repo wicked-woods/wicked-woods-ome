@@ -1,8 +1,14 @@
 name: Wicked Woods 2025
 startDate: 8/29/25
 endDate: 8/31/25
-address: 3901 Kootenay Hwy, Fairmont Hot Springs, BC V0B 1L1, Canada
+
+address: 3901 Kootenay Hwy, BC-93, Fairmont Hot Springs, BC V0A 1K4
+directions: Get back on San Vincente, take it to the 10, then switch over to the 405 north, and let it dump you onto Mullholland where you belong!
+latitude: 50.3659721
+longitude: -115.8703140
+
 timeZone: America/Denver
+
 imageURL: https://res.cloudinary.com/dhh19fozh/q_auto:good,f_auto,dpr_1.0/w_auto:breakpoints_85_850_10_10:768/jb7production-uploads/2024/03/wicked-woods-music-festival-2024-featured-e1710945659862-1200x675.jpg
 iconImageURL: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2F6D9DD348-26B0-481D-8E0B-200901A57F5A.png?alt=media&token=847204e2-2df4-49e1-ac9e-bcfc1c95835a
 siteMapImageURL: https://firebasestorage.googleapis.com/v0/b/festivl.appspot.com/o/userContent%2FPublic%20Legend%202-1%20from%20Wicked%20Woods.jpeg?alt=media&token=d09bfeee-5469-437c-afaf-3ea1eeea1db2
@@ -17,27 +23,27 @@ contactNumbers:
 # Stages
 stages:
 - name: Unicorn Lounge
-  iconImageURL: https://firebasestorage.googleapis.com/v0/b/festivl.appspot.com/o/wicked-woods-2025%2FUnicorn%20lounge%20Cropped.png?alt=media&token=0a88c291-a676-4503-8c6b-bec7ed27c3a9
-  color: 0xf13ec8  
+  iconImageURL: https://firebasestorage.googleapis.com/v0/b/festivl.appspot.com/o/wicked-woods-2025%2FUnicorn%20Lounge%20Cropped.png?alt=media&token=8e1e4dd5-192a-47bd-9d2d-38edfabe9042
+  color: 0xe02c9a
 
 - name: The Hallow
   iconImageURL: https://firebasestorage.googleapis.com/v0/b/festivl.appspot.com/o/wicked-woods-2025%2FHallowlogo%20White%20(1).png?alt=media&token=865a3cd2-050b-4da4-9462-224ae4319929
-  color: 0x22c582  
+  color: 0x7f4adf
 
 - name: Ursus
   iconImageURL: https://firebasestorage.googleapis.com/v0/b/festivl.appspot.com/o/wicked-woods-2025%2FUrsusLogo%20Cropped.png?alt=media&token=ff0ae725-810c-4ac0-a333-3a9946785a2c
-  color: 0x11d1d1
+  color: 0x009af7
 
 - name: The Portal
   iconImageURL: https://firebasestorage.googleapis.com/v0/b/festivl.appspot.com/o/wicked-woods-2025%2FPortalLogo%20Croped.png?alt=media&token=477375fc-d185-4a38-aa41-feaca687f800
-  color: 0xff6d00
+  color: 0x01a484
 
 - name: Relaxation Ridge
   category: workshop
-  iconImageURL: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2F8BD98000-C41A-4360-8106-9AD98BF1AD71.png?alt=media&token=a0df8893-0cc7-4442-8921-d6c4e066569c
-  color: 0x9b59b6
+  iconImageURL: https://firebasestorage.googleapis.com/v0/b/festivl.appspot.com/o/wicked-woods-2025%2FRelaxation%20Ridge%20Logo%202025.png?alt=media&token=e5d8e8b5-d330-4a7f-9497-e2f44ad00c69
+  color: 0xFE7202
 
 - name: Aurora Gallery
   category: workshop
-  iconImageURL: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2F8BD98000-C41A-4360-8106-9AD98BF1AD71.png?alt=media&token=a0df8893-0cc7-4442-8921-d6c4e066569c
-  color: 0x9b59b6
+  iconImageURL: https://firebasestorage.googleapis.com/v0/b/festivl.appspot.com/o/wicked-woods-2025%2FAurora%20Gallery%20Transparent%20Branding%20Image.png?alt=media&token=73a7400c-b31e-4d06-855b-baac32d7c986
+  color: 0xFF1B02
