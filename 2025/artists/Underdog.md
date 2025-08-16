@@ -1,5 +1,5 @@
 ---
-imageURL: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/Underdog.jpeg
+imageURL: https://wickedwoods.festivalpro.com/?getPublicFile&ENCSTR=OclvEHQImvAzpSiuoKrh
 logoURL: https://wickedwoods.festivalpro.com/?getFile&FILEID=32381
 links:
 - url: https://linktr.ee/underdogyyc

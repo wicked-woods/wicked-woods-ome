@@ -1,5 +1,5 @@
 ---
-imageURL: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/JPOD.jpeg
+imageURL: https://wickedwoods.festivalpro.com/?getPublicFile&ENCSTR=jBVPxjVgCkEoDJjbLfFD
 logoURL: https://wickedwoods.festivalpro.com/?getFile&FILEID=34213
 kind:
   type: Live Performance

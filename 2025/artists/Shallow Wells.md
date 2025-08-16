@@ -1,5 +1,5 @@
 ---
-imageURL: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/ShallowWells.jpg
+imageURL: https://wickedwoods.festivalpro.com/?getPublicFile&ENCSTR=BPNuUPBcgVEWLMECmxgL
 logoURL: https://wickedwoods.festivalpro.com/?getFile&FILEID=32361
 kind:
   type: Live Performance

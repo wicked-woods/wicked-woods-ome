@@ -1,5 +1,5 @@
 ---
-imageURL: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/DollaHilz.png
+imageURL: https://wickedwoods.festivalpro.com/?getPublicFile&ENCSTR=agFcLxJjLsmsDOVOtqPm
 logoURL: https://wickedwoods.festivalpro.com/?getFile&FILEID=35143
 kind:
   type: Live Performance
@@ -22,9 +22,5 @@ Calling Revelstoke home since 2013, she has found her groove as a radio host, DJ
 
 In addition to mixing, Hilz hosts dance classes and workshops to carefully curated soundtracks, teaching a mix of dancehall, afro, hip hop and latin moves and grooves. 
 
-Socials: 
-@dollahilz
-bookings: djdollahilz@gmail.com
-https://www.facebook.com/dollahilz
-https://soundcloud.com/dollahilz
+
 

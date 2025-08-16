@@ -1,5 +1,5 @@
 ---
-imageURL: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/Faeble.jpeg
+imageURL: https://wickedwoods.festivalpro.com/?getPublicFile&ENCSTR=uFMmbEtIqfuONUzjntqY
 logoURL: https://wickedwoods.festivalpro.com/?getFile&FILEID=36195
 kind:
   type: Live Performance
@@ -15,4 +15,4 @@ Faeble shares her musical intention by way of rhythmic melodies, feminine energy
 
 As a beloved member of Umbral Sound System, Faeble’s presence infuses events with an undeniable spark of fun and playfulness. Her energy is contagious, spreading smiles and laughter wherever she goes. Whether she's behind the decks or connecting with the audience, her spirit is a beacon of positivity that radiates through her community.
 
-Let her melodic mastery, feminine energy, and fairytale charm guide you through a world where the beats are electrifying, the atmosphere is enchanting, and the dance floor is your playground of dreams????????‍♀️????⛓✨
+Let her melodic mastery, feminine energy, and fairytale charm guide you through a world where the beats are electrifying, the atmosphere is enchanting, and the dance floor is your playground of dreams.

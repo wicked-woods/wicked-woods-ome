@@ -1,5 +1,5 @@
 ---
-imageURL: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/MatBOhmGirl.jpeg
+imageURL: https://wickedwoods.festivalpro.com/?getPublicFile&ENCSTR=WsprEnmyYRwjSHJorzCV
 kind:
   type: Live Performance
 links:

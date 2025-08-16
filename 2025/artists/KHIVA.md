@@ -1,5 +1,5 @@
 ---
-imageURL: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/KHIVA.JPG
+imageURL: https://wickedwoods.festivalpro.com/?getPublicFile&ENCSTR=nKGRksUiNrkoRtaMzKbT
 logoURL: https://wickedwoods.festivalpro.com/?getFile&FILEID=31289
 kind:
   type: Live Performance

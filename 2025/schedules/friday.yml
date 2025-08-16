@@ -36,7 +36,7 @@ performances:
     time: 2:30 AM
     endTime: 3:30 AM
 
-  - artist: Sorsari
+  - artist: Sorsari    
     time: 3:30 AM
 
   - artist: Yedgar
@@ -92,7 +92,7 @@ performances:
     endTime: 7:00 AM
   
   The Hallow:
-  - title: Stylust (Hip Hop Set)
+  - title: STYLUST (Hip Hop Set)
     artist: STYLUST 
     time: 4:00 PM
 
@@ -105,7 +105,10 @@ performances:
   - artist: SwaggaCats
     time: 7:00 PM
 
-  - artist: Kelluna / Leo Zen
+  - title: Kelluna / Leo Zen
+    artists:
+    - Kelluna
+    - Leo Zen
     time: 8:00 PM
     endTime: 10:30 PM
 
@@ -147,7 +150,7 @@ performances:
     time: 7:00 PM
     endTime: 8:30 PM
 
-  - artist: Cirque De La Nuit
+  - artist: Le Cirque de la Nuit
     time: 9:00 PM
     endTime: 10:00 PM
   
@@ -158,12 +161,12 @@ performances:
     endTime: 10:30 AM
 
   - title: Holden Space Sound Journey
-    artist: Jeff Holden
+    artist: Jeff Holden of Holden Space
     time: 10:30 AM
     endTime: 12:00 PM
 
   - title: Wellbeing & Interactive Sobriety Workshop
-    artist: Jeff Holden
+    artist: Jeff Holden of Holden Space
     time: 12:00 PM
     endTime: 1:00 PM
 
@@ -171,6 +174,7 @@ performances:
     artist: Kylie Kerik
     time: 1:30 PM
     endTime: 2:30 PM
+    description: "Somatic Steez is an interactive workshop designed to help participants uncover their authentic style—or “steez”—through the lens of somatics and self-expression. Rooted in the science of enclothed cognition, this experience invites people to explore how different textures, colors, and styles impact their internal state.Participants will engage in somatic practices to connect with their body’s subtle cues—those intuitive nudges that say, “Yes, this feels authentic.” The workshop encourages play and experimentation, inviting people to try on new styles and sensations while tuning into how their soma (body) responds."
 
   - title: Substance Use and Drug Checking
     artist: ANKORS
@@ -178,7 +182,9 @@ performances:
     endTime: 5:30 PM
 
   - title: Intro Into Exotic Pole
-    artist: Chainie & Erica
+    artists: 
+      - Chainie Lee
+      - Erica Stables
     time: 6:00 PM
     endTime: 7:00 PM
 
@@ -187,9 +193,11 @@ performances:
     artist: Joanne Brampton
     time: 12:00 PM
     endTime: 1:00 PM
+    description: "Learn how to make your own rave braid hair extensions that are easy to install (and even easier to take off when it’s time to rest!)"
 
-  - title: Knit a Stick
+  - title: Knit a Stitch
     artist: Jesse Walken
     time: 2:00 PM
     endTime: 3:00 PM
+    description: "In this workshop, I will teach attendees how to make a small knitted bookmark ( could also be turned into a bracelet :). I will show them how to cast onto the knitting needle and then how to do a basic knit stitch, and repeat until they have a uniform long rectangle. When they have done enough knitting to complete their small project, I will show them how to cast off and have their first own knitted item! I will be bringing a variety of yarns with different colours, thickness, and textures so people can make a more personal creation and they can have the option to keep the knitting needles to continue this possible newfound passion and hobby! Wool you come and join me!"
 

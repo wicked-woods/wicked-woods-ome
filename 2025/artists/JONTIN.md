@@ -1,5 +1,5 @@
 ---
-imageURL: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/JONTIN.jpg
+imageURL: https://wickedwoods.festivalpro.com/?getPublicFile&ENCSTR=nPXTkjNZKcRnUeaXlBea
 logoURL: https://wickedwoods.festivalpro.com/?getFile&FILEID=32477
 kind:
   type: Live Performance
@@ -21,6 +21,7 @@ JONTIN - newfie noun \ Jonathon \ Origin: Newfoundland pronunciation JON-TIN
 If you've seen him play before... then you know what’s up! This guy’s ability to read the 
 floor, create the mood and resonate his good vibe & high energy presence… it’s the Jontin 
 effect!!! 
+
 From the western Canada electronic music scene to the LGBTQ community, he's been 
 making waves and there's no signs of slowing down! This East Coast import moved to 
 Edmonton in 2006 and immediately joined the local electronic music scene. Jonny’s easy 

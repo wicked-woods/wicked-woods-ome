@@ -1,5 +1,5 @@
 ---
-imageURL: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/ShalabhaKundalini.jpg
+imageURL: https://wickedwoods.festivalpro.com/?getPublicFile&ENCSTR=mFLfCuoeIorXuHeRsQbU
 logoURL: https://wickedwoods.festivalpro.com/?getFile&FILEID=36809
 kind:
   type: Workshop

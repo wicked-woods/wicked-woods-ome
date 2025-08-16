@@ -1,5 +1,5 @@
 ---
-imageURL: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/LolaPhyne.jpeg
+imageURL: https://wickedwoods.festivalpro.com/?getPublicFile&ENCSTR=kKIHVSgDwmyHeWrTrNPh
 logoURL: https://wickedwoods.festivalpro.com/?getFile&FILEID=33317
 kind:
   type: Live Performance

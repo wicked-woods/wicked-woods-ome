@@ -1,7 +1,7 @@
 date: '2025-08-30'
 performances:
   The Portal:
-  - artist: Hip Hop Jam
+  - title: Hip Hop Jam
     time: 2:00 PM
 
   - artist: Miirror
@@ -157,7 +157,7 @@ performances:
   - artist: Def3
     time: 8:30 PM
 
-  - artist: LONGWALKSHORTDOCK
+  - artist: Longwalkshortdock
     time: 9:30 PM
 
   - artist: Woofax
@@ -169,7 +169,10 @@ performances:
   - artist: INNOCENT
     time: 2:00 AM
 
-  - artist: Big Medicine b2b Fram3s
+  - title: Big Medicine b2b Fram3s
+    artists:
+      - Big Medicine
+      - Fram3s
     time: 3:00 AM
 
   - artist: Skreid
@@ -181,21 +184,25 @@ performances:
     artist: Crystal McLean
     time: 10:00 AM
     endTime: 11:00 AM
+    description: "A fun and enlivening Kundalini infused yoga class to help you to connect to your center, followed by some group excersises to get you connecting authentically on the dance floor!"
 
   - title: Ecstatic Dance with APUKUNA
     artist: Jon Steinman
     time: 11:30 AM
     endTime: 1:00 PM
+    description: "Ecstatic Dance is a freeform, non-verbal movement practice where you’re invited to move however you feel — with freedom, spontaneity, and self-expression. Imagine a DJ and a dance floor, but without talking, without phones, and where the music carries you on an epic journey from beginning to end. APUKUNA will open the space with an introduction to Ecstatic Dance and gently guide you into your own self-directed exploration of movement, emotional release, stillness, and joy."
 
   - title: "New Groove Revolution: Release, Reframe, and Reintegrate"
-    artist: DJ Sprout
+    artist: DJ sprouT
     time: 1:15 PM
     endTime: 2:45 PM
+    description: "Do you love crafting positive statements or setting goals, but sometimes feel they don’t truly stick? Maybe they sound forced, fake, or part of you still doubts them? This unique playshop blends the creative magic of the “Lore” of Attraction with the depth of Humanistic NLP and story work - so your words become a living narrative your subconscious can embrace. A new story that is actually truth-full. Together, we’ll explore: -How to spot and gently release limiting thought patterns through contrast – A step-by-step method to craft statements that feel truthful, personal, and present – Why your words and emotions shape your reality and how to consciously shift your frequency – How to use story work to weave your personalized statements into an Ideal Life Story: a short, powerful paragraph that feels real, inspiring, and aligned with your deepest values What you’ll experience: – Use a uniquely designed Life Wheel to identify what areas of life matter most to you now – Tap into your subconscious to uncover the deeper essence behind your wants and desires – Combine HNLP principles, the Lore of Attraction, and story work to craft personalized statements – Weave these into your Ideal Life Story your new daily narrative – Discuss creative ways to anchor, integrate and embody your story – Optionally share your story with the group to “breathe it into being” – Close with a gentle Integration Meditation Journey to ground your new story into your mind, body and soul (you can keep your eyes open if that feels more comfortable for you) Create New Grooves for your life! Ones that feels honest, alive, and truly yours. Notes: We’ll begin with a short, trauma-informed grounding practice to create a safe, supportive space. We prioritize your comfort and consent during all activities. Supplies (Optional) Paper and pens will be provided; however feel free to bring your journal and coloring pens if you wish plus anything that helps you to feel comfortable such as yoga mat / pillow, blanket, fidgets toys (nothing noisy please)."
 
   - title: Festival Integration Circle
-    artist: Jenn Silver
+    artist: Jenn Moonflower
     time: 3:00 PM
     endTime: 4:00 PM
+    description: "Reflect. Ground. Integrate.The dance floor isn’t the only place where transformation happens. Join Jenn Moonflower, for a drop-in Integration Circle. A grounding and welcoming space to help you process, reflect, and make meaning of your festival journey.Whether your experiences this weekend have been expansive, emotional, psychedelic, or simply overwhelming in the best of ways, this workshop offers a chill zone to come back to yourself. Through gentle breathwork, mindful reflection, and real conversation, you’ll receive tools to anchor insights and bring clarity to the magic you’ve been moving through.✨ What to expect:A safe, inclusive space for open sharing and deep listeningBreathwork + meditation to regulate and restorePractical tools for integrating festival moments, plant medicine, or microdosing journeysNo-pressure discussion and support in communityOptional sharing - come to witness, or come to be witnessedTips for carrying the transformation home with youThis circle is open to all genders, identities, and experience levels. Come as you are, whether you're vibing high or feeling a little frayed, and leave feeling more grounded, connected, and aligned with tools to integrate the magic of your festival experience."
 
   - title: "Pleasure + Protection: Safer Sex in The Wild"
     artist: ANKORS
@@ -206,6 +213,7 @@ performances:
     artist: Peta Thompson
     time: 5:45 PM
     endTime: 6:45 PM
+    description: "Get grounded before you get down.This pre-rave warm-up is a guided movement and breath journey designed to prime your body and nervous system for the dancefloor. We’ll stretch open the hips, hamstrings, spine, and shoulders, shake off tension, activate energy channels, and land deeply in the body—so you can dance from a place of freedom, flow, and full-body yes.We'll blend functional mobility, somatic unwinding, gentle self-massage, breath regulation, and grounding techniques to help participants:Release tightness from travel, camping, or previous nights dancingReconnect to their body and breath before stimulationRegulate the nervous system (especially for those with social or sensory sensitivity)Increase mobility and stamina for dancingCultivate presence, joy, and body awarenessAll bodies and experience levels are welcome. No previous movement or yoga experience is needed. Just bring a mat or towel, water, and a curiosity for what it means to move with your body, not against it.This is the ultimate act of self-care before you set your soul loose on the dancefloor.Come get loose, get embodied, and get ready to rave with heart."
 
   - title: Air Bending 101
     artist: Daniel Tamagi
@@ -218,8 +226,10 @@ performances:
     artist: Brittany Strachan
     time: 12:00 PM
     endTime: 1:30 PM
+
   - title: The Joy Of Poi
     artist: Robin Mote
     time: 3:00 PM
     endTime: 4:00 PM
+    description: "Unleash your playful side and explore the Joy of Poi! Whether you’re looking for a fun way to exersize or a fresh creative outlet, this workshop will help you find your flow and light your smile. In this dynamic workshop, you’ll quickly learn the basics that will have you spinning, laughing, and embracing the Joy of Poi.We will explore beginner techniques like weaves, butterflies, turns, and stalls. Already know the basics? Robin will guide you to the next level, offering more advanced techniques tailored to your skill level.Whether you’re here for fun, creative movement, or mastering a new skill, The Joy of Poi offers a joyful and transformative journey into the art of poi spinning."
 

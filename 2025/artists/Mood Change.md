@@ -1,5 +1,5 @@
 ---
-imageURL: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/MoodChange.png
+imageURL: https://wickedwoods.festivalpro.com/?getPublicFile&ENCSTR=vXIEHAmFOwHoWiCjKBxJ
 kind:
   type: Live Performance
 links:

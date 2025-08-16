@@ -1,5 +1,5 @@
 ---
-imageURL: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/Sorsari.jpg
+imageURL: https://wickedwoods.festivalpro.com/?getPublicFile&ENCSTR=lImFidheaVNqLohRaguv
 logoURL: https://wickedwoods.festivalpro.com/?getFile&FILEID=32037
 kind:
   type: Live Performance

@@ -1,6 +1,6 @@
 ---
-imageURL: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/BoogeyTheBeat.jpg
-logoURL: https://wickedwoods.festivalpro.com/?getFile&FILEID=36411
+imageURL: https://wickedwoods.festivalpro.com/?getPublicFile&ENCSTR=nNPpdOrqeVzfyStzIjYx
+logoURL: https://wickedwoods.festivalpro.com/?getFile&FILEID=40839
 links:
 - url: youtube.com/boogeythebeat
   linkType:

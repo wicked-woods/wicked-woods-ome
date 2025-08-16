@@ -1,5 +1,5 @@
 ---
-imageURL: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/RogueDance.jpeg
+imageURL: https://wickedwoods.festivalpro.com/?getPublicFile&ENCSTR=KaTuYYnkldvqiofOmZLd
 logoURL: https://wickedwoods.festivalpro.com/?getFile&FILEID=33749
 kind:
   type: Dance Performance
