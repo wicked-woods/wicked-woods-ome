@@ -1,5 +1,5 @@
 ---
-imageURL: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/JeffHoldenofHoldenSpace.jpeg
+imageURL: https://wickedwoods.festivalpro.com/?getPublicFile&ENCSTR=kOaDnyuraTqoswfPVXdI
 logoURL: https://wickedwoods.festivalpro.com/?getFile&FILEID=34201
 kind:
   type: Live Performance

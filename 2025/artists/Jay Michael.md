@@ -1,5 +1,5 @@
 ---
-imageURL: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/JayMichael.jpg
+imageURL: https://wickedwoods.festivalpro.com/?getPublicFile&ENCSTR=gKYOWwghKMBPTAqkXscH
 logoURL: https://wickedwoods.festivalpro.com/?getFile&FILEID=32291
 kind:
   type: Live Performance
@@ -9,7 +9,7 @@ links:
     label: instagram
 ---
 JAY MICHAEL
- For almost 2 decades Jay Michael has carved a reputation for delivering memorable hypnotic journeys through the intelligent realms of techno and progressive psytrance. Expect nothing less than a moving heart felt eyes closed journey through all the sounds of psychedelica.  
+ For almost 2 decades Jay Michael has carved a reputation for delivering memorable hypnotic journeys through the intelligent realms of techno and progressive psytrance. Expect nothing less than a moving heart felt eyes closed journey through all the sounds of psychedelica. 
   
 He is also the brains behind Ionic Sound Systems. Jay Michael has provided sound system reinforcement for hundreds of club and festival events across Western Canada. Ionic Sound Systems was the first sound provider to bring the famous Danley Sound Labs Synergy Horns to events in Canada.
  

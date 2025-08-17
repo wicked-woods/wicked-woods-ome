@@ -1,5 +1,5 @@
 ---
-imageURL: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/LaGogue.jpg
+imageURL: https://wickedwoods.festivalpro.com/?getPublicFile&ENCSTR=uadXPweatRwDdxfkVmGu
 logoURL: https://wickedwoods.festivalpro.com/?getFile&FILEID=32553
 kind:
   type: Dance Performance

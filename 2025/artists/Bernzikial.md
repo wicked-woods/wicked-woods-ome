@@ -1,5 +1,5 @@
 ---
-imageURL: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/Bernzikial.jpeg
+imageURL: https://wickedwoods.festivalpro.com/?getPublicFile&ENCSTR=NpfBFeXlfnyqKzKVimHY
 logoURL: https://wickedwoods.festivalpro.com/?getFile&FILEID=36221
 kind:
   type: Live Performance

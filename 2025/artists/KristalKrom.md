@@ -1,5 +1,5 @@
 ---
-imageURL: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/KristalKrom.jpg
+imageURL: https://wickedwoods.festivalpro.com/?getPublicFile&ENCSTR=pARUhhtgXryKsBiPeUxd
 kind:
   type: Live Performance
 links:

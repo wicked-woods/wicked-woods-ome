@@ -1,5 +1,5 @@
 ---
-imageURL: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/SwaggaCats.png
+imageURL: https://wickedwoods.festivalpro.com/?getPublicFile&ENCSTR=gXgZSOWHnlMIqvPBXxRm
 logoURL: https://wickedwoods.festivalpro.com/?getFile&FILEID=32935
 kind:
   type: Live Performance

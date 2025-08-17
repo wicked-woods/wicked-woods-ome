@@ -1,5 +1,5 @@
 ---
-imageURL: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/Spanda.jpg
+imageURL: https://wickedwoods.festivalpro.com/?getPublicFile&ENCSTR=cVEUEEaIcnwZYGjGsvll
 logoURL: https://wickedwoods.festivalpro.com/?getFile&FILEID=36917
 kind:
   type: Live Performance
@@ -13,6 +13,9 @@ links:
 - url: https://www.instagram.com/spanda_808/?hl=en
   linkType:
     label: instagram
+- url: https://open.spotify.com/artist/4GqkCXN48k139phxZmcPtt?si=n1Su6ebbSCW8eTyer1mk6g
+  linkType:
+    label: spotify
 - url: https://spanda.ca/
   linkType:
     label: website

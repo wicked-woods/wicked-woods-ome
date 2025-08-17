@@ -1,5 +1,5 @@
 ---
-imageURL: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/OldMan.jpg
+imageURL: https://wickedwoods.festivalpro.com/?getPublicFile&ENCSTR=UAjhLSokKPKtVTyHjcWB
 logoURL: https://wickedwoods.festivalpro.com/?getFile&FILEID=31531
 kind:
   type: Live Performance

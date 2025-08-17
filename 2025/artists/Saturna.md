@@ -1,6 +1,6 @@
 ---
-imageURL: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/Saturna.jpeg
-logoURL: https://wickedwoods.festivalpro.com/?getFile&FILEID=33047
+imageURL: https://wickedwoods.festivalpro.com/?getPublicFile&ENCSTR=wmvczAvczHihGnFsCtMT
+logoURL: https://wickedwoods.festivalpro.com/?getFile&FILEID=38343
 kind:
   type: Live Performance
 links:
@@ -17,5 +17,5 @@ links:
   linkType:
     label: spotify
 ---
-Originating from the Sunshine Coast, British Columbia, ethereal beatsmith Saturna has an artistic voice unlike any other. Saturna is a sonic story-teller who weaves layers of deeply emotive melodies and organic rhythms with cinematic flair. A lifelong musician, Saturna is dedicated to stitching together narrative threads into a tapestry of distorted synths, warm throbbing basslines and lush percussive elements. As the founder of Wildlife Division, Saturna is leading a collective of daring artists focused on pushing the boundaries through sound experimentation and live curation.
+Originating from the Sunshine Coast, British Columbia, ethereal beatsmith Saturna has an artistic voice unlike any other. Saturna is a sonic story-teller who weaves layers of deeply emotive melodies and organic rhythms with cinematic flair. A lifelong musician, Saturna is dedicated to stitching together narrative threads into a tapestry of distorted synths, warm basslines and lush percussive elements.
 
