@@ -5,4 +5,4 @@ isPinned: false
 sendPush: true
 ---
 
-This is the body of the push notification
+This is a test
