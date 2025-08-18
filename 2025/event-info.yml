@@ -15,10 +15,9 @@ siteMapImageURL: https://firebasestorage.googleapis.com/v0/b/festivl.appspot.com
 
 # Contact Info
 contactNumbers:
-- phoneNumber: '2504095887'
+- phoneNumber: '250-688-9968'
   title: On Site Emergency Services
-  description: This will connect you directly with our switchboard, and alert the
-    appropriate services
+  description: This will connect you directly with our dispatch team, and alert the appropriate services.
     
 # Stages
 stages:
