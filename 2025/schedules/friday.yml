@@ -105,7 +105,7 @@ performances:
   - artist: SwaggaCats
     time: 7:00 PM
 
-  - title: Kelluna / Leo Zen
+  - title: "Hi, Society Takeover ft. Kelluna & Leo Zen"
     artists:
     - Kelluna
     - Leo Zen
@@ -143,7 +143,7 @@ performances:
 
   - artist: Drezus
     time: 3:00 PM
-    endTime: 4:30 PM
+    endTime: 4:00 PM
 
   - title: Community Drum Experience
     artist: Patrick Carrick
@@ -151,8 +151,8 @@ performances:
     endTime: 8:30 PM
 
   - artist: Le Cirque de la Nuit
-    time: 9:00 PM
-    endTime: 10:00 PM
+    time: 9:30 PM
+    endTime: 10:30 PM
   
   Relaxation Ridge:
   - title: Opening Meditation & Stretch
@@ -174,7 +174,7 @@ performances:
     artist: Kylie Kerik
     time: 1:30 PM
     endTime: 2:30 PM
-    description: "Somatic Steez is an interactive workshop designed to help participants uncover their authentic style—or “steez”—through the lens of somatics and self-expression. Rooted in the science of enclothed cognition, this experience invites people to explore how different textures, colors, and styles impact their internal state.Participants will engage in somatic practices to connect with their body’s subtle cues—those intuitive nudges that say, “Yes, this feels authentic.” The workshop encourages play and experimentation, inviting people to try on new styles and sensations while tuning into how their soma (body) responds."
+    description: |Somatic Steez is an interactive workshop designed to help participants uncover their authentic style—or “steez”—through the lens of somatics and self-expression. Rooted in the science of enclothed cognition, this experience invites people to explore how different textures, colors, and styles impact their internal state.Participants will engage in somatic practices to connect with their body’s subtle cues—those intuitive nudges that say, “Yes, this feels authentic.” The workshop encourages play and experimentation, inviting people to try on new styles and sensations while tuning into how their soma (body) responds."
 
   - title: Substance Use and Drug Checking
     artist: ANKORS
