@@ -5,8 +5,9 @@ isPinned: true
 
 Your safety is our top priority! Please review these important guidelines for a fun and safe festival experience:
 
-**Emergency Contact:** On-Site Emergency (250) 409-5887
-This connects you directly to our switchboard and emergency services.
+**Emergency Contact:** On-Site Emergency (250) 688-9968
+This connects you directly to our emergency dispatch team and emergency services.
+Call now for Fire - Medical - Security - Outreach
 
 **General Safety:**
 - Stay hydrated - water stations throughout the grounds
