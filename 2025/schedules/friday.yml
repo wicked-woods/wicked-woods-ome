@@ -164,11 +164,15 @@ performances:
     artist: Jeff Holden of Holden Space
     time: 10:30 AM
     endTime: 12:00 PM
+    description: |
+      Relax, breathe and receive as Jeff live loops the sweet sounds of gongs, didgeridoos, flutes, bowls, rattles, chimes and song in a well contained space. As high frequency vibrations light up the space, Jeff brings direct resonance to your nervous system in support of regulation, rejuvenation and restoration.
 
   - title: Wellbeing & Interactive Sobriety Workshop
     artist: Jeff Holden of Holden Space
     time: 12:00 PM
     endTime: 1:00 PM
+    description: |
+      In this interactive workshop we will connect with our resources and the fundamental steps inherent in the creative process to help form a road map for exploring the potent realms of addiction in today’s society. Together, we belong, please come along and take your place on this inspiring journey!
 
   - title: Somatic Steez & Clothing Swap
     artist: Kylie Kerik
@@ -190,6 +194,7 @@ performances:
       - Erica Stables
     time: 6:00 PM
     endTime: 7:00 PM
+    description: Perfect for first-timers, this class focuses on slow, flowing movement and simple spins — all in a fun, supportive space. No pressure, no experience, and no heels needed — Just curiosity, an open mind, and a desire to move!
 
   Aurora Gallery:
   - title: Rave Braids & Hair Accessories
