@@ -105,7 +105,7 @@ performances:
   - artist: SwaggaCats
     time: 7:00 PM
 
-  - title: Kelluna / Leo Zen
+  - title: "Hi, Society Takeover ft. Kelluna & Leo Zen"
     artists:
     - Kelluna
     - Leo Zen
@@ -143,7 +143,7 @@ performances:
 
   - artist: Drezus
     time: 3:00 PM
-    endTime: 4:30 PM
+    endTime: 4:00 PM
 
   - title: Community Drum Experience
     artist: Patrick Carrick
@@ -151,8 +151,8 @@ performances:
     endTime: 8:30 PM
 
   - artist: Le Cirque de la Nuit
-    time: 9:00 PM
-    endTime: 10:00 PM
+    time: 9:30 PM
+    endTime: 10:30 PM
   
   Relaxation Ridge:
   - title: Opening Meditation & Stretch
@@ -164,17 +164,24 @@ performances:
     artist: Jeff Holden of Holden Space
     time: 10:30 AM
     endTime: 12:00 PM
+    description: |
+      Relax, breathe and receive as Jeff live loops the sweet sounds of gongs, didgeridoos, flutes, bowls, rattles, chimes and song in a well contained space. As high frequency vibrations light up the space, Jeff brings direct resonance to your nervous system in support of regulation, rejuvenation and restoration.
 
   - title: Wellbeing & Interactive Sobriety Workshop
     artist: Jeff Holden of Holden Space
     time: 12:00 PM
     endTime: 1:00 PM
+    description: |
+      In this interactive workshop we will connect with our resources and the fundamental steps inherent in the creative process to help form a road map for exploring the potent realms of addiction in today’s society. Together, we belong, please come along and take your place on this inspiring journey!
 
   - title: Somatic Steez & Clothing Swap
     artist: Kylie Kerik
     time: 1:30 PM
     endTime: 2:30 PM
-    description: "Somatic Steez is an interactive workshop designed to help participants uncover their authentic style—or “steez”—through the lens of somatics and self-expression. Rooted in the science of enclothed cognition, this experience invites people to explore how different textures, colors, and styles impact their internal state.Participants will engage in somatic practices to connect with their body’s subtle cues—those intuitive nudges that say, “Yes, this feels authentic.” The workshop encourages play and experimentation, inviting people to try on new styles and sensations while tuning into how their soma (body) responds."
+    description: |
+      Somatic Steez is an interactive workshop designed to help participants uncover their authentic style—or “steez”—through the lens of somatics and self-expression. Rooted in the science of enclothed cognition, this experience invites people to explore how different textures, colors, and styles impact their internal state.
+      
+      Participants will engage in somatic practices to connect with their body’s subtle cues—those intuitive nudges that say, “Yes, this feels authentic.” The workshop encourages play and experimentation, inviting people to try on new styles and sensations while tuning into how their soma (body) responds.
 
   - title: Substance Use and Drug Checking
     artist: ANKORS
@@ -187,6 +194,7 @@ performances:
       - Erica Stables
     time: 6:00 PM
     endTime: 7:00 PM
+    description: Perfect for first-timers, this class focuses on slow, flowing movement and simple spins — all in a fun, supportive space. No pressure, no experience, and no heels needed — Just curiosity, an open mind, and a desire to move!
 
   Aurora Gallery:
   - title: Rave Braids & Hair Accessories
@@ -199,5 +207,10 @@ performances:
     artist: Jesse Walken
     time: 2:00 PM
     endTime: 3:00 PM
-    description: "In this workshop, I will teach attendees how to make a small knitted bookmark ( could also be turned into a bracelet :). I will show them how to cast onto the knitting needle and then how to do a basic knit stitch, and repeat until they have a uniform long rectangle. When they have done enough knitting to complete their small project, I will show them how to cast off and have their first own knitted item! I will be bringing a variety of yarns with different colours, thickness, and textures so people can make a more personal creation and they can have the option to keep the knitting needles to continue this possible newfound passion and hobby! Wool you come and join me!"
+    description: |
+      In this workshop, I will teach attendees how to make a small knitted bookmark (it could also be turned into a bracelet).
+      
+      I will show them how to cast onto the knitting needle and then how to do a basic knit stitch, and repeat until they have a uniform long rectangle. When they have done enough knitting to complete their small project, I will show them how to cast off and have their first own knitted item!
+      
+      I will be bringing a variety of yarns with different colours, thickness, and textures so people can make a more personal creation and they can have the option to keep the knitting needles to continue this possible newfound passion and hobby! Wool you come and join me?
 

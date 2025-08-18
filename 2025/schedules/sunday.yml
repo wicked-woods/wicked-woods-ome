@@ -191,41 +191,59 @@ performances:
   - artist: Cofresi
     time: 10:30 PM
     endTime: 12:00 AM
-
-  - artist: Drezus
-    time: 12:00 AM
-    endTime: 1:30 AM
   
   Relaxation Ridge:
   - title: Hypnotic Meditation
     artist: Lucia Light
     time: 10:00 AM
     endTime: 11:00 AM
-    description: "A meditative psychedelic journey, experience a safe way to experience the hypnagogic state easily without plant medicines.  Awaken infinite potentials, heal and release stuck beliefs, emotions and physical symptoms, Find peace, deep relaxation, and connection. "
+    description: |
+      A meditative psychedelic journey, experience a safe way to experience the hypnagogic state easily without plant medicines. 
+      
+      Awaken infinite potentials, heal and release stuck beliefs, emotions and physical symptoms, Find peace, deep relaxation, and connection.
     
   - title: Healing Strings and Sacred Sounds
     artist: Mindful Moon Sound
     time: 11:15 AM
     endTime: 12:30 PM
-    description: "Join husband-and-wife duo Quinton and Kendra Armstrong for a deeply transformative and immersive live sound healing experience designed to bring participants into a state of deep relaxation, rejuvenation, and self-discovery. In this workshop, Kendra will guide participants through breathwork while playing quartz crystal and Tibetan singing bowls. Quinton will complement the experience with soothing, psychedelic electric guitar riffs, adding a layer of musical healing through the use of various guitar pedals.The soothing tones of the crystal and Tibetan singing bowls, each tuned to a specific chakra, will help align participants' physical and energetic bodies. This sound journey will guide them into a deep meditative state, facilitating the release of what no longer serves them. As the healing vibrations resonate throughout the body, participants will experience a profound recalibration at a cellular level, resetting the nervous system, calming the mind, and offering a sense of true rest.Participants will be invited to lie down in a peaceful, comfortable environment, allowing them to fully receive the benefits of the sound bath. The workshop will leave them feeling balanced, relaxed, and reconnected to their highest self.Please bring a yoga mat or blanket to lay down on and any other props you’d like to feel cozy (blanket, pillow, crystals)."
+    description: |
+      Join husband-and-wife duo Quinton and Kendra Armstrong for a deeply transformative and immersive live sound healing experience designed to bring participants into a state of deep relaxation, rejuvenation, and self-discovery.
+      
+      In this workshop, Kendra will guide participants through breathwork while playing quartz crystal and Tibetan singing bowls. Quinton will complement the experience with soothing, psychedelic electric guitar riffs, adding a layer of musical healing through the use of various guitar pedals.
+      
+      The soothing tones of the crystal and Tibetan singing bowls, each tuned to a specific chakra, will help align participants' physical and energetic bodies. This sound journey will guide them into a deep meditative state, facilitating the release of what no longer serves them. As the healing vibrations resonate throughout the body, participants will experience a profound recalibration at a cellular level, resetting the nervous system, calming the mind, and offering a sense of true rest.
+      
+      Participants will be invited to lie down in a peaceful, comfortable environment, allowing them to fully receive the benefits of the sound bath. The workshop will leave them feeling balanced, relaxed, and reconnected to their highest self.Please bring a yoga mat or blanket to lay down on and any other props you’d like to feel cozy (blanket, pillow, crystals).
     
   - title: Intro Into Āyurveda
     artist: Sara DeVita
     time: 12:45 PM
     endTime: 1:45 PM
-    description: "Join this workshop to start your journey into the ancient wisdom Ayurveda. Known as the mother of medicine, Ayurveda is the oldest system of healing known to human kind.  Despite having over 5000 years of history, Ayurveda is timeless because it understands and applies natural law to assist us in bringing harmony to our lives. This workshop will give you a base understanding of what Ayurveda is, its origins and provide insights to the lens of Ayurvedic medicine. This workshop is ideal for anyone interested in natural health, yoga practitioners, wellness professionals, or those seeking a deeper connection to their body and the rhythms of nature.  Leave with a foundational understanding of Ayurveda as well as resources to begin incorporating Ayurveda into your life."
+    description: |
+      Join this workshop to start your journey into the ancient wisdom Ayurveda. Known as the mother of medicine, Ayurveda is the oldest system of healing known to human kind. Despite having over 5000 years of history, Ayurveda is timeless because it understands and applies natural law to assist us in bringing harmony to our lives.
+      
+      This workshop will give you a base understanding of what Ayurveda is, its origins and provide insights to the lens of Ayurvedic medicine. This workshop is ideal for anyone interested in natural health, yoga practitioners, wellness professionals, or those seeking a deeper connection to their body and the rhythms of nature.
+      
+      Leave with a foundational understanding of Ayurveda as well as resources to begin incorporating Ayurveda into your life.
     
   - title: All Levels Acroyoga Workshop
     artist: Stoked Acroyoga
     time: 2:00 PM
     endTime: 3:00 PM
-    description: "Do you like to slackline? Do you like partner acrobatics? Do you want to combine those two activities to wibble and wobble and have a WICKED time in the WOODS? Join the gals from StokedAcro from Revelstoke, BC for the second year in a row for an acroyoga workshop!"
+    description: |
+      Do you like to slackline? Do you like partner acrobatics? Do you want to combine those two activities to wibble and wobble and have a WICKED time in the WOODS? 
+      
+      Join the gals from StokedAcro from Revelstoke, BC for the second year in a row for an acroyoga workshop!
     
   - title: "Harm Reduction 101 - Party Safer"
     artist: ANKORS
     time: 3:15 PM
     endTime: 4:15 PM
-    
+    description: |
+      This workshop covers the core safety skills every raver should know - from sticking with your crew and spotting drinks spiking, to knowing when it’s time to take a break. We’ll go over how to recognize when someone needs support, went to take a break, and then the importance of the body system. 
+      
+      Activities include: buddy tag making and quick fire festival trivia, all while doing drinks, spiking games to raise awareness.
+
   - title: "Dance: A Love Letter For Nature"
     artist: Alison Lenora Lambert
     time: 4:30 PM
@@ -235,4 +253,7 @@ performances:
     artist: Daniel Zuccarello
     time: 6:15 PM
     endTime: 7:15 PM
-    description: "This open format poetry slam gives everyone the mic for as long as they want with no strict time limit. Anyone can sign up, and once it's your turn, you take the mic and share your original piece at your own pace. There’s no judging, no competition just a round of performances where participants and audience share in the energy, snapping, clapping, or cheering as they please, similar to relaxed open mic environments If fewer people choose to perform, the host will step in with an hour of spoken word and storytelling pieces to keep the stage active and the vibe flowing. Simple sign up, supportive atmosphere, and plenty of space for authentic expression under the trees."
+    description: |
+      The Wicked Woods Poetry Slam is a one-of-a-kind, open-air spoken word event that merges poetry, storytelling, and performance art into an immersive festival experience. Hosted in a vibrant outdoor setting, this event invites festival-goers to witness and participate in a dynamic celebration of words, rhythm, and raw emotion.
+
+      As the host, I will begin by setting the tone with a curated selection of spoken word performances, creating an inviting and inspiring atmosphere. As the energy builds, audience members will be encouraged to step up and share their own poetry, transforming the event into a spontaneous and interactive exchange of voices, perspectives, and emotions. Whether you're a seasoned poet or simply someone who loves the beauty of language, this is a space for you to engage, express, and connect.
