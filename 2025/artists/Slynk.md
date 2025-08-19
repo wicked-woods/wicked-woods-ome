@@ -1,5 +1,5 @@
 ---
-imageURL: https://wickedwoods.festivalpro.com/?getPublicFile&ENCSTR=QKHcBwwpGMeUWVHJNNJq
+imageURL: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/Slynk.jpg
 logoURL: https://wickedwoods.festivalpro.com/?getFile&FILEID=34205
 kind:
   type: Live Performance

@@ -1,5 +1,5 @@
 ---
-imageURL: https://wickedwoods.festivalpro.com/?getPublicFile&ENCSTR=InQRxBtoJFEXhGbuauqC
+imageURL: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/BenFox.jpg
 logoURL: https://wickedwoods.festivalpro.com/?getFile&FILEID=31609
 kind:
   type: Live Performance

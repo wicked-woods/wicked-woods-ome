@@ -1,5 +1,5 @@
 ---
-imageURL: https://wickedwoods.festivalpro.com/?getPublicFile&ENCSTR=RmdEvVFJzAMhhmEhETDT
+imageURL: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/STYLUST.jpg
 kind:
   type: Live Performance
 links:

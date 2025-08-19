@@ -1,5 +1,5 @@
 ---
-imageURL: https://wickedwoods.festivalpro.com/?getPublicFile&ENCSTR=MfqRDxtvgmXNnXzvhevx
+imageURL: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/AsadKhan.png
 logoURL: https://wickedwoods.festivalpro.com/?getFile&FILEID=40103
 links:
 - url: https://soundcloud.com/asadkhanlife

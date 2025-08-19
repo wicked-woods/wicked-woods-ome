@@ -1,5 +1,5 @@
 ---
-imageURL: https://wickedwoods.festivalpro.com/?getPublicFile&ENCSTR=VxydquiuEVLtYFfNRQnH
+imageURL: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/LeoZen.jpg
 kind:
   type: Live Performance
 links:

@@ -1,5 +1,5 @@
 ---
-imageURL: https://wickedwoods.festivalpro.com/?getPublicFile&ENCSTR=LyHoFezGNlEiSnZIhqwg
+imageURL: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/MindfulMoonSound.png
 kind:
   type: Workshop
 links:

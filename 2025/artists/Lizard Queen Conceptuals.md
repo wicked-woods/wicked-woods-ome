@@ -1,5 +1,5 @@
 ---
-imageURL: https://wickedwoods.festivalpro.com/?getPublicFile&ENCSTR=HcvZXkCnUOGQeOinqPzW
+imageURL: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/LizardQueenConceptuals.JPEG
 logoURL: https://wickedwoods.festivalpro.com/?getFile&FILEID=38225
 kind:
   type: Art & Installations

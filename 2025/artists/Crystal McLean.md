@@ -1,5 +1,5 @@
 ---
-imageURL: https://wickedwoods.festivalpro.com/?getPublicFile&ENCSTR=mFLfCuoeIorXuHeRsQbU
+imageURL: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/CrystalMcLean.jpg
 logoURL: https://wickedwoods.festivalpro.com/?getFile&FILEID=36809
 kind:
   type: Workshop
