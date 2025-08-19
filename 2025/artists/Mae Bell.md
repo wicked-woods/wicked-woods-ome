@@ -1,5 +1,5 @@
 ---
-imageURL: https://wickedwoods.festivalpro.com/?getPublicFile&ENCSTR=TknlaMFdehijypMrJPPT
+imageURL: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/MaeBell.jpg
 kind:
   type: Art & Installations
 links:

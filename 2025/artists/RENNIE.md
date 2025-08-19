@@ -1,5 +1,5 @@
 ---
-imageURL: https://wickedwoods.festivalpro.com/?getPublicFile&ENCSTR=ZNAvdMhxkQLfEIncqMwi
+imageURL: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/RENNIE.png
 logoURL: https://wickedwoods.festivalpro.com/?getFile&FILEID=32571
 kind:
   type: Live Performance

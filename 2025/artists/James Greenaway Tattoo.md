@@ -1,5 +1,5 @@
 ---
-imageURL: https://wickedwoods.festivalpro.com/?getPublicFile&ENCSTR=EXIFbPpbuSrepCovUAEu
+imageURL: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/JamesGreenawayTattoo.jpeg
 logoURL: https://wickedwoods.festivalpro.com/?getFile&FILEID=38407
 kind:
   type: Art & Installations

@@ -1,5 +1,5 @@
 ---
-imageURL: https://wickedwoods.festivalpro.com/?getPublicFile&ENCSTR=yJVTbJljQOTpiGvVKgcK
+imageURL: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/MURGE.jpg
 logoURL: https://wickedwoods.festivalpro.com/?getFile&FILEID=37611
 kind:
   type: Live Performance

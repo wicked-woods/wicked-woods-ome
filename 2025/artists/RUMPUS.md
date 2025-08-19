@@ -1,5 +1,5 @@
 ---
-imageURL: https://wickedwoods.festivalpro.com/?getPublicFile&ENCSTR=ODZqqCZdrjTnoIOXzuvW
+imageURL: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/RUMPUS.jpg
 logoURL: https://wickedwoods.festivalpro.com/?getFile&FILEID=37871
 kind:
   type: Live Performance

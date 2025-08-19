@@ -1,5 +1,5 @@
 ---
-imageURL: https://wickedwoods.festivalpro.com/?getPublicFile&ENCSTR=vmAODOdbLEfAdFjOFfnu
+imageURL: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/Yedgar.jpeg
 logoURL: https://wickedwoods.festivalpro.com/?getFile&FILEID=32237
 kind:
   type: Live Performance

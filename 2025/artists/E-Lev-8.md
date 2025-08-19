@@ -1,5 +1,5 @@
 ---
-imageURL: https://wickedwoods.festivalpro.com/?getPublicFile&ENCSTR=NPtCyqdGXPnuAzXkKFab
+imageURL: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/ELev.jpg
 logoURL: https://wickedwoods.festivalpro.com/?getFile&FILEID=31933
 kind:
   type: Live Performance

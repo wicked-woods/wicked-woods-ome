@@ -1,5 +1,5 @@
 ---
-imageURL: https://wickedwoods.festivalpro.com/?getPublicFile&ENCSTR=BHSQegudoliIVQmQvsiI
+imageURL: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/HandsomeTiger.jpg
 logoURL: https://wickedwoods.festivalpro.com/?getFile&FILEID=36887
 kind:
   type: Live Performance

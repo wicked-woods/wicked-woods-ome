@@ -1,5 +1,5 @@
 ---
-imageURL: https://wickedwoods.festivalpro.com/?getPublicFile&ENCSTR=BWwFoLejXwOafNHjhyqD
+imageURL: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/MoJo.JPG
 logoURL: https://wickedwoods.festivalpro.com/?getFile&FILEID=33401
 links:
 - url: https://soundcloud.com/j_delawsky
