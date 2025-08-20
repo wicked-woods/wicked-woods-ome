@@ -42,10 +42,15 @@ Discover the magic of the Wicked Woods Vendor Market, filled with handcrafted go
 • ZumGarden | Handmade body care and wellness products
 
 **Special Experiences:**
+
 • Braids, styling, and festival-ready looks
+
 • Wellness and massage services to recharge
+
 • Jewelry, crystals, and spiritual tools
+
 • Handcrafted apparel, tie dye, and costumes
+
 • One of a kind artisan pieces made by BC creators
 
-✨ Take home a piece of the Woods and support the creators who make our festival so magical.
+Take home a piece of the Woods and support the creators who make our festival so magical. ✨ 
