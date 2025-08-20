@@ -3,30 +3,66 @@ title: Arrival Information & Parking 🚗
 isPinned: true
 ---
 
-The big day is almost here! Here's everything you need to know about arriving at Wicked Woods 2025:
+**Your Way into the Woods: Arrival Info for Wicked Woods 2025 🌲**
 
-**Festival Address:**
+The countdown is on, and we can't wait to welcome you home to the Woods! To ensure your arrival is as smooth as possible, here's everything you need to know:
+
+**📍 Festival Address**
+
 3901 Kootenay Hwy, Fairmont Hot Springs, BC V0B 1L1, Canada
 
-**Arrival Times:**
-- **Thursday, Aug 28:** 4:00 PM - 10:00 PM (Camping setup only)
-- **Friday, Aug 29:** 10:00 AM - 11:00 PM (Festival begins)
-- **Saturday & Sunday:** Gates open at 10:00 AM
+**🕒 Arrival Times**
 
-**Parking Options:**
-- **General Parking** - FREE (10-minute walk to festival grounds, shuttle service every 15 minutes)
-- **VIP Parking** - $50 (Premium spots closer to entrance, must be purchased in advance)
-- **Camping Parking** - Included with camping pass (Park right next to your campsite, load-in assistance available)
+**Thursday, Aug 28 – Early Entry**
 
-**Important Notes:**
-- NO re-entry for day passes ⚠️
-- Vehicle searches may occur
-- Have your tickets and ID ready
-- Follow staff directions for smooth entry
+7:00 AM: Highway gate opens for vehicle line-up.
 
-**Getting There:**
-- From Calgary: 3.5 hours via Trans-Canada Highway
-- From Vancouver: 4.5 hours via Coquihalla Highway
-- Nearest airport: Calgary International (YYC)
+8:00 AM – 10:00 PM: Access to camping zones.
 
-See you at the gates! 🎪✨
+10:00 PM – 2:00 AM: Roads into camping zones close. Late arrivals will have vehicles staged in free overnight parking but can check in and walk gear to campsites. Vehicles can move into camping zones the next morning at 8:00 AM if a parking pass was purchased.
+
+2:00 AM – 7:00 AM: Highway gate closed. Emergency exits are available for emergencies only.
+
+**Friday, Aug 29 – Sunday, Sept 1 – Regular GA Entry**
+
+7:00 AM: Highway gate opens for vehicle line-up.
+
+8:00 AM: Camping zones accessible.
+
+10:00 PM – 2:00 AM: Roads into camping zones close. Late arrivals will have vehicles staged in free overnight parking but can check in and walk gear to campsites. Vehicles can move into camping zones the next morning at 8:00 AM if a parking pass was purchased.
+
+2:00 AM – 7:00 AM: Highway gate closed. Security is available for emergencies only.
+
+**🚗 Parking & Camping Passes**
+
+As of now, all camping and parking passes are sold out. If you have already secured a pass, please ensure:
+
+Claim your ticket in your User Portal.
+
+Transfer any extra tickets to friends before arriving.
+
+Group all passes into one QR code for fast check-in.
+
+If you do not have a camping or parking pass, you will not be permitted to camp with your vehicle. Free parking is available at the front gate, a short walk from the festival grounds.
+
+**💳 Gate Payments**
+
+Credit, debit, and cash are accepted at the gate. Cards are faster and easier for our Gate Crew, but cash is always welcome.
+
+**⚠️ Important Notes**
+
+No driving on-site after 10:00 PM – vehicles staged overnight.
+
+Highway gate closed 2:00 AM – 7:00 AM, with security available for emergencies only.
+
+Have tickets and ID ready, and follow staff directions for smooth entry.
+
+**🗺️ Getting There**
+
+From Calgary: ~3.5 hours via Trans-Canada Highway.
+
+From Vancouver: ~4.5 hours via Coquihalla Highway.
+
+Nearest airport: Calgary International (YYC).
+
+Pack smart, arrive ready, and get set for a weekend of music, magic, and community in the Woods.
