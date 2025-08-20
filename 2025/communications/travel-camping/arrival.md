@@ -38,7 +38,7 @@ The countdown is on, and we can't wait to welcome you home to the Woods! To ensu
 
 **🚗 Parking & Camping Passes**
 
-As of now, all camping and parking passes are sold out. If you have already secured a pass, please ensure:
+As of now, almost all camping and parking passes are sold out. If you have already secured a pass, please ensure:
 
 Claim your ticket in your User Portal.
 
