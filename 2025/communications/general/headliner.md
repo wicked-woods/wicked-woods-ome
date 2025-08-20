@@ -1,16 +1,13 @@
 ---
-title: Secret Headliner Revealed 🤫
+title: Double Headliner Revealed 🤫
 ---
 
-After weeks of speculation and cryptic clues, we're finally ready to reveal our secret headliner...
+**Stylust** is back in the Woods 🌲🔥
 
-**STYLUST** is coming to Wicked Woods 2025! 🎉
+Twice the sets, twice the chaos, twice the magic 🌞🌌
+Catch Stylust at the Hallow serving golden-hour hip hop on Friday, Aug 29 | 4:00 PM – 5:00 PM and come back for a late-night bass-driven session on Sunday, Aug 31 | 11:30 PM – 1:00 AM.
 
-This bass music innovator will be closing out Saturday night at The Portal stage with a special extended set that promises to be absolutely legendary.
+Expect heavy low-end, rolling subs, and that signature sound system energy that shakes the forest floor 🎶💥
+We’ve got a few surprises hiding in the shadows 😉✨
 
-For those who guessed correctly on our social media posts - check your DMs for a special surprise! 👀
-
-**Set Time:** Saturday, August 30th - 11:30 PM - 1:00 AM  
-**Location:** The Portal Stage
-
-The woods are about to get wicked! 🌲⚡
+The Woods are ready. Are you ready to move? ⚡
