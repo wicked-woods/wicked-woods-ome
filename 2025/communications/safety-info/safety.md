@@ -17,10 +17,10 @@ Call now for Fire - Medical - Security - Outreach
 - Apply sunscreen regularly (mountain sun is intense!)
 
 **Harm Reduction:**
-- Free drug testing available at the Harm Reduction tent
+- Free drug testing available at the ANKORS Harm Reduction tent
 - Medical team on-site 24/7
 - Fentanyl test strips available
-- "Trip sitting" volunteers available if needed
+- "Trip sitting" professionals available at the Sanctuary if needed
 
 **Weather Preparedness:**
 - Mountain weather changes quickly
@@ -37,6 +37,6 @@ Call now for Fire - Medical - Security - Outreach
 **Wildlife Awareness:**
 - We're in bear country - secure food properly
 - Don't approach or feed wildlife
-- Report any wildlife sightings to security
+- Report any wildlife sightings to the SOS line roving security
 
 Remember: If you see something, say something. Our staff and volunteers are here to help make this an amazing experience for everyone! ✨
