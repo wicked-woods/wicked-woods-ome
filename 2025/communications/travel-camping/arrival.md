@@ -44,8 +44,6 @@ Claim your ticket in your User Portal.
 
 Transfer any extra tickets to friends before arriving.
 
-Group all passes into one QR code for fast check-in.
-
 If you do not have a camping or parking pass, you will not be permitted to camp with your vehicle. Free parking is available at the front gate, a short walk from the festival grounds.
 
 
