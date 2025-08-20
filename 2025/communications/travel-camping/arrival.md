@@ -7,9 +7,11 @@ isPinned: true
 
 The countdown is on, and we can't wait to welcome you home to the Woods! To ensure your arrival is as smooth as possible, here's everything you need to know:
 
+
 **📍 Festival Address**
 
 3901 Kootenay Hwy, Fairmont Hot Springs, BC V0B 1L1, Canada
+
 
 **🕒 Arrival Times**
 
@@ -33,6 +35,7 @@ The countdown is on, and we can't wait to welcome you home to the Woods! To ensu
 
 2:00 AM – 7:00 AM: Highway gate closed. Security is available for emergencies only.
 
+
 **🚗 Parking & Camping Passes**
 
 As of now, all camping and parking passes are sold out. If you have already secured a pass, please ensure:
@@ -45,9 +48,11 @@ Group all passes into one QR code for fast check-in.
 
 If you do not have a camping or parking pass, you will not be permitted to camp with your vehicle. Free parking is available at the front gate, a short walk from the festival grounds.
 
+
 **💳 Gate Payments**
 
 Credit, debit, and cash are accepted at the gate. Cards are faster and easier for our Gate Crew, but cash is always welcome.
+
 
 **⚠️ Important Notes**
 
@@ -56,6 +61,7 @@ No driving on-site after 10:00 PM – vehicles staged overnight.
 Highway gate closed 2:00 AM – 7:00 AM, with security available for emergencies only.
 
 Have tickets and ID ready, and follow staff directions for smooth entry.
+
 
 **🗺️ Getting There**
 
