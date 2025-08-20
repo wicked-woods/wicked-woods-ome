@@ -1,4 +1,5 @@
 ---
+imageURL: https://firebasestorage.googleapis.com/v0/b/festivl.appspot.com/o/wicked-woods-2025%2FEly%20Oaks%202.jpg?alt=media&token=58041ea0-a92b-45c1-ac5c-82e198695d50
 logoURL: https://wickedwoods.festivalpro.com/?getFile&FILEID=36875
 kind:
   type: Live Performance
