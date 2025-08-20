@@ -6,39 +6,40 @@ isPinned: false
 Discover the magic of the Wicked Woods Vendor Market, filled with handcrafted goods, festival fashion, and unique services.
 
 **Artisan Goods & Services: Open daily**
-• Arcane Coda (Alternative fashion and art)
 
-• Archive Boutique (Curated festival wear)
+• Arcane Coda | Alternative fashion and art
 
-• Beyond The Spectrum (Handmade creations and accessories)
+• Archive Boutique | Curated festival wear
 
-• Earth Nynja (Jewelry and unique goods)
+• Beyond The Spectrum | Handmade creations and accessories 
 
-• Furdaze Bazaar (Festival fashion and furry flair)
+• Earth Nynja  | Jewelry and unique goods
 
-• Hurt So Good Ltd. (Massage and body care)
+• Furdaze Bazaar | Festival fashion and furry flair
 
-• Lewis Mayhem (Handmade clothing and costumes)
+• Hurt So Good Ltd. | Massage and body care
 
-• Lollop Clothing (Playful apparel for free spirits)
+• Lewis Mayhem | Handmade clothing and costumes
 
-• Mystic Roots (Crystals and spiritual treasures)
+• Lollop Clothing | Playful apparel for free spirits
 
-• P.licious Tie Dy (Tie dye apparel and goods)
+• Mystic Roots | Crystals and spiritual treasures
 
-• Revibe-Energy (Holistic healing and wellness)
+• P.licious Tie Dy | Tie dye apparel and goods
 
-• Sage Stone / Nostalgic Reveur (Jewelry and artisan crafts)
+• Revibe-Energy | Holistic healing and wellness
 
-• Street Rock (Rock inspired fashion and gear)
+• Sage Stone / Nostalgic Reveur | Jewelry and artisan crafts
 
-• Third Eye Pinecones (Jewelry from real pinecones)
+• Street Rock | Rock inspired fashion and gear
 
-• Uncommon Commodities (One of a kind artisan goods)
+• Third Eye Pinecones | Jewelry from real pinecones
 
-• Vybe Beauty Salon (Braids and festival hair styling)
+• Uncommon Commodities | One of a kind artisan goods
 
-• ZumGarden (Handmade body care and wellness products)
+• Vybe Beauty Salon | Braids and festival hair styling
+
+• ZumGarden | Handmade body care and wellness products
 
 **Special Experiences:**
 • Braids, styling, and festival-ready looks
