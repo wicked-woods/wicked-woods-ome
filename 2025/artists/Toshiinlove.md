@@ -1,5 +1,5 @@
 ---
-imageURL: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/Toshiinlove.jpg
+imageURL: https://firebasestorage.googleapis.com/v0/b/festivl.appspot.com/o/wicked-woods-2025%2FToshiinlove%20Artist%20Update%20Aug%2019.jpg?alt=media&token=99035b55-d4e1-49ee-9979-742fd90d8b92
 logoURL: https://wickedwoods.festivalpro.com/?getFile&FILEID=34255
 kind:
   type: Live Performance
