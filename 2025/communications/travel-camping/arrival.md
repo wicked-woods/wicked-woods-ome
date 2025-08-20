@@ -65,7 +65,7 @@ Have tickets and ID ready, and follow staff directions for smooth entry.
 
 From Calgary: ~3.5 hours via Trans-Canada Highway.
 
-From Kelowna: ~4.5 hours via Coquihalla Highway.
+From Kelowna: ~4.5 hours via Okanagan Highway.
 
 Nearest airport: Calgary International (YYC).
 
