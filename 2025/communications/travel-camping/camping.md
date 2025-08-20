@@ -16,17 +16,18 @@ Get ready for an unforgettable camping experience in the Canadian Rockies! Here'
 - Warm layers for nighttime
 
 **What's Provided:**
-- Firewood available for purchase on-site
+- Ice available for purchase on-site
 - Portable washrooms throughout camping area
 - Fresh water fill stations
-- 24/7 security patrols
+- 24/7 outreach + security patrols
 
 **Camping Rules:**
 - NO glass containers in camping area 🚫
-- NO generators after 10 PM
-- NO fires outside designated fire pits
+- NO driving in campground after 10 PM
+- NO fuel generators!
+- NO fires!
 - Keep campsites clean - Leave No Trace!
-- Quiet hours: 2 AM - 8 AM
+- Campground Quiet hours: 2 AM - 8 AM
 
 **Pro Tips:**
 - Bring a wagon for easy gear transport
@@ -34,4 +35,4 @@ Get ready for an unforgettable camping experience in the Canadian Rockies! Here'
 - Don't forget swimwear for the hot springs!
 - Bring cash for on-site vendors
 
-Questions? Our camping team will be on-site from Thursday afternoon to help you get settled! ✨
+Questions? Our team will be on-site from Thursday Morning onwards to help you get settled! ✨
