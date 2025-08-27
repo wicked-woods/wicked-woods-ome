@@ -1,5 +1,5 @@
 ---
-imageURL: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/StokedAcroyoga.png
+imageURL: https://firebasestorage.googleapis.com/v0/b/festivl.appspot.com/o/wicked-woods-2025%2FAll%20Levels%20AcroYoga.jpg?alt=media&token=69eb9acb-3499-46b6-9509-4171a897afe5
 kind:
   type: Workshop
 links:
@@ -7,4 +7,9 @@ links:
   linkType:
     label: instagram
 ---
-Felicia rooted in Winnipeg for her first 20 years and spent the following ten travelling all of North America to become an expert on all things movement! She loves to flow by practicing partner acro dance, rockabilly jive, rock climbing, slackline, and above all - acroyoga! Felicia acquired her Acroyoga Teacher Training certificate from Acroyoga Calgary in 2023, and has been teaching weekly acro workshops ever since! She travels regularly across North America to acro festivals to bring you the latest inspiration from the acrobatics, yoga, cheer, and acro-dance communities. Felicia’s Grandpa said it best, “I always know that Felicia is okay because I check her Facebook photos and see that she’s still standing – on her hands!”
+
+Jamie is a seasoned Pilates and AcroYoga instructor with over 15 years of teaching experience. Certified through the Physical Mind Institute and trained with AcroYoga Calgary, Jamie has been practicing AcroYoga since 2017 and brings a deep love for movement, connection, and community to every class.
+
+As the co-founder of Stoked Acroyoga in Revelstoke, BC, Jamie has cultivated a vibrant local scene through weekly classes and the beloved Wednesday Wobbles jam—an open space for slackline, yoga, and acro play. Jamie’s workshops are rooted in trust, communication, and joy, lifting people up both physically and emotionally.
+
+Kenzie has a background in recreational gymnastics and competitive rock climbing. Besides partner acrobatics, these days they enjoy learning parkour and dance, trail running and of course going to the gym. Kenzie has been a tree planter for 7 years and is currently studying massage therapy. Movement is the common thread weaving its way through their life    
