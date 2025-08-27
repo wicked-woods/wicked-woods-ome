@@ -1,5 +1,5 @@
 ---
-imageURL: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/StokedAcroyoga.png
+imageURL: https://firebasestorage.googleapis.com/v0/b/festivl.appspot.com/o/wicked-woods-2025%2FAll%20Levels%20AcroYoga.jpg?alt=media&token=69eb9acb-3499-46b6-9509-4171a897afe5
 kind:
   type: Workshop
 links:
