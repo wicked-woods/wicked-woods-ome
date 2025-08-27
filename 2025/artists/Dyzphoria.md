@@ -1,5 +1,5 @@
 ---
-imageURL: https://firebasestorage.googleapis.com/v0/b/festivl.appspot.com/o/wicked-woods-2025%2FDyzphoria.jpg?alt=media&token=55efdb04-9d19-42c3-81ee-fbda1f9dd0d4
+imageURL: 'https://firebasestorage.googleapis.com/v0/b/festivl.appspot.com/o/wicked-woods-2025%2FDyzphoria.jpg?alt=media&token=55efdb04-9d19-42c3-81ee-fbda1f9dd0d4'
 ---
 
 Dyzphoria, often cited as one of the early originators of the Wave Music genre, has made an impact on the scene through his emotional, atmospheric music. Drawing inspiration from nature, personal experiences, and the hardships of ever-changing modern culture, Dyzphoria creates dark, ethereal, trappy music and showcases a selection of genre-melding wave, electronic, and hip-hop tunes in his performances.
