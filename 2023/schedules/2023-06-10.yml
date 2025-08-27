@@ -53,7 +53,8 @@ performances:
     time: 7:30 AM
   - artist: Llama
     time: 9:00 AM
-  - artists:
+  - title: "Civillian & Robbie C"
+    artists:
     - Civillian
     - Robbie C
     time: 10:30 AM
@@ -79,7 +80,8 @@ performances:
     time: 3:30 AM
   - artist: Metafloor
     time: 4:30 AM
-  - artists:
+  - title: "Strange Manner, Yontzie, Kismet, Djenerate, Mary Jane & Wadjit"
+    artists:
     - Strange Manner
     - Yontzie
     - Kismet
