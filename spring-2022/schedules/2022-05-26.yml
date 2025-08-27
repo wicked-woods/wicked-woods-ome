@@ -51,7 +51,8 @@ performances:
     time: 9:00 PM
   - artist: WakCutt
     time: 10:00 PM
-  - artists:
+  - title: "Vinyl Ritchie & Foxy Moron"
+    artists:
     - Vinyl Ritchie
     - Foxy Moron
     time: 11:00 PM

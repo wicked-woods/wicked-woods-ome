@@ -17,7 +17,8 @@ performances:
     time: 7:30 PM
   - artist: Greymoon
     time: 8:30 PM
-  - artists:
+  - title: "sean beaver, Caylem Simeon, Wolf Collar & BLKFT"
+    artists:
     - sean beaver
     - Caylem Simeon
     - Wolf Collar
@@ -33,7 +34,8 @@ performances:
     time: 5:30 AM
     endTime: 7:00 AM
   The Unicorn Lounge:
-  - artists:
+  - title: "Mat B & Ohm Girl"
+    artists:
     - Mat B
     - Ohm Girl
     time: 1:00 PM
@@ -59,7 +61,8 @@ performances:
     time: 2:30 AM
   - artist: Reflektor
     time: 4:00 AM
-  - artists:
+  - title: "Swaggacats, Tone D. & Boneless"
+    artists:
     - Swaggacats
     - Tone D.
     - Boneless
@@ -85,7 +88,8 @@ performances:
   The Hallow:
   - artist: Robbie C
     time: 3:00 PM
-  - artists:
+  - title: "Ninjette & Thug Shells"
+    artists:
     - Ninjette
     - Thug Shells
     time: 4:00 PM

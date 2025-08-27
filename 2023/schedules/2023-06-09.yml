@@ -21,7 +21,8 @@ performances:
     time: 10:30 PM
   - artist: Wraz
     time: 11:30 PM
-  - artists:
+  - title: "m4xw311, dove & skobe"
+    artists:
     - m4xw311
     - dove
     - skobe
@@ -42,7 +43,8 @@ performances:
     time: 4:30 PM
   - artist: Skreid
     time: 5:30 PM
-  - artists:
+  - title: "J-Reds, Theory, Def3 & Paradox Life"
+    artists:
     - J-Reds
     - Theory
     - Def3
@@ -66,7 +68,8 @@ performances:
   The Hallow:
   - artist: FunkinRight
     time: 3:00 PM
-  - artists:
+  - title: "Ninjette & Thug Shells"
+    artists:
     - Ninjette
     - Thug Shells
     time: 4:00 PM
