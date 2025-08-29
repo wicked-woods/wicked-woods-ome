@@ -6,7 +6,8 @@ performances:
   - artist: 'Dirty Mits Mama ft. 14 Flamingos '
     time: 4:30 PM
     endTime: 5:30 PM
-  - artists:
+  - title: "Thugshells, Newman, Trooknot, Rubix, Fallen Wall & The W.O.K.E"
+    artists:
     - Thugshells
     - Newman
     - Trooknot
@@ -58,7 +59,8 @@ performances:
     time: 6:30 AM
     endTime: 8:30 AM
   Unicorn Lounge:
-  - artists:
+  - title: "Djenerate, Guru, Logo, Mary Jane, Strange Manner, Swayze, Wadjit & Yontzie"
+    artists:
     - Djenerate
     - Guru
     - Logo
@@ -68,7 +70,8 @@ performances:
     - Wadjit
     - Yontzie
     time: 12:00 PM
-  - artists:
+  - title: "Bass Cat, Distinct, Droplet, Kid-Dee, Mittz & Miss Fudge"
+    artists:
     - Bass Cat
     - Distinct
     - Droplet
@@ -88,11 +91,13 @@ performances:
     time: 12:30 AM
   - artist: Diligent
     time: 2:00 AM
-  - artists:
+  - title: "Mat B & Ohm Girl"
+    artists:
     - Mat B
     - Ohm Girl
     time: 3:00 AM
-  - artists:
+  - title: "Alan Flava, E-Lev-8, Killups & Wigginz"
+    artists:
     - Alan Flava
     - E-Lev-8
     - Killups
