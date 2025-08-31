@@ -21,8 +21,9 @@ performances:
   - artist: Rosso
     time: 8:00 PM
 
-  - artist: Howl  
+  - artist: Howl
     time: 9:00 PM
+    performanceRecording: https://soundcloud.com/ritualmagick_howl/drown
 
   - artist: Handsome Tiger
     time: 10:00 PM
@@ -44,6 +45,7 @@ performances:
 
   - artist: MisfortuneCat
     time: 4:30 AM
+    performanceRecording: https://soundcloud.com/misfortunecat/entertheportal
 
   - artist: Young Dene
     time: 5:30 AM
@@ -53,6 +55,7 @@ performances:
 
   - artist: Bonzai
     time: 7:30 AM
+    performanceRecording: https://soundcloud.com/kai-bonzai/portal-realm-wicked-woods-25
 
   - title: Portal Fam Jam
     time: 8:30 AM
@@ -65,16 +68,19 @@ performances:
   Unicorn Lounge:
   - artist: Ration L
     time: 3:00 PM
+    performanceRecording: https://soundcloud.com/lewis-wood-691805040/wicked-woods-2025-live-from
 
   - artist: Jennay Badger
     time: 4:00 PM
 
   - artist: Bunny Hops
     time: 5:00 PM
+    performanceRecording: https://soundcloud.com/alexhops/bunny-hops-at-wicked-woods-2025
 
   - artist: J9
     time: 6:00 PM
-
+    performanceRecording: https://soundcloud.com/user-144122538/45e7714a-2e89-439a-989e-26d7dc1ea111
+    
   - artist: Maculate
     time: 7:00 PM
 
@@ -106,10 +112,12 @@ performances:
   - artist: JONTIN
     time: 4:30 AM
     endTime: 6:00 AM
+    performanceRecording: https://soundcloud.com/jontin1/unicorn-lounge-wicked-woods-2025
 
   - artist: Jennee Pleeze
     time: 6:00 AM
     endTime: 7:30 AM
+    performanceRecording: https://soundcloud.com/jenneepleeze/a-wicked-morning-in-the-woods
 
   - artist: Just K8
     time: 7:30 AM
@@ -130,6 +138,7 @@ performances:
 
   - artist: Bass Cat
     time: 6:00 PM
+    performanceRecording: https://soundcloud.com/deejaybasscat/hallow-bass-cat-2025
 
   - artist: J.F. Killah
     time: 7:00 PM

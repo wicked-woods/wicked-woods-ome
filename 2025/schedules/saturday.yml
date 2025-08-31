@@ -24,6 +24,7 @@ performances:
 
   - artist: TRIOS
     time: 10:00 PM
+    performanceRecording: https://soundcloud.com/triosbeats/wickedwoods25
 
   - artist: Substance
     time: 11:00 PM
@@ -40,6 +41,7 @@ performances:
 
   - artist: lil stitious
     time: 4:00 AM
+    performanceRecording: https://soundcloud.com/lil-stitious/4-am-at-the-portal
 
   - artist: Faeble
     time: 5:00 AM
@@ -51,13 +53,16 @@ performances:
   Unicorn Lounge:
   - artist: KristalKrom
     time: 3:30 PM
+    performanceRecording: https://soundcloud.com/kristalkrom/kristalkrom-wicked-woods-2025
 
   - artist: LVL
     time: 4:30 PM
     endTime: 6:00 PM
+    performanceRecording: https://soundcloud.com/lvl-collective/lvl-at-wicked-woods-2025
 
   - artist: E-Lev-8
     time: 6:00 PM
+    performanceRecording: https://soundcloud.com/e-lev-8/wickedwoods-25
 
   - artist: Phatz
     time: 7:00 PM
@@ -74,6 +79,7 @@ performances:
   - artist: PSYOPS
     time: 11:00 PM
     endTime: 12:30 AM
+    performanceRecording: https://soundcloud.com/psyopsteam/ww2025
 
   - artist: TC
     time: 12:30 AM
@@ -89,10 +95,12 @@ performances:
 
   - artist: Luna Deep
     time: 5:00 AM
+    performanceRecording: https://soundcloud.com/freakyfunky11/5am-in-the-unicorn-lounge
 
   - artist: Dolla Hilz
     time: 6:00 AM
     endTime: 7:00 AM
+    performanceRecording: https://soundcloud.com/dollahilz/ww
   
   The Hallow:
   - artist: The Digglet
@@ -109,6 +117,7 @@ performances:
 
   - artist: DJKJ
     time: 8:00 PM
+    performanceRecording: https://soundcloud.com/djkj-1/para-wicked-2025
 
   - artist: Mr. Diggler
     time: 9:00 PM
@@ -123,6 +132,7 @@ performances:
   - artist: Ely Oaks
     time: 12:30 AM
     endTime: 2:00 AM
+    performanceRecording: https://www.youtube.com/watch?v=GM195gYp6FI
 
   - artist: Neon Steve
     time: 2:00 AM
@@ -133,6 +143,7 @@ performances:
 
   - artist: I.M.Fast
     time: 4:30 AM
+    performanceRecording: https://soundcloud.com/imfastmusic/imfast-wicked-woods-mf-2025-hallow-stage
 
   - artist: Naturalist
     time: 5:30 AM
@@ -174,6 +185,7 @@ performances:
       - Big Medicine
       - Fram3s
     time: 3:00 AM
+    performanceRecording: https://soundcloud.com/faro-burgoyne-187306933/perscription-mix
 
   - artist: Skreid
     time: 4:00 AM
