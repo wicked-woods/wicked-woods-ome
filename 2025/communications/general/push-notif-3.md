@@ -1,6 +1,6 @@
 ---
 title: 🔥 Tonight’s Headliners 🔥
-sendPush: true:
+sendPush: true
 ---
 Felix Cartal @ Hallow 11PM
 Ely Oaks @ Hallow 1230AM
