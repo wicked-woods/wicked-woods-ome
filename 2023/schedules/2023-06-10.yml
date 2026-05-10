@@ -77,8 +77,8 @@ performances:
 
   - artist: Woofax
     time: 2:30 AM
-    performanceRecordings:
-        - url: https://www.youtube.com/watch?v=Z4fYUHtfTkY
+    recordings:
+    - url: https://www.youtube.com/watch?v=Z4fYUHtfTkY
 
   - artist: GREAZUS
     time: 3:30 AM

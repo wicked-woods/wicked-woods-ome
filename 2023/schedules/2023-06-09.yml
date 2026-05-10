@@ -20,8 +20,8 @@ performances:
 
   - artist: Die By The Sword
     time: 10:30 PM
-    performanceRecordings:
-        - url: https://www.youtube.com/watch?v=EhNz-guvBT4
+    recordings:
+    - url: https://www.youtube.com/watch?v=EhNz-guvBT4
         
   - artist: Wraz
     time: 11:30 PM
