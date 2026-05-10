@@ -2,7 +2,8 @@ name: Wicked Woods (May 2022)
 startDate: 5/26/2022
 endDate: 5/28/2022
 address: 3901 Kootenay Hwy, Fairmont Hot Springs, BC V0B 1L1, Canada
-timeZone: America/Denver
+timeZone:
+  identifier: America/Denver
 iconImageURL: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2FDAA28B1F-8634-49ED-B740-435A751FAAC6.png?alt=media&token=3359edfa-99c5-4b8e-bb39-417f6ce0cfe4
 siteMapImageURL: https://edm.com/.image/t_share/MTg4NzQ0ODA4NzcxMTAyNDUy/festival-map-final-1300x1300.png
 contactNumber:
@@ -27,4 +28,3 @@ stages:
 - name: Ursus
   iconImageURL: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2F4C600F9E-D218-4340-AC09-DFC22F378734.png?alt=media&token=27e7da65-75a9-4d79-8e79-060953ea7ed1
   color: 0x6E4E5A
-
