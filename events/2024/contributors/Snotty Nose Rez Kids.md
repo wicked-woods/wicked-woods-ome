@@ -1,0 +1,12 @@
+---
+name: "Snotty Nose Rez Kids"
+imageURL: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2FE0AD0EA3-E205-4694-9775-EE833629BFA5.png?alt=media&token=87412b99-d0e0-47fa-9a73-6818059451e5
+links:
+- url: https://soundcloud.com/snottynoserezkids
+- url: https://snottynoserezkids.com/
+- url: https://open.spotify.com/artist/16T3el1CEjX49qFA7UT2n5?si=v-fiVtqeQUWTdarGUgQ3IQ
+- url: https://www.youtube.com/@SnottyNoseRezKids
+- url: https://www.instagram.com/snottynoserezkids/
+- url: https://www.facebook.com/snottynoserezkids
+---
+Snotty Nose Rez Kids tore into the music scene with unmistakeable talent and an unforgettable name. Showing off their lyrical prowess and natural storytelling ability, Yung Trybez and Young D jumpstarted the band with two back-to-back albums in 2017. Their follow up album, 2019’s TRAPLINE, really launched their career with hit “Boujee Natives,” and multiple awards including their first Juno nomination. The band took their high voltage live show on the road and clocked 100 shows in 6 different countries. Their pandemic album, LIFE AFTER, saw greater industry recognition with multiple music magazine cover stories, and strong streaming platform support including Billboard advertisements in Toronto’s Yonge-Dundas Square, playlist cover images, and an Amazon Twitch Channel Takeover. Taking the album on the road, the band toured 80 shows in support of the album across North America. They received their second Juno nomination and performed during the live broadcast. They were invited by The Toronto Raptors to play a half time show, and to the Vancouver Canucks to play in-between periods. Their 2022 project, I’M GOOD, HBU? elevated their career to new heights, and saw them receive their fourth Polaris Prize Shortlist, a win for top music video of the year at the Prism Prize Awards for their Beatles-inspired, DAMN RIGHT, and landed them 3 Western Canadian Music Awards, bringing their tally to 13 wins so far. SNRK have gone on to dominate in Hip-Hop music, most recently achieving their biggest milestone, signing to Sony Music. SNRK are blazing their own path, weaving together a musical fabric of hard-hitting lyricism, revealing stories about the struggles they and their people have encountered, empowering protest songs for the front lines, and a humor that keeps even the heaviest of topics something you can vibe to.

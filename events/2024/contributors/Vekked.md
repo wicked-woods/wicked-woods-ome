@@ -1,0 +1,8 @@
+---
+name: "Vekked"
+imageURL: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2F95C10FEB-0DD8-4919-A77B-CC3F08AF7C02.png?alt=media&token=6c01a982-e141-4e24-a11e-362561545fd0
+links:
+- url: https://www.youtube.com/vekked
+- url: https://www.instagram.com/vekked/
+---
+With 7 World DJ Championship titles to his name, Vekked is one of the most decorated competition DJs of all time and the only DJ to win titles in every category of the DMC World Championships. In addition to his competition success, a video of his winning routine went viral gaining coverage from mainstream media and shares from various celebrities. To date it has amassed over 7 million views on YouTube making it one of the most watched DJ sets ever. After taking over the DJ battle circuit, Vekked shifted gears into party rocking with turntablism-infused, multi-genre DnB and bass music sets which have landed him headlining slots on festival stages such as Shambhala, Evolve, Vibrant, Connect, Sonic Springs, Emotion, Wicked Woods, Fozzyfest, Tribal Gathering (Panama), Stress Free Festival (New York), and Kame World (New Zealand), Under Pressure, and House of Paint just to name a few. His DJ talents have taken him on multiple solo tours from coast to coast across Canada and the U.S, and his production talents can be heard on various scores playing on major networks such as YTV, and Nickelodeon.

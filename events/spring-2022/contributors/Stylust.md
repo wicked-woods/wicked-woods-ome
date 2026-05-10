@@ -1,0 +1,17 @@
+---
+name: "Stylust"
+imageURL: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2F5C909BEE-C751-4496-BFAA-11D234E2EEA5.png?alt=media&token=50a81e4d-3add-4ed2-9b90-0b3d98a937d7
+links:
+- url: https://soundcloud.com/stylustbeats
+- url: https://www.stylustbeats.net/
+- url: https://open.spotify.com/artist/2Y1LgWOVPz5m1qCuzkWEQu?autoplay=true
+---
+Known for his sleeveless, whimsical synergy with the fans, Geoff “Stylust Beats” Reich has been creating his own counterculture since he was a teenager. A skate punk and hip-hop devotee, this groundbreaking DJ’s talent for fusing rap hooks and dubstep bass with multiple music genres has earned him the rep as a creative renegade carving his own path. With a style that captivates lovers of all music, the Canadian-bred San Francisco DJ has emerged as a frontrunner in the new wave of industry heavyweights. In a interview for MusicYouNeed.net, this stereophonic chameleon explains the method to his madness, “My goal is to make timeless bass music: I try to make every track an epic melodic adventure through many different genres.”
+
+With unabashed rebellion and seamless finesse, Stylust Beats captains this musical trip through uncharted waters on his new album, R.Y.F.S.O., released in Fall 2013 on the formidable bass label, Play Me Free Records. Weaving genres of trap, hip-hop, larger-than-life dubstep and sonic chill with stupefying synth work, R.Y.F.S.O. boasts a kaleidoscope of sound yet un-experienced in the market. Not far removed from his award-nominated Soundbwoy EP, Stylust is showing no sign of backing down from the innovative stylism that has earned him well over a million SoundCloud plays to date.
+
+Blending classic turntablism with cutting edge tech prowess, Geoff has been touring as DJ Stylust Beats since 2008. Stretching all over the United States, Canada and Costa Rica, he has headlined major festivals, including Shambala, Envision and Burning Man, to name a few. With the 2014 festival season already in full swing, this bass-slinging workhorse will be slaying dance floors across North America all summer long.
+
+Inspired by his older brother who was in a band, Stylust Beats began testing his musical mettle on the wheels of steel in 1998. His imaginative spins of counterintuitive genres were new territory back then, and he quickly gained fame as a fearless, party-rocking DJ reinventing the game. Within a couple of years, he took on the daunting challenge of producing and managing his own recording house, All-In Studios, which he ran successfully for ten years. This was the laboratory within which Stylust evolved from bass DJ to mad scientist, cutting his own brand of sonic mixology and perfecting his craft as prime-time producer.
+
+Sporting his first full-length album, R.Y.F.S.O., Stylust Beats is poised to rip the sleeves off the dubstep status quo, blazing a new trail of sound that will redefine the industry norms. But don’t be fooled by his rebel-without-a-care persona: with his own label, Sleeveless Records, Stylust is a consummate pro with a passion for his art form and global respect within his reach. Best described in his own words, just “Rip Yer F#*ckin’ Sleeves Off!

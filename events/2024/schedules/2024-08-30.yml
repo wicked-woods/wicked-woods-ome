@@ -1,0 +1,172 @@
+date: '2024-08-30'
+performances:
+  the-portal:
+  - title: Portal Opening Ceremony
+    startTime: '16:00'
+    contributorIDs:
+    - Portal Opening Ceremony
+  - title: BLKFT
+    startTime: '16:30'
+    contributorIDs:
+    - BLKFT
+  - title: Flatspin
+    startTime: '17:30'
+    contributorIDs:
+    - Flatspin
+  - title: FunDipz
+    startTime: '18:30'
+    contributorIDs:
+    - FunDipz
+  - title: B Hazzy
+    startTime: '19:30'
+    contributorIDs:
+    - B Hazzy
+  - title: Steppin'West
+    startTime: '20:30'
+    contributorIDs:
+    - Steppin'West
+  - title: Free Samples
+    startTime: '21:30'
+    contributorIDs:
+    - Free Samples
+  - title: Stormecloudz
+    startTime: '22:30'
+    contributorIDs:
+    - Stormecloudz
+  - title: Birdhaus
+    startTime: '23:30'
+    contributorIDs:
+    - Birdhaus
+  - title: Bunny Pancake
+    startTime: '00:30'
+    contributorIDs:
+    - Bunny Pancake
+  - title: R & R
+    startTime: '01:30'
+    contributorIDs:
+    - R & R
+  - title: Secret Headliner
+    startTime: '03:00'
+    contributorIDs:
+    - Secret Headliner
+  - title: JYVY
+    startTime: '04:00'
+    contributorIDs:
+    - JYVY
+  - title: MAE B
+    startTime: '05:00'
+    contributorIDs:
+    - MAE B
+  - title: Noodles
+    startTime: '06:00'
+    endTime: '07:00'
+    contributorIDs:
+    - Noodles
+  unicorn-lounge:
+  - title: Chimp It
+    startTime: '16:00'
+    contributorIDs:
+    - Chimp It
+  - title: Fram3s
+    startTime: '17:00'
+    contributorIDs:
+    - Fram3s
+  - title: Funkin' Right
+    startTime: '18:00'
+    contributorIDs:
+    - Funkin' Right
+  - title: Double Trouble
+    startTime: '19:00'
+    contributorIDs:
+    - Double Trouble
+  - title: Prayer Handz
+    startTime: '20:30'
+    contributorIDs:
+    - Prayer Handz
+  - title: Mr. Diggler
+    startTime: '21:30'
+    contributorIDs:
+    - Mr. Diggler
+  - title: Burchill
+    startTime: '22:30'
+    contributorIDs:
+    - Burchill
+  - title: Qdup
+    startTime: '23:30'
+    contributorIDs:
+    - Qdup
+  - title: Fort Knox Five
+    startTime: '00:45'
+    contributorIDs:
+    - Fort Knox Five
+  - title: Freddy J
+    startTime: '02:00'
+    contributorIDs:
+    - Freddy J
+  - title: Underdog
+    startTime: '03:00'
+    endTime: '04:00'
+    contributorIDs:
+    - Underdog
+  the-hallow:
+  - title: Opening Ceremony With Vitantonio Spinelli and Megan Drew Temple
+    startTime: '14:30'
+    contributorIDs:
+    - Opening Ceremony With Vitantonio Spinelli and Megan Drew Temple
+  - title: Krafty Kuts
+    startTime: '15:00'
+    contributorIDs:
+    - Krafty Kuts
+  - title: MOJO
+    startTime: '16:00'
+    contributorIDs:
+    - MOJO
+  - title: Shallow Wells
+    startTime: '17:00'
+    contributorIDs:
+    - Shallow Wells
+  - title: Oldman
+    startTime: '18:00'
+    contributorIDs:
+    - Oldman
+  - title: Hanna SoLow
+    startTime: '19:00'
+    contributorIDs:
+    - Hanna SoLow
+  - title: Carissa Gem
+    startTime: '20:00'
+    contributorIDs:
+    - Carissa Gem
+  - title: El Toro
+    startTime: '21:00'
+    contributorIDs:
+    - El Toro
+  - title: Greazus
+    startTime: '22:00'
+    contributorIDs:
+    - Greazus
+  - title: Handsome Tiger
+    startTime: '23:00'
+    contributorIDs:
+    - Handsome Tiger
+  - title: Barisone
+    startTime: '00:15'
+    contributorIDs:
+    - Barisone
+  - title: Footprints
+    startTime: '01:45'
+    contributorIDs:
+    - Footprints
+  - title: Coltcuts
+    startTime: '03:00'
+    contributorIDs:
+    - Coltcuts
+  - title: S2
+    startTime: '04:00'
+    contributorIDs:
+    - S2
+  - title: Yetz
+    startTime: '05:00'
+    endTime: '06:00'
+    contributorIDs:
+    - Yetz

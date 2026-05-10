@@ -1,0 +1,12 @@
+---
+name: "Wuki"
+imageURL: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2F9CB5D281-A6BE-4AEC-B5D1-4877BCB80E0C.png?alt=media&token=8d1743bd-314e-42a0-ae14-c426623d82b2
+links:
+- url: https://soundcloud.com/IAMWUKI
+- url: https://www.wukileaks.com
+- url: https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q?si=JQluUpbNR1GoN4pdohKqUQ
+- url: https://www.youtube.com/c/wuki
+- url: https://www.instagram.com/wuki/
+- url: https://www.facebook.com/IAMwuki/
+---
+Hailing from New Jersey, Grammy-nominated producer and DJ Wuki (aka Kris Barman) has quickly cemented a global fan base with his ability to blend multiple genres and seamlessly mix booty, breaks, electro, and house into hard-hitting club-shakers. Cutting his teeth in the music scene as a guitarist/pianist in the electronic rock band Innerpartysvstem from 2007-2011, Wuki has since gone on to grow his solo project into the globally recognizable name it is today, racking up over 200 million streams across all platforms to-date for his music. Wuki has his own record label. WukiLeaks. and his own monthly radio show on SiriusXM, WukiLeaks Wednesdays. Additionally, in 2021 Wuki caught the attention of music's most influential and prestigious audience, The Recording Academy, who nominated Wuki for his first-ever Grammy award in the Best Remixed Recording' category for his remix of Miley Cyrus hit 'Mother's Daughter.'   Wuki became a Tik Tok phenom with his track 'Better’ being used on the platform over 3 million times to date and his edit 'DADADADA being used over 400 thousand times. During the pandemic, his Tik Tok popularity increased exponentially when he started a series called Beats I Can't Release. which accrued him over 600,000 followers in less than a year and millions of views and user generated content. Wuki began last year with a bang by embarking on a North American Beats I Can't Release Tour, which sold out nearly every date, especially making a splash by selling out Academy in Los Angeles in advance. To follow up, Wuki released 'Edge of Seventeen which has garnered over 70M streams to date and charted on Billboard Dance. Australia's ARIA Club Charts, and Shazam. This year has never looked brighter for Wuki as his most recent release ‘Sunshine’ has taken the internet and DJ community by storm, racking up over 20 million streams, hundreds of thousands of user generated videos, and remixes from Sofi Tukker and others. 

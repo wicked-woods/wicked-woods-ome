@@ -1,0 +1,7 @@
+---
+name: "Metafloor"
+imageURL: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2F8046ABAD-CFE7-458F-BCEB-C8815007266C.png?alt=media&token=14cc03f9-01ad-498f-8668-d07e27d777b5
+links:
+- url: https://open.spotify.com/artist/5Q2x5IMMvZvFCldmNjWKro?si=eHIeDXI1T7OkeweAtrMLDQ
+---
+Metafloor produces multidimensional soundsystem music. As a producer, DJ, promoter and community-builder, his endeavors reflect an insatiable creative appetite and a passion for connecting people through low frequencies.  \n\nIn 2011 Metafloor co-founded Sub Chakra to curate intimate bass music experiences. The collective has delivered over 100 shows in Calgary and beyond and is now venturing into soundsystem development. In 2022 he launched Pull Up – a Friday-night residency centered on underground experimental electronic music.. A proponent for emerging artists, Metafloor is not only known to regularly perform at festivals such as Shambhala and Bass Coast, but also aids in mentoring and supporting other upcoming artists. \n\nAs a producer Metafloor is driven by an endless desire to bring new, unconventional sounds to the dance floor and has collaborated with artists such as Fixate, Doctor Jeep, Moresounds, Joe Nice, and Mat the Alien. A focused and intentional shapeshifter, he creates with deep respect for a myriad of genres. His ability to merge musical ranges creates a distinct, yet unexpected soundscape. Inspired by the dualities of art and life, Metafloor is always evolving and is committed to taking the listener on a memorable journey.

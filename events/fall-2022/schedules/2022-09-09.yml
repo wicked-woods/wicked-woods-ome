@@ -1,0 +1,202 @@
+date: '2022-09-09'
+performances:
+  the-portal:
+  - title: Colorvision
+    startTime: '12:00'
+    contributorIDs:
+    - Colorvision
+  - title: Jaq Toforo
+    startTime: '14:00'
+    contributorIDs:
+    - Jaq Toforo
+  - title: FuBaR’D
+    startTime: '15:30'
+    contributorIDs:
+    - FuBaR’D
+  - title: Seriousilly
+    startTime: '16:30'
+    contributorIDs:
+    - Seriousilly
+  - title: Zegend
+    startTime: '17:30'
+    contributorIDs:
+    - Zegend
+  - title: Zac Fogal
+    startTime: '18:30'
+    contributorIDs:
+    - Zac Fogal
+  - title: Knots
+    startTime: '19:30'
+    contributorIDs:
+    - Knots
+  - title: Greymoon
+    startTime: '20:30'
+    contributorIDs:
+    - Greymoon
+  - title: sean beaver, Caylem Simeon, Wolf Collar & BLKFT
+    startTime: '22:00'
+    contributorIDs:
+    - sean beaver
+    - Caylem Simeon
+    - Wolf Collar
+    - BLKFT
+  - title: Dither Bit
+    startTime: '01:00'
+    contributorIDs:
+    - Dither Bit
+  - title: Caro
+    startTime: '02:30'
+    contributorIDs:
+    - Caro
+  - title: Misfortune Cat
+    startTime: '04:00'
+    contributorIDs:
+    - Misfortune Cat
+  - title: AlexMoon
+    startTime: '05:30'
+    endTime: '07:00'
+    contributorIDs:
+    - AlexMoon
+  unicorn-lounge:
+  - title: Mat B & Ohm Girl
+    startTime: '13:00'
+    contributorIDs:
+    - Mat B
+    - Ohm Girl
+  - title: Captivate
+    startTime: '15:00'
+    contributorIDs:
+    - Captivate
+  - title: Distinct
+    startTime: '16:00'
+    contributorIDs:
+    - Distinct
+  - title: Alan Flava
+    startTime: '17:00'
+    contributorIDs:
+    - Alan Flava
+  - title: E-Lev-8
+    startTime: '18:00'
+    contributorIDs:
+    - E-Lev-8
+  - title: Eradik
+    startTime: '19:00'
+    contributorIDs:
+    - Eradik
+  - title: BreO
+    startTime: '20:30'
+    contributorIDs:
+    - BreO
+  - title: J.F.Killah
+    startTime: '22:00'
+    contributorIDs:
+    - J.F.Killah
+  - title: DJ Madd
+    startTime: '23:30'
+    contributorIDs:
+    - DJ Madd
+  - title: Leo Zen
+    startTime: '01:00'
+    contributorIDs:
+    - Leo Zen
+  - title: Jake Robertz
+    startTime: '02:30'
+    contributorIDs:
+    - Jake Robertz
+  - title: Reflektor
+    startTime: '04:00'
+    contributorIDs:
+    - Reflektor
+  - title: Swaggacats, Tone D. & Boneless
+    startTime: '05:30'
+    endTime: '07:30'
+    contributorIDs:
+    - Swaggacats
+    - Tone D.
+    - Boneless
+  ursus:
+  - title: Def3
+    startTime: '16:00'
+    contributorIDs:
+    - Def3
+  - title: Manteasah
+    startTime: '17:00'
+    contributorIDs:
+    - Manteasah
+  - title: Tate
+    startTime: '18:30'
+    contributorIDs:
+    - Tate
+  - title: Tube Screamer
+    startTime: '19:00'
+    endTime: '20:00'
+    contributorIDs:
+    - Tube Screamer
+  - title: Le Cirque de la Nuit
+    startTime: '20:30'
+    contributorIDs:
+    - Le Cirque de la Nuit
+  - title: CHIMP IT
+    startTime: '21:30'
+    contributorIDs:
+    - CHIMP IT
+  - title: Dirtwire
+    startTime: '22:30'
+    endTime: '00:00'
+    contributorIDs:
+    - Dirtwire
+  the-hallow:
+  - title: Robbie C
+    startTime: '15:00'
+    contributorIDs:
+    - Robbie C
+  - title: Ninjette & Thug Shells
+    startTime: '16:00'
+    contributorIDs:
+    - Ninjette
+    - Thug Shells
+  - title: Joanna Magik
+    startTime: '17:00'
+    contributorIDs:
+    - Joanna Magik
+  - title: Lion-S
+    startTime: '18:30'
+    contributorIDs:
+    - Lion-S
+  - title: Dirty-D
+    startTime: '20:00'
+    contributorIDs:
+    - Dirty-D
+  - title: Monkey Twerk
+    startTime: '21:00'
+    contributorIDs:
+    - Monkey Twerk
+  - title: Rumpus
+    startTime: '22:30'
+    contributorIDs:
+    - Rumpus
+  - title: Neon Steve
+    startTime: '00:00'
+    contributorIDs:
+    - Neon Steve
+  - title: Cazztek
+    startTime: '01:30'
+    contributorIDs:
+    - Cazztek
+  - title: Sivz
+    startTime: '02:30'
+    contributorIDs:
+    - Sivz
+  - title: Ben Fox
+    startTime: '03:30'
+    contributorIDs:
+    - Ben Fox
+  - title: Soup
+    startTime: '04:30'
+    contributorIDs:
+    - Soup
+  - title: Mr Diggler
+    startTime: '05:30'
+    endTime: '06:30'
+    contributorIDs:
+    - Mr Diggler

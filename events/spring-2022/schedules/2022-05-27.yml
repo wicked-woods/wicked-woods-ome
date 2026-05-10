@@ -1,0 +1,160 @@
+date: '2022-05-27'
+performances:
+  ursus:
+  - title: Lazy Syup Orchestra
+    startTime: '15:00'
+    contributorIDs:
+    - Lazy Syup Orchestra
+  - title: 'Dirty Mits Mama ft. 14 Flamingos '
+    startTime: '16:30'
+    endTime: '17:30'
+    contributorIDs:
+    - 'Dirty Mits Mama ft. 14 Flamingos '
+  - title: Thugshells, Newman, Trooknot, Rubix, Fallen Wall & The W.O.K.E
+    startTime: '18:30'
+    endTime: '20:30'
+    contributorIDs:
+    - Thugshells
+    - Newman
+    - Trooknot
+    - Rubix
+    - Fallen Wall
+    - The W.O.K.E
+  - title: Jodie B
+    startTime: '21:15'
+    contributorIDs:
+    - Jodie B
+  - title: Manteasah
+    startTime: '21:45'
+    endTime: '22:45'
+    contributorIDs:
+    - Manteasah
+  - title: Drezus
+    startTime: '23:00'
+    endTime: '00:00'
+    contributorIDs:
+    - Drezus
+  the-hallow:
+  - title: Universal Fallout
+    startTime: '14:00'
+    contributorIDs:
+    - Universal Fallout
+  - title: Lefy
+    startTime: '15:00'
+    contributorIDs:
+    - Lefy
+  - title: Trevor Galore
+    startTime: '16:00'
+    contributorIDs:
+    - Trevor Galore
+  - title: Mihajic Touch
+    startTime: '17:30'
+    contributorIDs:
+    - Mihajic Touch
+  - title: Jon Delerious
+    startTime: '18:30'
+    contributorIDs:
+    - Jon Delerious
+  - title: Esette
+    startTime: '19:30'
+    contributorIDs:
+    - Esette
+  - title: Naturalist
+    startTime: '20:30'
+    contributorIDs:
+    - Naturalist
+  - title: Jessu & Pyka
+    startTime: '21:30'
+    contributorIDs:
+    - Jessu & Pyka
+  - title: Smalltown DJs
+    startTime: '22:30'
+    contributorIDs:
+    - Smalltown DJs
+  - title: The Funk Hunters
+    startTime: '00:00'
+    contributorIDs:
+    - The Funk Hunters
+  - title: Neon Steve
+    startTime: '01:30'
+    contributorIDs:
+    - Neon Steve
+  - title: Aspen King
+    startTime: '02:30'
+    contributorIDs:
+    - Aspen King
+  - title: SOUP
+    startTime: '03:30'
+    contributorIDs:
+    - SOUP
+  - title: Deblock
+    startTime: '04:30'
+    contributorIDs:
+    - Deblock
+  - title: Mr. Digger
+    startTime: '05:30'
+    contributorIDs:
+    - Mr. Digger
+  - title: Neighbor
+    startTime: '06:30'
+    endTime: '08:30'
+    contributorIDs:
+    - Neighbor
+  unicorn-lounge:
+  - title: Djenerate, Guru, Logo, Mary Jane, Strange Manner, Swayze, Wadjit & Yontzie
+    startTime: '12:00'
+    contributorIDs:
+    - Djenerate
+    - Guru
+    - Logo
+    - Mary Jane
+    - Strange Manner
+    - Swayze
+    - Wadjit
+    - Yontzie
+  - title: Bass Cat, Distinct, Droplet, Kid-Dee, Mittz & Miss Fudge
+    startTime: '17:30'
+    contributorIDs:
+    - Bass Cat
+    - Distinct
+    - Droplet
+    - Kid-Dee
+    - Mittz
+    - Miss Fudge
+  - title: Akela
+    startTime: '20:30'
+    contributorIDs:
+    - Akela
+  - title: Mt Doyle & Philly
+    startTime: '21:30'
+    contributorIDs:
+    - Mt Doyle & Philly
+  - title: Willisist
+    startTime: '22:30'
+    contributorIDs:
+    - Willisist
+  - title: Jake Robertz
+    startTime: '23:30'
+    contributorIDs:
+    - Jake Robertz
+  - title: Kytami and Phonik Ops
+    startTime: '00:30'
+    contributorIDs:
+    - Kytami and Phonik Ops
+  - title: Diligent
+    startTime: '02:00'
+    contributorIDs:
+    - Diligent
+  - title: Mat B & Ohm Girl
+    startTime: '03:00'
+    contributorIDs:
+    - Mat B
+    - Ohm Girl
+  - title: Alan Flava, E-Lev-8, Killups & Wigginz
+    startTime: '04:30'
+    endTime: '08:00'
+    contributorIDs:
+    - Alan Flava
+    - E-Lev-8
+    - Killups
+    - Wigginz

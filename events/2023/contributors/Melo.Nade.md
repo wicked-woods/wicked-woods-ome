@@ -1,0 +1,8 @@
+---
+name: "Melo.Nade"
+imageURL: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2FEB9735E0-06D6-4C01-8801-B9CB7082CFD8.png?alt=media&token=70cceb6f-2052-4290-81ef-4b3708ba9c81
+links:
+- url: https://on.soundcloud.com/1ZodPZRR3gzoPCZZ8
+- url: https://open.spotify.com/artist/68TnV7z3MqRXWohoQkWfEj
+---
+Navin ‘Melo.Nade’ Huq was born and raised in Calgary, Canada. Growing up with hip-hop culturists, he learned the art of digging at an early age, which resulted in an insatiable addiction for finding those hard to find gems. As a child, he would spend time recording mix tapes (yes, cassettes) off the radio, TV, and his dad’s records; satisfying his instinctive nature to sequence tracks. Navin acquired his first set of turntables in 2003, and that’s when Melo.Nade was born. Originally on the hip-hop tip, he experimented with mash ups and tempo changes before the age of Serato and digital DJ’ing. Countless hours were spent in the progression of turntablism and fusing the worlds of trip hop, hip-hop, breaks, and dubstep into an eclectic vibe. More recently, the Melo.Nade sound has evolved to embody a term his community knows asHeavy Chill - downbeat, yet heavy hitting. The basis of the vibe is flowing and non-repetitive, delivering bass-driven grooves that maintain the melodious merit that’s often lost in electronic translation. His latest endeavors in music production are sculpting fresh sounds that fuse world/instrumental music with trip hop, dubstep, and bass music. Melo.Nade’s diverse experience gives him the edge to read crowds and adapt, every set taking you on a walk through music. No set is the same as he stays true to the musical art form of DJ’ing.

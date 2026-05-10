@@ -1,0 +1,6 @@
+---
+name: "Neon Steve"
+imageURL: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2FAB4691CD-0817-487C-B0A0-D37373B428F2.png?alt=media&token=006d61d1-e0cb-4a05-866e-87bd0eb1cecd
+links: []
+---
+Steve Robertson, professionally known as Neon Steve, is Canada's top selling Bass House artist and is in the top 10 worldwide. Between original work and remixes, his productions have earned releases on tastemaking imprints such as: Insomniac, Musical Freedom, Spinnin, In/Rotation, Mad Decent, Fools Gold, House Call and Confession. As a regular on the club and festival circuit at home in Western Canada, and 10 year resident at Shambhala Music Festival, Steve has also played at notable fests including: Burning Man, ADE, Breakfest, Beatherder & Envision, and played in 15 countries worldwide. He's had songs featured as “tune of the month” in both MixMag and DJMag and been featured in some of Spotify’s biggest House Music playlists. Loaded with an arsenal of originals, collaborations and remixes lined up for release in the coming months, 2022 is looking to be yet another big year for Neon Steve

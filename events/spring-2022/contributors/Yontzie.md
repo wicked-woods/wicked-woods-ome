@@ -1,0 +1,5 @@
+---
+name: "Yontzie"
+---
+
+Once, just barely old enough to party, Yontzie fell in love with the ever-evolving underground music scene that Calgary has to offer. Starting as many do, just a causal listener, the love of the sound rooted itself deep within him. It couldn't have been long before making the decision to get in front of the decks himself. From humble beginnings, he was spinning low-end Dubstep and Reggae sounds rooted in Dub music. Yontzie fell in love with the energy and diversity of the world of Drum and Bass, a match clearly meant to be. From there, he started digging deep and grew an all new passion for fast tempo tracks including, and especially, the ripping sounds of Jungle. The one like Yontzie helped hold down the popular Unity Sound Saturdays in Calgary, playing a blend of Reggae and Dub that only he can provide. Formerly with the mighty Come Correct Sound Crew, and his new addition to the 403DnB roster of rudebwoys and gyals, Yontzie is a one of a kind Amen smasher and lover of all things broken and certainly one to keep your ear to the ground for!

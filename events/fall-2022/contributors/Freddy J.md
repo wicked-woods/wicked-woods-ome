@@ -1,0 +1,6 @@
+---
+name: "Freddy J"
+imageURL: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2F018AA506-4B62-4DAF-A750-B03D69331E30.png?alt=media&token=c297be24-d8ef-4b5f-a11a-3d259887cafd
+links: []
+---
+Having begun his path in 2001, Freddy J has been on a focused mission of constant development, molding his unique style to deliver dancefloor mayhem wherever he performs. He unfailingly brings you some of the best bassline driven party funk every time he plays, which can be described as a mixture of electro, funky, dirty, whompy, groovy, bassy, and a flat out good time. His mixes are guaranteed to bring anyone to their feet and you can count on it that he'll set the tone for a good time, every time. Recent years have seem him cementing his status as one of Canada's "must see" dj's all over Canada at numerous events including the Fractal Forest at Shambhala. 2019 Freddy J will be celebrating his 11th year anniversary there. The only way to explain the vibe to your friends is to tell them that Freddy J will get them shaking their asses all night long. What more can be said about this one-of-a-kind DJ, other than that his stylish blend of music is like none other, and can only be witnessed by being part of the crowds he rocks each and every time he plays...This is one DJ you won't want to miss.

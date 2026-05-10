@@ -1,0 +1,16 @@
+name: Wicked Woods (September 2022)
+startDate: '2022-09-08'
+endDate: '2022-09-11'
+locations:
+- address: 3901 Kootenay Hwy, Fairmont Hot Springs, BC V0B 1L1, Canada
+timeZone:
+  identifier: America/Denver
+iconImageURL: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2FEE6A4163-01DE-4DF4-A9B7-1AC0D8BE6EAA.png?alt=media&token=4b9951c7-bcc6-405a-ba4c-aa90ab35a98d
+siteMapImageURL: https://secureservercdn.net/198.71.233.71/88d.74e.myftpupload.com/wp-content/uploads/2022/02/Map_web_version-1244-2.png?time=1662323120
+contactNumbers:
+- phoneNumber: '4034931800'
+  title: General Information Line
+  description: For general information, questions or concerns, or to report any sanitation issues within the WW grounds, please contact this number.
+- phoneNumber: '5875818555'
+  title: On Site Emergency Services
+  description: This will connect you directly with our switchboard, and alert the appropriate services.

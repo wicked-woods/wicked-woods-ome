@@ -1,0 +1,230 @@
+date: '2023-06-10'
+performances:
+  ursus:
+  - title: Jeff Holden
+    startTime: '14:00'
+    contributorIDs:
+    - Jeff Holden
+  - title: Tate
+    startTime: '15:00'
+    contributorIDs:
+    - Tate
+  - title: Fashion Show Diva
+    startTime: '16:00'
+    contributorIDs:
+    - Fashion Show Diva
+  - title: Creek St
+    startTime: '17:00'
+    contributorIDs:
+    - Creek St
+  - title: The Bombshell Brigade
+    startTime: '18:30'
+    contributorIDs:
+    - The Bombshell Brigade
+  - title: Manteasah
+    startTime: '19:30'
+    contributorIDs:
+    - Manteasah
+  - title: Mark Woodyard
+    startTime: '21:00'
+    contributorIDs:
+    - Mark Woodyard
+  - title: Diligent
+    startTime: '22:00'
+    contributorIDs:
+    - Diligent
+  - title: Manic Focus
+    startTime: '22:30'
+    endTime: '00:00'
+    contributorIDs:
+    - Manic Focus
+  unicorn-lounge:
+  - title: Pete Wilde
+    startTime: '14:30'
+    contributorIDs:
+    - Pete Wilde
+  - title: J9
+    startTime: '16:00'
+    contributorIDs:
+    - J9
+  - title: MICHELLE C
+    startTime: '17:00'
+    contributorIDs:
+    - MICHELLE C
+  - title: Mahajic Touch
+    startTime: '18:00'
+    contributorIDs:
+    - Mahajic Touch
+  - title: Miss Hazard
+    startTime: '19:00'
+    contributorIDs:
+    - Miss Hazard
+  - title: Ninjette
+    startTime: '20:00'
+    contributorIDs:
+    - Ninjette
+  - title: Wes Please
+    startTime: '21:00'
+    contributorIDs:
+    - Wes Please
+  - title: Freddy J
+    startTime: '22:00'
+    contributorIDs:
+    - Freddy J
+  - title: Thomas Anthony
+    startTime: '23:00'
+    contributorIDs:
+    - Thomas Anthony
+  - title: Smalltown DJs
+    startTime: '00:00'
+    contributorIDs:
+    - Smalltown DJs
+  - title: Marten Hørger
+    startTime: '01:30'
+    contributorIDs:
+    - Marten Hørger
+  - title: Megan Hamilton
+    startTime: '03:00'
+    contributorIDs:
+    - Megan Hamilton
+  - title: M3RF
+    startTime: '04:30'
+    contributorIDs:
+    - M3RF
+  - title: JGirl & Manousos
+    startTime: '06:00'
+    contributorIDs:
+    - JGirl & Manousos
+  - title: Subset
+    startTime: '07:30'
+    contributorIDs:
+    - Subset
+  - title: Llama
+    startTime: '09:00'
+    contributorIDs:
+    - Llama
+  - title: Civillian & Robbie C
+    startTime: '10:30'
+    endTime: '13:00'
+    contributorIDs:
+    - Civillian
+    - Robbie C
+  the-hallow:
+  - title: mr.b
+    startTime: '15:30'
+    contributorIDs:
+    - mr.b
+  - title: Dubconscious
+    startTime: '17:00'
+    contributorIDs:
+    - Dubconscious
+  - title: SHAHdjs
+    startTime: '18:00'
+    contributorIDs:
+    - SHAHdjs
+  - title: Def3
+    startTime: '21:00'
+    contributorIDs:
+    - Def3
+  - title: Footprints
+    startTime: '22:00'
+    contributorIDs:
+    - Footprints
+  - title: OAKK
+    startTime: '23:30'
+    contributorIDs:
+    - OAKK
+  - title: SOOHAN
+    startTime: '01:00'
+    contributorIDs:
+    - SOOHAN
+  - title: Woofax
+    startTime: '02:30'
+    contributorIDs:
+    - Woofax
+    recordings:
+    - url: https://www.youtube.com/watch?v=Z4fYUHtfTkY
+  - title: GREAZUS
+    startTime: '03:30'
+    contributorIDs:
+    - GREAZUS
+  - title: Metafloor
+    startTime: '04:30'
+    contributorIDs:
+    - Metafloor
+  - title: Strange Manner, Yontzie, Kismet, Djenerate, Mary Jane & Wadjit
+    startTime: '05:30'
+    endTime: '09:00'
+    contributorIDs:
+    - Strange Manner
+    - Yontzie
+    - Kismet
+    - Djenerate
+    - Mary Jane
+    - Wadjit
+  the-portal:
+  - title: Noodles
+    startTime: '17:00'
+    contributorIDs:
+    - Noodles
+  - title: Just One
+    startTime: '18:00'
+    contributorIDs:
+    - Just One
+  - title: 'Black Acid '
+    startTime: '19:00'
+    contributorIDs:
+    - 'Black Acid '
+  - title: 'Smirk '
+    startTime: '20:00'
+    contributorIDs:
+    - 'Smirk '
+  - title: The Author
+    startTime: '21:00'
+    contributorIDs:
+    - The Author
+  - title: Zak Davis
+    startTime: '22:00'
+    contributorIDs:
+    - Zak Davis
+  - title: WOLF COLLAR
+    startTime: '23:00'
+    contributorIDs:
+    - WOLF COLLAR
+  - title: rec12
+    startTime: '00:00'
+    contributorIDs:
+    - rec12
+  - title: Captivate
+    startTime: '01:00'
+    contributorIDs:
+    - Captivate
+  - title: Illustrator
+    startTime: '02:00'
+    contributorIDs:
+    - Illustrator
+  - title: PuppyCat
+    startTime: '03:00'
+    contributorIDs:
+    - PuppyCat
+  - title: Melo.Nade
+    startTime: '04:00'
+    contributorIDs:
+    - Melo.Nade
+  - title: Paryonsi
+    startTime: '05:00'
+    contributorIDs:
+    - Paryonsi
+  - title: Jep
+    startTime: '06:00'
+    contributorIDs:
+    - Jep
+  - title: lil stitious
+    startTime: '07:00'
+    contributorIDs:
+    - lil stitious
+  - title: Portal Fam Dub Rinseout
+    startTime: '08:00'
+    endTime: '12:00'
+    contributorIDs:
+    - Portal Fam Dub Rinseout

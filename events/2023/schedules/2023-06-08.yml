@@ -1,0 +1,166 @@
+date: '2023-06-08'
+performances:
+  the-hallow:
+  - title: Opening Ceremony
+    startTime: '14:30'
+    contributorIDs:
+    - Opening Ceremony
+  - title: The Gaff
+    startTime: '15:00'
+    contributorIDs:
+    - The Gaff
+  - title: Civillian
+    startTime: '16:00'
+    contributorIDs:
+    - Civillian
+  - title: Yetz
+    startTime: '17:00'
+    contributorIDs:
+    - Yetz
+  - title: El Toro
+    startTime: '18:00'
+    contributorIDs:
+    - El Toro
+  - title: Oldman
+    startTime: '19:00'
+    contributorIDs:
+    - Oldman
+  - title: Big Medicine
+    startTime: '20:00'
+    contributorIDs:
+    - Big Medicine
+  - title: INNOCENT
+    startTime: '21:00'
+    contributorIDs:
+    - INNOCENT
+  - title: just john
+    startTime: '22:00'
+    contributorIDs:
+    - just john
+  - title: COLTCUTS
+    startTime: '23:00'
+    contributorIDs:
+    - COLTCUTS
+  - title: Abstrakt Sonance
+    startTime: '00:30'
+    contributorIDs:
+    - Abstrakt Sonance
+  - title: S2
+    startTime: '02:00'
+    contributorIDs:
+    - S2
+  - title: Kellan It
+    startTime: '03:00'
+    contributorIDs:
+    - Kellan It
+  - title: 8 Bit Ninja
+    startTime: '04:00'
+    endTime: '05:00'
+    contributorIDs:
+    - 8 Bit Ninja
+  unicorn-lounge:
+  - title: Donald Bump
+    startTime: '16:00'
+    contributorIDs:
+    - Donald Bump
+  - title: DJ Polar
+    startTime: '17:00'
+    contributorIDs:
+    - DJ Polar
+  - title: Boshco
+    startTime: '18:00'
+    contributorIDs:
+    - Boshco
+  - title: Fattycakes
+    startTime: '19:00'
+    contributorIDs:
+    - Fattycakes
+  - title: Underdog
+    startTime: '20:00'
+    contributorIDs:
+    - Underdog
+  - title: Mr Diggler
+    startTime: '21:00'
+    contributorIDs:
+    - Mr Diggler
+  - title: Mark Farina
+    startTime: '22:00'
+    contributorIDs:
+    - Mark Farina
+  - title: Father Funk
+    startTime: '00:00'
+    contributorIDs:
+    - Father Funk
+  - title: X-Ray Ted
+    startTime: '01:30'
+    contributorIDs:
+    - X-Ray Ted
+  - title: Mt. Doyle & Philly
+    startTime: '02:30'
+    contributorIDs:
+    - Mt. Doyle & Philly
+  - title: Bass Panda
+    startTime: '03:30'
+    contributorIDs:
+    - Bass Panda
+  - title: Thug Shells
+    startTime: '04:30'
+    endTime: '05:30'
+    contributorIDs:
+    - Thug Shells
+  the-portal:
+  - title: LaBeat
+    startTime: '16:30'
+    contributorIDs:
+    - LaBeat
+  - title: Paint Department
+    startTime: '17:30'
+    contributorIDs:
+    - Paint Department
+  - title: Dee Bass
+    startTime: '18:30'
+    contributorIDs:
+    - Dee Bass
+  - title: Lao Zi
+    startTime: '19:30'
+    contributorIDs:
+    - Lao Zi
+  - title: Free Samples
+    startTime: '20:30'
+    contributorIDs:
+    - Free Samples
+  - title: Lefy
+    startTime: '21:30'
+    contributorIDs:
+    - Lefy
+  - title: Mollyfi
+    startTime: '22:30'
+    contributorIDs:
+    - Mollyfi
+  - title: Ghostwhip, Chvvns & Nurmi
+    startTime: '23:30'
+    contributorIDs:
+    - Ghostwhip
+    - Chvvns
+    - Nurmi
+  - title: Rennie
+    startTime: '01:30'
+    contributorIDs:
+    - Rennie
+  - title: birdhaus
+    startTime: '02:30'
+    contributorIDs:
+    - birdhaus
+  - title: Heidro
+    startTime: '03:30'
+    contributorIDs:
+    - Heidro
+  - title: HNH
+    startTime: '04:30'
+    contributorIDs:
+    - HNH
+  - title: Howl
+    startTime: '05:30'
+    endTime: '07:30'
+    contributorIDs:
+    - Howl
