@@ -3,24 +3,45 @@ startDate: '2025-08-29'
 endDate: '2025-08-31'
 locations:
 - address: 3901 Kootenay Hwy, BC-93, Fairmont Hot Springs, BC V0A 1K4
-  directions: |
-    Coming From Radium Hot Springs
+  directions: 'Coming From Radium Hot Springs
+
     Head South on Hwy 93 toward Fairmont Hot Springs
-    The Entrance of the Highway will be on your right 15 Km past Windermere 3.9 Km North of Fairmont Hot Springs.
-    
-    
+
+    The Entrance of the Highway will be on your right 15 Km past Windermere 3.9 Km
+    North of Fairmont Hot Springs.
+
+
+
     Coming from Cranbrook
+
     Head North on Hwy 93 toward Invermere, Radium Hot Springs
-    The Entrance off the Highway will be on your left 3.9 Km past the North side of Fairmont Hot Springs
+
+    The Entrance off the Highway will be on your left 3.9 Km past the North side of
+    Fairmont Hot Springs
+
+    '
   coordinates:
-    latitude: 50.3659721
-    longitude: -115.870314
-timeZone:
-  identifier: America/Denver
-imageURL: https://res.cloudinary.com/dhh19fozh/q_auto:good,f_auto,dpr_1.0/w_auto:breakpoints_85_850_10_10:768/jb7production-uploads/2024/03/wicked-woods-music-festival-2024-featured-e1710945659862-1200x675.jpg
-iconImageURL: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2F6D9DD348-26B0-481D-8E0B-200901A57F5A.png?alt=media&token=847204e2-2df4-49e1-ac9e-bcfc1c95835a
-siteMapImageURL: https://firebasestorage.googleapis.com/v0/b/festivl.appspot.com/o/wicked-woods-2025%2F2025_Map_Final.png?alt=media&token=1465bce4-130b-4ded-a3d2-aa2b2d6e627f
+    latitude: 5.03659721e+1
+    longitude: -1.15870314e+2
+timeZone: America/Denver
+images:
+- source:
+    url: https://res.cloudinary.com/dhh19fozh/q_auto:good,f_auto,dpr_1.0/w_auto:breakpoints_85_850_10_10:768/jb7production-uploads/2024/03/wicked-woods-music-festival-2024-featured-e1710945659862-1200x675.jpg
+  role: hero
+  renderKind: fullImage
+  materializationPolicy: prefetchOnOpen
+- source:
+    url: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2F6D9DD348-26B0-481D-8E0B-200901A57F5A.png?alt=media&token=847204e2-2df4-49e1-ac9e-bcfc1c95835a
+  role: icon
+  renderKind: transparent
+  materializationPolicy: prefetchOnOpen
+- source:
+    url: https://firebasestorage.googleapis.com/v0/b/festivl.appspot.com/o/wicked-woods-2025%2F2025_Map_Final.png?alt=media&token=1465bce4-130b-4ded-a3d2-aa2b2d6e627f
+  role: siteMap
+  renderKind: fullImage
+  materializationPolicy: lazy
 contactNumbers:
 - phoneNumber: 250-688-9968
   title: On Site Emergency Services
-  description: This will connect you directly with our dispatch team, and alert the appropriate services.
+  description: This will connect you directly with our dispatch team, and alert the
+    appropriate services.
