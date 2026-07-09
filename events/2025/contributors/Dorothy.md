@@ -1,15 +1,23 @@
 ---
-name: "Dorothy"
-imageURL: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/Dorothy.jpeg
-logoURL: https://wickedwoods.festivalpro.com/?getFile&FILEID=32023
-kind: "Live Performance"
+name: Dorothy
+images:
+- assetKey: did:plc:5df2u7ief6m6tn77jznicxob|wicked-woods-ome-2025|contributor|Dorothy|photo|default
+  source:
+    url: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/Dorothy.jpeg
+  role: photo
+  renderKind: fullImage
+  materializationPolicy: lazy
+- assetKey: did:plc:5df2u7ief6m6tn77jznicxob|wicked-woods-ome-2025|contributor|Dorothy|logo|default
+  source:
+    url: https://wickedwoods.festivalpro.com/?getFile&FILEID=32023
+  role: logo
+  renderKind: transparent
+  materializationPolicy: lazy
 links:
 - url: https://soundcloud.com/dorothys_music
-  linkType:
-    label: soundcloud
+  platform: soundcloud
 - url: '@dj_dorothy34'
-  linkType:
-    label: instagram
+  platform: website
 ---
 Dorothy is a dynamic force in the world of dance music, from the moment he takes the stage, he commands the dance floor with electric energy. Hailing from the picturesque town of Fernie in British Columbia, Canada, Dorothy has emerged as a prominent figure in the BC dance music scene.
 

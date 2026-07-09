@@ -1,27 +1,31 @@
 ---
-name: "Slynk"
-imageURL: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/Slynk.jpg
-logoURL: https://wickedwoods.festivalpro.com/?getFile&FILEID=34205
-kind: "Live Performance"
+name: Slynk
+images:
+- assetKey: did:plc:5df2u7ief6m6tn77jznicxob|wicked-woods-ome-2025|contributor|Slynk|photo|default
+  source:
+    url: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/Slynk.jpg
+  role: photo
+  renderKind: fullImage
+  materializationPolicy: lazy
+- assetKey: did:plc:5df2u7ief6m6tn77jznicxob|wicked-woods-ome-2025|contributor|Slynk|logo|default
+  source:
+    url: https://wickedwoods.festivalpro.com/?getFile&FILEID=34205
+  role: logo
+  renderKind: transparent
+  materializationPolicy: lazy
 links:
 - url: http://soundcloud.com/slynk
-  linkType:
-    label: soundcloud
+  platform: soundcloud
 - url: http://www.youtube.com/user/slynkdnb
-  linkType:
-    label: youtube
+  platform: youtube
 - url: https://www.facebook.com/evanslynk
-  linkType:
-    label: facebook
+  platform: facebook
 - url: https://www.instagram.com/evanslynk/
-  linkType:
-    label: instagram
+  platform: instagram
 - url: https://open.spotify.com/artist/4V7ap2HEMGNvgwdmOv4dth
-  linkType:
-    label: spotify
+  platform: spotify
 - url: http://www.slynk.net
-  linkType:
-    label: website
+  platform: website
 ---
 Starting his career in an underground New York inspired café in his original hometown of Brisbane, Australia, to his first International appearance at Shambhala's Fractal Forest, in 2009, continues to refine his skills, experimenting and educating himself and his fans with mash-up productions of classic hip hop, ingrained with rare and funky, rhythmically savvy grooves.
 

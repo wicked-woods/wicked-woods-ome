@@ -1,14 +1,22 @@
 ---
-name: "ViraVira"
-imageURL: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/ViraVira.jpeg
-logoURL: https://wickedwoods.festivalpro.com/?getFile&FILEID=31743
-kind: "Live Performance"
+name: ViraVira
+images:
+- assetKey: did:plc:5df2u7ief6m6tn77jznicxob|wicked-woods-ome-2025|contributor|ViraVira|photo|default
+  source:
+    url: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/ViraVira.jpeg
+  role: photo
+  renderKind: fullImage
+  materializationPolicy: lazy
+- assetKey: did:plc:5df2u7ief6m6tn77jznicxob|wicked-woods-ome-2025|contributor|ViraVira|logo|default
+  source:
+    url: https://wickedwoods.festivalpro.com/?getFile&FILEID=31743
+  role: logo
+  renderKind: transparent
+  materializationPolicy: lazy
 links:
 - url: https://on.soundcloud.com/R7pBWj5sKAVR9wRW6
-  linkType:
-    label: soundcloud
+  platform: soundcloud
 - url: https://www.instagram.com/viravira_music?igsh=M3Y3MDRqOXhwMmE2&utm_source=qr
-  linkType:
-    label: instagram
+  platform: instagram
 ---
 ViraVira is a Chilean/Canadian selector who journeys through global tribe rhythms, playing bass driven beats with Latin influenced sounds and percussion, Global club, baile funk, jersey club, bass.

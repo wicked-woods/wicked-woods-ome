@@ -1,27 +1,31 @@
 ---
-name: "Substance"
-imageURL: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/Substance.jpeg
-logoURL: https://wickedwoods.festivalpro.com/?getFile&FILEID=36387
-kind: "Live Performance"
+name: Substance
+images:
+- assetKey: did:plc:5df2u7ief6m6tn77jznicxob|wicked-woods-ome-2025|contributor|Substance|photo|default
+  source:
+    url: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/Substance.jpeg
+  role: photo
+  renderKind: fullImage
+  materializationPolicy: lazy
+- assetKey: did:plc:5df2u7ief6m6tn77jznicxob|wicked-woods-ome-2025|contributor|Substance|logo|default
+  source:
+    url: https://wickedwoods.festivalpro.com/?getFile&FILEID=36387
+  role: logo
+  renderKind: transparent
+  materializationPolicy: lazy
 links:
 - url: https://soundcloud.com/substance420
-  linkType:
-    label: soundcloud
+  platform: soundcloud
 - url: https://www.youtube.com/@substance140
-  linkType:
-    label: youtube
+  platform: youtube
 - url: https://www.facebook.com/Substance420
-  linkType:
-    label: facebook
+  platform: facebook
 - url: https://www.instagram.com/substance420/
-  linkType:
-    label: instagram
+  platform: instagram
 - url: https://open.spotify.com/artist/4mMszTHT28wg1CvK3TBAJg?si=lP3bi2uWRp6RZfF9iCEK8w
-  linkType:
-    label: spotify
+  platform: spotify
 - url: https://linktr.ee/substanceofficial
-  linkType:
-    label: website
+  platform: website
 ---
 Substance is a dubstep producer based in Sherbrooke, QC, Canada. His journey began in
 2011 after discovering PK Sound and the vibrant West Coast Canadian rave scene. By

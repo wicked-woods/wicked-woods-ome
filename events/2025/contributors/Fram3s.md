@@ -1,20 +1,26 @@
 ---
-name: "Fram3s"
-imageURL: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/Frams.jpg
-logoURL: https://wickedwoods.festivalpro.com/?getFile&FILEID=33065
-kind: "Live Performance"
+name: Fram3s
+images:
+- assetKey: did:plc:5df2u7ief6m6tn77jznicxob|wicked-woods-ome-2025|contributor|Fram3s|photo|default
+  source:
+    url: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/Frams.jpg
+  role: photo
+  renderKind: fullImage
+  materializationPolicy: lazy
+- assetKey: did:plc:5df2u7ief6m6tn77jznicxob|wicked-woods-ome-2025|contributor|Fram3s|logo|default
+  source:
+    url: https://wickedwoods.festivalpro.com/?getFile&FILEID=33065
+  role: logo
+  renderKind: transparent
+  materializationPolicy: lazy
 links:
 - url: https://soundcloud.com/fram3smusic
-  linkType:
-    label: soundcloud
+  platform: soundcloud
 - url: https://www.facebook.com/DJFram3s
-  linkType:
-    label: facebook
+  platform: facebook
 - url: https://www.instagram.com/fram3s_music/
-  linkType:
-    label: instagram
+  platform: instagram
 - url: https://open.spotify.com/artist/7wqO1yQr4tky7VggFN1Xnr?si=0t1rQipiQyGlf8N0moLUGQ
-  linkType:
-    label: spotify
+  platform: spotify
 ---
 Fram3s is a DJ and Producer based out of Victoria BC. He has played shows of all shapes and sizes from Wicked Woods Music Festival and Rifflandia to opening for artists such as Ahee, Nostalgix, Neon Steve, and Rumpus to name a few. His style ranges from gritty Bass music to smooth ukg and 2 step. If it’s horny and heavy you can expect to hear it in a Fram3s set.

@@ -1,27 +1,31 @@
 ---
-name: "Benanas"
-imageURL: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/Benanas.jpg
-logoURL: https://wickedwoods.festivalpro.com/?getFile&FILEID=31313
-kind: "Live Performance"
+name: Benanas
+images:
+- assetKey: did:plc:5df2u7ief6m6tn77jznicxob|wicked-woods-ome-2025|contributor|Benanas|photo|default
+  source:
+    url: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/Benanas.jpg
+  role: photo
+  renderKind: fullImage
+  materializationPolicy: lazy
+- assetKey: did:plc:5df2u7ief6m6tn77jznicxob|wicked-woods-ome-2025|contributor|Benanas|logo|default
+  source:
+    url: https://wickedwoods.festivalpro.com/?getFile&FILEID=31313
+  role: logo
+  renderKind: transparent
+  materializationPolicy: lazy
 links:
 - url: https://soundcloud.com/benanas
-  linkType:
-    label: soundcloud
+  platform: soundcloud
 - url: n/a
-  linkType:
-    label: youtube
+  platform: website
 - url: https://www.facebook.com/ItsBenanas
-  linkType:
-    label: facebook
+  platform: facebook
 - url: https://www.instagram.com/itsbenanas/
-  linkType:
-    label: instagram
+  platform: instagram
 - url: https://open.spotify.com/artist/1Fv8WShM73yWzLV29yoYNg?si=UHm7XAY5RqC9_DdzInk9wA&nd=1
-  linkType:
-    label: spotify
+  platform: spotify
 - url: http://www.benanas.ca/
-  linkType:
-    label: website
+  platform: website
 ---
 Benanas has been making waves on dancefloors across the west coast music festival circuit and on SoundCloud with his widely successful mixes for years. With a library full of ripe tunes, unreleased edits, originals, choice acapellas, and a sharp set of turntable skills, Benanas will surely serve up one of the tastiest sets you'll see this summer! 
 

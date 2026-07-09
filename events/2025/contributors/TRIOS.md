@@ -1,27 +1,31 @@
 ---
-name: "TRIOS"
-imageURL: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/TRIOS.jpg
-logoURL: https://wickedwoods.festivalpro.com/?getFile&FILEID=31803
-kind: "Live Performance"
+name: TRIOS
+images:
+- assetKey: did:plc:5df2u7ief6m6tn77jznicxob|wicked-woods-ome-2025|contributor|TRIOS|photo|default
+  source:
+    url: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/TRIOS.jpg
+  role: photo
+  renderKind: fullImage
+  materializationPolicy: lazy
+- assetKey: did:plc:5df2u7ief6m6tn77jznicxob|wicked-woods-ome-2025|contributor|TRIOS|logo|default
+  source:
+    url: https://wickedwoods.festivalpro.com/?getFile&FILEID=31803
+  role: logo
+  renderKind: transparent
+  materializationPolicy: lazy
 links:
 - url: www.soundcloud.com/triosbeats
-  linkType:
-    label: soundcloud
+  platform: soundcloud
 - url: www.youtube.com/@triosbeats/featured
-  linkType:
-    label: youtube
+  platform: youtube
 - url: www.facebook.com/triosbeats
-  linkType:
-    label: facebook
+  platform: facebook
 - url: www.instagram.com/triosbeats
-  linkType:
-    label: instagram
+  platform: instagram
 - url: https://open.spotify.com/artist/6PAVdDpxTPJIcGOG2BLfXN
-  linkType:
-    label: spotify
+  platform: spotify
 - url: www.triosbeats.com
-  linkType:
-    label: website
+  platform: website
 ---
 TRIOS, a Vancouver-based DJ and producer, fuses the raw pulse of Trap and Dubstep with a soul shaped by Hip-Hop and House. From 2009-2014, he electrified West Coast dancefloors and remixed legends like Peter Hook (Joy Division), sharing stages with Steve Lawler and Art Department.
 

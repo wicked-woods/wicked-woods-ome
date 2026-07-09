@@ -1,26 +1,25 @@
 ---
-name: "STYLUST"
-imageURL: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/STYLUST.jpg
-kind: "Live Performance"
+name: STYLUST
+images:
+- assetKey: did:plc:5df2u7ief6m6tn77jznicxob|wicked-woods-ome-2025|contributor|STYLUST|photo|default
+  source:
+    url: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/STYLUST.jpg
+  role: photo
+  renderKind: fullImage
+  materializationPolicy: lazy
 links:
 - url: www.soundcloud.com/stylustbeats
-  linkType:
-    label: soundcloud
+  platform: soundcloud
 - url: https://www.youtube.com/channel/UCjbG9qObDSKF3Z2Yjaeg3HA
-  linkType:
-    label: youtube
+  platform: youtube
 - url: www.facebook.com/stylustbeats
-  linkType:
-    label: facebook
+  platform: facebook
 - url: '%20www.instagram.com/stylustbeats'
-  linkType:
-    label: instagram
+  platform: instagram
 - url: https://open.spotify.com/artist/2Y1LgWOVPz5m1qCuzkWEQu?si=wMrOcPETT-uq6z2axGbuEA
-  linkType:
-    label: spotify
+  platform: spotify
 - url: www.stylustbeats.net
-  linkType:
-    label: website
+  platform: website
 ---
 A longtime skateboarder and hip hop devotee, Geoff “Stylust” Reich has always been a rebel with a passion for his art form. It’s no surprise that this Canadian DJ/producer’s talent for fusing hip hop flavor and relentless energy with heavy bass has earned him a reputation as a creative renegade carving his own path.
 

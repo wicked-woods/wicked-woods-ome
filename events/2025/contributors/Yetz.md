@@ -1,18 +1,25 @@
 ---
-name: "Yetz"
-imageURL: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/Yetz.jpg
-logoURL: https://wickedwoods.festivalpro.com/?getFile&FILEID=33089
-kind: "Live Performance"
+name: Yetz
+images:
+- assetKey: did:plc:5df2u7ief6m6tn77jznicxob|wicked-woods-ome-2025|contributor|Yetz|photo|default
+  source:
+    url: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/Yetz.jpg
+  role: photo
+  renderKind: fullImage
+  materializationPolicy: lazy
+- assetKey: did:plc:5df2u7ief6m6tn77jznicxob|wicked-woods-ome-2025|contributor|Yetz|logo|default
+  source:
+    url: https://wickedwoods.festivalpro.com/?getFile&FILEID=33089
+  role: logo
+  renderKind: transparent
+  materializationPolicy: lazy
 links:
 - url: https://on.soundcloud.com/YrnYD1xFg8pqT91z7
-  linkType:
-    label: soundcloud
+  platform: soundcloud
 - url: https://www.facebook.com/share/1BejjnnP9B/
-  linkType:
-    label: facebook
+  platform: facebook
 - url: https://www.instagram.com/yetzofficial?igsh=c2F6cjl1ZDBlZTFm
-  linkType:
-    label: instagram
+  platform: instagram
 ---
 Meet YETZ, the madman behind the decks effortlessly blending UKG, Dubstep, Jungle,
 DUB, and Grime with electrifying prowess. Hailing from BC's underground music scene,

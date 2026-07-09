@@ -1,27 +1,31 @@
 ---
-name: "KHIVA"
-imageURL: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/KHIVA.JPG
-logoURL: https://wickedwoods.festivalpro.com/?getFile&FILEID=31289
-kind: "Live Performance"
+name: KHIVA
+images:
+- assetKey: did:plc:5df2u7ief6m6tn77jznicxob|wicked-woods-ome-2025|contributor|KHIVA|photo|default
+  source:
+    url: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/KHIVA.JPG
+  role: photo
+  renderKind: fullImage
+  materializationPolicy: lazy
+- assetKey: did:plc:5df2u7ief6m6tn77jznicxob|wicked-woods-ome-2025|contributor|KHIVA|logo|default
+  source:
+    url: https://wickedwoods.festivalpro.com/?getFile&FILEID=31289
+  role: logo
+  renderKind: transparent
+  materializationPolicy: lazy
 links:
 - url: https://soundcloud.com/realkhiva
-  linkType:
-    label: soundcloud
+  platform: soundcloud
 - url: https://www.youtube.com/@khiva5214
-  linkType:
-    label: youtube
+  platform: youtube
 - url: https://www.facebook.com/khivamusic
-  linkType:
-    label: facebook
+  platform: facebook
 - url: https://www.instagram.com/khivamusic
-  linkType:
-    label: instagram
+  platform: instagram
 - url: https://open.spotify.com/artist/3cH0fKXiWesYFzqJwiWlAD?si=rlzd1WvpQyuu_G4ATR36Zw
-  linkType:
-    label: spotify
+  platform: spotify
 - url: www.khivamusic.com
-  linkType:
-    label: website
+  platform: website
 ---
 Nurturing a propensity toward the emotionally fueled and often dramatic, bass driven styles offer a natural focal point, but in no way a limit, for Khiva's musical exports. Low frequency soundscapes, fierce beats and a contrasting ethereal nature provide a blueprint for her works, setting the stage for the multifaceted producer and vocalist to paint a vivid dreamscape through often haunting and metaphorical lyrical stylings.
 

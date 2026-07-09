@@ -1,24 +1,29 @@
 ---
-name: "LVL"
-imageURL: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/LVL.jpg
-logoURL: https://wickedwoods.festivalpro.com/?getFile&FILEID=32771
-kind: "Live Performance"
+name: LVL
+images:
+- assetKey: did:plc:5df2u7ief6m6tn77jznicxob|wicked-woods-ome-2025|contributor|LVL|photo|default
+  source:
+    url: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/LVL.jpg
+  role: photo
+  renderKind: fullImage
+  materializationPolicy: lazy
+- assetKey: did:plc:5df2u7ief6m6tn77jznicxob|wicked-woods-ome-2025|contributor|LVL|logo|default
+  source:
+    url: https://wickedwoods.festivalpro.com/?getFile&FILEID=32771
+  role: logo
+  renderKind: transparent
+  materializationPolicy: lazy
 links:
 - url: https://soundcloud.com/lvl-collective
-  linkType:
-    label: soundcloud
+  platform: soundcloud
 - url: https://www.youtube.com/@lvl.collective
-  linkType:
-    label: youtube
+  platform: youtube
 - url: https://www.facebook.com/lvl.collective00
-  linkType:
-    label: facebook
+  platform: facebook
 - url: https://www.instagram.com/lvl.collective
-  linkType:
-    label: instagram
+  platform: instagram
 - url: https://open.spotify.com/artist/05YxETK8pNeN4SURb5Xs01?si=5IoMJh_bRO6kpAJYTSCTCQ
-  linkType:
-    label: spotify
+  platform: spotify
 ---
 Vancouver’s queer femme bass supergroup, composed of DJ BEER, LOUP, and Steph Tsunami, LVL (elle-vee-elle) is known for their dynamic sets featuring a range of high-energy sounds and catchy vocal stabs that electrify the crowd. Flexing an expansive collection from breaks & 140 to techno, jungle, and drum & bass, this high-octane trio keeps the dancefloor flowing with their fun and fast sound. 
 

@@ -1,27 +1,31 @@
 ---
-name: "JPOD"
-imageURL: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/JPOD.jpeg
-logoURL: https://wickedwoods.festivalpro.com/?getFile&FILEID=34213
-kind: "Live Performance"
+name: JPOD
+images:
+- assetKey: did:plc:5df2u7ief6m6tn77jznicxob|wicked-woods-ome-2025|contributor|JPOD|photo|default
+  source:
+    url: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/JPOD.jpeg
+  role: photo
+  renderKind: fullImage
+  materializationPolicy: lazy
+- assetKey: did:plc:5df2u7ief6m6tn77jznicxob|wicked-woods-ome-2025|contributor|JPOD|logo|default
+  source:
+    url: https://wickedwoods.festivalpro.com/?getFile&FILEID=34213
+  role: logo
+  renderKind: transparent
+  materializationPolicy: lazy
 links:
 - url: https://soundcloud.com/stomponclowncloud
-  linkType:
-    label: soundcloud
+  platform: soundcloud
 - url: http://www.youtube.com/user/jpodmusic
-  linkType:
-    label: youtube
+  platform: youtube
 - url: https://www.facebook.com/jpodtbc
-  linkType:
-    label: facebook
+  platform: facebook
 - url: https://www.instagram.com/jpodtbc/
-  linkType:
-    label: instagram
+  platform: instagram
 - url: https://open.spotify.com/artist/1yE78yYlzOvZQBvFH1KhgY?si=kRjoKTzmTfGcEjw2nMFcpg
-  linkType:
-    label: spotify
+  platform: spotify
 - url: http://www.jpodtbc.com
-  linkType:
-    label: website
+  platform: website
 ---
 Ever since his first heartbeat JPOD has had music in his soul. His natural sense of rhythm and movement led to a genuine love for dancing. Equipped with creative motivation and armed with technical knowledge he continues to articulate an original sound rich with flavor. To keep him dancing JPOD consistently makes music with punchy beats and bouncy basslines. 
 

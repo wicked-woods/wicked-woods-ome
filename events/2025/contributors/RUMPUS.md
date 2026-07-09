@@ -1,18 +1,25 @@
 ---
-name: "RUMPUS"
-imageURL: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/RUMPUS.jpg
-logoURL: https://wickedwoods.festivalpro.com/?getFile&FILEID=37871
-kind: "Live Performance"
+name: RUMPUS
+images:
+- assetKey: did:plc:5df2u7ief6m6tn77jznicxob|wicked-woods-ome-2025|contributor|RUMPUS|photo|default
+  source:
+    url: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/RUMPUS.jpg
+  role: photo
+  renderKind: fullImage
+  materializationPolicy: lazy
+- assetKey: did:plc:5df2u7ief6m6tn77jznicxob|wicked-woods-ome-2025|contributor|RUMPUS|logo|default
+  source:
+    url: https://wickedwoods.festivalpro.com/?getFile&FILEID=37871
+  role: logo
+  renderKind: transparent
+  materializationPolicy: lazy
 links:
 - url: https://www.facebook.com/itsrumpus/
-  linkType:
-    label: facebook
+  platform: facebook
 - url: https://www.instagram.com/itsrumpus/
-  linkType:
-    label: instagram
+  platform: instagram
 - url: https://itsrumpus.com
-  linkType:
-    label: website
+  platform: website
 ---
 Award-winning DJ and producer, RUMPUS, brings his unique style house music to the stage, incorporating live drumming into his electrifying performances, which have earned him the moniker RUMPUS—meaning “a noisy disturbance; a commotion.”
 

@@ -1,17 +1,19 @@
 ---
-name: "Percusshunkidd"
-imageURL: https://firebasestorage.googleapis.com/v0/b/festivl.appspot.com/o/wicked-woods-2025%2FPercusshunkidd.png?alt=media&token=0fe4d5a7-61a2-4222-9abe-bd86e5fb316f
-kind: "Live Performance"
+name: Percusshunkidd
+images:
+- assetKey: did:plc:5df2u7ief6m6tn77jznicxob|wicked-woods-ome-2025|contributor|Percusshunkidd|photo|default
+  source:
+    url: https://firebasestorage.googleapis.com/v0/b/festivl.appspot.com/o/wicked-woods-2025%2FPercusshunkidd.png?alt=media&token=0fe4d5a7-61a2-4222-9abe-bd86e5fb316f
+  role: photo
+  renderKind: fullImage
+  materializationPolicy: lazy
 links:
 - url: https://soundcloud.com/djpercusshunkiddcanada
-  linkType:
-    label: soundcloud
+  platform: soundcloud
 - url: https://www.facebook.com/DjPercusshunkiddCAN
-  linkType:
-    label: facebook
+  platform: facebook
 - url: https://www.instagram.com/percusshunkidd/
-  linkType:
-    label: instagram
+  platform: instagram
 ---
 Percusshunkidd, the Ontario Born, West Coast-based rising force in the electronic music scene is making waves with her dynamic presence and unmistakable sound.
 Originally stepping into the industry as a promoter, she quickly transitioned behind the decks, where her signature blend of driving Tech House, relentless basslines, and infectious vocals has captured dance floors across British Columbia and Ontario.

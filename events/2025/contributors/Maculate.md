@@ -1,21 +1,27 @@
 ---
-name: "Maculate"
-imageURL: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/Maculate.jpg
-logoURL: https://wickedwoods.festivalpro.com/?getFile&FILEID=31953
-kind: "Live Performance"
+name: Maculate
+images:
+- assetKey: did:plc:5df2u7ief6m6tn77jznicxob|wicked-woods-ome-2025|contributor|Maculate|photo|default
+  source:
+    url: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/Maculate.jpg
+  role: photo
+  renderKind: fullImage
+  materializationPolicy: lazy
+- assetKey: did:plc:5df2u7ief6m6tn77jznicxob|wicked-woods-ome-2025|contributor|Maculate|logo|default
+  source:
+    url: https://wickedwoods.festivalpro.com/?getFile&FILEID=31953
+  role: logo
+  renderKind: transparent
+  materializationPolicy: lazy
 links:
 - url: https://www.youtube.com/DJMaculate
-  linkType:
-    label: youtube
+  platform: youtube
 - url: https://www.facebook.com/DJMaculate
-  linkType:
-    label: facebook
+  platform: facebook
 - url: https://www.instagram.com/djmaculate/
-  linkType:
-    label: instagram
+  platform: instagram
 - url: https://www.djmaculate.com/
-  linkType:
-    label: website
+  platform: website
 ---
 Maculate is a San Francisco-Based Award-Winning Video DJ and Music Video Creator. Winner of Twitch TV's 2023 Video DJ of the Year and Global Funk Fam's 2021 Artist of the Year, Maculate's performances blend the vintage and the contemporary, inviting classic sights and sounds from the past into a modern bass-filled future.
 

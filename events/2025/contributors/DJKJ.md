@@ -1,10 +1,15 @@
 ---
-name: "DJKJ"
-imageURL: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/DJKJ.JPG
+name: DJKJ
+images:
+- assetKey: did:plc:5df2u7ief6m6tn77jznicxob|wicked-woods-ome-2025|contributor|DJKJ|photo|default
+  source:
+    url: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/DJKJ.JPG
+  role: photo
+  renderKind: fullImage
+  materializationPolicy: lazy
 links:
 - url: https://soundcloud.com/djkj-1
-  linkType:
-    label: soundcloud
+  platform: soundcloud
 ---
 DJKJ
 Home grown in the land of the Midnight Sun: Musician, DJ, promoter and long-time electronic music enthusiast, DJKJ hails out of Whitehorse, Yukon; Canada’s true north.  KJ is also one of the original producers of the Paradise Music Festival, an annual music festival that takes place in his home town for the last twenty years.

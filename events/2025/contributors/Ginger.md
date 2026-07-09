@@ -1,20 +1,21 @@
 ---
-name: "Ginger"
-imageURL: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/Ginger.jpg
-kind: "Live Performance"
+name: Ginger
+images:
+- assetKey: did:plc:5df2u7ief6m6tn77jznicxob|wicked-woods-ome-2025|contributor|Ginger|photo|default
+  source:
+    url: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/Ginger.jpg
+  role: photo
+  renderKind: fullImage
+  materializationPolicy: lazy
 links:
 - url: https://soundcloud.com/gingerd-beats
-  linkType:
-    label: soundcloud
+  platform: soundcloud
 - url: https://www.facebook.com/maryann.spears
-  linkType:
-    label: facebook
+  platform: facebook
 - url: mary_ann_ginger
-  linkType:
-    label: instagram
+  platform: website
 - url: https://midorisound.com/
-  linkType:
-    label: website
+  platform: website
 ---
 Ginger is a highly recognized presence in the Kootenay electronic music scene having rocked stages every year at the Shambhala Music Festival since 2000. 
 
