@@ -1,3 +1,3 @@
 ---
-name: "The W.O.K.E"
+name: The W.O.K.E
 ---

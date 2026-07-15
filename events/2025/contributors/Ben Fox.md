@@ -1,27 +1,29 @@
 ---
-name: "Ben Fox"
-imageURL: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/BenFox.jpg
-logoURL: https://wickedwoods.festivalpro.com/?getFile&FILEID=31609
-kind: "Live Performance"
+name: Ben Fox
+images:
+- source:
+    url: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/BenFox.jpg
+  role: photo
+  renderKind: fullImage
+  materializationPolicy: lazy
+- source:
+    url: https://wickedwoods.festivalpro.com/?getFile&FILEID=31609
+  role: logo
+  renderKind: transparent
+  materializationPolicy: lazy
 links:
 - url: https://soundcloud.com/benfoxmusic
-  linkType:
-    label: soundcloud
+  platform: soundcloud
 - url: https://www.youtube.com/@benfoxmusicofficial
-  linkType:
-    label: youtube
+  platform: youtube
 - url: www.facebook.com/benfoxmusic
-  linkType:
-    label: facebook
+  platform: facebook
 - url: www.instagram.com/benfoxmusic
-  linkType:
-    label: instagram
+  platform: instagram
 - url: https://open.spotify.com/artist/3kVZl3EDgcN4v01oxJwfO6
-  linkType:
-    label: spotify
+  platform: spotify
 - url: www.benfoxmusic.com
-  linkType:
-    label: website
+  platform: website
 ---
 From tag-teaming on stage with legends like Z-Trip and Dr. Fresch to receiving DJ support from artists like Sammy Porter and Jamie Jones, Ben Fox is a driving force in the Canadian music scene. Prolific both on stage and in the studio, this Shambhala Pagoda Stage DJ is no stranger to the Beatport charts, with thousands of streams across dozens of countries.
 

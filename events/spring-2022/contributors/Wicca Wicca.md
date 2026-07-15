@@ -1,3 +1,3 @@
 ---
-name: "Wicca Wicca"
+name: Wicca Wicca
 ---

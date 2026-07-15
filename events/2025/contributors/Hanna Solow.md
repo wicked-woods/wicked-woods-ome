@@ -1,18 +1,23 @@
 ---
-name: "Hanna Solow"
-imageURL: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/HannaSolow.jpg
-logoURL: https://wickedwoods.festivalpro.com/?getFile&FILEID=33515
-kind: "Live Performance"
+name: Hanna Solow
+images:
+- source:
+    url: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/HannaSolow.jpg
+  role: photo
+  renderKind: fullImage
+  materializationPolicy: lazy
+- source:
+    url: https://wickedwoods.festivalpro.com/?getFile&FILEID=33515
+  role: logo
+  renderKind: transparent
+  materializationPolicy: lazy
 links:
 - url: https://soundcloud.com/hanna-so-low
-  linkType:
-    label: soundcloud
+  platform: soundcloud
 - url: https://www.instagram.com/hanna_solow
-  linkType:
-    label: instagram
+  platform: instagram
 - url: https://linktr.ee/hannasolow
-  linkType:
-    label: website
+  platform: website
 ---
 Hanna SoLow - United Bass Kollective
 

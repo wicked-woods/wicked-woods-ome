@@ -1,11 +1,20 @@
 ---
-name: "Qdup"
-imageURL: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2F5B78E76F-09F5-4900-88AE-AF4FAD14297B.png?alt=media&token=66640477-9105-4165-9a19-545976fd9379
+name: Qdup
+images:
+- source:
+    url: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2F5B78E76F-09F5-4900-88AE-AF4FAD14297B.png?alt=media&token=66640477-9105-4165-9a19-545976fd9379
+  role: photo
+  renderKind: fullImage
+  materializationPolicy: lazy
 links:
 - url: https://soundcloud.com/qdupmusic
+  platform: soundcloud
 - url: https://www.daniomanagement.com/qdup
+  platform: website
 - url: https://www.youtube.com/user/QdupMusic
+  platform: youtube
 - url: https://www.facebook.com/QdupMusic
+  platform: facebook
 ---
 Jason Brown is Qdup, and has been making dance floors groove and butts move worldwide for a decade. Over the years, Qdup has released top selling tunes and remixes on many well received labels including Bombstrikes, Fort Knox Recordings, Bombastic Jam, Goodgroove, Air, ESL Music, Royal Soul, Boxon Records, MustBeat and his own Qdup Records imprint.
 Qdup has had a steady string of acclaimed original singles released with Washington, DC’s own Fort Knox Recordings since 2013. The Let’s Go EP earned a nomination for a Washington Area Music Award for best Hip Hop Recording with the title track “Let’s Go” featuring fellow DC resident MC Flex Mathews. The Warp9 remix of “Electro Funk Boogie” from his follow up Lone Star EP garnered “Breaks Tune of The Month” in the October 2014 print issue of Mixmag. Tracks from Lone Star EP and this years “Bodyrock” single found success in Beatport’s Top Glitch Hop and Top Funk & R&B genre sales charts along with success on Juno Download and other top digital music retailers. Many dance floor focused artists have also commissioned Qdup to officially remix their music including Fort Knox Five, DJ Love, Thunderball, Basement Freaks, All Good Funk Alliance, Trotter, See-I, Omegaman, Thomas Blondet and Ursula1000 to name a few. Also known for his party mashing exclusive edits and re-rubs, Qdup has gained a following via some of the webs hottest blogs, dropping secret weapon DJ tunes to the masses as free downloads.

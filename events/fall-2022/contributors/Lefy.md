@@ -1,5 +1,5 @@
 ---
-name: "Lefy"
+name: Lefy
 ---
 
 Lefy’s been Dj-ing since his College radio days and back then it was all vinyl. He’s built a strong dance community in and around Invermere, hosting a multitude of amazing events like Bass Camp, Lefy-Fest and some epic nights at Bud's Boogie Parlor. He has gained some valuable experience from playing the Rock Pit for 2 years and The Time of Your Life Dome @ Burning Man. He’s opened for favorites such as A-Skills, Krafty Kuts, Freestylers, Czech, Ed Solo, Mat the Alien, Small Town Djs, Meow Mix and Hoola to name a few.

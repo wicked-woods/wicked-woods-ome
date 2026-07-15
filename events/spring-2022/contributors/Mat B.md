@@ -1,3 +1,3 @@
 ---
-name: "Mat B"
+name: Mat B
 ---

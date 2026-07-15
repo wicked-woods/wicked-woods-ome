@@ -1,6 +1,11 @@
 ---
-name: "Benanas"
-imageURL: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2FD6EF19E6-4F63-4EE0-AAD0-2A7DEB1FE395.png?alt=media&token=4e018c0c-6e90-407c-b77b-bef420e00b94
+name: Benanas
+images:
+- source:
+    url: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2FD6EF19E6-4F63-4EE0-AAD0-2A7DEB1FE395.png?alt=media&token=4e018c0c-6e90-407c-b77b-bef420e00b94
+  role: photo
+  renderKind: fullImage
+  materializationPolicy: lazy
 links: []
 ---
 Benanas has been a presence in the Calgary Electronic music scene for over a decade now, promoting, hosting and performing at most of his city’s best venues. With a track pool deeper than an Olympic high dive, his unique blend of Bass music, Hip-Hop, Funk and everything in-between crafts a vibey flow that has kept crowds moving at festival such as Wicked Woods, Fozzy Fest, LEMF, Forest Awakening, Circle Carnival, Vibrant and many more for years.

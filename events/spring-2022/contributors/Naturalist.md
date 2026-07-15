@@ -1,8 +1,14 @@
 ---
-name: "Naturalist"
-imageURL: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2FA337CF25-8A29-4A13-9E89-08F42E59567F.png?alt=media&token=b7b1ff7f-3741-4534-893f-69c06fde5907
+name: Naturalist
+images:
+- source:
+    url: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2FA337CF25-8A29-4A13-9E89-08F42E59567F.png?alt=media&token=b7b1ff7f-3741-4534-893f-69c06fde5907
+  role: photo
+  renderKind: fullImage
+  materializationPolicy: lazy
 links:
 - url: https://soundcloud.com/naturalistmusic
+  platform: soundcloud
 ---
 Naturalist is made up of two music lovin' brothers, Sam Moffat and Caleb Brown from Fernie BC.
 

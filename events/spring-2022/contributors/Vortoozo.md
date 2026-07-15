@@ -1,3 +1,3 @@
 ---
-name: "Vortoozo"
+name: Vortoozo
 ---

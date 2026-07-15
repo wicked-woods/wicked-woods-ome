@@ -1,39 +1,5 @@
 date: '2022-05-27'
 performances:
-  ursus:
-  - title: Lazy Syup Orchestra
-    startTime: '15:00'
-    contributors:
-    - id: Lazy Syup Orchestra
-  - title: 'Dirty Mits Mama ft. 14 Flamingos '
-    startTime: '16:30'
-    endTime: '17:30'
-    contributors:
-    - id: 'Dirty Mits Mama ft. 14 Flamingos '
-  - title: Thugshells, Newman, Trooknot, Rubix, Fallen Wall & The W.O.K.E
-    startTime: '18:30'
-    endTime: '20:30'
-    contributors:
-    - id: Thugshells
-    - id: Newman
-    - id: Trooknot
-    - id: Rubix
-    - id: Fallen Wall
-    - id: The W.O.K.E
-  - title: Jodie B
-    startTime: '21:15'
-    contributors:
-    - id: Jodie B
-  - title: Manteasah
-    startTime: '21:45'
-    endTime: '22:45'
-    contributors:
-    - id: Manteasah
-  - title: Drezus
-    startTime: '23:00'
-    endTime: '00:00'
-    contributors:
-    - id: Drezus
   the-hallow:
   - title: Universal Fallout
     startTime: '14:00'
@@ -72,32 +38,32 @@ performances:
     contributors:
     - id: Smalltown DJs
   - title: The Funk Hunters
-    startTime: '00:00'
+    startTime: 00:00
     contributors:
     - id: The Funk Hunters
   - title: Neon Steve
-    startTime: '01:30'
+    startTime: 01:30
     contributors:
     - id: Neon Steve
   - title: Aspen King
-    startTime: '02:30'
+    startTime: 02:30
     contributors:
     - id: Aspen King
   - title: SOUP
-    startTime: '03:30'
+    startTime: 03:30
     contributors:
     - id: SOUP
   - title: Deblock
-    startTime: '04:30'
+    startTime: 04:30
     contributors:
     - id: Deblock
   - title: Mr. Digger
-    startTime: '05:30'
+    startTime: 05:30
     contributors:
     - id: Mr. Digger
   - title: Neighbor
-    startTime: '06:30'
-    endTime: '08:30'
+    startTime: 06:30
+    endTime: 08:30
     contributors:
     - id: Neighbor
   unicorn-lounge:
@@ -138,23 +104,57 @@ performances:
     contributors:
     - id: Jake Robertz
   - title: Kytami and Phonik Ops
-    startTime: '00:30'
+    startTime: 00:30
     contributors:
     - id: Kytami and Phonik Ops
   - title: Diligent
-    startTime: '02:00'
+    startTime: 02:00
     contributors:
     - id: Diligent
   - title: Mat B & Ohm Girl
-    startTime: '03:00'
+    startTime: 03:00
     contributors:
     - id: Mat B
     - id: Ohm Girl
   - title: Alan Flava, E-Lev-8, Killups & Wigginz
-    startTime: '04:30'
-    endTime: '08:00'
+    startTime: 04:30
+    endTime: 08:00
     contributors:
     - id: Alan Flava
     - id: E-Lev-8
     - id: Killups
     - id: Wigginz
+  ursus:
+  - title: Lazy Syup Orchestra
+    startTime: '15:00'
+    contributors:
+    - id: Lazy Syup Orchestra
+  - title: 'Dirty Mits Mama ft. 14 Flamingos '
+    startTime: '16:30'
+    endTime: '17:30'
+    contributors:
+    - id: 'Dirty Mits Mama ft. 14 Flamingos '
+  - title: Thugshells, Newman, Trooknot, Rubix, Fallen Wall & The W.O.K.E
+    startTime: '18:30'
+    endTime: '20:30'
+    contributors:
+    - id: Thugshells
+    - id: Newman
+    - id: Trooknot
+    - id: Rubix
+    - id: Fallen Wall
+    - id: The W.O.K.E
+  - title: Jodie B
+    startTime: '21:15'
+    contributors:
+    - id: Jodie B
+  - title: Manteasah
+    startTime: '21:45'
+    endTime: '22:45'
+    contributors:
+    - id: Manteasah
+  - title: Drezus
+    startTime: '23:00'
+    endTime: 00:00
+    contributors:
+    - id: Drezus

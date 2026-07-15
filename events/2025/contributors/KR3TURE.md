@@ -1,26 +1,29 @@
 ---
-name: "KR3TURE"
-imageURL: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/KRTURE.jpg
-logoURL: https://wickedwoods.festivalpro.com/?getFile&FILEID=36485
+name: KR3TURE
+images:
+- source:
+    url: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/KRTURE.jpg
+  role: photo
+  renderKind: fullImage
+  materializationPolicy: lazy
+- source:
+    url: https://wickedwoods.festivalpro.com/?getFile&FILEID=36485
+  role: logo
+  renderKind: transparent
+  materializationPolicy: lazy
 links:
 - url: https://soundcloud.com/KR3TURE
-  linkType:
-    label: soundcloud
+  platform: soundcloud
 - url: https://www.youtube.com/KR3TURE
-  linkType:
-    label: youtube
+  platform: youtube
 - url: https://www.facebook.com/KR3TURE
-  linkType:
-    label: facebook
+  platform: facebook
 - url: https://www.instagram.com/KR3TURE_music
-  linkType:
-    label: instagram
+  platform: instagram
 - url: https://open.spotify.com/artist/5Da6Z6taYuywICqGUwocwu?si=_uxa1BO6SwqGD1pu6dWdwg
-  linkType:
-    label: spotify
+  platform: spotify
 - url: https://www.KR3TURE.com/
-  linkType:
-    label: website
+  platform: website
 ---
 KR3TURE is a pioneer of modern live/electronic fusion, creating his own signature sound of powerful, emotional, and playful music that inspires listeners to connect with their hearts and move their bodies. KR3TURE seamlessly blends genres, from ambient and downtempo to glitch and heavy bass, creating a sensual tapestry that defies categorization. On stage, KR3TURE improvises on guitar and saxophone to redefine the possibilities of live electronic music, weaving a symphony that resonates with the moment and creating a palpable connection between artist and audience.
 

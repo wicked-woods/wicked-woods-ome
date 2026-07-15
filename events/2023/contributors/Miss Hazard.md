@@ -1,10 +1,18 @@
 ---
-name: "Miss Hazard"
-imageURL: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2F00BBD6E8-5A02-4D72-8C84-ABC3FF74D24D.png?alt=media&token=8dc3ff6d-2df8-4692-adc3-8ee39b4cb5a2
+name: Miss Hazard
+images:
+- source:
+    url: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2F00BBD6E8-5A02-4D72-8C84-ABC3FF74D24D.png?alt=media&token=8dc3ff6d-2df8-4692-adc3-8ee39b4cb5a2
+  role: photo
+  renderKind: fullImage
+  materializationPolicy: lazy
 links:
 - url: https://soundcloud.com/misshazard
+  platform: soundcloud
 - url: https://www.instagram.com/miss.hazard/
+  platform: instagram
 - url: https://www.facebook.com/MissHazard
+  platform: facebook
 ---
 Miss Hazard is a talented DJ, photographer, and music industry advocate based in Vancouver, BC. Born and raised in South Africa, she brings a unique perspective and cultural influence to her craft, having been classically trained in music and honing her skills on the vibrant local DJ circuit.
 

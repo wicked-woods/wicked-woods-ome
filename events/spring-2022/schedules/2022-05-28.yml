@@ -38,32 +38,32 @@ performances:
     contributors:
     - id: GREAZUS
   - title: Stylust
-    startTime: '00:30'
+    startTime: 00:30
     contributors:
     - id: Stylust
   - title: Woofax
-    startTime: '01:30'
+    startTime: 01:30
     contributors:
     - id: Woofax
   - title: Longwalkshortdock
-    startTime: '02:30'
+    startTime: 02:30
     contributors:
     - id: Longwalkshortdock
   - title: Smol
-    startTime: '04:00'
+    startTime: 04:00
     contributors:
     - id: Smol
   - title: Illustrator
-    startTime: '05:00'
+    startTime: 05:00
     contributors:
     - id: Illustrator
   - title: Carissa Gem
-    startTime: '06:00'
+    startTime: 06:00
     contributors:
     - id: Carissa Gem
   - title: Robbie C
-    startTime: '07:00'
-    endTime: '09:00'
+    startTime: 07:00
+    endTime: 09:00
     contributors:
     - id: Robbie C
   unicorn-lounge:
@@ -108,32 +108,32 @@ performances:
     contributors:
     - id: PINEO & LOEB
   - title: Fort Knox Five
-    startTime: '00:30'
+    startTime: 00:30
     contributors:
     - id: Fort Knox Five
   - title: Rumpus
-    startTime: '02:00'
+    startTime: 02:00
     contributors:
     - id: Rumpus
   - title: Average Citizens
-    startTime: '03:30'
+    startTime: 03:30
     contributors:
     - id: Average Citizens
   - title: Mateeson & DPM
-    startTime: '05:00'
+    startTime: 05:00
     contributors:
     - id: Mateeson
     - id: DPM
   - title: Pete Wilde
-    startTime: '06:30'
+    startTime: 06:30
     contributors:
     - id: Pete Wilde
   - title: Pleasensations
-    startTime: '08:00'
+    startTime: 08:00
     contributors:
     - id: Pleasensations
   - title: Vortoozo
-    startTime: '09:30'
+    startTime: 09:30
     contributors:
     - id: Vortoozo
   - title: M3Rf

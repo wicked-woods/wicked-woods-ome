@@ -1,3 +1,3 @@
 ---
-name: "Ninjette"
+name: Ninjette
 ---

@@ -1,8 +1,14 @@
 ---
-name: "Aspen King"
-imageURL: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2F36C15726-3B17-4053-9574-FAFC9F9568B1.png?alt=media&token=2a16445f-d92b-4c50-a96f-8c735fc0326f
+name: Aspen King
+images:
+- source:
+    url: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2F36C15726-3B17-4053-9574-FAFC9F9568B1.png?alt=media&token=2a16445f-d92b-4c50-a96f-8c735fc0326f
+  role: photo
+  renderKind: fullImage
+  materializationPolicy: lazy
 links:
 - url: https://soundcloud.com/aspenking
+  platform: soundcloud
 ---
 Growing up on a small island north of Vancouver Island in British Columbia, Aspen King always had a passion for electronic music. She’s been so immersed in music for a majority of her life, that she attended her first rave when she was a fetus in her mom’s womb. Growing up, she listened to music to the likes of: Bonobo, Jamie XX, Solomun, Claptone and The Gorillaz.
 

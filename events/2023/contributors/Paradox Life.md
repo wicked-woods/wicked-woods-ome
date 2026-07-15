@@ -1,3 +1,3 @@
 ---
-name: "Paradox Life"
+name: Paradox Life
 ---

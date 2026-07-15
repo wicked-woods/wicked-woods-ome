@@ -1,18 +1,23 @@
 ---
-name: "Luna Deep"
-imageURL: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/LunaDeep.jpg
-logoURL: https://wickedwoods.festivalpro.com/?getFile&FILEID=32199
-kind: "Live Performance"
+name: Luna Deep
+images:
+- source:
+    url: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/LunaDeep.jpg
+  role: photo
+  renderKind: fullImage
+  materializationPolicy: lazy
+- source:
+    url: https://wickedwoods.festivalpro.com/?getFile&FILEID=32199
+  role: logo
+  renderKind: transparent
+  materializationPolicy: lazy
 links:
 - url: http://www.soundcloud.com/freakyfunky11
-  linkType:
-    label: soundcloud
+  platform: soundcloud
 - url: http://www.facebook.com/djlunadeep
-  linkType:
-    label: facebook
+  platform: facebook
 - url: http://www.instagram.com/lunadeepofficial
-  linkType:
-    label: instagram
+  platform: instagram
 ---
 Filled with gratitude and a fierce spirit, this lady thrives on the deep basslines and floaty melodies. 
 

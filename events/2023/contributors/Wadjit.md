@@ -1,3 +1,3 @@
 ---
-name: "Wadjit"
+name: Wadjit
 ---

@@ -1,3 +1,3 @@
 ---
-name: "Creek St"
+name: Creek St
 ---

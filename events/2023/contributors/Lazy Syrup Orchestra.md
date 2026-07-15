@@ -1,3 +1,3 @@
 ---
-name: "Lazy Syrup Orchestra"
+name: Lazy Syrup Orchestra
 ---

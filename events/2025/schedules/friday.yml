@@ -1,5 +1,202 @@
 date: '2025-08-29'
 performances:
+  unicorn-lounge:
+  - title: Fram3s
+    startTime: '16:30'
+    contributors:
+    - id: Fram3s
+  - title: FunkinRight
+    startTime: '17:30'
+    contributors:
+    - id: FunkinRight
+  - title: Double Trouble
+    startTime: '18:30'
+    endTime: '20:00'
+    contributors:
+    - id: Double Trouble
+  - title: M3RF
+    startTime: '20:00'
+    endTime: '21:30'
+    contributors:
+    - id: M3RF
+  - title: Burchill
+    startTime: '21:30'
+    endTime: '23:00'
+    contributors:
+    - id: Burchill
+  - title: PINEO & LOEB
+    startTime: '23:00'
+    endTime: 00:30
+    contributors:
+    - id: PINEO & LOEB
+  - title: Slynk
+    startTime: 00:30
+    endTime: 02:00
+    contributors:
+    - id: Slynk
+  - title: Wes Please
+    startTime: 02:00
+    endTime: 03:30
+    contributors:
+    - id: Wes Please
+  - title: Freddy J
+    startTime: 03:30
+    contributors:
+    - id: Freddy J
+  - title: Underdog
+    startTime: 04:30
+    endTime: 05:30
+    contributors:
+    - id: Underdog
+  - title: Lola Phyne
+    startTime: 05:30
+    endTime: 07:00
+    contributors:
+    - id: Lola Phyne
+  ursus:
+  - title: Opening ceremony W/ Jeff Holden & Vitantonio Spineelli + special guests
+    startTime: '14:00'
+    contributors:
+    - id: Jeff Holden of Holden Space
+    - name: Vitantonio Spinelli
+  - title: Drezus
+    startTime: '15:00'
+    endTime: '16:00'
+    contributors:
+    - name: Drezus
+  - title: Community Drum Experience
+    description: "200 Instruments. 200 Heartbeats. One Epic Experience.\n\nTwo of
+      Western Canada\u2019s rhythmic powerhouses\u2014 Rhythm By Nature & Circles
+      Of Rhythm \u2014are uniting to ignite the Wicked Woods Ursus Stage on opening
+      night at 7:00 pm. Step into this interactive drumming experience and claim your
+      spot among 200 percussive instruments in a collective journey of rhythm, movement,
+      connection, and DRUMMING!\n\nWhether you want to play, dance, or simply feel
+      the pulse, your rhythmic voice matters. Together we\u2019ll ride waves of high-energy
+      beats, drop into moments of active meditation, and reconnect to the most ancient
+      rhythm of all\u2014the heartbeat. Drumming is more than music; it\u2019s a homecoming...\n"
+    startTime: '19:00'
+    endTime: '20:30'
+    contributors:
+    - name: Patrick Carrick
+  - title: Le Cirque de la Nuit
+    startTime: '21:30'
+    endTime: '22:30'
+    contributors:
+    - id: Le Cirque de la Nuit
+  relaxation-ridge:
+  - title: Opening Meditation & Stretch
+    description: 'All are welcome and invited for a gentle stretch and collective
+      meditation as we welcome in Wicked Woods 2025. No experience required.
+
+      '
+    startTime: '10:00'
+    endTime: '10:30'
+    contributors:
+    - id: Allie Bruni-Riendeau
+  - title: Holden Space Sound Journey
+    description: 'Relax, breathe and receive as Jeff live loops the sweet sounds of
+      gongs, didgeridoos, flutes, bowls, rattles, chimes and song in a well contained
+      space. As high frequency vibrations light up the space, Jeff brings direct resonance
+      to your nervous system in support of regulation, rejuvenation and restoration.
+
+      '
+    startTime: '10:30'
+    endTime: '12:00'
+    contributors:
+    - id: Jeff Holden of Holden Space
+  - title: Wellbeing & Interactive Sobriety Workshop
+    description: "In this interactive workshop we will connect with our resources
+      and the fundamental steps inherent in the creative process to help form a road
+      map for exploring the potent realms of addiction in today\u2019s society. Together,
+      we belong, please come along and take your place on this inspiring journey!\n"
+    startTime: '12:00'
+    endTime: '13:00'
+    contributors:
+    - id: Jeff Holden of Holden Space
+  - title: Somatic Steez & Clothing Swap
+    description: "Somatic Steez is an interactive workshop designed to help participants
+      uncover their authentic style\u2014or \u201Csteez\u201D\u2014through the lens
+      of somatics and self-expression. Rooted in the science of enclothed cognition,
+      this experience invites people to explore how different textures, colors, and
+      styles impact their internal state.\n\nParticipants will engage in somatic practices
+      to connect with their body\u2019s subtle cues\u2014those intuitive nudges that
+      say, \u201CYes, this feels authentic.\u201D The workshop encourages play and
+      experimentation, inviting people to try on new styles and sensations while tuning
+      into how their soma (body) responds.\n"
+    startTime: '13:30'
+    endTime: '14:30'
+    contributors:
+    - id: Kylie Kerik
+  - title: Substance Use and Drug Checking
+    description: 'This hands-on workshop combines the basics of safer drug use with
+      an intro to drug checking supports, harm reduction supplies and substance use
+      at festivals. Learn how to recognize and respond to overdoses, polysubstance
+      use & festival substance use and learn about reagent kits available online.
+
+
+      Includes practical demos, mock testing, and harm reduction swag to take with
+      you.
+
+      '
+    startTime: '16:30'
+    endTime: '17:30'
+    contributors:
+    - name: ANKORS
+  the-hallow:
+  - title: STYLUST (Hip Hop Set)
+    startTime: '16:00'
+    contributors:
+    - id: STYLUST
+  - title: Shallow Wells
+    startTime: '17:00'
+    contributors:
+    - id: Shallow Wells
+  - title: Toshiinlove
+    startTime: '18:00'
+    contributors:
+    - id: Toshiinlove
+    recordings:
+    - url: https://soundcloud.com/toshiinlove/one-hallowed-eve
+  - title: SwaggaCats
+    startTime: '19:00'
+    contributors:
+    - id: SwaggaCats
+  - title: Hi, Society Takeover ft. Kelluna & Leo Zen
+    startTime: '20:00'
+    endTime: '22:30'
+    contributors:
+    - id: Leo Zen
+    - name: Kelluna
+  - title: Trevor Galore
+    startTime: '22:30'
+    endTime: '23:30'
+    contributors:
+    - id: Trevor Galore
+  - title: ZEN SELEKTA
+    startTime: '23:30'
+    endTime: 01:00
+    contributors:
+    - id: ZEN SELEKTA
+  - title: KHIVA
+    startTime: 01:00
+    endTime: 02:30
+    contributors:
+    - id: KHIVA
+  - title: PuppyCat
+    startTime: 02:30
+    contributors:
+    - id: PuppyCat
+  - title: MoJo
+    startTime: 03:30
+    contributors:
+    - id: MoJo
+    recordings:
+    - url: https://soundcloud.com/j_delawsky/ww25-wav
+  - title: Yetz
+    startTime: 04:30
+    endTime: 05:30
+    contributors:
+    - id: Yetz
   the-portal:
   - title: RuneKey
     startTime: '16:00'
@@ -36,232 +233,68 @@ performances:
     - id: Activist
   - title: Dyzphoria
     startTime: '22:30'
-    endTime: '00:00'
+    endTime: 00:00
     contributors:
     - id: Dyzphoria
   - title: Paint Department
-    startTime: '00:00'
-    endTime: '01:30'
+    startTime: 00:00
+    endTime: 01:30
     contributors:
     - id: Paint Department
     recordings:
     - url: https://soundcloud.com/paintdepartment/paint-department-portal4
   - title: Secret Headliner
-    startTime: '01:30'
-    endTime: '02:30'
+    startTime: 01:30
+    endTime: 02:30
     contributors:
     - id: Secret Headliner
   - title: Jay Michael
-    startTime: '02:30'
-    endTime: '03:30'
+    startTime: 02:30
+    endTime: 03:30
     contributors:
     - id: Jay Michael
   - title: Sorsari
-    startTime: '03:30'
+    startTime: 03:30
     contributors:
     - id: Sorsari
   - title: Yedgar
-    startTime: '04:30'
+    startTime: 04:30
     contributors:
     - id: Yedgar
   - title: Chacho
-    startTime: '05:30'
+    startTime: 05:30
     contributors:
     - id: Chacho
   - title: Gabby Haze
-    startTime: '06:30'
-    endTime: '07:30'
+    startTime: 06:30
+    endTime: 07:30
     contributors:
     - id: Gabby Haze
-  unicorn-lounge:
-  - title: Fram3s
-    startTime: '16:30'
-    contributors:
-    - id: Fram3s
-  - title: FunkinRight
-    startTime: '17:30'
-    contributors:
-    - id: FunkinRight
-  - title: Double Trouble
-    startTime: '18:30'
-    endTime: '20:00'
-    contributors:
-    - id: Double Trouble
-  - title: M3RF
-    startTime: '20:00'
-    endTime: '21:30'
-    contributors:
-    - id: M3RF
-  - title: Burchill
-    startTime: '21:30'
-    endTime: '23:00'
-    contributors:
-    - id: Burchill
-  - title: PINEO & LOEB
-    startTime: '23:00'
-    endTime: '00:30'
-    contributors:
-    - id: PINEO & LOEB
-  - title: Slynk
-    startTime: '00:30'
-    endTime: '02:00'
-    contributors:
-    - id: Slynk
-  - title: Wes Please
-    startTime: '02:00'
-    endTime: '03:30'
-    contributors:
-    - id: Wes Please
-  - title: Freddy J
-    startTime: '03:30'
-    contributors:
-    - id: Freddy J
-  - title: Underdog
-    startTime: '04:30'
-    endTime: '05:30'
-    contributors:
-    - id: Underdog
-  - title: Lola Phyne
-    startTime: '05:30'
-    endTime: '07:00'
-    contributors:
-    - id: Lola Phyne
-  the-hallow:
-  - title: STYLUST (Hip Hop Set)
-    startTime: '16:00'
-    contributors:
-    - id: STYLUST
-  - title: Shallow Wells
-    startTime: '17:00'
-    contributors:
-    - id: Shallow Wells
-  - title: Toshiinlove
-    startTime: '18:00'
-    contributors:
-    - id: Toshiinlove
-    recordings:
-    - url: https://soundcloud.com/toshiinlove/one-hallowed-eve
-  - title: SwaggaCats
-    startTime: '19:00'
-    contributors:
-    - id: SwaggaCats
-  - title: Hi, Society Takeover ft. Kelluna & Leo Zen
-    startTime: '20:00'
-    endTime: '22:30'
-    contributors:
-    - id: Leo Zen
-    - name: Kelluna
-  - title: Trevor Galore
-    startTime: '22:30'
-    endTime: '23:30'
-    contributors:
-    - id: Trevor Galore
-  - title: ZEN SELEKTA
-    startTime: '23:30'
-    endTime: '01:00'
-    contributors:
-    - id: ZEN SELEKTA
-  - title: KHIVA
-    startTime: '01:00'
-    endTime: '02:30'
-    contributors:
-    - id: KHIVA
-  - title: PuppyCat
-    startTime: '02:30'
-    contributors:
-    - id: PuppyCat
-  - title: MoJo
-    startTime: '03:30'
-    contributors:
-    - id: MoJo
-    recordings:
-    - url: https://soundcloud.com/j_delawsky/ww25-wav
-  - title: Yetz
-    startTime: '04:30'
-    endTime: '05:30'
-    contributors:
-    - id: Yetz
-  ursus:
-  - title: Opening ceremony W/ Jeff Holden & Vitantonio Spineelli + special guests
-    startTime: '14:00'
-    contributors:
-    - id: Jeff Holden of Holden Space
-    - name: Vitantonio Spinelli
-  - title: Drezus
-    startTime: '15:00'
-    endTime: '16:00'
-    contributors:
-    - name: Drezus
-  - title: Community Drum Experience
-    description: |
-      200 Instruments. 200 Heartbeats. One Epic Experience.
-      
-      Two of Western Canada’s rhythmic powerhouses— Rhythm By Nature & Circles Of Rhythm —are uniting to ignite the Wicked Woods Ursus Stage on opening night at 7:00 pm. Step into this interactive drumming experience and claim your spot among 200 percussive instruments in a collective journey of rhythm, movement, connection, and DRUMMING!
-      
-      Whether you want to play, dance, or simply feel the pulse, your rhythmic voice matters. Together we’ll ride waves of high-energy beats, drop into moments of active meditation, and reconnect to the most ancient rhythm of all—the heartbeat. Drumming is more than music; it’s a homecoming...
-    startTime: '19:00'
-    endTime: '20:30'
-    contributors:
-    - name: Patrick Carrick
-  - title: Le Cirque de la Nuit
-    startTime: '21:30'
-    endTime: '22:30'
-    contributors:
-    - id: Le Cirque de la Nuit
-  relaxation-ridge:
-  - title: Opening Meditation & Stretch
-    description: |
-      All are welcome and invited for a gentle stretch and collective meditation as we welcome in Wicked Woods 2025. No experience required.
-    startTime: '10:00'
-    endTime: '10:30'
-    contributors:
-    - id: Allie Bruni-Riendeau
-  - title: Holden Space Sound Journey
-    description: |
-      Relax, breathe and receive as Jeff live loops the sweet sounds of gongs, didgeridoos, flutes, bowls, rattles, chimes and song in a well contained space. As high frequency vibrations light up the space, Jeff brings direct resonance to your nervous system in support of regulation, rejuvenation and restoration.
-    startTime: '10:30'
-    endTime: '12:00'
-    contributors:
-    - id: Jeff Holden of Holden Space
-  - title: Wellbeing & Interactive Sobriety Workshop
-    description: |
-      In this interactive workshop we will connect with our resources and the fundamental steps inherent in the creative process to help form a road map for exploring the potent realms of addiction in today’s society. Together, we belong, please come along and take your place on this inspiring journey!
-    startTime: '12:00'
-    endTime: '13:00'
-    contributors:
-    - id: Jeff Holden of Holden Space
-  - title: Somatic Steez & Clothing Swap
-    description: |
-      Somatic Steez is an interactive workshop designed to help participants uncover their authentic style—or “steez”—through the lens of somatics and self-expression. Rooted in the science of enclothed cognition, this experience invites people to explore how different textures, colors, and styles impact their internal state.
-      
-      Participants will engage in somatic practices to connect with their body’s subtle cues—those intuitive nudges that say, “Yes, this feels authentic.” The workshop encourages play and experimentation, inviting people to try on new styles and sensations while tuning into how their soma (body) responds.
-    startTime: '13:30'
-    endTime: '14:30'
-    contributors:
-    - id: Kylie Kerik
-  - title: Substance Use and Drug Checking
-    description: |
-      This hands-on workshop combines the basics of safer drug use with an intro to drug checking supports, harm reduction supplies and substance use at festivals. Learn how to recognize and respond to overdoses, polysubstance use & festival substance use and learn about reagent kits available online.
-      
-      Includes practical demos, mock testing, and harm reduction swag to take with you.
-    startTime: '16:30'
-    endTime: '17:30'
-    contributors:
-    - name: ANKORS
   aurora-gallery:
   - title: Rave Braids & Hair Accessories
-    description: Learn how to make your own rave braid hair extensions that are easy to install (and even easier to take off when it’s time to rest!)
+    description: "Learn how to make your own rave braid hair extensions that are easy
+      to install (and even easier to take off when it\u2019s time to rest!)"
     startTime: '12:00'
     endTime: '13:00'
     contributors:
     - id: Joanne Brampton
   - title: Knit a Stitch
-    description: |
-      In this workshop, I will teach attendees how to make a small knitted bookmark (it could also be turned into a bracelet).
-      
-      I will show them how to cast onto the knitting needle and then how to do a basic knit stitch, and repeat until they have a uniform long rectangle. When they have done enough knitting to complete their small project, I will show them how to cast off and have their first own knitted item!
-      
-      I will be bringing a variety of yarns with different colours, thickness, and textures so people can make a more personal creation and they can have the option to keep the knitting needles to continue this possible newfound passion and hobby! Wool you come and join me?
+    description: 'In this workshop, I will teach attendees how to make a small knitted
+      bookmark (it could also be turned into a bracelet).
+
+
+      I will show them how to cast onto the knitting needle and then how to do a basic
+      knit stitch, and repeat until they have a uniform long rectangle. When they
+      have done enough knitting to complete their small project, I will show them
+      how to cast off and have their first own knitted item!
+
+
+      I will be bringing a variety of yarns with different colours, thickness, and
+      textures so people can make a more personal creation and they can have the option
+      to keep the knitting needles to continue this possible newfound passion and
+      hobby! Wool you come and join me?
+
+      '
     startTime: '14:00'
     endTime: '15:00'
     contributors:

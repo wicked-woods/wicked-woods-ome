@@ -1,26 +1,29 @@
 ---
-name: "Asad Khan"
-imageURL: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/AsadKhan.png
-logoURL: https://wickedwoods.festivalpro.com/?getFile&FILEID=40103
+name: Asad Khan
+images:
+- source:
+    url: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/AsadKhan.png
+  role: photo
+  renderKind: fullImage
+  materializationPolicy: lazy
+- source:
+    url: https://wickedwoods.festivalpro.com/?getFile&FILEID=40103
+  role: logo
+  renderKind: transparent
+  materializationPolicy: lazy
 links:
 - url: https://soundcloud.com/asadkhanlife
-  linkType:
-    label: soundcloud
+  platform: soundcloud
 - url: https://www.youtube.com/channel/UCGGYkUBGByGEtn5L776vnjA
-  linkType:
-    label: youtube
+  platform: youtube
 - url: https://www.facebook.com/asadkhan.life
-  linkType:
-    label: facebook
+  platform: facebook
 - url: https://www.instagram.com/asadkhan.life/
-  linkType:
-    label: instagram
+  platform: instagram
 - url: https://open.spotify.com/artist/3XjXhRHZjamOXeraqTWff7?si=fkRLQrelSCeE29xUk-nBMA
-  linkType:
-    label: spotify
+  platform: spotify
 - url: https://www.asadkhan.life/
-  linkType:
-    label: website
+  platform: website
 ---
 Surrey-based Asad Khan (formerly Khanvict) is an escape artist. His cinematic production style, which has led to over 10 million streams online, transports the listener to the desert expanses and jungle paradises from which he borrows inspiration. Khanvict deftly manages to stay close to his Pakistani roots, while drawing  from artists like Clozee and Rüfüs du Sol to create a contemporary low-end homage to his homeland. 
 

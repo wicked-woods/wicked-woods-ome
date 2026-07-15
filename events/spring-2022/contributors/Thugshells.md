@@ -1,3 +1,3 @@
 ---
-name: "Thugshells"
+name: Thugshells
 ---

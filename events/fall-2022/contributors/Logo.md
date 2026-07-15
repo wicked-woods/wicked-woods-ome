@@ -1,3 +1,3 @@
 ---
-name: "Logo"
+name: Logo
 ---

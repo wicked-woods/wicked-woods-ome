@@ -1,12 +1,22 @@
 ---
-name: "Siadic"
-imageURL: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2F38BBE2BB-F2DF-4986-B723-C11BDC21E7B9.png?alt=media&token=fc2571cc-84ff-4daa-8938-2ebe20550fd4
+name: Siadic
+images:
+- source:
+    url: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2F38BBE2BB-F2DF-4986-B723-C11BDC21E7B9.png?alt=media&token=fc2571cc-84ff-4daa-8938-2ebe20550fd4
+  role: photo
+  renderKind: fullImage
+  materializationPolicy: lazy
 links:
 - url: https://soundcloud.com/siadic
+  platform: soundcloud
 - url: https://open.spotify.com/artist/1Rb1xyWKbDkIvVHwy0xG4u
+  platform: spotify
 - url: https://www.youtube.com/@siadicmusic
+  platform: youtube
 - url: http://instagram.com/siadicmusic
+  platform: instagram
 - url: http://www.facebook.com/SiAdic
+  platform: facebook
 ---
 ☾
 

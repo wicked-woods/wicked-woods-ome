@@ -1,3 +1,3 @@
 ---
-name: "Ruby's Healing Garden"
+name: Ruby's Healing Garden
 ---

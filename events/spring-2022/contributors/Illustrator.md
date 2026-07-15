@@ -1,3 +1,3 @@
 ---
-name: "Illustrator"
+name: Illustrator
 ---

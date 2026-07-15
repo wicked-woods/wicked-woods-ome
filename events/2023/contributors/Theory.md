@@ -1,3 +1,3 @@
 ---
-name: "Theory"
+name: Theory
 ---

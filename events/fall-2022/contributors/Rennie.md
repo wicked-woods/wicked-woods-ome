@@ -1,3 +1,3 @@
 ---
-name: "Rennie"
+name: Rennie
 ---

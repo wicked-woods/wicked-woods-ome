@@ -1,3 +1,3 @@
 ---
-name: "Trip A"
+name: Trip A
 ---

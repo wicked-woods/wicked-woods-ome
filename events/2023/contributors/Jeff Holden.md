@@ -1,3 +1,3 @@
 ---
-name: "Jeff Holden"
+name: Jeff Holden
 ---

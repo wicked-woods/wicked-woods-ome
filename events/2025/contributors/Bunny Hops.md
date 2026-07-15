@@ -1,21 +1,25 @@
 ---
-name: "Bunny Hops"
-imageURL: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/BunnyHops.png
-logoURL: https://wickedwoods.festivalpro.com/?getFile&FILEID=31189
-kind: "Live Performance"
+name: Bunny Hops
+images:
+- source:
+    url: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/BunnyHops.png
+  role: photo
+  renderKind: fullImage
+  materializationPolicy: lazy
+- source:
+    url: https://wickedwoods.festivalpro.com/?getFile&FILEID=31189
+  role: logo
+  renderKind: transparent
+  materializationPolicy: lazy
 links:
 - url: https://soundcloud.com/alexhops
-  linkType:
-    label: soundcloud
+  platform: soundcloud
 - url: https://www.instagram.com/alexhopss/
-  linkType:
-    label: instagram
+  platform: instagram
 - url: https://open.spotify.com/artist/7vDG3audrbfbsJzeUWlNYS?si=_UFM7wtuSpq83yPbO81fIA
-  linkType:
-    label: spotify
+  platform: spotify
 - url: https://www.bunnyhopsmusic.com
-  linkType:
-    label: website
+  platform: website
 ---
 
 Alex Hopkins is a Banff - based DJ and producer known for her genre-blending sets

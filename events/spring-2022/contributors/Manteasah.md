@@ -1,8 +1,14 @@
 ---
-name: "Manteasah"
-imageURL: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2FC889E175-C426-4AD7-AF5B-201CB11B9C7B.png?alt=media&token=13bf945c-5dff-430f-83cf-04d5ee8636c1
+name: Manteasah
+images:
+- source:
+    url: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2FC889E175-C426-4AD7-AF5B-201CB11B9C7B.png?alt=media&token=13bf945c-5dff-430f-83cf-04d5ee8636c1
+  role: photo
+  renderKind: fullImage
+  materializationPolicy: lazy
 links:
 - url: https://soundcloud.com/manteasah
+  platform: soundcloud
 ---
 Manteasah's sound resonates between a moon-lit forest and a dark city skyline.
 

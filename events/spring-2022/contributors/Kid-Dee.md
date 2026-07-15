@@ -1,3 +1,3 @@
 ---
-name: "Kid-Dee"
+name: Kid-Dee
 ---

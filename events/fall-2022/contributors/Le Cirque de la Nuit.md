@@ -1,6 +1,11 @@
 ---
-name: "Le Cirque de la Nuit"
-imageURL: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2F2844FA01-8342-46CA-8A68-0F2ED9888082.png?alt=media&token=d071307b-d213-417f-86ee-420782f2b4b3
+name: Le Cirque de la Nuit
+images:
+- source:
+    url: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2F2844FA01-8342-46CA-8A68-0F2ED9888082.png?alt=media&token=d071307b-d213-417f-86ee-420782f2b4b3
+  role: photo
+  renderKind: fullImage
+  materializationPolicy: lazy
 links: []
 ---
 Established in 2013, Le Cirque de la Nuit is Western Canada’s leading Circus and performing arts organization based in Calgary, Alberta. Specializing in innovative performance productions that provide unique, exciting and immersive entertainment experiences for audiences while providing a supportive, collaborative artistic platform for emerging and established artists across Western Canada.

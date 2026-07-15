@@ -1,3 +1,3 @@
 ---
-name: "JEP"
+name: JEP
 ---

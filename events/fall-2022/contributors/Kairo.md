@@ -1,3 +1,3 @@
 ---
-name: "Kairo"
+name: Kairo
 ---

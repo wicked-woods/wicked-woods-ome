@@ -1,11 +1,14 @@
 ---
-name: "Stoked Acroyoga"
-imageURL: https://firebasestorage.googleapis.com/v0/b/festivl.appspot.com/o/wicked-woods-2025%2FAll%20Levels%20AcroYoga.jpg?alt=media&token=69eb9acb-3499-46b6-9509-4171a897afe5
-kind: "Workshop"
+name: Stoked Acroyoga
+images:
+- source:
+    url: https://firebasestorage.googleapis.com/v0/b/festivl.appspot.com/o/wicked-woods-2025%2FAll%20Levels%20AcroYoga.jpg?alt=media&token=69eb9acb-3499-46b6-9509-4171a897afe5
+  role: photo
+  renderKind: fullImage
+  materializationPolicy: lazy
 links:
 - url: www.instagram.com/stokedacroyoga
-  linkType:
-    label: instagram
+  platform: instagram
 ---
 
 Jamie is a seasoned Pilates and AcroYoga instructor with over 15 years of teaching experience. Certified through the Physical Mind Institute and trained with AcroYoga Calgary, Jamie has been practicing AcroYoga since 2017 and brings a deep love for movement, connection, and community to every class.

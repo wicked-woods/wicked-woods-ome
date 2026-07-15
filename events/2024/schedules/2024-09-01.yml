@@ -1,141 +1,5 @@
 date: '2024-09-01'
 performances:
-  the-portal:
-  - title: 'Just One '
-    startTime: '16:00'
-    contributors:
-    - id: 'Just One '
-  - title: Gavin K
-    startTime: '17:00'
-    contributors:
-    - id: Gavin K
-  - title: Chacho
-    startTime: '18:00'
-    contributors:
-    - id: Chacho
-  - title: 'Rosso '
-    startTime: '19:00'
-    contributors:
-    - id: 'Rosso '
-  - title: Mertz
-    startTime: '20:00'
-    contributors:
-    - id: Mertz
-  - title: Wolfcollar
-    startTime: '21:00'
-    contributors:
-    - id: Wolfcollar
-  - title: 'melo.nade '
-    startTime: '22:00'
-    contributors:
-    - id: 'melo.nade '
-  - title: Kali
-    startTime: '23:00'
-    contributors:
-    - id: Kali
-  - title: Marah
-    startTime: '00:00'
-    contributors:
-    - id: Marah
-  - title: ZURGLIN
-    startTime: '01:00'
-    contributors:
-    - id: ZURGLIN
-  - title: PuppyCat
-    startTime: '02:00'
-    contributors:
-    - id: PuppyCat
-  - title: BoyNotHome
-    startTime: '03:30'
-    contributors:
-    - id: BoyNotHome
-  - title: 'Ponda '
-    startTime: '04:30'
-    contributors:
-    - id: 'Ponda '
-  - title: The Author
-    startTime: '05:30'
-    contributors:
-    - id: The Author
-  - title: JEP
-    startTime: '06:30'
-    contributors:
-    - id: JEP
-  - title: 'Lil Stitious '
-    startTime: '07:30'
-    contributors:
-    - id: 'Lil Stitious '
-  - title: Portal Fam Dub Rinseout
-    startTime: '08:30'
-    endTime: '12:00'
-    contributors:
-    - id: Portal Fam Dub Rinseout
-  unicorn-lounge:
-  - title: 'LaBeat '
-    startTime: '15:00'
-    contributors:
-    - id: 'LaBeat '
-  - title: Bunny Hops
-    startTime: '16:00'
-    contributors:
-    - id: Bunny Hops
-  - title: Jontin
-    startTime: '17:00'
-    contributors:
-    - id: Jontin
-  - title: JUST K8
-    startTime: '18:00'
-    contributors:
-    - id: JUST K8
-  - title: DJ Praiz
-    startTime: '19:00'
-    contributors:
-    - id: DJ Praiz
-  - title: Spanda
-    startTime: '20:00'
-    contributors:
-    - id: Spanda
-  - title: M3RF
-    startTime: '21:00'
-    contributors:
-    - id: M3RF
-  - title: Wes Please
-    startTime: '22:30'
-    contributors:
-    - id: Wes Please
-  - title: Freestylers
-    startTime: '00:00'
-    contributors:
-    - id: Freestylers
-  - title: Krafty Kuts
-    startTime: '01:30'
-    contributors:
-    - id: Krafty Kuts
-  - title: Control Room
-    startTime: '03:00'
-    contributors:
-    - id: Control Room
-  - title: Civillian
-    startTime: '04:30'
-    contributors:
-    - id: Civillian
-  - title: Lefy
-    startTime: '06:00'
-    contributors:
-    - id: Lefy
-  - title: Jon  Delerious
-    startTime: '07:30'
-    contributors:
-    - id: Jon  Delerious
-  - title: DJ Sprout
-    startTime: '09:00'
-    contributors:
-    - id: DJ Sprout
-  - title: Heatsource
-    startTime: '10:30'
-    endTime: '12:00'
-    contributors:
-    - id: Heatsource
   the-hallow:
   - title: TONZ
     startTime: '15:00'
@@ -172,26 +36,96 @@ performances:
     contributors:
     - id: MVPZ (The Gaff & AMP Live)
   - title: Wreckno
-    startTime: '00:30'
+    startTime: 00:30
     contributors:
     - id: Wreckno
   - title: Nostalgix
-    startTime: '02:00'
+    startTime: 02:00
     contributors:
     - id: Nostalgix
   - title: Shylow
-    startTime: '03:30'
+    startTime: 03:30
     contributors:
     - id: Shylow
   - title: Benanas
-    startTime: '04:30'
+    startTime: 04:30
     contributors:
     - id: Benanas
   - title: DnB Girls
-    startTime: '05:30'
-    endTime: '08:00'
+    startTime: 05:30
+    endTime: 08:00
     contributors:
     - id: DnB Girls
+  the-portal:
+  - title: 'Just One '
+    startTime: '16:00'
+    contributors:
+    - id: 'Just One '
+  - title: Gavin K
+    startTime: '17:00'
+    contributors:
+    - id: Gavin K
+  - title: Chacho
+    startTime: '18:00'
+    contributors:
+    - id: Chacho
+  - title: 'Rosso '
+    startTime: '19:00'
+    contributors:
+    - id: 'Rosso '
+  - title: Mertz
+    startTime: '20:00'
+    contributors:
+    - id: Mertz
+  - title: Wolfcollar
+    startTime: '21:00'
+    contributors:
+    - id: Wolfcollar
+  - title: 'melo.nade '
+    startTime: '22:00'
+    contributors:
+    - id: 'melo.nade '
+  - title: Kali
+    startTime: '23:00'
+    contributors:
+    - id: Kali
+  - title: Marah
+    startTime: 00:00
+    contributors:
+    - id: Marah
+  - title: ZURGLIN
+    startTime: 01:00
+    contributors:
+    - id: ZURGLIN
+  - title: PuppyCat
+    startTime: 02:00
+    contributors:
+    - id: PuppyCat
+  - title: BoyNotHome
+    startTime: 03:30
+    contributors:
+    - id: BoyNotHome
+  - title: 'Ponda '
+    startTime: 04:30
+    contributors:
+    - id: 'Ponda '
+  - title: The Author
+    startTime: 05:30
+    contributors:
+    - id: The Author
+  - title: JEP
+    startTime: 06:30
+    contributors:
+    - id: JEP
+  - title: 'Lil Stitious '
+    startTime: 07:30
+    contributors:
+    - id: 'Lil Stitious '
+  - title: Portal Fam Dub Rinseout
+    startTime: 08:30
+    endTime: '12:00'
+    contributors:
+    - id: Portal Fam Dub Rinseout
   ursus:
   - title: Freida Whales and the Pod
     startTime: '14:00'
@@ -223,6 +157,72 @@ performances:
     - id: K+Lab
   - title: WRAZ
     startTime: '23:45'
-    endTime: '01:00'
+    endTime: 01:00
     contributors:
     - id: WRAZ
+  unicorn-lounge:
+  - title: 'LaBeat '
+    startTime: '15:00'
+    contributors:
+    - id: 'LaBeat '
+  - title: Bunny Hops
+    startTime: '16:00'
+    contributors:
+    - id: Bunny Hops
+  - title: Jontin
+    startTime: '17:00'
+    contributors:
+    - id: Jontin
+  - title: JUST K8
+    startTime: '18:00'
+    contributors:
+    - id: JUST K8
+  - title: DJ Praiz
+    startTime: '19:00'
+    contributors:
+    - id: DJ Praiz
+  - title: Spanda
+    startTime: '20:00'
+    contributors:
+    - id: Spanda
+  - title: M3RF
+    startTime: '21:00'
+    contributors:
+    - id: M3RF
+  - title: Wes Please
+    startTime: '22:30'
+    contributors:
+    - id: Wes Please
+  - title: Freestylers
+    startTime: 00:00
+    contributors:
+    - id: Freestylers
+  - title: Krafty Kuts
+    startTime: 01:30
+    contributors:
+    - id: Krafty Kuts
+  - title: Control Room
+    startTime: 03:00
+    contributors:
+    - id: Control Room
+  - title: Civillian
+    startTime: 04:30
+    contributors:
+    - id: Civillian
+  - title: Lefy
+    startTime: 06:00
+    contributors:
+    - id: Lefy
+  - title: Jon  Delerious
+    startTime: 07:30
+    contributors:
+    - id: Jon  Delerious
+  - title: DJ Sprout
+    startTime: 09:00
+    contributors:
+    - id: DJ Sprout
+  - title: Heatsource
+    startTime: '10:30'
+    endTime: '12:00'
+    contributors:
+    - id: Heatsource

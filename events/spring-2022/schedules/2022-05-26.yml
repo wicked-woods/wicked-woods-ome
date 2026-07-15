@@ -42,28 +42,28 @@ performances:
     contributors:
     - id: Application
   - title: Footprints
-    startTime: '00:00'
+    startTime: 00:00
     contributors:
     - id: Footprints
   - title: S2
-    startTime: '01:00'
+    startTime: 01:00
     contributors:
     - id: S2
   - title: ColtCuts
-    startTime: '02:00'
+    startTime: 02:00
     contributors:
     - id: ColtCuts
   - title: Just John
-    startTime: '03:00'
+    startTime: 03:00
     contributors:
     - id: Just John
   - title: Gangstronauts
-    startTime: '04:00'
+    startTime: 04:00
     contributors:
     - id: Gangstronauts
   - title: 8 Bit Ninja
-    startTime: '05:00'
-    endTime: '06:00'
+    startTime: 05:00
+    endTime: 06:00
     contributors:
     - id: 8 Bit Ninja
   unicorn-lounge:
@@ -105,19 +105,19 @@ performances:
     - id: Vinyl Ritchie
     - id: Foxy Moron
   - title: Freddy J
-    startTime: '01:00'
+    startTime: 01:00
     contributors:
     - id: Freddy J
   - title: Burchill
-    startTime: '02:00'
+    startTime: 02:00
     contributors:
     - id: Burchill
   - title: Ninjette
-    startTime: '03:00'
+    startTime: 03:00
     contributors:
     - id: Ninjette
   - title: Weekend Specialz
-    startTime: '04:00'
-    endTime: '05:30'
+    startTime: 04:00
+    endTime: 05:30
     contributors:
     - id: Weekend Specialz

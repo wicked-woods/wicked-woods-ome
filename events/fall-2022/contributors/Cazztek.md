@@ -1,6 +1,11 @@
 ---
-name: "Cazztek"
-imageURL: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2F7221ECB8-045A-47A0-B44A-D2046BB17D8C.png?alt=media&token=691c82bd-d8f9-485e-a58e-07994dfb308e
+name: Cazztek
+images:
+- source:
+    url: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2F7221ECB8-045A-47A0-B44A-D2046BB17D8C.png?alt=media&token=691c82bd-d8f9-485e-a58e-07994dfb308e
+  role: photo
+  renderKind: fullImage
+  materializationPolicy: lazy
 links: []
 ---
 There's usually two things that's guaranteed to happen at a Cazztek set, smiles

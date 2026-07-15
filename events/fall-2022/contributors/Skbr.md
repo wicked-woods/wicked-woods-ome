@@ -1,3 +1,3 @@
 ---
-name: "Skbr"
+name: Skbr
 ---

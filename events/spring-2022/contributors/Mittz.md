@@ -1,3 +1,3 @@
 ---
-name: "Mittz"
+name: Mittz
 ---

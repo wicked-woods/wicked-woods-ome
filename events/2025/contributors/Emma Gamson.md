@@ -1,11 +1,14 @@
 ---
-name: "Emma Gamson"
-imageURL: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/EmmaGamson.jpg
-kind: "Art & Installations"
+name: Emma Gamson
+images:
+- source:
+    url: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/EmmaGamson.jpg
+  role: photo
+  renderKind: fullImage
+  materializationPolicy: lazy
 links:
 - url: https://www.instagram.com/studio.emma/
-  linkType:
-    label: instagram
+  platform: instagram
 ---
 I am a multi-media artist who experiments in paint and sculpture. Originally from New Zealand, and currently building a new home in Revelstoke, I have spent the majority of my life embedded in the mountains and nature. I love using my artwork to explore natural patterns and connections between humans and nature.
 

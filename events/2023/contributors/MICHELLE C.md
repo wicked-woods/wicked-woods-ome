@@ -1,9 +1,16 @@
 ---
-name: "MICHELLE C"
-imageURL: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2F2399B0B2-CBE0-424E-ADAA-162A417ED220.png?alt=media&token=d5c9d0c8-d0c7-4920-8387-5bb9709596d0
+name: MICHELLE C
+images:
+- source:
+    url: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2F2399B0B2-CBE0-424E-ADAA-162A417ED220.png?alt=media&token=d5c9d0c8-d0c7-4920-8387-5bb9709596d0
+  role: photo
+  renderKind: fullImage
+  materializationPolicy: lazy
 links:
 - url: https://soundcloud.com/djmichellec
+  platform: soundcloud
 - url: https://www.instagram.com/djmichellec/?hl=en
+  platform: instagram
 ---
 Canada DJ - Co-Founder of Musica (Habitat Living Sound) and VISION Drum&Bass 
 Record Labels: Capital Heaven / Build It Records / Spring Tube / ADSR / Twisted Shuffle /  Select Case / Chilling Grooves Music / House Place Records / Re:vibe Music / House of House / Substation / TrueSpin Records/ FineGrind / Poolside

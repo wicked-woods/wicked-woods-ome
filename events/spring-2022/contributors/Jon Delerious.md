@@ -1,3 +1,3 @@
 ---
-name: "Jon Delerious"
+name: Jon Delerious
 ---

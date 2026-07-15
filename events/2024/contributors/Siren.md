@@ -1,11 +1,20 @@
 ---
-name: "Siren"
-imageURL: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2F37A58EC5-A6E2-414F-B310-EE4BDDF4B886.png?alt=media&token=41322dae-f357-472b-a4c6-a6dd864f97a3
+name: Siren
+images:
+- source:
+    url: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2F37A58EC5-A6E2-414F-B310-EE4BDDF4B886.png?alt=media&token=41322dae-f357-472b-a4c6-a6dd864f97a3
+  role: photo
+  renderKind: fullImage
+  materializationPolicy: lazy
 links:
 - url: https://soundcloud.com/siren_uk
+  platform: soundcloud
 - url: https://sirenuk.com/
+  platform: website
 - url: https://www.instagram.com/siren_uk/?hl=en
+  platform: instagram
 - url: https://www.facebook.com/SIRENuk/
+  platform: facebook
 ---
 Gemma Dobson, better known by her stage name SIREN, is a British Drum and Bass Music Producer and DJ. SIREN leans towards the harder side of DB in her sets honing on her technical, creative and energetic mixing skills.
 

@@ -1,9 +1,16 @@
 ---
-name: "Woofax"
-imageURL: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2F1881F7C6-4B34-469B-A559-3F45C7AFE65B.png?alt=media&token=3d2f7a9d-97e1-4d80-b492-ec486f281674
+name: Woofax
+images:
+- source:
+    url: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2F1881F7C6-4B34-469B-A559-3F45C7AFE65B.png?alt=media&token=3d2f7a9d-97e1-4d80-b492-ec486f281674
+  role: photo
+  renderKind: fullImage
+  materializationPolicy: lazy
 links:
 - url: https://soundcloud.com/WOOFAX
+  platform: soundcloud
 - url: https://open.spotify.com/artist/5YGfuUCO9rwUjW2Ye4NMb0?autoplay=true
+  platform: spotify
 ---
 For over a decade, WOOFAX was the major musical creative force behind the electronic music groups Terravita and Hot Pink Delorean. His original music and involved projects have been licensed to entertainment on networks such as FOX, MTV, CBS, Netflix and more. He has written, engineered and consulted dozens of hit electronic tracks in various genres. Under his pseudonym Tremourz, he released charting hit singles including the North American dubstep anthem, “Sexy Party” with J Rabbit and his own Terravita remix of the same song.
 Woofax came swinging out of the gate, with his release "Spoiler Alert" charting #1 for weeks on the Beatport Glitch hop charts. His music was quickly picked up by several labels such as Circus Records, Dim mak, Impossible Records, Jungle Cakes, PLAY ME, Sleeveless Records and Westwood Recordings.

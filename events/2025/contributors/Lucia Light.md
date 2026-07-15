@@ -1,17 +1,18 @@
 ---
-name: "Lucia Light"
-imageURL: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/LuciaLight.jpg
-kind: "Workshop"
+name: Lucia Light
+images:
+- source:
+    url: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/LuciaLight.jpg
+  role: photo
+  renderKind: fullImage
+  materializationPolicy: lazy
 links:
 - url: https://www.facebook.com/goldenclear
-  linkType:
-    label: facebook
+  platform: facebook
 - url: https://www.instagram.com/goldenclearholistichealth/
-  linkType:
-    label: instagram
+  platform: instagram
 - url: www,goldenclear.com
-  linkType:
-    label: website
+  platform: website
 ---
 Kory Monteith is a seasoned wellness practitioner and certified QHHT (Quantum Healing Hypnosis Technique) practitioner with over 16 years of dedicated experience in hypnagogic study—the transitional state between wakefulness and sleep. With a passion for guiding individuals on their inner healing journeys, Kory integrates deep meditative practices and subconscious exploration to help clients access profound insights and emotional breakthroughs.
 

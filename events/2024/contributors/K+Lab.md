@@ -1,13 +1,24 @@
 ---
-name: "K+Lab"
-imageURL: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2FD3BE35CC-3E5A-4768-BAFB-5E64890167C5.png?alt=media&token=0e97857d-f85f-4187-8fab-a06b4118c889
+name: K+Lab
+images:
+- source:
+    url: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2FD3BE35CC-3E5A-4768-BAFB-5E64890167C5.png?alt=media&token=0e97857d-f85f-4187-8fab-a06b4118c889
+  role: photo
+  renderKind: fullImage
+  materializationPolicy: lazy
 links:
 - url: https://soundcloud.com/klabnz
+  platform: soundcloud
 - url: http://www.captainklab.com/
+  platform: website
 - url: https://open.spotify.com/artist/3y7GPPMrPAZKg9BlCO8cFA
+  platform: spotify
 - url: https://www.youtube.com/user/aidjwhd6342wdsax
+  platform: youtube
 - url: https://www.instagram.com/captainklab/
+  platform: instagram
 - url: https://www.facebook.com/therealklab
+  platform: facebook
 ---
 Drenched in the vibrant hues of creativity and fueled by innovation, K+Lab stands as a musical virtuoso and a visual wizard. Hailing from New Zealand, he has carved a unique and encompassing audio and visual world, seamlessly blending genres to create a sonic tapestry that defies conventions. 
 With a discography that reads like a sonic odyssey, K+Lab has become synonymous with exhilarating beats, funky basslines, and an infectious energy that transcends the dancefloor. 

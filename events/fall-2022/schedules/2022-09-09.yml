@@ -9,10 +9,10 @@ performances:
     startTime: '14:00'
     contributors:
     - id: Jaq Toforo
-  - title: FuBaR’D
+  - title: "FuBaR\u2019D"
     startTime: '15:30'
     contributors:
-    - id: FuBaR’D
+    - id: "FuBaR\u2019D"
   - title: Seriousilly
     startTime: '16:30'
     contributors:
@@ -41,20 +41,20 @@ performances:
     - id: Wolf Collar
     - id: BLKFT
   - title: Dither Bit
-    startTime: '01:00'
+    startTime: 01:00
     contributors:
     - id: Dither Bit
   - title: Caro
-    startTime: '02:30'
+    startTime: 02:30
     contributors:
     - id: Caro
   - title: Misfortune Cat
-    startTime: '04:00'
+    startTime: 04:00
     contributors:
     - id: Misfortune Cat
   - title: AlexMoon
-    startTime: '05:30'
-    endTime: '07:00'
+    startTime: 05:30
+    endTime: 07:00
     contributors:
     - id: AlexMoon
   unicorn-lounge:
@@ -96,20 +96,20 @@ performances:
     contributors:
     - id: DJ Madd
   - title: Leo Zen
-    startTime: '01:00'
+    startTime: 01:00
     contributors:
     - id: Leo Zen
   - title: Jake Robertz
-    startTime: '02:30'
+    startTime: 02:30
     contributors:
     - id: Jake Robertz
   - title: Reflektor
-    startTime: '04:00'
+    startTime: 04:00
     contributors:
     - id: Reflektor
   - title: Swaggacats, Tone D. & Boneless
-    startTime: '05:30'
-    endTime: '07:30'
+    startTime: 05:30
+    endTime: 07:30
     contributors:
     - id: Swaggacats
     - id: Tone D.
@@ -142,7 +142,7 @@ performances:
     - id: CHIMP IT
   - title: Dirtwire
     startTime: '22:30'
-    endTime: '00:00'
+    endTime: 00:00
     contributors:
     - id: Dirtwire
   the-hallow:
@@ -176,27 +176,27 @@ performances:
     contributors:
     - id: Rumpus
   - title: Neon Steve
-    startTime: '00:00'
+    startTime: 00:00
     contributors:
     - id: Neon Steve
   - title: Cazztek
-    startTime: '01:30'
+    startTime: 01:30
     contributors:
     - id: Cazztek
   - title: Sivz
-    startTime: '02:30'
+    startTime: 02:30
     contributors:
     - id: Sivz
   - title: Ben Fox
-    startTime: '03:30'
+    startTime: 03:30
     contributors:
     - id: Ben Fox
   - title: Soup
-    startTime: '04:30'
+    startTime: 04:30
     contributors:
     - id: Soup
   - title: Mr Diggler
-    startTime: '05:30'
-    endTime: '06:30'
+    startTime: 05:30
+    endTime: 06:30
     contributors:
     - id: Mr Diggler

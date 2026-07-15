@@ -1,3 +1,3 @@
 ---
-name: "I.M.Fast"
+name: I.M.Fast
 ---

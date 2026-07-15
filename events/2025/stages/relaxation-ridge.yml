@@ -1,4 +1,9 @@
 name: Relaxation Ridge
-color: 0xFE7202
+color: 16675330
 category: workshop
-iconImageURL: https://firebasestorage.googleapis.com/v0/b/festivl.appspot.com/o/wicked-woods-2025%2FRelaxation%20Ridge%20Logo%202025.png?alt=media&token=e5d8e8b5-d330-4a7f-9497-e2f44ad00c69
+images:
+- source:
+    url: https://firebasestorage.googleapis.com/v0/b/festivl.appspot.com/o/wicked-woods-2025%2FRelaxation%20Ridge%20Logo%202025.png?alt=media&token=e5d8e8b5-d330-4a7f-9497-e2f44ad00c69
+  role: logo
+  renderKind: transparent
+  materializationPolicy: prefetchOnOpen

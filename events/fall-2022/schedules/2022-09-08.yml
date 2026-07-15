@@ -1,56 +1,5 @@
 date: '2022-09-08'
 performances:
-  unicorn-lounge:
-  - title: Lefy
-    startTime: '16:00'
-    contributors:
-    - id: Lefy
-  - title: Benanas
-    startTime: '17:00'
-    contributors:
-    - id: Benanas
-  - title: Llama
-    startTime: '18:00'
-    contributors:
-    - id: Llama
-  - title: Bass Panda
-    startTime: '19:00'
-    contributors:
-    - id: Bass Panda
-  - title: Trevor Galore
-    startTime: '20:00'
-    contributors:
-    - id: Trevor Galore
-  - title: Hoola
-    startTime: '21:00'
-    contributors:
-    - id: Hoola
-  - title: Ninjette
-    startTime: '22:30'
-    contributors:
-    - id: Ninjette
-  - title: Craze
-    startTime: '00:00'
-    contributors:
-    - id: Craze
-  - title: The Gaff
-    startTime: '01:00'
-    contributors:
-    - id: The Gaff
-  - title: I.M.Fast & Burchill
-    startTime: '02:30'
-    contributors:
-    - id: I.M.Fast
-    - id: Burchill
-  - title: Underdog
-    startTime: '04:00'
-    contributors:
-    - id: Underdog
-  - title: Pete Wilde
-    startTime: '05:00'
-    endTime: '06:00'
-    contributors:
-    - id: Pete Wilde
   the-portal:
   - title: Opening Ceremony
     startTime: '18:30'
@@ -80,24 +29,24 @@ performances:
     - id: Dove
     - id: Skobe
   - title: Sorsari
-    startTime: '01:00'
+    startTime: 01:00
     contributors:
     - id: Sorsari
   - title: Kilbourne
-    startTime: '02:00'
+    startTime: 02:00
     contributors:
     - id: Kilbourne
   - title: Gremmah
-    startTime: '03:00'
+    startTime: 03:00
     contributors:
     - id: Gremmah
   - title: Dopecreature
-    startTime: '04:00'
+    startTime: 04:00
     contributors:
     - id: Dopecreature
   - title: Howl
-    startTime: '05:00'
-    endTime: '06:30'
+    startTime: 05:00
+    endTime: 06:30
     contributors:
     - id: Howl
   the-hallow:
@@ -135,15 +84,66 @@ performances:
     contributors:
     - id: Widow
   - title: A Hundred Drums
-    startTime: '00:30'
+    startTime: 00:30
     contributors:
     - id: A Hundred Drums
   - title: The Myth of Woofax
-    startTime: '01:45'
+    startTime: 01:45
     contributors:
     - id: The Myth of Woofax
   - title: Illustrator
-    startTime: '03:15'
-    endTime: '05:00'
+    startTime: 03:15
+    endTime: 05:00
     contributors:
     - id: Illustrator
+  unicorn-lounge:
+  - title: Lefy
+    startTime: '16:00'
+    contributors:
+    - id: Lefy
+  - title: Benanas
+    startTime: '17:00'
+    contributors:
+    - id: Benanas
+  - title: Llama
+    startTime: '18:00'
+    contributors:
+    - id: Llama
+  - title: Bass Panda
+    startTime: '19:00'
+    contributors:
+    - id: Bass Panda
+  - title: Trevor Galore
+    startTime: '20:00'
+    contributors:
+    - id: Trevor Galore
+  - title: Hoola
+    startTime: '21:00'
+    contributors:
+    - id: Hoola
+  - title: Ninjette
+    startTime: '22:30'
+    contributors:
+    - id: Ninjette
+  - title: Craze
+    startTime: 00:00
+    contributors:
+    - id: Craze
+  - title: The Gaff
+    startTime: 01:00
+    contributors:
+    - id: The Gaff
+  - title: I.M.Fast & Burchill
+    startTime: 02:30
+    contributors:
+    - id: I.M.Fast
+    - id: Burchill
+  - title: Underdog
+    startTime: 04:00
+    contributors:
+    - id: Underdog
+  - title: Pete Wilde
+    startTime: 05:00
+    endTime: 06:00
+    contributors:
+    - id: Pete Wilde

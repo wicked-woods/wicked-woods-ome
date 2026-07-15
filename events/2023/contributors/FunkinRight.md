@@ -1,12 +1,22 @@
 ---
-name: "FunkinRight"
-imageURL: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2F83EF451C-13B7-419B-A427-251B1426DFF8.png?alt=media&token=183d5688-0100-4fa0-9967-eab864d435cb
+name: FunkinRight
+images:
+- source:
+    url: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2F83EF451C-13B7-419B-A427-251B1426DFF8.png?alt=media&token=183d5688-0100-4fa0-9967-eab864d435cb
+  role: photo
+  renderKind: fullImage
+  materializationPolicy: lazy
 links:
 - url: https://soundcloud.com/funkinright
+  platform: soundcloud
 - url: https://open.spotify.com/artist/6X1oIHdbuZWxBw4GcOX6Kp
+  platform: spotify
 - url: https://www.youtube.com/channel/UCb7KU9CZmftHKKzbtwaH5bg
+  platform: youtube
 - url: https://www.instagram.com/funkinright/?hl=en
+  platform: instagram
 - url: https://www.facebook.com/FunkinRightMusic
+  platform: facebook
 ---
 FunkinRight is all about fun and funky party music, and having a good time. 
 

@@ -1,3 +1,3 @@
 ---
-name: "Das Booty"
+name: Das Booty
 ---

@@ -1,15 +1,21 @@
 ---
-name: "Paint Department"
-imageURL: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/PaintDepartment.jpeg
-logoURL: https://wickedwoods.festivalpro.com/?getFile&FILEID=32845
-kind: "Live Performance"
+name: Paint Department
+images:
+- source:
+    url: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/PaintDepartment.jpeg
+  role: photo
+  renderKind: fullImage
+  materializationPolicy: lazy
+- source:
+    url: https://wickedwoods.festivalpro.com/?getFile&FILEID=32845
+  role: logo
+  renderKind: transparent
+  materializationPolicy: lazy
 links:
 - url: https://on.soundcloud.com/jJMjiuciU91HGbEf6
-  linkType:
-    label: soundcloud
+  platform: soundcloud
 - url: https://www.instagram.com/paint.department?igsh=MXhkc2U5bzVoNmhpeg%3D%3D&utm_source=qr
-  linkType:
-    label: instagram
+  platform: instagram
 ---
 Pāint.Dëpartmĕnt is a dynamic and energetic DJ duo based in Fernie, BC/unceded Ktunaxa territory.
 Their procured sound is characterized by their heavy use of breakbeats and garage influences with a focus on deep driving basslines and pulsing rhythms often accented by heart wrenching harmonies. They love adding new layers to their selections with their signature long, overlapping mixing style creating a smooth and intricate symphony of sounds with every transition.

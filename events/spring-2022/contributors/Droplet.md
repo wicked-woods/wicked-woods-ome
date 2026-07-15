@@ -1,3 +1,3 @@
 ---
-name: "Droplet"
+name: Droplet
 ---

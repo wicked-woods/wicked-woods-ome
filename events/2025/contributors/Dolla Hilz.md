@@ -1,18 +1,23 @@
 ---
-name: "Dolla Hilz"
-imageURL: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/DollaHilz.png
-logoURL: https://wickedwoods.festivalpro.com/?getFile&FILEID=35143
-kind: "Live Performance"
+name: Dolla Hilz
+images:
+- source:
+    url: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/DollaHilz.png
+  role: photo
+  renderKind: fullImage
+  materializationPolicy: lazy
+- source:
+    url: https://wickedwoods.festivalpro.com/?getFile&FILEID=35143
+  role: logo
+  renderKind: transparent
+  materializationPolicy: lazy
 links:
 - url: https://soundcloud.com/dollahilz
-  linkType:
-    label: soundcloud
+  platform: soundcloud
 - url: https://www.facebook.com/dollahilz
-  linkType:
-    label: facebook
+  platform: facebook
 - url: https://www.instagram.com/dollahilz/
-  linkType:
-    label: instagram
+  platform: instagram
 ---
 Music lover, DJ, dancer, event producer, and radio host, Dolla Hilz knows it's always a good time for a dance party! 
 

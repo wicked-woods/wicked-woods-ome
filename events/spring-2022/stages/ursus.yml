@@ -1,3 +1,8 @@
 name: Ursus
-color: 0x6E4E5A
-iconImageURL: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2F4C600F9E-D218-4340-AC09-DFC22F378734.png?alt=media&token=27e7da65-75a9-4d79-8e79-060953ea7ed1
+color: 7229018
+images:
+- source:
+    url: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2F4C600F9E-D218-4340-AC09-DFC22F378734.png?alt=media&token=27e7da65-75a9-4d79-8e79-060953ea7ed1
+  role: logo
+  renderKind: transparent
+  materializationPolicy: prefetchOnOpen

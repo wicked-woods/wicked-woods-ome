@@ -1,8 +1,14 @@
 ---
-name: "Tube Screamer"
-imageURL: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2F9D22349D-AA3F-4F54-B1BD-C88B718DC372.png?alt=media&token=8ad5d886-752a-4b54-8c6d-f169e326c738
+name: Tube Screamer
+images:
+- source:
+    url: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2F9D22349D-AA3F-4F54-B1BD-C88B718DC372.png?alt=media&token=8ad5d886-752a-4b54-8c6d-f169e326c738
+  role: photo
+  renderKind: fullImage
+  materializationPolicy: lazy
 links:
 - url: https://open.spotify.com/artist/3L2jJMVxQJzgVFEjYzLwOp
+  platform: spotify
 ---
 Felipe Muñoz AKA Felipe the DJ AKA Tube Screamer hails all the way from Bogotá, Colombia into Canada in 2009 playing his infectious riffs and bass grooves in various electronic music festivals . This is what happens when you play bass in a punk band when you are 12, start touring with a death metal band when you are 15 and end up flirting with electronic music.
 Over the years Felipe’s records have been influenced by different scenes in multiple cities. His collaborations and originals have seen light through the  Independent labels: Caped up records and Cerkuz Familia from Canada, Wolfrage records from Holland, Deviation sociale from France and VAMOS! records from Colombia. The multi-genre work became a staple of Felipe's career with sets including sounds from healing world bass music to a wide range of house, drum and bass and mainly dancefloor oriented electronic music.

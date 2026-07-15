@@ -1,3 +1,3 @@
 ---
-name: "Killups"
+name: Killups
 ---

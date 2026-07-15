@@ -1,3 +1,3 @@
 ---
-name: "Rubix & Fallenwall"
+name: Rubix & Fallenwall
 ---

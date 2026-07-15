@@ -1,3 +1,3 @@
 ---
-name: "Rune Key "
+name: 'Rune Key '
 ---

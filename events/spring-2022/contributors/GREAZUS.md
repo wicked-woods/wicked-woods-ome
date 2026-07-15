@@ -1,10 +1,18 @@
 ---
-name: "GREAZUS"
-imageURL: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2F5406B14D-673B-4458-8079-D03347C536D6.png?alt=media&token=a7d9e9d2-120d-4d1c-831d-f30807899a99
+name: GREAZUS
+images:
+- source:
+    url: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2F5406B14D-673B-4458-8079-D03347C536D6.png?alt=media&token=a7d9e9d2-120d-4d1c-831d-f30807899a99
+  role: photo
+  renderKind: fullImage
+  materializationPolicy: lazy
 links:
 - url: https://soundcloud.com/GREAZUS
+  platform: soundcloud
 - url: https://greazus.bandcamp.com/
+  platform: bandcamp
 - url: https://open.spotify.com/artist/37PpNqaNKhMqjSnEXx8ret?autoplay=true
+  platform: spotify
 ---
 When longtime friends, and well-established producer/DJs HxdB and Patrik Cure decided to join forces as
 GREAZUS back in 2015, they knew that their collective power would be greater than the individual. Based on

@@ -1,3 +1,3 @@
 ---
-name: "CHIMP IT"
+name: CHIMP IT
 ---

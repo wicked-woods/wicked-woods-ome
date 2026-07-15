@@ -1,24 +1,27 @@
 ---
-name: "Spānda"
-imageURL: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/Spanda.jpg
-logoURL: https://wickedwoods.festivalpro.com/?getFile&FILEID=36917
-kind: "Live Performance"
+name: "Spa\u0304nda"
+images:
+- source:
+    url: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/Spanda.jpg
+  role: photo
+  renderKind: fullImage
+  materializationPolicy: lazy
+- source:
+    url: https://wickedwoods.festivalpro.com/?getFile&FILEID=36917
+  role: logo
+  renderKind: transparent
+  materializationPolicy: lazy
 links:
 - url: https://soundcloud.com/alliebruni
-  linkType:
-    label: soundcloud
+  platform: soundcloud
 - url: https://www.facebook.com/abruniriendeau/
-  linkType:
-    label: facebook
+  platform: facebook
 - url: https://www.instagram.com/spanda_808/?hl=en
-  linkType:
-    label: instagram
+  platform: instagram
 - url: https://open.spotify.com/artist/4GqkCXN48k139phxZmcPtt?si=n1Su6ebbSCW8eTyer1mk6g
-  linkType:
-    label: spotify
+  platform: spotify
 - url: https://spanda.ca/
-  linkType:
-    label: website
+  platform: website
 ---
 Spānda is an energetic and passionate force behind the decks, bringing an unstoppable energy that keeps dance floors moving. Hailing from Northern California, Spānda is known for crafting inspiring sets that blend breakbeats, breakhop, drum & bass, Afro rhythms, and beyond—always igniting the crowd with her infectious spirit.
 

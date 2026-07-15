@@ -38,76 +38,30 @@ performances:
     contributors:
     - id: Birdhaus
   - title: Bunny Pancake
-    startTime: '00:30'
+    startTime: 00:30
     contributors:
     - id: Bunny Pancake
   - title: R & R
-    startTime: '01:30'
+    startTime: 01:30
     contributors:
     - id: R & R
   - title: Secret Headliner
-    startTime: '03:00'
+    startTime: 03:00
     contributors:
     - id: Secret Headliner
   - title: JYVY
-    startTime: '04:00'
+    startTime: 04:00
     contributors:
     - id: JYVY
   - title: MAE B
-    startTime: '05:00'
+    startTime: 05:00
     contributors:
     - id: MAE B
   - title: Noodles
-    startTime: '06:00'
-    endTime: '07:00'
+    startTime: 06:00
+    endTime: 07:00
     contributors:
     - id: Noodles
-  unicorn-lounge:
-  - title: Chimp It
-    startTime: '16:00'
-    contributors:
-    - id: Chimp It
-  - title: Fram3s
-    startTime: '17:00'
-    contributors:
-    - id: Fram3s
-  - title: Funkin' Right
-    startTime: '18:00'
-    contributors:
-    - id: Funkin' Right
-  - title: Double Trouble
-    startTime: '19:00'
-    contributors:
-    - id: Double Trouble
-  - title: Prayer Handz
-    startTime: '20:30'
-    contributors:
-    - id: Prayer Handz
-  - title: Mr. Diggler
-    startTime: '21:30'
-    contributors:
-    - id: Mr. Diggler
-  - title: Burchill
-    startTime: '22:30'
-    contributors:
-    - id: Burchill
-  - title: Qdup
-    startTime: '23:30'
-    contributors:
-    - id: Qdup
-  - title: Fort Knox Five
-    startTime: '00:45'
-    contributors:
-    - id: Fort Knox Five
-  - title: Freddy J
-    startTime: '02:00'
-    contributors:
-    - id: Freddy J
-  - title: Underdog
-    startTime: '03:00'
-    endTime: '04:00'
-    contributors:
-    - id: Underdog
   the-hallow:
   - title: Opening Ceremony With Vitantonio Spinelli and Megan Drew Temple
     startTime: '14:30'
@@ -150,23 +104,69 @@ performances:
     contributors:
     - id: Handsome Tiger
   - title: Barisone
-    startTime: '00:15'
+    startTime: 00:15
     contributors:
     - id: Barisone
   - title: Footprints
-    startTime: '01:45'
+    startTime: 01:45
     contributors:
     - id: Footprints
   - title: Coltcuts
-    startTime: '03:00'
+    startTime: 03:00
     contributors:
     - id: Coltcuts
   - title: S2
-    startTime: '04:00'
+    startTime: 04:00
     contributors:
     - id: S2
   - title: Yetz
-    startTime: '05:00'
-    endTime: '06:00'
+    startTime: 05:00
+    endTime: 06:00
     contributors:
     - id: Yetz
+  unicorn-lounge:
+  - title: Chimp It
+    startTime: '16:00'
+    contributors:
+    - id: Chimp It
+  - title: Fram3s
+    startTime: '17:00'
+    contributors:
+    - id: Fram3s
+  - title: Funkin' Right
+    startTime: '18:00'
+    contributors:
+    - id: Funkin' Right
+  - title: Double Trouble
+    startTime: '19:00'
+    contributors:
+    - id: Double Trouble
+  - title: Prayer Handz
+    startTime: '20:30'
+    contributors:
+    - id: Prayer Handz
+  - title: Mr. Diggler
+    startTime: '21:30'
+    contributors:
+    - id: Mr. Diggler
+  - title: Burchill
+    startTime: '22:30'
+    contributors:
+    - id: Burchill
+  - title: Qdup
+    startTime: '23:30'
+    contributors:
+    - id: Qdup
+  - title: Fort Knox Five
+    startTime: 00:45
+    contributors:
+    - id: Fort Knox Five
+  - title: Freddy J
+    startTime: 02:00
+    contributors:
+    - id: Freddy J
+  - title: Underdog
+    startTime: 03:00
+    endTime: 04:00
+    contributors:
+    - id: Underdog

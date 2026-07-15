@@ -1,3 +1,3 @@
 ---
-name: "Guru"
+name: Guru
 ---

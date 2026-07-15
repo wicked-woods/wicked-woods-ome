@@ -1,3 +1,3 @@
 ---
-name: "Logan Hart"
+name: Logan Hart
 ---

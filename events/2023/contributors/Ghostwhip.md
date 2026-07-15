@@ -1,10 +1,18 @@
 ---
-name: "Ghostwhip"
-imageURL: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2F0ECED615-6BD8-48E5-958A-DFA0275C4748.png?alt=media&token=6c87f5c6-3f27-4557-854f-47a582f54fdb
+name: Ghostwhip
+images:
+- source:
+    url: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2F0ECED615-6BD8-48E5-958A-DFA0275C4748.png?alt=media&token=6c87f5c6-3f27-4557-854f-47a582f54fdb
+  role: photo
+  renderKind: fullImage
+  materializationPolicy: lazy
 links:
 - url: https://soundcloud.com/ghostwhip707
+  platform: soundcloud
 - url: https://open.spotify.com/artist/6mqDeyTallqXW0mOlQ3WNa?autoplay=true
+  platform: spotify
 - url: https://www.instagram.com/ghostwhip707/
+  platform: instagram
 ---
 Ghostwhip has been fixture in the worldwide ghettotech scene since his breakout track Je’taime in 2016. Since then, he has released physical and digital music on labels such as Thirty Year, Club Designs, Filament, Philthtrax, and Urwaxx. Many of his tracks, however, have been released on his own imprint Posse Up! His music is inspired by ghetto house, electro, 1990s hip-hop, Bmore, and Miami bass. As a DJ, he has performed on Rinse FM, released notable mixtapes like Booty Wars, and has performed at local festivals like Bass Coast, Shambhala, Rifflandia, and Tall Tree. Some of these performances were as part as a collective, which is his preference and the very mindset behind Posse Up! — a label which unites producers from across the globe while evading established barriers.
 

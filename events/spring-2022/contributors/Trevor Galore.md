@@ -1,3 +1,3 @@
 ---
-name: "Trevor Galore"
+name: Trevor Galore
 ---

@@ -1,15 +1,21 @@
 ---
-name: "Faeble"
-imageURL: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/Faeble.jpeg
-logoURL: https://wickedwoods.festivalpro.com/?getFile&FILEID=36195
-kind: "Live Performance"
+name: Faeble
+images:
+- source:
+    url: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/Faeble.jpeg
+  role: photo
+  renderKind: fullImage
+  materializationPolicy: lazy
+- source:
+    url: https://wickedwoods.festivalpro.com/?getFile&FILEID=36195
+  role: logo
+  renderKind: transparent
+  materializationPolicy: lazy
 links:
 - url: https://soundcloud.com/faeble-beats
-  linkType:
-    label: soundcloud
+  platform: soundcloud
 - url: https://www.instagram.com/itsfaeble_/?hl=en
-  linkType:
-    label: instagram
+  platform: instagram
 ---
 Faeble shares her musical intention by way of rhythmic melodies, feminine energy and the deepest of dubs. Although akin to grimy, bass driven 140-centric styles, Faeble has no limits when it comes to her musical explorations, also taking inspiration from wave, rap, and halftime.
 

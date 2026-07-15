@@ -1,3 +1,8 @@
 name: Unicorn Lounge
-color: 0xE02C9A
-iconImageURL: https://firebasestorage.googleapis.com/v0/b/festivl.appspot.com/o/wicked-woods-2025%2FUnicorn%20Lounge%20Cropped.png?alt=media&token=8e1e4dd5-192a-47bd-9d2d-38edfabe9042
+color: 14691482
+images:
+- source:
+    url: https://firebasestorage.googleapis.com/v0/b/festivl.appspot.com/o/wicked-woods-2025%2FUnicorn%20Lounge%20Cropped.png?alt=media&token=8e1e4dd5-192a-47bd-9d2d-38edfabe9042
+  role: logo
+  renderKind: transparent
+  materializationPolicy: prefetchOnOpen

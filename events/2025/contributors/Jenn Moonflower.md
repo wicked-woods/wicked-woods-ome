@@ -1,14 +1,16 @@
 ---
-name: "Jenn Moonflower"
-imageURL: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/JennMoonflower.jpeg
-kind: "Workshop"
+name: Jenn Moonflower
+images:
+- source:
+    url: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/JennMoonflower.jpeg
+  role: photo
+  renderKind: fullImage
+  materializationPolicy: lazy
 links:
 - url: Https://instagram.com/entheojenn_
-  linkType:
-    label: instagram
+  platform: instagram
 - url: https://entheosphere.teachable.com
-  linkType:
-    label: website
+  platform: website
 ---
 Jenn Moonflower is a Ceremonialist, Mother, Plant Medicine Advocate, and Business Owner, dedicated to opening doors to the realms of exploration and education. With a devotion for community building and education, she operates as a Community Weaver, Creatrix and Educator. Balancing her roles as a nurturing Mama and a passionate Medicine HeArtist, Jenn's journey is a tapestry of holistic experiences.
 

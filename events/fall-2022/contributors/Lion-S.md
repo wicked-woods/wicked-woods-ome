@@ -1,6 +1,11 @@
 ---
-name: "Lion-S"
-imageURL: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2F480FE5F8-6E03-4158-92A0-B7CD3088EFE1.png?alt=media&token=cfdc1468-d898-40c0-a3da-311288c27ccd
+name: Lion-S
+images:
+- source:
+    url: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2F480FE5F8-6E03-4158-92A0-B7CD3088EFE1.png?alt=media&token=cfdc1468-d898-40c0-a3da-311288c27ccd
+  role: photo
+  renderKind: fullImage
+  materializationPolicy: lazy
 links: []
 ---
 Lion-S (aka Sara Spicer) is a name synonymous with West Coast House, Breaks, Bass and World music. A connoisseur for over 2 decades who still champions trends, her sets are calculated perfectly to suit the timeslot and vibe of the show.

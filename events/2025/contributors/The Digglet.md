@@ -1,4 +1,4 @@
 ---
-name: "The Digglet"
+name: The Digglet
 links: []
 ---

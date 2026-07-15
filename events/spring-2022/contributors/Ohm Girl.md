@@ -1,3 +1,3 @@
 ---
-name: "Ohm Girl"
+name: Ohm Girl
 ---

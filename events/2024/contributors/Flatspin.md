@@ -1,3 +1,3 @@
 ---
-name: "Flatspin"
+name: Flatspin
 ---

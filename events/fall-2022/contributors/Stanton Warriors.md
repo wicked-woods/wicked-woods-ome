@@ -1,3 +1,3 @@
 ---
-name: "Stanton Warriors"
+name: Stanton Warriors
 ---

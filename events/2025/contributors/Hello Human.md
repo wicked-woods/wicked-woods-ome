@@ -1,21 +1,25 @@
 ---
-name: "Hello Human"
-imageURL: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/HelloHuman.jpg
-logoURL: https://wickedwoods.festivalpro.com/?getFile&FILEID=32173
-kind: "Live Performance"
+name: Hello Human
+images:
+- source:
+    url: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/HelloHuman.jpg
+  role: photo
+  renderKind: fullImage
+  materializationPolicy: lazy
+- source:
+    url: https://wickedwoods.festivalpro.com/?getFile&FILEID=32173
+  role: logo
+  renderKind: transparent
+  materializationPolicy: lazy
 links:
 - url: https://soundcloud.com/hellohumanbass
-  linkType:
-    label: soundcloud
+  platform: soundcloud
 - url: https://www.facebook.com/hellohumanbass
-  linkType:
-    label: facebook
+  platform: facebook
 - url: https://www.instagram.com/hellohumanbass/
-  linkType:
-    label: instagram
+  platform: instagram
 - url: https://open.spotify.com/artist/0CTn9NgV01bpHkWMzkWCiQ?si=KWQnQsC8QSSGsfe-ifvhjg
-  linkType:
-    label: spotify
+  platform: spotify
 ---
 Hello Human is an electronic music producer from Calgary who creates bass-heavy journeys filled with emotion and atmosphere. Their sound blends dubstep, drum and bass, UK garage, halftime, and subtle touches of hip hop and ethereal vocals. The result is a style that feels equal parts gritty and transcendent.
 

@@ -1,8 +1,14 @@
 ---
-name: "Dubconcious"
-imageURL: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2F057E51DA-B5B7-4F3B-B5B1-3AF2624D068B.png?alt=media&token=ac2a992b-72d6-4083-a26b-2c6c5f12e11d
+name: Dubconcious
+images:
+- source:
+    url: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2F057E51DA-B5B7-4F3B-B5B1-3AF2624D068B.png?alt=media&token=ac2a992b-72d6-4083-a26b-2c6c5f12e11d
+  role: photo
+  renderKind: fullImage
+  materializationPolicy: lazy
 links:
 - url: https://soundcloud.com/dubconcious92
+  platform: soundcloud
 ---
 Dubconscious has come to represent both the east and the western coast of Canada. Born
 in Toronto and raised on the jungle / drum’n’bass sounds permeating the city in the late

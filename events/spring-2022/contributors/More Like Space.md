@@ -1,3 +1,3 @@
 ---
-name: "More Like Space"
+name: More Like Space
 ---

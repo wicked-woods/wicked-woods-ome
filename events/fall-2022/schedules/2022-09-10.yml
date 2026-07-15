@@ -32,23 +32,23 @@ performances:
     - id: Siadic
     - id: Kairo
   - title: Dose.
-    startTime: '02:30'
+    startTime: 02:30
     contributors:
     - id: Dose.
   - title: HNH
-    startTime: '04:00'
+    startTime: 04:00
     contributors:
     - id: HNH
   - title: Smirk
-    startTime: '05:00'
+    startTime: 05:00
     contributors:
     - id: Smirk
   - title: Lil Stitious
-    startTime: '06:00'
+    startTime: 06:00
     contributors:
     - id: Lil Stitious
   - title: Portal Fam Dub Rinseout
-    startTime: '07:00'
+    startTime: 07:00
     endTime: '11:00'
     contributors:
     - id: Portal Fam Dub Rinseout
@@ -82,25 +82,26 @@ performances:
     contributors:
     - id: MYTHYM
   - title: Hunter Down & CallMeKeeks
-    startTime: '00:45'
+    startTime: 00:45
     contributors:
     - id: Hunter Down
     - id: CallMeKeeks
   - title: Calyx & Teebe
-    startTime: '01:00'
+    startTime: 01:00
     contributors:
     - id: Calyx & Teebe
   - title: Diligent
-    startTime: '03:00'
+    startTime: 03:00
     contributors:
     - id: Diligent
   - title: Kellan It
-    startTime: '04:00'
+    startTime: 04:00
     contributors:
     - id: Kellan It
-  - title: Strange Manner, Aleatha, Logo, Yontzie, Swayze, Djenerate, Mary Jane & Obscene
-    startTime: '05:00'
-    endTime: '09:30'
+  - title: Strange Manner, Aleatha, Logo, Yontzie, Swayze, Djenerate, Mary Jane &
+      Obscene
+    startTime: 05:00
+    endTime: 09:30
     contributors:
     - id: Strange Manner
     - id: Aleatha
@@ -144,31 +145,31 @@ performances:
     contributors:
     - id: Wes Please
   - title: Slynk
-    startTime: '00:00'
+    startTime: 00:00
     contributors:
     - id: Slynk
   - title: Stickybuds
-    startTime: '01:30'
+    startTime: 01:30
     contributors:
     - id: Stickybuds
   - title: Stanton Warriors
-    startTime: '03:00'
+    startTime: 03:00
     contributors:
     - id: Stanton Warriors
   - title: Freddy J
-    startTime: '04:30'
+    startTime: 04:30
     contributors:
     - id: Freddy J
   - title: Funkin Right
-    startTime: '06:00'
+    startTime: 06:00
     contributors:
     - id: Funkin Right
   - title: Civilian
-    startTime: '07:30'
+    startTime: 07:30
     contributors:
     - id: Civilian
   - title: Jpod
-    startTime: '09:00'
+    startTime: 09:00
     contributors:
     - id: Jpod
   - title: M3RF
@@ -189,7 +190,8 @@ performances:
     startTime: '16:30'
     contributors:
     - id: Jess Vernon & Maponus
-  - title: Rubix & Fallenwall, 7heory, Tony Toosick, Cinel, J-Reds, Catfishthewizard, Newman & Street Dancers
+  - title: Rubix & Fallenwall, 7heory, Tony Toosick, Cinel, J-Reds, Catfishthewizard,
+      Newman & Street Dancers
     startTime: '17:30'
     contributors:
     - id: Rubix & Fallenwall
@@ -223,6 +225,6 @@ performances:
     - id: Drezus
   - title: Skreid
     startTime: '23:00'
-    endTime: '00:00'
+    endTime: 00:00
     contributors:
     - id: Skreid

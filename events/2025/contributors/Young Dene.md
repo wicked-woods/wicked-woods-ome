@@ -1,20 +1,20 @@
 ---
-name: "Young Dene"
-imageURL: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/YoungDene.jpeg
-kind: "Live Performance"
+name: Young Dene
+images:
+- source:
+    url: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/YoungDene.jpeg
+  role: photo
+  renderKind: fullImage
+  materializationPolicy: lazy
 links:
 - url: https://soundcloud.com/youngdene
-  linkType:
-    label: soundcloud
+  platform: soundcloud
 - url: https://www.facebook.com/youngdenemusic
-  linkType:
-    label: facebook
+  platform: facebook
 - url: https://instagram.com/young_dene
-  linkType:
-    label: instagram
+  platform: instagram
 - url: https://lowpassmusic.bandcamp.ca
-  linkType:
-    label: website
+  platform: bandcamp
 ---
 Young Dene is a Dene selector and electronic music producer based in Vancouver, BC specializing in bass music with a preference for turbo dance floor heaters. While mostly focused on Footwork Jungle and Drum & Bass, Young Dene's musical range extends to Dubstep, Garage, Breaks, Electro, House, Club and more, reflecting a deep-seated love for diverse sonic landscapes that keep the party popping. 
 

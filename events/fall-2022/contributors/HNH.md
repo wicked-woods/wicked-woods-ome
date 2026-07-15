@@ -1,6 +1,11 @@
 ---
-name: "HNH"
-imageURL: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2FBCAE630E-3FEE-4540-AEEF-391967FB2DBC.png?alt=media&token=be0ee419-cdf2-407c-bfac-050bb2dbb964
+name: HNH
+images:
+- source:
+    url: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2FBCAE630E-3FEE-4540-AEEF-391967FB2DBC.png?alt=media&token=be0ee419-cdf2-407c-bfac-050bb2dbb964
+  role: photo
+  renderKind: fullImage
+  materializationPolicy: lazy
 links: []
 ---
 Residing in Calgary, AB, HNH aka Hannah Abramski began her dive into the electronic music community in 2015 as an attendee. Hannah's DJ journey began as a simple bonding activity with her partner Cody. Cody, a DJ for another crew in Calgary, and Hannah share a passion for 140 and Drum & Bass, which led Cody to teach Hannah how to DJ. 

@@ -1,20 +1,25 @@
 ---
-name: "Mt. Doyle"
-imageURL: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/MtDoyle.jpg
-logoURL: https://wickedwoods.festivalpro.com/?getFile&FILEID=33041
+name: Mt. Doyle
+images:
+- source:
+    url: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/MtDoyle.jpg
+  role: photo
+  renderKind: fullImage
+  materializationPolicy: lazy
+- source:
+    url: https://wickedwoods.festivalpro.com/?getFile&FILEID=33041
+  role: logo
+  renderKind: transparent
+  materializationPolicy: lazy
 links:
 - url: https://soundcloud.com/mt-doyle-eats-pizza
-  linkType:
-    label: soundcloud
+  platform: soundcloud
 - url: https://www.youtube.com/watch?v=wHPcSCq4IZk&ab_channel=Mt.Doyle
-  linkType:
-    label: youtube
+  platform: youtube
 - url: https://www.facebook.com/DJ.Mt.Doyle/
-  linkType:
-    label: facebook
+  platform: facebook
 - url: https://www.instagram.com/mt.doyleeatzpizza/
-  linkType:
-    label: instagram
+  platform: instagram
 ---
 Back in the day, Mt. Doyle was known for his smooth taste in Drum & Bass and his unmatched love for pizza. But it wasn't long before Doyle expanded his horizons to include Funk, House, Hip-Hop and Bass, all with his soulful West Coast flavour. He quickly became a staple in the BC electronic music scene, known not only for his multi-genre sets but his range of recorded mixes as well.
 

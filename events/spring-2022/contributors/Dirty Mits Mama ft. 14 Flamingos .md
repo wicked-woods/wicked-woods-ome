@@ -1,3 +1,3 @@
 ---
-name: "Dirty Mits Mama ft. 14 Flamingos "
+name: 'Dirty Mits Mama ft. 14 Flamingos '
 ---

@@ -1,6 +1,11 @@
 ---
-name: "Stickybuds"
-imageURL: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2F4B9F0E2F-9034-4531-9F62-23CD33CE9D00.png?alt=media&token=287f31ba-85c9-40f4-afb4-4da845cc3982
+name: Stickybuds
+images:
+- source:
+    url: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2F4B9F0E2F-9034-4531-9F62-23CD33CE9D00.png?alt=media&token=287f31ba-85c9-40f4-afb4-4da845cc3982
+  role: photo
+  renderKind: fullImage
+  materializationPolicy: lazy
 links: []
 ---
 From the funky depths of the Canadian West, Tyler Martens has been touring the world and releasing exceptional music for over a decade.

@@ -1,15 +1,21 @@
 ---
-name: "PuppyCat"
-imageURL: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/PuppyCat.jpg
-logoURL: https://wickedwoods.festivalpro.com/?getFile&FILEID=33173
-kind: "Live Performance"
+name: PuppyCat
+images:
+- source:
+    url: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/PuppyCat.jpg
+  role: photo
+  renderKind: fullImage
+  materializationPolicy: lazy
+- source:
+    url: https://wickedwoods.festivalpro.com/?getFile&FILEID=33173
+  role: logo
+  renderKind: transparent
+  materializationPolicy: lazy
 links:
 - url: https://soundcloud.com/puppycatsound
-  linkType:
-    label: soundcloud
+  platform: soundcloud
 - url: https://www.instagram.com/puppycatsound
-  linkType:
-    label: instagram
+  platform: instagram
 ---
 PuppyCat is the sonic amalgamation of Howl and MisfortuneCat. Known for their deep heavy style, setting a relentless 140 bpm pulse reverberating beyond the physical. Their surgical chaos of double-dropped tracks and overlapping beats coalesce into a single resonant frequency, one that seems to vibrate beyond the speakers, changing the very air itself. 
 

@@ -1,14 +1,16 @@
 ---
-name: "Miss Molly Meow"
-imageURL: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/MissMollyMeow.jpeg
-kind: "Dance Performance"
+name: Miss Molly Meow
+images:
+- source:
+    url: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/MissMollyMeow.jpeg
+  role: photo
+  renderKind: fullImage
+  materializationPolicy: lazy
 links:
 - url: https://www.facebook.com/share/1EN8Z6BeEG/?mibextid=wwXIfr
-  linkType:
-    label: facebook
+  platform: facebook
 - url: https://www.instagram.com/miss_molly_meow?igsh=Y2Nub3Q1d2JiNWR3&utm_source=qr
-  linkType:
-    label: instagram
+  platform: instagram
 ---
   From to aerials to exotics, Miss Molly Meow graces stages far and wide with her sumptuous swirling
   Lyra Lover and Certified Rave babe she just finished yet another year air dancing at Shambhala and is stoked to be back here this fall for yet another Wicked Woods.  

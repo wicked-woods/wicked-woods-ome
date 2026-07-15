@@ -1,3 +1,3 @@
 ---
-name: "Caro"
+name: Caro
 ---

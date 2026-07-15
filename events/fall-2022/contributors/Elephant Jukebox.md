@@ -1,6 +1,11 @@
 ---
-name: "Elephant Jukebox"
-imageURL: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2FF6ECE011-C267-4ABF-B2C3-E58033D9EA53.png?alt=media&token=c273303e-8763-48b3-bf52-450ce40d39f4
+name: Elephant Jukebox
+images:
+- source:
+    url: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2FF6ECE011-C267-4ABF-B2C3-E58033D9EA53.png?alt=media&token=c273303e-8763-48b3-bf52-450ce40d39f4
+  role: photo
+  renderKind: fullImage
+  materializationPolicy: lazy
 links: []
 ---
 I could tell you how long I have been a DJ, how many clubs and parties I have played, and who I have opened for; but that would not explain to you the love and intense passion I have with electronic music. 

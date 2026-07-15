@@ -1,3 +1,3 @@
 ---
-name: "Opening Ceremony With Vitantonio Spinelli and Megan Drew Temple"
+name: Opening Ceremony With Vitantonio Spinelli and Megan Drew Temple
 ---

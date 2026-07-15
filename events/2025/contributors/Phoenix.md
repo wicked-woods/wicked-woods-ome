@@ -1,14 +1,21 @@
 ---
-name: "Phoenix"
-imageURL: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/Phoenix.jpg
-logoURL: https://wickedwoods.festivalpro.com/?getFile&FILEID=32499
+name: Phoenix
+images:
+- source:
+    url: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/Phoenix.jpg
+  role: photo
+  renderKind: fullImage
+  materializationPolicy: lazy
+- source:
+    url: https://wickedwoods.festivalpro.com/?getFile&FILEID=32499
+  role: logo
+  renderKind: transparent
+  materializationPolicy: lazy
 links:
 - url: https://soundcloud.com/djtasharae
-  linkType:
-    label: soundcloud
+  platform: soundcloud
 - url: https://www.instagram.com/tasha.rae_/
-  linkType:
-    label: instagram
+  platform: instagram
 ---
 Phoenix is a dynamic dance performance artist who lights up every stage she graces. Known for her dazzling hula hoop artistry, Phoenix brings a vibrant fusion of movement, music, and visual spectacle to life. Her performances feature silk fans, single and double hoop flow, and high-energy go-go dancing — all wrapped in stunning, carefully curated costumes designed to mesmerize.
 

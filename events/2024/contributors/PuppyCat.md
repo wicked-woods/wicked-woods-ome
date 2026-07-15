@@ -1,9 +1,16 @@
 ---
-name: "PuppyCat"
-imageURL: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2FD5F85642-0983-4048-9335-DEB6A3F503CE.png?alt=media&token=363e7380-45f6-4d4b-a445-d93cc6add198
+name: PuppyCat
+images:
+- source:
+    url: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2FD5F85642-0983-4048-9335-DEB6A3F503CE.png?alt=media&token=363e7380-45f6-4d4b-a445-d93cc6add198
+  role: photo
+  renderKind: fullImage
+  materializationPolicy: lazy
 links:
 - url: https://soundcloud.com/puppycatsound
+  platform: soundcloud
 - url: https://www.instagram.com/puppycatsound
+  platform: instagram
 ---
 How innocent and unassuming, they all thought, the sonic union of Howl and MisfortuneCat. 
 No one suspected the chaos their combined artillery would bring. That the incessant battering of bombs dropped at 140 bpm would rip apart the fabric of spacetime; and on the other side of that portal, PuppyCat emerged from the wreckage. In this timeline all bets are off. Nobody is safe. 

@@ -1,3 +1,3 @@
 ---
-name: "Fallen Wall"
+name: Fallen Wall
 ---

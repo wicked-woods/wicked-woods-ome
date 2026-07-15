@@ -1,3 +1,3 @@
 ---
-name: "Paint Department"
+name: Paint Department
 ---

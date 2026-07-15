@@ -1,3 +1,3 @@
 ---
-name: "Free Samples"
+name: Free Samples
 ---

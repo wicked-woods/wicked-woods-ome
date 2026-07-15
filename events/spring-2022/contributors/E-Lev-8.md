@@ -1,3 +1,3 @@
 ---
-name: "E-Lev-8"
+name: E-Lev-8
 ---

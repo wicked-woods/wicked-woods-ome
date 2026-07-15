@@ -1,16 +1,12 @@
 ---
-name: "Jager Nightingale"
-kind: "Art & Installations"
+name: Jager Nightingale
 links:
 - url: https://www.facebook.com/DistortedVisionsProductions
-  linkType:
-    label: facebook
+  platform: facebook
 - url: https://www.instagram.com/distorted.visions.productions/
-  linkType:
-    label: instagram
+  platform: instagram
 - url: https://www.facebook.com/DistortedVisionsProductions
-  linkType:
-    label: website
+  platform: facebook
 ---
 Jager Nightingale is a dynamic DJ, producer, and visual artist 
 blending immersive soundscapes with high-energy performances. With a 

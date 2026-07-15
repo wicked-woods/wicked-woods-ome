@@ -1,27 +1,29 @@
 ---
-name: "Glass Petals"
-imageURL: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/GlassPetals.png
-logoURL: https://wickedwoods.festivalpro.com/?getFile&FILEID=35979
-kind: "Live Performance"
+name: Glass Petals
+images:
+- source:
+    url: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/GlassPetals.png
+  role: photo
+  renderKind: fullImage
+  materializationPolicy: lazy
+- source:
+    url: https://wickedwoods.festivalpro.com/?getFile&FILEID=35979
+  role: logo
+  renderKind: transparent
+  materializationPolicy: lazy
 links:
 - url: '%20soundcloud.com/glasspetals'
-  linkType:
-    label: soundcloud
+  platform: soundcloud
 - url: youtube.com/@glasspetalsss
-  linkType:
-    label: youtube
+  platform: youtube
 - url: Facebook.com/glasspetals
-  linkType:
-    label: facebook
+  platform: website
 - url: instagram.com/glasspetalsss
-  linkType:
-    label: instagram
+  platform: instagram
 - url: https://open.spotify.com/artist/0O8f8ea4d3UvxzrJxkYIb0?si=1O702p1bTvaXXxBgmmlsAw
-  linkType:
-    label: spotify
+  platform: spotify
 - url: glasspetals.com
-  linkType:
-    label: website
+  platform: website
 ---
 GLASS PETALS
 IS THE “CLUB MUSIC ONLY” PROJECT OF VANCOUVER-BASED FELIX CARTAL AND JOHNNY JOVER.

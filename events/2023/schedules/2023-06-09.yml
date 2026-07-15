@@ -44,77 +44,28 @@ performances:
     contributors:
     - id: Wraz
   - title: m4xw311, dove & skobe
-    startTime: '01:00'
+    startTime: 01:00
     contributors:
     - id: m4xw311
     - id: dove
     - id: skobe
   - title: Sorsari
-    startTime: '03:30'
+    startTime: 03:30
     contributors:
     - id: Sorsari
   - title: GHILLIE & SKBR
-    startTime: '04:30'
+    startTime: 04:30
     contributors:
     - id: GHILLIE & SKBR
   - title: Siadic
-    startTime: '05:30'
+    startTime: 05:30
     contributors:
     - id: Siadic
   - title: Mews
-    startTime: '06:30'
-    endTime: '07:30'
+    startTime: 06:30
+    endTime: 07:30
     contributors:
     - id: Mews
-  ursus:
-  - title: Lazy Syrup Orchestra
-    startTime: '15:00'
-    contributors:
-    - id: Lazy Syrup Orchestra
-  - title: Chimp It
-    startTime: '16:30'
-    contributors:
-    - id: Chimp It
-  - title: Skreid
-    startTime: '17:30'
-    contributors:
-    - id: Skreid
-  - title: J-Reds, Theory, Def3 & Paradox Life
-    startTime: '18:30'
-    contributors:
-    - id: J-Reds
-    - id: Theory
-    - id: Def3
-    - id: Paradox Life
-  - title: Tube Screamer
-    startTime: '20:00'
-    contributors:
-    - id: Tube Screamer
-  - title: Oodra Movement
-    startTime: '21:00'
-    contributors:
-    - id: Oodra Movement
-  - title: Mat The Alien
-    startTime: '21:30'
-    contributors:
-    - id: Mat The Alien
-  - title: Dakota Bear
-    startTime: '23:00'
-    contributors:
-    - id: Dakota Bear
-  - title: Handsome Tiger
-    startTime: '00:00'
-    contributors:
-    - id: Handsome Tiger
-  - title: GDubz
-    startTime: '01:30'
-    contributors:
-    - id: GDubz
-  - title: MoJo
-    startTime: '03:00'
-    endTime: '04:00'
-    contributors:
-    - id: MoJo
   the-hallow:
   - title: FunkinRight
     startTime: '15:00'
@@ -154,24 +105,24 @@ performances:
     contributors:
     - id: 'PINEO & LOEB '
   - title: SkiiTour
-    startTime: '00:00'
+    startTime: 00:00
     contributors:
     - id: SkiiTour
   - title: DeFunk
-    startTime: '01:30'
+    startTime: 01:30
     contributors:
     - id: DeFunk
   - title: Average Citizens
-    startTime: '03:00'
+    startTime: 03:00
     contributors:
     - id: Average Citizens
   - title: Robbie C
-    startTime: '04:30'
+    startTime: 04:30
     contributors:
     - id: Robbie C
   - title: Benanas
-    startTime: '05:30'
-    endTime: '07:30'
+    startTime: 05:30
+    endTime: 07:30
     contributors:
     - id: Benanas
   unicorn-lounge:
@@ -208,23 +159,72 @@ performances:
     contributors:
     - id: PSYOPS
   - title: Icicle
-    startTime: '00:30'
+    startTime: 00:30
     contributors:
     - id: Icicle
   - title: Kytami & Phonik Ops
-    startTime: '02:00'
+    startTime: 02:00
     contributors:
     - id: Kytami & Phonik Ops
   - title: MatB and Ohm Girl
-    startTime: '03:30'
+    startTime: 03:30
     contributors:
     - id: MatB and Ohm Girl
   - title: Reflektor
-    startTime: '05:00'
+    startTime: 05:00
     contributors:
     - id: Reflektor
   - title: GREY MOON
-    startTime: '06:30'
-    endTime: '07:30'
+    startTime: 06:30
+    endTime: 07:30
     contributors:
     - id: GREY MOON
+  ursus:
+  - title: Lazy Syrup Orchestra
+    startTime: '15:00'
+    contributors:
+    - id: Lazy Syrup Orchestra
+  - title: Chimp It
+    startTime: '16:30'
+    contributors:
+    - id: Chimp It
+  - title: Skreid
+    startTime: '17:30'
+    contributors:
+    - id: Skreid
+  - title: J-Reds, Theory, Def3 & Paradox Life
+    startTime: '18:30'
+    contributors:
+    - id: J-Reds
+    - id: Theory
+    - id: Def3
+    - id: Paradox Life
+  - title: Tube Screamer
+    startTime: '20:00'
+    contributors:
+    - id: Tube Screamer
+  - title: Oodra Movement
+    startTime: '21:00'
+    contributors:
+    - id: Oodra Movement
+  - title: Mat The Alien
+    startTime: '21:30'
+    contributors:
+    - id: Mat The Alien
+  - title: Dakota Bear
+    startTime: '23:00'
+    contributors:
+    - id: Dakota Bear
+  - title: Handsome Tiger
+    startTime: 00:00
+    contributors:
+    - id: Handsome Tiger
+  - title: GDubz
+    startTime: 01:30
+    contributors:
+    - id: GDubz
+  - title: MoJo
+    startTime: 03:00
+    endTime: 04:00
+    contributors:
+    - id: MoJo

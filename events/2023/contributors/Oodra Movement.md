@@ -1,3 +1,3 @@
 ---
-name: "Oodra Movement"
+name: Oodra Movement
 ---

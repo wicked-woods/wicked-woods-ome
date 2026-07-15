@@ -1,6 +1,11 @@
 ---
-name: "Calyx & Teebe"
-imageURL: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2F2A6C947F-BB89-46DF-AC3F-167D1FAC3E58.png?alt=media&token=9c971b12-239d-447b-a014-bfb8f8f151e3
+name: Calyx & Teebe
+images:
+- source:
+    url: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2F2A6C947F-BB89-46DF-AC3F-167D1FAC3E58.png?alt=media&token=9c971b12-239d-447b-a014-bfb8f8f151e3
+  role: photo
+  renderKind: fullImage
+  materializationPolicy: lazy
 links: []
 ---
 For two decades, Calyx & TeeBee have forged an unprecedented path at the forefront of Drum and Bass. They had already amassed an astounding back-catalogue spanning all of the genre’s seminal labels, before they came together to form a duo 10 years ago.

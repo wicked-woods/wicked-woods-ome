@@ -1,6 +1,11 @@
 ---
-name: "Monkey Twerk"
-imageURL: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2F9259317D-BB87-49F3-9DA5-569450976848.png?alt=media&token=a3fa2a16-bd73-4fb5-8934-acde0455cee0
+name: Monkey Twerk
+images:
+- source:
+    url: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2F9259317D-BB87-49F3-9DA5-569450976848.png?alt=media&token=a3fa2a16-bd73-4fb5-8934-acde0455cee0
+  role: photo
+  renderKind: fullImage
+  materializationPolicy: lazy
 links: []
 ---
 A happy-sexy-dirty blend of Electronic Party Music. Adriana & Frank, originally from Colombia, legally from Canada, and happily in Amsterdam, always run on good vibes, have a serious commitment to partying, and love making the fun happen.

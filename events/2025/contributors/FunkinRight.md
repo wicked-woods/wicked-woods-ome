@@ -1,27 +1,29 @@
 ---
-name: "FunkinRight"
-imageURL: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/FunkinRight.png
-logoURL: https://wickedwoods.festivalpro.com/?getFile&FILEID=32403
-kind: "Live Performance"
+name: FunkinRight
+images:
+- source:
+    url: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/FunkinRight.png
+  role: photo
+  renderKind: fullImage
+  materializationPolicy: lazy
+- source:
+    url: https://wickedwoods.festivalpro.com/?getFile&FILEID=32403
+  role: logo
+  renderKind: transparent
+  materializationPolicy: lazy
 links:
 - url: https://soundcloud.com/funkinright
-  linkType:
-    label: soundcloud
+  platform: soundcloud
 - url: https://www.youtube.com/@funkinright
-  linkType:
-    label: youtube
+  platform: youtube
 - url: https://www.facebook.com/FunkinRightMusic
-  linkType:
-    label: facebook
+  platform: facebook
 - url: https://www.instagram.com/funkinright
-  linkType:
-    label: instagram
+  platform: instagram
 - url: https://open.spotify.com/artist/6X1oIHdbuZWxBw4GcOX6Kp?si=TrUrrBJ2RMCa9dJ30el0Ng
-  linkType:
-    label: spotify
+  platform: spotify
 - url: https://linktr.ee/FunkinRight
-  linkType:
-    label: website
+  platform: website
 ---
 FunkinRight is all about fun and funky party music, and having a good time.
 

@@ -1,3 +1,8 @@
 name: The Hallow
-color: 0x143144
-iconImageURL: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2FC9F41387-F984-4F47-9587-4362FECF75CB.png?alt=media&token=7f98ab02-deed-4913-b610-7a62f22e75d1
+color: 1323332
+images:
+- source:
+    url: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2FC9F41387-F984-4F47-9587-4362FECF75CB.png?alt=media&token=7f98ab02-deed-4913-b610-7a62f22e75d1
+  role: logo
+  renderKind: transparent
+  materializationPolicy: prefetchOnOpen

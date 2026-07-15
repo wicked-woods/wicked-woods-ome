@@ -1,21 +1,25 @@
 ---
-name: "Griimm"
-imageURL: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/Griimm.jpg
-logoURL: https://wickedwoods.festivalpro.com/?getFile&FILEID=38033
-kind: "Live Performance"
+name: Griimm
+images:
+- source:
+    url: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/Griimm.jpg
+  role: photo
+  renderKind: fullImage
+  materializationPolicy: lazy
+- source:
+    url: https://wickedwoods.festivalpro.com/?getFile&FILEID=38033
+  role: logo
+  renderKind: transparent
+  materializationPolicy: lazy
 links:
 - url: https://soundcloud.com/producedbygriimm
-  linkType:
-    label: soundcloud
+  platform: soundcloud
 - url: instagram.com/producedbygriimm
-  linkType:
-    label: instagram
+  platform: instagram
 - url: https://open.spotify.com/artist/2IvCAHAVLpm7LRlcG4hgX0?si=5rwOXNusS56v69xFur9SQQ
-  linkType:
-    label: spotify
+  platform: spotify
 - url: producedbygriimm.net
-  linkType:
-    label: website
+  platform: website
 ---
 The path to paradise starts in hell.
 

@@ -1,3 +1,3 @@
 ---
-name: "DeFunk"
+name: DeFunk
 ---

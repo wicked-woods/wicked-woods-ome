@@ -1,3 +1,3 @@
 ---
-name: "Zak Davis"
+name: Zak Davis
 ---

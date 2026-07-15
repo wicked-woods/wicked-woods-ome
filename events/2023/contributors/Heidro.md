@@ -1,9 +1,16 @@
 ---
-name: "Heidro"
-imageURL: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2F0FD6548C-C96D-4E18-8DF3-1DD159DEC9DB.png?alt=media&token=2bf598b1-b9ba-4924-b383-f83c052269ae
+name: Heidro
+images:
+- source:
+    url: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2F0FD6548C-C96D-4E18-8DF3-1DD159DEC9DB.png?alt=media&token=2bf598b1-b9ba-4924-b383-f83c052269ae
+  role: photo
+  renderKind: fullImage
+  materializationPolicy: lazy
 links:
 - url: https://soundcloud.com/heidrogen/motion-notion-heidrogen-misty-morning-set
+  platform: soundcloud
 - url: https://www.instagram.com/sigma1environments/
+  platform: instagram
 ---
 The man behind Sigma-1, a Western Canada production design studio. Expect music collected from two decades of sorcery in the subculture.  
 

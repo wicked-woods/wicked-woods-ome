@@ -1,7 +1,13 @@
 ---
-name: "Mark Farina"
-imageURL: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2F44E20638-0099-4355-8E1D-E687220ACD5D.png?alt=media&token=a21a5d0a-9855-4248-8b22-9f2c476bd990
+name: Mark Farina
+images:
+- source:
+    url: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2F44E20638-0099-4355-8E1D-E687220ACD5D.png?alt=media&token=a21a5d0a-9855-4248-8b22-9f2c476bd990
+  role: photo
+  renderKind: fullImage
+  materializationPolicy: lazy
 links:
 - url: HTTPS://OPEN.SPOTIFY.COM/USER/DJMARKFARINA
+  platform: website
 ---
 Mark Farina is a name that rings out across the entire global dance music industry. His non-stop touring, constant content creation, partnerships with legendary venues and record labels as well as his total commitment to showcasing the best new and old school producers in his sets have made him a living legend to lovers of house and Mushroom Jazz everywhere. With a passion for playing extended all night long shows as well his recent foray into streaming exemplified by his highly successful new YouTube series with Defected Records, Farina continues to tirelessly entertain his incredible fans all over the globe with over 100 shows per year. The last few years have been an incredible new era of creativity, outreach, and recognition for one of the most original and consistent voices in the business. Mark continues to connect with new fans without losing those who have been loyal supporters from day one. Fans, promoters, and industry insiders all know that no matter what changes come along Mark Farina always delivers.

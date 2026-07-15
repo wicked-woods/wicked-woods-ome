@@ -1,1 +1,6 @@
-imageURL: https://firebasestorage.googleapis.com/v0/b/festivl.appspot.com/o/wicked-woods-2025%2Flineup-poster.webp?alt=media&token=77b1d177-3289-4891-8c8a-2badf33b2960
+image:
+  source:
+    url: https://firebasestorage.googleapis.com/v0/b/festivl.appspot.com/o/wicked-woods-2025%2Flineup-poster.webp?alt=media&token=77b1d177-3289-4891-8c8a-2badf33b2960
+  role: poster
+  renderKind: fullImage
+  materializationPolicy: lazy

@@ -1,3 +1,3 @@
 ---
-name: "Mat The Alien"
+name: Mat The Alien
 ---

@@ -1,9 +1,16 @@
 ---
-name: "Jontin "
-imageURL: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2FDED4CF83-671C-4D6D-AAD6-593A36EBE8CD.png?alt=media&token=8f4010b9-6cf4-43d9-8b2b-7f925127dd0b
+name: 'Jontin '
+images:
+- source:
+    url: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2FDED4CF83-671C-4D6D-AAD6-593A36EBE8CD.png?alt=media&token=8f4010b9-6cf4-43d9-8b2b-7f925127dd0b
+  role: photo
+  renderKind: fullImage
+  materializationPolicy: lazy
 links:
 - url: https://www.instagram.com/jontin.music/
+  platform: instagram
 - url: https://www.facebook.com/Jontin0?mibextid=ZbWKwL
+  platform: facebook
 ---
 JONTIN - newfie noun \ Jonathon
 

@@ -1,3 +1,3 @@
 ---
-name: "Rosso "
+name: 'Rosso '
 ---

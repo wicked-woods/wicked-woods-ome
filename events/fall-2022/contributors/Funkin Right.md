@@ -1,6 +1,11 @@
 ---
-name: "Funkin Right"
-imageURL: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2F05D4C593-EF57-46AC-B2C7-30444F5323D3.png?alt=media&token=6079f804-a021-4b7b-b02c-8f4e6223f121
+name: Funkin Right
+images:
+- source:
+    url: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2F05D4C593-EF57-46AC-B2C7-30444F5323D3.png?alt=media&token=6079f804-a021-4b7b-b02c-8f4e6223f121
+  role: photo
+  renderKind: fullImage
+  materializationPolicy: lazy
 links: []
 ---
 FunkinRight is all about fun and funky party music, and having a good time.

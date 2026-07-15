@@ -1,12 +1,22 @@
 ---
-name: "Wraz"
-imageURL: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2F06DEFC67-D9B4-46A7-8D63-4EDA73856B73.png?alt=media&token=b47c4f6c-d82b-4d3b-8466-f7c0b95836f0
+name: Wraz
+images:
+- source:
+    url: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2F06DEFC67-D9B4-46A7-8D63-4EDA73856B73.png?alt=media&token=b47c4f6c-d82b-4d3b-8466-f7c0b95836f0
+  role: photo
+  renderKind: fullImage
+  materializationPolicy: lazy
 links:
 - url: https://soundcloud.com/wraz
+  platform: soundcloud
 - url: https://open.spotify.com/artist/67b5TsLqAzMdmtWZCy2k7D
+  platform: spotify
 - url: https://www.youtube.com/@WrazDubs
+  platform: youtube
 - url: https://www.instagram.com/wraz_dubs/
+  platform: instagram
 - url: https://www.facebook.com/wrazdubs
+  platform: facebook
 ---
 Wraz is a Canadian producer & DJ from Sherbrooke, Quebec. His sound goes into the deep & dark side of Dubstep, Grime, Drum & Bass and Halftime, with fat analog synths, mythical melodies and unstoppable flow on the drums. With releases on Deep Dark & Dangerous, 4NCY/Darkmode, Duploc, and other labels across the globe, he always makes quality material for your ears, in harmony with the sound system. Get ready for some heat!
 

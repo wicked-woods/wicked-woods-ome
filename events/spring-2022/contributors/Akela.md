@@ -1,3 +1,3 @@
 ---
-name: "Akela"
+name: Akela
 ---

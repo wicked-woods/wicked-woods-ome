@@ -1,12 +1,22 @@
 ---
-name: "Marten Hørger"
-imageURL: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2FEF1DD515-58E2-4228-81C3-428413829F69.png?alt=media&token=1e8475f9-6daa-46a3-9d5c-2ab21370f3d9
+name: "Marten H\xF8rger"
+images:
+- source:
+    url: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2FEF1DD515-58E2-4228-81C3-428413829F69.png?alt=media&token=1e8475f9-6daa-46a3-9d5c-2ab21370f3d9
+  role: photo
+  renderKind: fullImage
+  materializationPolicy: lazy
 links:
 - url: https://soundcloud.com/marten-horger
+  platform: soundcloud
 - url: https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls?si=NYJ6NhCnSgWWUTZJKHW6cw
+  platform: spotify
 - url: https://www.youtube.com/@MARTENHORGER/featured
+  platform: youtube
 - url: https://www.instagram.com/marten_horger
+  platform: instagram
 - url: https://www.facebook.com/marten.horger
+  platform: facebook
 ---
 HØUSE MUSIC 
 

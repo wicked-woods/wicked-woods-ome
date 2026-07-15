@@ -1,3 +1,3 @@
 ---
-name: "Distinct"
+name: Distinct
 ---

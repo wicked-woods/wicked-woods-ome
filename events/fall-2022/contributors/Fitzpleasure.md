@@ -1,3 +1,3 @@
 ---
-name: "Fitzpleasure"
+name: Fitzpleasure
 ---

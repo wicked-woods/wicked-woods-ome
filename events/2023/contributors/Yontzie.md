@@ -1,3 +1,3 @@
 ---
-name: "Yontzie"
+name: Yontzie
 ---

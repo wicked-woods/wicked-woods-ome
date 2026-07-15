@@ -1,10 +1,8 @@
 ---
-name: "MintzInk & Kays"
-kind: "Art & Installations"
+name: MintzInk & Kays
 links:
 - url: MintzInk%20&%20m.kaysden_
-  linkType:
-    label: instagram
+  platform: website
 ---
 In the heart of LeyLine Studio, Kays and MintzInk weave calligraffiti, geometry, and organic flow into living worlds of color and form. Their work is where letters dance, patterns breathe, and murals hum with the energy of both structure and chaos.
 

@@ -1,8 +1,14 @@
 ---
-name: "Lefy"
-imageURL: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2FBD62E0CD-51BD-4565-B961-E8E8CB057E92.png?alt=media&token=edf92ec5-7e81-4712-9ab1-41b80f6a2388
+name: Lefy
+images:
+- source:
+    url: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2FBD62E0CD-51BD-4565-B961-E8E8CB057E92.png?alt=media&token=edf92ec5-7e81-4712-9ab1-41b80f6a2388
+  role: photo
+  renderKind: fullImage
+  materializationPolicy: lazy
 links:
 - url: https://www.facebook.com/LefyDJ
+  platform: facebook
 ---
 d(-_-)b 
 

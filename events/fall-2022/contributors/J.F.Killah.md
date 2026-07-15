@@ -1,6 +1,11 @@
 ---
-name: "J.F.Killah"
-imageURL: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2FFFF37F20-92EF-4677-93C4-86830D0D1B58.png?alt=media&token=4d6eb28c-67d8-43fa-8f39-e4df747066e4
+name: J.F.Killah
+images:
+- source:
+    url: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2FFFF37F20-92EF-4677-93C4-86830D0D1B58.png?alt=media&token=4d6eb28c-67d8-43fa-8f39-e4df747066e4
+  role: photo
+  renderKind: fullImage
+  materializationPolicy: lazy
 links: []
 ---
 With a love for the underground and an affinity for deep, dark, grimy basslines, J.F.Killah is on a mission to spread her sounds worldwide. On the decks since 2005, she has acquired an arsenal of beats and is armed to destroy any dance floor. Be it sundown or sun-up, festival or club, she will hold you emotionally encapsulated with sounds that resonate within your soul. With classical training on the keys and in music theory, she is able to utilize her understanding of key, emotion, and the power of sound to deliver musically dynamic and powerful performances.

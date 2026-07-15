@@ -1,6 +1,11 @@
 ---
-name: "Widow"
-imageURL: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2FA0563961-5F38-47DE-992B-A1178F429A6C.png?alt=media&token=0b30e0fb-cc1e-4be8-9565-f72da783fc37
+name: Widow
+images:
+- source:
+    url: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2FA0563961-5F38-47DE-992B-A1178F429A6C.png?alt=media&token=0b30e0fb-cc1e-4be8-9565-f72da783fc37
+  role: photo
+  renderKind: fullImage
+  materializationPolicy: lazy
 links: []
 ---
 From the depths of the Sunshine Coast’s mystic forests, Ryan Ryder, better known as Widow, has captivated listeners around the world with their uniquely sinister style of deep, spectral dubstep. 

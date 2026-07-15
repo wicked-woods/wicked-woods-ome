@@ -1,13 +1,24 @@
 ---
-name: "Funkin' Right"
-imageURL: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2FAB65D1A4-EAC9-4217-9AC5-AAAD08159208.png?alt=media&token=2d16291a-4756-4471-a321-1ced562db53f
+name: Funkin' Right
+images:
+- source:
+    url: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2FAB65D1A4-EAC9-4217-9AC5-AAAD08159208.png?alt=media&token=2d16291a-4756-4471-a321-1ced562db53f
+  role: photo
+  renderKind: fullImage
+  materializationPolicy: lazy
 links:
 - url: https://soundcloud.com/funkinright
+  platform: soundcloud
 - url: https://linktr.ee/FunkinRight
+  platform: website
 - url: https://open.spotify.com/artist/6X1oIHdbuZWxBw4GcOX6Kp?si=NAs6x_emTmGavtFd7L8JEw
+  platform: spotify
 - url: https://www.youtube.com/channel/UCb7KU9CZmftHKKzbtwaH5bg
+  platform: youtube
 - url: https://www.instagram.com/funkinright
+  platform: instagram
 - url: https://www.facebook.com/FunkinRightMusic
+  platform: facebook
 ---
 FunkinRight is all about fun and funky party music, and having a good time. 
 This Canadian funk slangin producer has released over 25 tracks since 2019, with support from labels like Breakbeat Paradise, Cuttin it Fine, Render Recordings, Twist of Time, Wildfire Recordings, and Vibe Raiders. His genre jumping DJ style paved the way for multi-genre production, where he continues to push the limits and make beats outside the box.

@@ -1,3 +1,3 @@
 ---
-name: "The Stitch Ripper"
+name: The Stitch Ripper
 ---

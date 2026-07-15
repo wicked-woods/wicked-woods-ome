@@ -1,6 +1,11 @@
 ---
-name: "Rumpus"
-imageURL: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2F969EBACB-349E-4CFE-AF3B-F0D59718366B.png?alt=media&token=c9c371f4-b997-437b-8636-97e993623a4b
+name: Rumpus
+images:
+- source:
+    url: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2F969EBACB-349E-4CFE-AF3B-F0D59718366B.png?alt=media&token=c9c371f4-b997-437b-8636-97e993623a4b
+  role: photo
+  renderKind: fullImage
+  materializationPolicy: lazy
 links: []
 ---
 RUMPUS is a self-taught musician, DJ, and music producer whose uniquely energetic performances are accented with live drumming that contribute to his raucous performances—a tendency toward commotion that earned him the moniker RUMPUS (meaning “a noisy disturbance”). Fusing tech house, bass house, and hints of funk, his distinctive style pulls elements from a diversity of genres, and there’s a wildly free, slightly global feel to his tracks. He’s released songs on Insomniac, Club Sweat, Hood Politics, Vibrancy, and Westwood Recordings, and played some of the world’s best music festivals, including Shambhala, Burning Man, Bass Coast and Lightning in a Bottle. With his 2019 hit single “Feel the Beat” racking up over 4.8 million Spotify streams since its release, Rumpus’ music has spread across the globe, capturing the pure sound of a good time.

@@ -1,3 +1,3 @@
 ---
-name: "Swaggacats"
+name: Swaggacats
 ---

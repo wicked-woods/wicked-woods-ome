@@ -1,4 +1,9 @@
 name: Aurora Gallery
-color: 0xFF1B02
+color: 16718594
 category: workshop
-iconImageURL: https://firebasestorage.googleapis.com/v0/b/festivl.appspot.com/o/wicked-woods-2025%2FAurora%20Gallery%20Transparent%20Branding%20Image.png?alt=media&token=73a7400c-b31e-4d06-855b-baac32d7c986
+images:
+- source:
+    url: https://firebasestorage.googleapis.com/v0/b/festivl.appspot.com/o/wicked-woods-2025%2FAurora%20Gallery%20Transparent%20Branding%20Image.png?alt=media&token=73a7400c-b31e-4d06-855b-baac32d7c986
+  role: logo
+  renderKind: transparent
+  materializationPolicy: prefetchOnOpen

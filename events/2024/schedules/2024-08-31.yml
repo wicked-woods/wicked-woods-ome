@@ -1,5 +1,51 @@
 date: '2024-08-31'
 performances:
+  ursus:
+  - title: Woofax
+    startTime: '15:00'
+    contributors:
+    - id: Woofax
+  - title: Tube Screamer
+    startTime: '16:30'
+    contributors:
+    - id: Tube Screamer
+  - title: Skreid
+    startTime: '17:30'
+    contributors:
+    - id: Skreid
+  - title: Rabbit Hole Records Crew
+    startTime: '18:30'
+    contributors:
+    - id: Rabbit Hole Records Crew
+  - title: Dragon Fli Empire
+    startTime: '20:00'
+    contributors:
+    - id: Dragon Fli Empire
+  - title: Def3
+    startTime: '21:00'
+    contributors:
+    - id: Def3
+  - title: Snotty Nose Rez Kids
+    startTime: '22:00'
+    contributors:
+    - id: Snotty Nose Rez Kids
+  - title: LONGWALKSHORTDOCK
+    startTime: '23:30'
+    contributors:
+    - id: LONGWALKSHORTDOCK
+  - title: Big Medicine
+    startTime: 01:00
+    contributors:
+    - id: Big Medicine
+  - title: Flim Flam
+    startTime: 02:00
+    contributors:
+    - id: Flim Flam
+  - title: Trip A
+    startTime: 03:00
+    endTime: 04:00
+    contributors:
+    - id: Trip A
   the-hallow:
   - title: Mr. Diggler
     startTime: '16:20'
@@ -30,28 +76,28 @@ performances:
     contributors:
     - id: Soup
   - title: Wuki
-    startTime: '00:00'
+    startTime: 00:00
     contributors:
     - id: Wuki
   - title: The Sponges
-    startTime: '01:30'
+    startTime: 01:30
     contributors:
     - id: The Sponges
   - title: Father Funk
-    startTime: '03:00'
+    startTime: 03:00
     contributors:
     - id: Father Funk
   - title: Thomas Anthony
-    startTime: '04:00'
+    startTime: 04:00
     contributors:
     - id: Thomas Anthony
   - title: I.M.Fast
-    startTime: '05:00'
+    startTime: 05:00
     contributors:
     - id: I.M.Fast
   - title: Neighbour
-    startTime: '06:00'
-    endTime: '08:00'
+    startTime: 06:00
+    endTime: 08:00
     contributors:
     - id: Neighbour
   the-portal:
@@ -88,68 +134,22 @@ performances:
     contributors:
     - id: ONHELL
   - title: Metafloor
-    startTime: '01:00'
+    startTime: 01:00
     contributors:
     - id: Metafloor
   - title: M4XW311
-    startTime: '02:00'
+    startTime: 02:00
     contributors:
     - id: M4XW311
   - title: MisfortuneCat
-    startTime: '03:00'
+    startTime: 03:00
     contributors:
     - id: 'MisfortuneCat '
   - title: Sub Chakra Takeover
-    startTime: '04:00'
-    endTime: '08:00'
+    startTime: 04:00
+    endTime: 08:00
     contributors:
     - id: Sub Chakra Takeover
-  ursus:
-  - title: Woofax
-    startTime: '15:00'
-    contributors:
-    - id: Woofax
-  - title: Tube Screamer
-    startTime: '16:30'
-    contributors:
-    - id: Tube Screamer
-  - title: Skreid
-    startTime: '17:30'
-    contributors:
-    - id: Skreid
-  - title: Rabbit Hole Records Crew
-    startTime: '18:30'
-    contributors:
-    - id: Rabbit Hole Records Crew
-  - title: Dragon Fli Empire
-    startTime: '20:00'
-    contributors:
-    - id: Dragon Fli Empire
-  - title: Def3
-    startTime: '21:00'
-    contributors:
-    - id: Def3
-  - title: Snotty Nose Rez Kids
-    startTime: '22:00'
-    contributors:
-    - id: Snotty Nose Rez Kids
-  - title: LONGWALKSHORTDOCK
-    startTime: '23:30'
-    contributors:
-    - id: LONGWALKSHORTDOCK
-  - title: Big Medicine
-    startTime: '01:00'
-    contributors:
-    - id: Big Medicine
-  - title: Flim Flam
-    startTime: '02:00'
-    contributors:
-    - id: Flim Flam
-  - title: Trip A
-    startTime: '03:00'
-    endTime: '04:00'
-    contributors:
-    - id: Trip A
   unicorn-lounge:
   - title: SHAH djs Showcase
     startTime: '14:00'
@@ -184,23 +184,23 @@ performances:
     contributors:
     - id: Psyops
   - title: Dj Hybrid
-    startTime: '00:30'
+    startTime: 00:30
     contributors:
     - id: Dj Hybrid
   - title: Siren
-    startTime: '02:00'
+    startTime: 02:00
     contributors:
     - id: Siren
   - title: Mat B & Ohm Girl
-    startTime: '03:30'
+    startTime: 03:30
     contributors:
     - id: Mat B & Ohm Girl
   - title: Bass Cat
-    startTime: '05:00'
+    startTime: 05:00
     contributors:
     - id: Bass Cat
   - title: Luna Deep
-    startTime: '06:00'
-    endTime: '07:00'
+    startTime: 06:00
+    endTime: 07:00
     contributors:
     - id: Luna Deep

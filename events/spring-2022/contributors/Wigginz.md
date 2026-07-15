@@ -1,3 +1,3 @@
 ---
-name: "Wigginz"
+name: Wigginz
 ---

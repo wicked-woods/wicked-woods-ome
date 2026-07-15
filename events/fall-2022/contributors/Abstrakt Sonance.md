@@ -1,6 +1,11 @@
 ---
-name: "Abstrakt Sonance"
-imageURL: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2F5B1AF672-822D-4706-A986-44D26A4AC4F4.png?alt=media&token=f69cff7c-28f3-4ffa-ad06-ea72bd3b7658
+name: Abstrakt Sonance
+images:
+- source:
+    url: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2F5B1AF672-822D-4706-A986-44D26A4AC4F4.png?alt=media&token=f69cff7c-28f3-4ffa-ad06-ea72bd3b7658
+  role: photo
+  renderKind: fullImage
+  materializationPolicy: lazy
 links: []
 ---
 A sound design enthusiast, Abstrakt Sonance is a passionate and boundary pushing producer. This shows greatly in his unique, energetic stage show, that cannot be compared on this planet. Touring 4 continents consistantly, sets ever evolving, never even close to the same. With an array of raw energy and emotion, he manages to express deep emotion in his tunes while still delivering raw and powerful bass lines that have been moving dance floors throughout the globe. The impact of Abstrakt Sonance's music has grown exponentially and his tracks can be found in the crates of underground selectors and international headliners alike. Receiving consistent support from dons across the sound spectrum, like Mala, Hatcha, to Downlink and P0gman. In the past couple years he has also headlined top calibre festivals such as Shambhala, Outlook, Bass Coast, Motion Notion, Evolve, Future Forest, and many more.

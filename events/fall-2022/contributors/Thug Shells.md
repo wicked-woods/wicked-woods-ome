@@ -1,6 +1,11 @@
 ---
-name: "Thug Shells"
-imageURL: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2F99A46F8F-3C5A-449E-972B-3E382A44B3EE.png?alt=media&token=755e1dea-0566-4e9f-9915-0742186eef8a
+name: Thug Shells
+images:
+- source:
+    url: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2F99A46F8F-3C5A-449E-972B-3E382A44B3EE.png?alt=media&token=755e1dea-0566-4e9f-9915-0742186eef8a
+  role: photo
+  renderKind: fullImage
+  materializationPolicy: lazy
 links: []
 ---
 Rapper & DJ Thug Shells is the pocket sized self described 'Bubbly Gangster'. With

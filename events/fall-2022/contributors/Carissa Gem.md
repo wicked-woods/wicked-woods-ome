@@ -1,6 +1,11 @@
 ---
-name: "Carissa Gem"
-imageURL: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2F50107DD6-4D4D-4CAE-A179-C8647424C78F.png?alt=media&token=2f49d6fc-f5dc-4bab-af4f-5af18ee23590
+name: Carissa Gem
+images:
+- source:
+    url: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2F50107DD6-4D4D-4CAE-A179-C8647424C78F.png?alt=media&token=2f49d6fc-f5dc-4bab-af4f-5af18ee23590
+  role: photo
+  renderKind: fullImage
+  materializationPolicy: lazy
 links: []
 ---
 Chances are if you’ve spent anytime in the festival scene in western Canada, this next artist needs no introduction. Carissa Gem, a BC native who literally grew up inside the rave, having been filling dance floors since before she was old enough to drive. 

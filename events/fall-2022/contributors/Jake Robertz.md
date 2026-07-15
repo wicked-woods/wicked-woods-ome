@@ -1,6 +1,11 @@
 ---
-name: "Jake Robertz"
-imageURL: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2FF936AD82-458A-4E1E-B3B0-B4762E3D7AED.png?alt=media&token=ded1c7cb-3203-4bee-b4ca-69d2c61cf0fe
+name: Jake Robertz
+images:
+- source:
+    url: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2FF936AD82-458A-4E1E-B3B0-B4762E3D7AED.png?alt=media&token=ded1c7cb-3203-4bee-b4ca-69d2c61cf0fe
+  role: photo
+  renderKind: fullImage
+  materializationPolicy: lazy
 links: []
 ---
 Whether Jake is writing music or designing a performance, he has one goal: to

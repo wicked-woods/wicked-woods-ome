@@ -1,6 +1,11 @@
 ---
-name: "Ben Fox"
-imageURL: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2F0514CA1E-0DDD-4BD9-B679-7A65C1DA94FB.png?alt=media&token=a5fc83cf-f3b2-47ed-83e4-b453c7d68d20
+name: Ben Fox
+images:
+- source:
+    url: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2F0514CA1E-0DDD-4BD9-B679-7A65C1DA94FB.png?alt=media&token=a5fc83cf-f3b2-47ed-83e4-b453c7d68d20
+  role: photo
+  renderKind: fullImage
+  materializationPolicy: lazy
 links: []
 ---
 House music gets me moving...

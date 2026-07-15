@@ -1,3 +1,3 @@
 ---
-name: "Latter Day Saint"
+name: Latter Day Saint
 ---

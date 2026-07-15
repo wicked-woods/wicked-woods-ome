@@ -1,3 +1,3 @@
 ---
-name: "The Author"
+name: The Author
 ---

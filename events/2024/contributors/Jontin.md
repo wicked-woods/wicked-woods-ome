@@ -1,9 +1,16 @@
 ---
-name: "Jontin"
-imageURL: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2F799C27C6-0530-4E78-8DC9-85B77476E89E.png?alt=media&token=31323db4-91d1-4556-859b-396ae37d2dc7
+name: Jontin
+images:
+- source:
+    url: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2F799C27C6-0530-4E78-8DC9-85B77476E89E.png?alt=media&token=31323db4-91d1-4556-859b-396ae37d2dc7
+  role: photo
+  renderKind: fullImage
+  materializationPolicy: lazy
 links:
 - url: https://soundcloud.com/jontin1
+  platform: soundcloud
 - url: https://www.instagram.com/jontin.music/
+  platform: instagram
 ---
 JONTIN - newfie noun  Jonathon  Origin: Newfoundland pronunciation JON-TIN   
 If you've seen him play before... then you know what’s up! This guy’s ability to read the floor, create the mood and resonate his good vibe & high energy presence… it’s the Jontin effect!!!   

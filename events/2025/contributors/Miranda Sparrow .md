@@ -1,8 +1,16 @@
 ---
-name: "Miranda Sparrow "
-imageURL: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/MirandaSparrow.jpg
-logoURL: https://wickedwoods.festivalpro.com/?getFile&FILEID=37241
-kind: "Dance Performance"
+name: 'Miranda Sparrow '
+images:
+- source:
+    url: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/MirandaSparrow.jpg
+  role: photo
+  renderKind: fullImage
+  materializationPolicy: lazy
+- source:
+    url: https://wickedwoods.festivalpro.com/?getFile&FILEID=37241
+  role: logo
+  renderKind: transparent
+  materializationPolicy: lazy
 links: []
 ---
 I’ve been a part of the rave community since 1993, where my love for dance first lit a fire in me. In 2016, I joined Lagouge and brought that passion to the stage with a beautiful team of performers. Since then, I’ve been honoured to dance at festivals across Canada and beyond, including Shambhala, Vibrant, Astral Harvest, Fozzy Fest, Crystal Bowl, Paradise, LEMF, WOMP, Wind Down, Friendzy Fest, Bamboo Bass in Costa Rica, and my home festival — Wicked Woods.

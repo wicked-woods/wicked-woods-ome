@@ -1,3 +1,3 @@
 ---
-name: "J-Reds"
+name: J-Reds
 ---

@@ -1,10 +1,18 @@
 ---
-name: "Ninjette"
-imageURL: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2F7266083E-89D2-42FE-A00E-1BA3DFD8D03C.png?alt=media&token=321a3993-5971-4cd3-8bd4-73b43d4b032e
+name: Ninjette
+images:
+- source:
+    url: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2F7266083E-89D2-42FE-A00E-1BA3DFD8D03C.png?alt=media&token=321a3993-5971-4cd3-8bd4-73b43d4b032e
+  role: photo
+  renderKind: fullImage
+  materializationPolicy: lazy
 links:
 - url: https://soundcloud.com/ninjette
+  platform: soundcloud
 - url: https://www.instagram.com/djninjette/
+  platform: instagram
 - url: https://www.facebook.com/DJNinjette
+  platform: facebook
 ---
 [Wicked Woods :: Vibrant :: FozzyFest :: DNB Girls]
 

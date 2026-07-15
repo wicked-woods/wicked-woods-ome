@@ -1,6 +1,11 @@
 ---
-name: "Hoola"
-imageURL: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2F7EAD4D72-2CB5-44E5-A47F-C660C4EBFBF6.png?alt=media&token=f1ad7497-d4d3-40a9-837c-02066e301a3e
+name: Hoola
+images:
+- source:
+    url: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2F7EAD4D72-2CB5-44E5-A47F-C660C4EBFBF6.png?alt=media&token=f1ad7497-d4d3-40a9-837c-02066e301a3e
+  role: photo
+  renderKind: fullImage
+  materializationPolicy: lazy
 links: []
 ---
 Hoola is a funk disco house vinyl enthusiast & pioneer of the underground electronic subculture of the Kootenays. He has legendary status as being a long-time Director of the Living Room Stage at Shambhala Music Festival as well as deep roots and pivotal in the early days of curating the festival.

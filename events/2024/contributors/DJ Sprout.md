@@ -1,12 +1,22 @@
 ---
-name: "DJ Sprout"
-imageURL: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2FD073390A-4F59-4561-A5AF-9AED2658CF6D.png?alt=media&token=c720bf17-c3c3-44cf-a29c-dbc39d345c4e
+name: DJ Sprout
+images:
+- source:
+    url: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2FD073390A-4F59-4561-A5AF-9AED2658CF6D.png?alt=media&token=c720bf17-c3c3-44cf-a29c-dbc39d345c4e
+  role: photo
+  renderKind: fullImage
+  materializationPolicy: lazy
 links:
 - url: https://soundcloud.com/djsprout
+  platform: soundcloud
 - url: https://www.djsprout.com/
+  platform: website
 - url: https://open.spotify.com/user/tammrabroughton/playlists
+  platform: spotify
 - url: https://www.instagram.com/djsprout
+  platform: instagram
 - url: https://www.facebook.com/djsprouT/
+  platform: facebook
 ---
 sprouT began her professional DJ  journey in Golden, BC, in 1998. The rest, as they say, is herstory...
 Hailing from Vancouver Island's Comox Valley, dj sprouT commands both the decks and the mic with an energetic passion on which dancers thrive.  

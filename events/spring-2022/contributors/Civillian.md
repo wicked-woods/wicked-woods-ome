@@ -1,3 +1,3 @@
 ---
-name: "Civillian"
+name: Civillian
 ---

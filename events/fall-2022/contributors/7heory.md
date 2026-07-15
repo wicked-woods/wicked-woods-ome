@@ -1,3 +1,3 @@
 ---
-name: "7heory"
+name: 7heory
 ---

@@ -1,3 +1,3 @@
 ---
-name: "Tate & Dallas"
+name: Tate & Dallas
 ---

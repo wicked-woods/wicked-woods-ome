@@ -1,8 +1,14 @@
 ---
-name: "Handsome Tiger"
-imageURL: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2F454D4CCC-ADE1-4644-843D-4799C4A39963.png?alt=media&token=68e8ae62-f202-4943-b131-4de21b3caa6f
+name: Handsome Tiger
+images:
+- source:
+    url: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2F454D4CCC-ADE1-4644-843D-4799C4A39963.png?alt=media&token=68e8ae62-f202-4943-b131-4de21b3caa6f
+  role: photo
+  renderKind: fullImage
+  materializationPolicy: lazy
 links:
 - url: https://soundcloud.com/handsometiger
+  platform: soundcloud
 ---
 Handsome Tiger is an Anishinaabe Métis, North African music producer/dj from
 Turtle Island, born and residing in Vancouver BC.
