@@ -1,8 +1,14 @@
 ---
-name: "Jake Robertz"
-imageURL: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2F42ECA9C9-6593-4337-9107-FECE0FAF21A3.png?alt=media&token=be160bc1-d504-4660-a299-98939d714f84
+name: Jake Robertz
+images:
+- source:
+    url: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2F42ECA9C9-6593-4337-9107-FECE0FAF21A3.png?alt=media&token=be160bc1-d504-4660-a299-98939d714f84
+  role: photo
+  renderKind: fullImage
+  materializationPolicy: lazy
 links:
 - url: https://soundcloud.com/jake-robertz
+  platform: soundcloud
 ---
 Whether Jake is writing music or designing a performance, he has one goal: to
 transport listeners through a journey of various tempos, styles, and emotions of

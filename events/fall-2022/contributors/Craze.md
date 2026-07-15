@@ -1,3 +1,3 @@
 ---
-name: "Craze"
+name: Craze
 ---

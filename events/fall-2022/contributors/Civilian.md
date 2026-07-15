@@ -1,6 +1,11 @@
 ---
-name: "Civilian"
-imageURL: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2F1AC8138F-ECF8-49FD-8D77-89A1AF6B07E6.png?alt=media&token=5feeafa5-e652-4abc-bdae-7ac34a0bb30c
+name: Civilian
+images:
+- source:
+    url: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2F1AC8138F-ECF8-49FD-8D77-89A1AF6B07E6.png?alt=media&token=5feeafa5-e652-4abc-bdae-7ac34a0bb30c
+  role: photo
+  renderKind: fullImage
+  materializationPolicy: lazy
 links: []
 ---
 Civillian is a DJ of the people. After cementing his reputation as one half of the A/V space trap/halftime duo Gangstronauts, he now has both hands planted firmly on the decks and his ear to the street. He has roots in classic rock and golden era hip-hop that quickly evolved into a deep seated love for bass music. Moving to Vancouver from his hometown of Toronto and being exposed to the sound system culture in B.C. was a huge catalyst for this change. From there his interests shifted heavily towards all spectrums of dance music, from house to jungle and everything in between.

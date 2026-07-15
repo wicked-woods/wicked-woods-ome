@@ -1,3 +1,3 @@
 ---
-name: "Dirty-D"
+name: Dirty-D
 ---

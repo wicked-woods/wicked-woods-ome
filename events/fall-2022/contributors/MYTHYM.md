@@ -1,6 +1,11 @@
 ---
-name: "MYTHYM"
-imageURL: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2F69CD8783-3B69-4583-A53D-A66D30BC43DE.png?alt=media&token=968e85d4-a293-4885-9055-a087bbe57b67
+name: MYTHYM
+images:
+- source:
+    url: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2F69CD8783-3B69-4583-A53D-A66D30BC43DE.png?alt=media&token=968e85d4-a293-4885-9055-a087bbe57b67
+  role: photo
+  renderKind: fullImage
+  materializationPolicy: lazy
 links: []
 ---
 Michael Miele or better known as MYTHM, is an experimental bass and Dubstep music producer hailing from Vancouver, Canada who has quickly become a rising talent within the electronic music scene. Taking inspiration from genres: Dubstep, Grime, Drum and Bass, Hip-hop and more, the Canadian artist has helped fortify the growth of bass music and Dubstep with his forward thinking productions since the inception of his project in 2019. 

@@ -1,3 +1,3 @@
 ---
-name: "Bass Cat"
+name: Bass Cat
 ---

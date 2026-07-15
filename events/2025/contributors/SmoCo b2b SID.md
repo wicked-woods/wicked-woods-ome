@@ -1,14 +1,16 @@
 ---
-name: "SmoCo b2b SID"
-imageURL: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/SmoCobbSID.JPEG
-kind: "Live Performance"
+name: SmoCo b2b SID
+images:
+- source:
+    url: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/SmoCobbSID.JPEG
+  role: photo
+  renderKind: fullImage
+  materializationPolicy: lazy
 links:
 - url: https://soundcloud.com/sidofficial%20and%20https://soundcloud.com/smolcoconut
-  linkType:
-    label: soundcloud
+  platform: soundcloud
 - url: '@sidmerkel%20and%20@smolcoconut_'
-  linkType:
-    label: instagram
+  platform: website
 ---
 SID and SmoCo are two absolute forces in the local electronic music scene. 
 

@@ -1,9 +1,16 @@
 ---
-name: "Longwalkshortdock"
-imageURL: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2F25FEE87F-DA49-4847-8C46-799F11C92FBF.png?alt=media&token=bb5ae1ba-1787-4f8e-beeb-5cda3ab72f0c
+name: Longwalkshortdock
+images:
+- source:
+    url: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2F25FEE87F-DA49-4847-8C46-799F11C92FBF.png?alt=media&token=bb5ae1ba-1787-4f8e-beeb-5cda3ab72f0c
+  role: photo
+  renderKind: fullImage
+  materializationPolicy: lazy
 links:
 - url: https://soundcloud.com/longwalkshortdock
+  platform: soundcloud
 - url: https://open.spotify.com/artist/7idfp6RvpPr27LCuM7juVq?autoplay=true
+  platform: spotify
 ---
 Longwalkshortdock essentially started the first time Dave King heard gritty electronic music in early eighties video games. Strongly influenced by these sounds and melodies, Dave started recording and looping segments as a child. He also got a taste for sampling and recording; taping segments of his piano practice to fool his parents into thinking he was practicing in the other room when he was really playing nintendo. Currently, a veteran of sound design and electronic music production for well over a decade, Longwalkshortdock's music has stepped into a genre of its own. Heavily influenced by early 80s video game music, metal and rock music, found-sound and vintage analog synthesis, he stacks layers of melody in his tracks until they implode and reform. Heavy drums and aggressive synths join forces with rolling grooves and melodic lead lines to create a wide variety of slamming dance floor originals. 
 

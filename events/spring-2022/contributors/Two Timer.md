@@ -1,3 +1,3 @@
 ---
-name: "Two Timer"
+name: Two Timer
 ---

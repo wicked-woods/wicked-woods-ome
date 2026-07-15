@@ -1,3 +1,3 @@
 ---
-name: "Dakota Bear"
+name: Dakota Bear
 ---

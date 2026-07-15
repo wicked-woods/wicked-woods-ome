@@ -1,5 +1,6 @@
 ---
-name: "Smol"
+name: Smol
 links:
 - url: https://soundcloud.com/smolbeats
+  platform: soundcloud
 ---

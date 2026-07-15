@@ -1,6 +1,11 @@
 ---
-name: "Sivz"
-imageURL: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2FEC36E6CC-C2B3-46C2-B96D-07F0D952945C.png?alt=media&token=8aaa043e-c0bb-4968-a782-c2bdf3c2d96b
+name: Sivz
+images:
+- source:
+    url: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2FEC36E6CC-C2B3-46C2-B96D-07F0D952945C.png?alt=media&token=8aaa043e-c0bb-4968-a782-c2bdf3c2d96b
+  role: photo
+  renderKind: fullImage
+  materializationPolicy: lazy
 links: []
 ---
 Sivz is an artist born out of relentless hard work and true passion for the party. Using catchy lyric writing, intricate percussion, simple basslines, and dominant vocals as her ultimate tools for expression, her releases on labels like Monstercat, Force of Habit, Westwood X, NV’D and DeepNHeat have received massive responses from her dedicated fan base, repetitively landing her records in Beatport’s Top 100 house charts while gaining support from industry players like Gene Farris, Nicky Romero, Smalltown DJs and Destructo.

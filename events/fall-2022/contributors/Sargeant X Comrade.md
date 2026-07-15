@@ -1,6 +1,11 @@
 ---
-name: "Sargeant X Comrade"
-imageURL: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2F776019AC-6716-4969-B5EE-A3E091F83FB2.png?alt=media&token=869a5766-598f-45b5-bc04-b9d4f0927c3f
+name: Sargeant X Comrade
+images:
+- source:
+    url: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2F776019AC-6716-4969-B5EE-A3E091F83FB2.png?alt=media&token=869a5766-598f-45b5-bc04-b9d4f0927c3f
+  role: photo
+  renderKind: fullImage
+  materializationPolicy: lazy
 links: []
 ---
 Yolanda Sargeant is the Queen of Lo-Fi Soul. A genre that she and her producer Comrade (Evgeniy)

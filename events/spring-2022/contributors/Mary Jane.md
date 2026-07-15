@@ -1,3 +1,3 @@
 ---
-name: "Mary Jane"
+name: Mary Jane
 ---

@@ -3,158 +3,158 @@ performances:
   ursus:
   - title: Lazy Syup Orchestra
     startTime: '15:00'
-    contributorIDs:
-    - Lazy Syup Orchestra
+    contributors:
+    - id: Lazy Syup Orchestra
   - title: 'Dirty Mits Mama ft. 14 Flamingos '
     startTime: '16:30'
     endTime: '17:30'
-    contributorIDs:
-    - 'Dirty Mits Mama ft. 14 Flamingos '
+    contributors:
+    - id: 'Dirty Mits Mama ft. 14 Flamingos '
   - title: Thugshells, Newman, Trooknot, Rubix, Fallen Wall & The W.O.K.E
     startTime: '18:30'
     endTime: '20:30'
-    contributorIDs:
-    - Thugshells
-    - Newman
-    - Trooknot
-    - Rubix
-    - Fallen Wall
-    - The W.O.K.E
+    contributors:
+    - id: Thugshells
+    - id: Newman
+    - id: Trooknot
+    - id: Rubix
+    - id: Fallen Wall
+    - id: The W.O.K.E
   - title: Jodie B
     startTime: '21:15'
-    contributorIDs:
-    - Jodie B
+    contributors:
+    - id: Jodie B
   - title: Manteasah
     startTime: '21:45'
     endTime: '22:45'
-    contributorIDs:
-    - Manteasah
+    contributors:
+    - id: Manteasah
   - title: Drezus
     startTime: '23:00'
-    endTime: '00:00'
-    contributorIDs:
-    - Drezus
-  the-hallow:
-  - title: Universal Fallout
-    startTime: '14:00'
-    contributorIDs:
-    - Universal Fallout
-  - title: Lefy
-    startTime: '15:00'
-    contributorIDs:
-    - Lefy
-  - title: Trevor Galore
-    startTime: '16:00'
-    contributorIDs:
-    - Trevor Galore
-  - title: Mihajic Touch
-    startTime: '17:30'
-    contributorIDs:
-    - Mihajic Touch
-  - title: Jon Delerious
-    startTime: '18:30'
-    contributorIDs:
-    - Jon Delerious
-  - title: Esette
-    startTime: '19:30'
-    contributorIDs:
-    - Esette
-  - title: Naturalist
-    startTime: '20:30'
-    contributorIDs:
-    - Naturalist
-  - title: Jessu & Pyka
-    startTime: '21:30'
-    contributorIDs:
-    - Jessu & Pyka
-  - title: Smalltown DJs
-    startTime: '22:30'
-    contributorIDs:
-    - Smalltown DJs
-  - title: The Funk Hunters
-    startTime: '00:00'
-    contributorIDs:
-    - The Funk Hunters
-  - title: Neon Steve
-    startTime: '01:30'
-    contributorIDs:
-    - Neon Steve
-  - title: Aspen King
-    startTime: '02:30'
-    contributorIDs:
-    - Aspen King
-  - title: SOUP
-    startTime: '03:30'
-    contributorIDs:
-    - SOUP
-  - title: Deblock
-    startTime: '04:30'
-    contributorIDs:
-    - Deblock
-  - title: Mr. Digger
-    startTime: '05:30'
-    contributorIDs:
-    - Mr. Digger
-  - title: Neighbor
-    startTime: '06:30'
-    endTime: '08:30'
-    contributorIDs:
-    - Neighbor
+    endTime: 00:00
+    contributors:
+    - id: Drezus
   unicorn-lounge:
   - title: Djenerate, Guru, Logo, Mary Jane, Strange Manner, Swayze, Wadjit & Yontzie
     startTime: '12:00'
-    contributorIDs:
-    - Djenerate
-    - Guru
-    - Logo
-    - Mary Jane
-    - Strange Manner
-    - Swayze
-    - Wadjit
-    - Yontzie
+    contributors:
+    - id: Djenerate
+    - id: Guru
+    - id: Logo
+    - id: Mary Jane
+    - id: Strange Manner
+    - id: Swayze
+    - id: Wadjit
+    - id: Yontzie
   - title: Bass Cat, Distinct, Droplet, Kid-Dee, Mittz & Miss Fudge
     startTime: '17:30'
-    contributorIDs:
-    - Bass Cat
-    - Distinct
-    - Droplet
-    - Kid-Dee
-    - Mittz
-    - Miss Fudge
+    contributors:
+    - id: Bass Cat
+    - id: Distinct
+    - id: Droplet
+    - id: Kid-Dee
+    - id: Mittz
+    - id: Miss Fudge
   - title: Akela
     startTime: '20:30'
-    contributorIDs:
-    - Akela
+    contributors:
+    - id: Akela
   - title: Mt Doyle & Philly
     startTime: '21:30'
-    contributorIDs:
-    - Mt Doyle & Philly
+    contributors:
+    - id: Mt Doyle & Philly
   - title: Willisist
     startTime: '22:30'
-    contributorIDs:
-    - Willisist
+    contributors:
+    - id: Willisist
   - title: Jake Robertz
     startTime: '23:30'
-    contributorIDs:
-    - Jake Robertz
+    contributors:
+    - id: Jake Robertz
   - title: Kytami and Phonik Ops
-    startTime: '00:30'
-    contributorIDs:
-    - Kytami and Phonik Ops
+    startTime: 00:30
+    contributors:
+    - id: Kytami and Phonik Ops
   - title: Diligent
-    startTime: '02:00'
-    contributorIDs:
-    - Diligent
+    startTime: 02:00
+    contributors:
+    - id: Diligent
   - title: Mat B & Ohm Girl
-    startTime: '03:00'
-    contributorIDs:
-    - Mat B
-    - Ohm Girl
+    startTime: 03:00
+    contributors:
+    - id: Mat B
+    - id: Ohm Girl
   - title: Alan Flava, E-Lev-8, Killups & Wigginz
-    startTime: '04:30'
-    endTime: '08:00'
-    contributorIDs:
-    - Alan Flava
-    - E-Lev-8
-    - Killups
-    - Wigginz
+    startTime: 04:30
+    endTime: 08:00
+    contributors:
+    - id: Alan Flava
+    - id: E-Lev-8
+    - id: Killups
+    - id: Wigginz
+  the-hallow:
+  - title: Universal Fallout
+    startTime: '14:00'
+    contributors:
+    - id: Universal Fallout
+  - title: Lefy
+    startTime: '15:00'
+    contributors:
+    - id: Lefy
+  - title: Trevor Galore
+    startTime: '16:00'
+    contributors:
+    - id: Trevor Galore
+  - title: Mihajic Touch
+    startTime: '17:30'
+    contributors:
+    - id: Mihajic Touch
+  - title: Jon Delerious
+    startTime: '18:30'
+    contributors:
+    - id: Jon Delerious
+  - title: Esette
+    startTime: '19:30'
+    contributors:
+    - id: Esette
+  - title: Naturalist
+    startTime: '20:30'
+    contributors:
+    - id: Naturalist
+  - title: Jessu & Pyka
+    startTime: '21:30'
+    contributors:
+    - id: Jessu & Pyka
+  - title: Smalltown DJs
+    startTime: '22:30'
+    contributors:
+    - id: Smalltown DJs
+  - title: The Funk Hunters
+    startTime: 00:00
+    contributors:
+    - id: The Funk Hunters
+  - title: Neon Steve
+    startTime: 01:30
+    contributors:
+    - id: Neon Steve
+  - title: Aspen King
+    startTime: 02:30
+    contributors:
+    - id: Aspen King
+  - title: SOUP
+    startTime: 03:30
+    contributors:
+    - id: SOUP
+  - title: Deblock
+    startTime: 04:30
+    contributors:
+    - id: Deblock
+  - title: Mr. Digger
+    startTime: 05:30
+    contributors:
+    - id: Mr. Digger
+  - title: Neighbor
+    startTime: 06:30
+    endTime: 08:30
+    contributors:
+    - id: Neighbor

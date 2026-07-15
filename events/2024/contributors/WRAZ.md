@@ -1,9 +1,16 @@
 ---
-name: "WRAZ"
-imageURL: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2F36883B0C-CA6D-415C-90D7-8CECA99584DE.png?alt=media&token=47d1f9e7-dcbb-43dc-bb7e-b2cf0996db3c
+name: WRAZ
+images:
+- source:
+    url: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2F36883B0C-CA6D-415C-90D7-8CECA99584DE.png?alt=media&token=47d1f9e7-dcbb-43dc-bb7e-b2cf0996db3c
+  role: photo
+  renderKind: fullImage
+  materializationPolicy: lazy
 links:
 - url: https://open.spotify.com/artist/67b5TsLqAzMdmtWZCy2k7D?si=dDJ_LZATQmGNE2woT26N8g
+  platform: spotify
 - url: https://www.youtube.com/@WrazDubs
+  platform: youtube
 ---
 Wraz is a Canadian producer & DJ from the Montreal area in QC. His sound goes into the deep & dark side of Dubstep, Grime, Drum & Bass and Halftime, with fat analog synths, mythical melodies and unstoppable flow on the drums. With releases on Deep Dark & Dangerous, Artikal Music, 4NCY/Darkmode, Duploc, and other labels across the globe, he's been very consistently pumping out new music, his tunes bringing the energy to the dancefloor and going in harmony with the sound system. Get ready for some heat!
 Wraz has been making a lot of waves all over North-America and even in the UK recently, with shows in London, Bristol, Los Angeles, Denver, Minneapolis, Miami, New York, Montreal, Chicago, Vancouver, Toronto & more. His collaborations with many UK rappers and MCs (PAV4N, Strategy, Snowy, Fugzii, Magugu, Illaman) shows the link between his style and the UK dubstep/140 scene, making a perfect blend with his sound. All of his releases have been making a big impact in the Dubstep scene, being played and supported by the likes of Mala, Coki, GWN, Caspa, Boogie T, JKenzo and many more people repping the Wraz sound.

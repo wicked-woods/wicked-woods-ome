@@ -1,3 +1,3 @@
 ---
-name: "Lefy"
+name: Lefy
 ---

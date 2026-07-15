@@ -1,3 +1,3 @@
 ---
-name: "Miss Chief Rocka"
+name: Miss Chief Rocka
 ---

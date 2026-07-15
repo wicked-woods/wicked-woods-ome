@@ -1,11 +1,20 @@
 ---
-name: "OAKK"
-imageURL: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2F39E18BA5-0068-4489-8FEF-B050C0DAE182.png?alt=media&token=c03c5c85-ae70-4974-b881-923249f943d0
+name: OAKK
+images:
+- source:
+    url: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2F39E18BA5-0068-4489-8FEF-B050C0DAE182.png?alt=media&token=c03c5c85-ae70-4974-b881-923249f943d0
+  role: photo
+  renderKind: fullImage
+  materializationPolicy: lazy
 links:
 - url: https://soundcloud.com/oakkmusic
+  platform: soundcloud
 - url: https://open.spotify.com/artist/5Fxhpw4yw2CH0k6q3b4q0y?si=sh9xPhaYSn-3WfRMiZbbkA
+  platform: spotify
 - url: https://www.instagram.com/oakkmusic/
+  platform: instagram
 - url: https://www.facebook.com/oakkmusic
+  platform: facebook
 ---
 OAKK produces dynamic, eclectic, and infectious bass music that is impossible to resist. His high energy DJ sets display his commitment to diversity and flow, while telling a cohesive story that covers a vast musical range and is nothing short of striking.
 

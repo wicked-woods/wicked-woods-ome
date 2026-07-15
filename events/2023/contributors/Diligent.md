@@ -1,3 +1,3 @@
 ---
-name: "Diligent"
+name: Diligent
 ---

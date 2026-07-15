@@ -1,10 +1,18 @@
 ---
-name: "The Funk Hunters"
-imageURL: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2F14A3A3F9-E509-4C5C-B6B0-C96EB04A25D9.png?alt=media&token=70f104e0-7ff9-45be-a538-ead43d21505c
+name: The Funk Hunters
+images:
+- source:
+    url: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2F14A3A3F9-E509-4C5C-B6B0-C96EB04A25D9.png?alt=media&token=70f104e0-7ff9-45be-a538-ead43d21505c
+  role: photo
+  renderKind: fullImage
+  materializationPolicy: lazy
 links:
 - url: https://soundcloud.com/THEFUNKHUNTERS
+  platform: soundcloud
 - url: https://thefunkhunters.com/
+  platform: website
 - url: https://open.spotify.com/artist/5xwd7lKJeb2opUvYZnXFut?autoplay=true
+  platform: spotify
 ---
 In a sea of carbon-copy producers, The Funk Hunters have cultivated their signature sound by creating forward-thinking electronic music that is influenced by old school funk, soul and hip-hop.
 

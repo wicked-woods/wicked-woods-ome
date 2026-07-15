@@ -1,17 +1,22 @@
 ---
-name: "J.F. Killah"
-imageURL: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/JFKillah.jpg
-logoURL: https://wickedwoods.festivalpro.com/?getFile&FILEID=31379
-kind: "Live Performance"
+name: J.F. Killah
+images:
+- source:
+    url: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/JFKillah.jpg
+  role: photo
+  renderKind: fullImage
+  materializationPolicy: lazy
+- source:
+    url: https://wickedwoods.festivalpro.com/?getFile&FILEID=31379
+  role: logo
+  renderKind: transparent
+  materializationPolicy: lazy
 links:
 - url: https://soundcloud.com/jfkillah
-  linkType:
-    label: soundcloud
+  platform: soundcloud
 - url: https://www.facebook.com/jfkillah
-  linkType:
-    label: facebook
+  platform: facebook
 - url: https://www.instagram.com/jfkillah
-  linkType:
-    label: instagram
+  platform: instagram
 ---
 With a love for the underground and an affinity for deep, dark, grimy basslines, J.F.Killah has a passion for engaging dance floors worldwide. She has graced the decks in Canada, Europe, New Zealand, United States, Central America, and performed at several festivals including Shambhala, Bass Coast, Electric Love, Rifflandia, and Bamboo. Her junglist roots play a key role in her sets but expect a variety of genres depending on the time and place. On the decks since 2005, she has acquired an arsenal of beats and is armed to destroy any dance floor. With classical training on the keys and in music theory, she is able to utilize her understanding of key, emotion, and the power of sound to deliver musically dynamic and powerful performances. Get ready for murdah because the Killah slays it every time!

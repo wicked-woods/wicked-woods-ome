@@ -1,3 +1,3 @@
 ---
-name: "Skobe"
+name: Skobe
 ---

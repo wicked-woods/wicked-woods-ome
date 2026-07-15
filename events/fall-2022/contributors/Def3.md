@@ -1,6 +1,11 @@
 ---
-name: "Def3"
-imageURL: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2FFD334A02-9565-4895-B7D8-27F45D883AEF.png?alt=media&token=fd73775c-7e63-4beb-931f-1d18235b93bf
+name: Def3
+images:
+- source:
+    url: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2FFD334A02-9565-4895-B7D8-27F45D883AEF.png?alt=media&token=fd73775c-7e63-4beb-931f-1d18235b93bf
+  role: photo
+  renderKind: fullImage
+  materializationPolicy: lazy
 links: []
 ---
 Award Winning artist, Def3 has been actively performing since 2003 His sound is a fusion of hip-hop and electronic, influenced by his heritage, childhood growing up on a ship and from skateboarding & graffiti cultures.

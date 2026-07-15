@@ -1,8 +1,14 @@
 ---
-name: "Tube Screamer"
-imageURL: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2FC053CBED-07BA-4683-8A19-C54E7F59F65C.png?alt=media&token=c4d7af8d-1514-4f1b-a6d9-dae478e7495d
+name: Tube Screamer
+images:
+- source:
+    url: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2FC053CBED-07BA-4683-8A19-C54E7F59F65C.png?alt=media&token=c4d7af8d-1514-4f1b-a6d9-dae478e7495d
+  role: photo
+  renderKind: fullImage
+  materializationPolicy: lazy
 links:
 - url: https://open.spotify.com/artist/3L2jJMVxQJzgVFEjYzLwOp?si=8cMzI77CQAKgKNfAUmcM3g
+  platform: spotify
 ---
 You’ll find Tube Screamer where the line between Metal and electronic music fades. For years bands like NIN and Pendulum have dabbled in the 2 styles but there has not been anything quiet like this show before. 
 

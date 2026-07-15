@@ -1,3 +1,3 @@
 ---
-name: "Pete Wilde"
+name: Pete Wilde
 ---

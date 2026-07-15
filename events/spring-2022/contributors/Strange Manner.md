@@ -1,3 +1,3 @@
 ---
-name: "Strange Manner"
+name: Strange Manner
 ---

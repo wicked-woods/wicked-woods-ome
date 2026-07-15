@@ -1,9 +1,16 @@
 ---
-name: "Brick Haus"
-imageURL: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2FAF4E2239-1FD9-4B8C-BFC9-E720C74032CC.png?alt=media&token=afc26ae3-a1c4-4592-a1ea-353c6091d1ee
+name: Brick Haus
+images:
+- source:
+    url: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2FAF4E2239-1FD9-4B8C-BFC9-E720C74032CC.png?alt=media&token=afc26ae3-a1c4-4592-a1ea-353c6091d1ee
+  role: photo
+  renderKind: fullImage
+  materializationPolicy: lazy
 links:
 - url: https://on.soundcloud.com/poHDV
+  platform: soundcloud
 - url: https://on.soundcloud.com/poHDV
+  platform: soundcloud
 ---
 Brick Haus • THRIVE Events YYC
 Brick Haus began his musical journey as a competitive breakdancer, inspired by blues, hip-hop, funk, soul and vintage breaks, he embarked on a journey into sound and very quickly earned the respect of his peers - Canada wide.

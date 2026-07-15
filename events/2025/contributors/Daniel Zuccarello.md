@@ -1,12 +1,19 @@
 ---
-name: "Daniel Zuccarello"
-imageURL: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/DanielZuccarello.jpg
-logoURL: https://wickedwoods.festivalpro.com/?getFile&FILEID=36797
-kind: "Workshop"
+name: Daniel Zuccarello
+images:
+- source:
+    url: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/DanielZuccarello.jpg
+  role: photo
+  renderKind: fullImage
+  materializationPolicy: lazy
+- source:
+    url: https://wickedwoods.festivalpro.com/?getFile&FILEID=36797
+  role: logo
+  renderKind: transparent
+  materializationPolicy: lazy
 links:
 - url: Festival.Poet
-  linkType:
-    label: instagram
+  platform: website
 ---
 Daniel Zuccarello is a professional bartender, a serial entrepreneur, and a spoken-word artist with a taste for the raw and the real. He made his poetry debut last year at Wicked Woods Music Festival, delivering verses that stirred the crowd like a perfect cocktail—bold, unexpected, and unforgettable.
 

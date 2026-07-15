@@ -1,3 +1,3 @@
 ---
-name: "Portal Opening Ceremony"
+name: Portal Opening Ceremony
 ---

@@ -1,27 +1,29 @@
 ---
-name: "Freddy J"
-imageURL: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/FreddyJ.jpg
-logoURL: https://wickedwoods.festivalpro.com/?getFile&FILEID=33157
-kind: "Live Performance"
+name: Freddy J
+images:
+- source:
+    url: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/FreddyJ.jpg
+  role: photo
+  renderKind: fullImage
+  materializationPolicy: lazy
+- source:
+    url: https://wickedwoods.festivalpro.com/?getFile&FILEID=33157
+  role: logo
+  renderKind: transparent
+  materializationPolicy: lazy
 links:
 - url: https://soundcloud.com/freddy-j
-  linkType:
-    label: soundcloud
+  platform: soundcloud
 - url: https://www.youtube.com/@FreddyJ
-  linkType:
-    label: youtube
+  platform: youtube
 - url: https://www.facebook.com/FreddyJBass
-  linkType:
-    label: facebook
+  platform: facebook
 - url: https://www.instagram.com/freddyj222/
-  linkType:
-    label: instagram
+  platform: instagram
 - url: https://open.spotify.com/artist/5CaXdBG1pAucHTcMot3cPs
-  linkType:
-    label: spotify
+  platform: spotify
 - url: www.freddyj.ca
-  linkType:
-    label: website
+  platform: website
 ---
 Freddy J, a renowned DJ since 2001, has spent over two decades shaping a signature sound that guarantees dance floor mayhem. Freddy J music style blends electro with funky, dirty, whompy, groovy basslines, delivering unparalleled bass-driven party funk. Whether headlining at clubs or captivating festival crowds, Freddy J’s mastery of the decks ensures every performance is unforgettable.
 

@@ -1,24 +1,27 @@
 ---
-name: "DGTL•SGNL"
-imageURL: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/DGTLSGNL.jpg
-logoURL: https://wickedwoods.festivalpro.com/?getFile&FILEID=31711
-kind: "Live Performance"
+name: "DGTL\u2022SGNL"
+images:
+- source:
+    url: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/DGTLSGNL.jpg
+  role: photo
+  renderKind: fullImage
+  materializationPolicy: lazy
+- source:
+    url: https://wickedwoods.festivalpro.com/?getFile&FILEID=31711
+  role: logo
+  renderKind: transparent
+  materializationPolicy: lazy
 links:
 - url: https://soundcloud.com/dgtlsgnlbass
-  linkType:
-    label: soundcloud
+  platform: soundcloud
 - url: https://www.facebook.com/DGTLSGNL
-  linkType:
-    label: facebook
+  platform: facebook
 - url: https://www.instagram.com/dgtlsgnlbass
-  linkType:
-    label: instagram
+  platform: instagram
 - url: https://open.spotify.com/artist/2ly5B6fSstexqOtjw8Dlc4?si=gut1ZK3ZS4G-G0cmP-8vZA
-  linkType:
-    label: spotify
+  platform: spotify
 - url: https://linktr.ee/DGTL_SGNL
-  linkType:
-    label: website
+  platform: website
 ---
 DGTL•SGNL is an aspiring experimental bass producer making waves in the bass scene. By taking old school hip-hop break beats and adding his own mind melting flair, DGTL•SGNL is able to teleport the listener to a distant world where society is far more advanced and being cybernetic is the norm.
 

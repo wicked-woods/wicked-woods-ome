@@ -1,3 +1,3 @@
 ---
-name: "Aleatha"
+name: Aleatha
 ---

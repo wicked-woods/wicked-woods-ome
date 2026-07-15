@@ -1,24 +1,27 @@
 ---
-name: "Fun Dipz"
-imageURL: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/FunDipz.jpg
-logoURL: https://wickedwoods.festivalpro.com/?getFile&FILEID=32347
-kind: "Live Performance"
+name: Fun Dipz
+images:
+- source:
+    url: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/FunDipz.jpg
+  role: photo
+  renderKind: fullImage
+  materializationPolicy: lazy
+- source:
+    url: https://wickedwoods.festivalpro.com/?getFile&FILEID=32347
+  role: logo
+  renderKind: transparent
+  materializationPolicy: lazy
 links:
 - url: https://m.soundcloud.com/fundipzdj
-  linkType:
-    label: soundcloud
+  platform: soundcloud
 - url: https://www.facebook.com/fundipzdj/
-  linkType:
-    label: facebook
+  platform: facebook
 - url: https://www.instagram.com/fundipzdj/
-  linkType:
-    label: instagram
+  platform: instagram
 - url: https://open.spotify.com/artist/0DVE2bNkg95am7y9if03TG?si=GCcyFrc9Sd6vjT3sTeEgZg
-  linkType:
-    label: spotify
+  platform: spotify
 - url: www.fundipz.fun
-  linkType:
-    label: website
+  platform: website
 ---
 Charles also known as FunDipz is renowned for
 captivating audiences with an electrifying blend of all kinds of House, Minimal Tech, Electro, Bass Music and Brazilian Beats, he is a seasoned DJ and producer with a knack for turning any event into an unforgettable sonic journey. Brazilian landing in Canada in 2017, FunDipz has honed a

@@ -1,3 +1,3 @@
 ---
-name: "M3Rf"
+name: M3Rf
 ---

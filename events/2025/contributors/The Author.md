@@ -1,5 +1,4 @@
 ---
-name: "The Author"
-kind: "Live Performance"
+name: The Author
 links: []
 ---

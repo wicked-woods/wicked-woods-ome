@@ -1,10 +1,18 @@
 ---
-name: "Stylust"
-imageURL: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2F5C909BEE-C751-4496-BFAA-11D234E2EEA5.png?alt=media&token=50a81e4d-3add-4ed2-9b90-0b3d98a937d7
+name: Stylust
+images:
+- source:
+    url: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2F5C909BEE-C751-4496-BFAA-11D234E2EEA5.png?alt=media&token=50a81e4d-3add-4ed2-9b90-0b3d98a937d7
+  role: photo
+  renderKind: fullImage
+  materializationPolicy: lazy
 links:
 - url: https://soundcloud.com/stylustbeats
+  platform: soundcloud
 - url: https://www.stylustbeats.net/
+  platform: website
 - url: https://open.spotify.com/artist/2Y1LgWOVPz5m1qCuzkWEQu?autoplay=true
+  platform: spotify
 ---
 Known for his sleeveless, whimsical synergy with the fans, Geoff “Stylust Beats” Reich has been creating his own counterculture since he was a teenager. A skate punk and hip-hop devotee, this groundbreaking DJ’s talent for fusing rap hooks and dubstep bass with multiple music genres has earned him the rep as a creative renegade carving his own path. With a style that captivates lovers of all music, the Canadian-bred San Francisco DJ has emerged as a frontrunner in the new wave of industry heavyweights. In a interview for MusicYouNeed.net, this stereophonic chameleon explains the method to his madness, “My goal is to make timeless bass music: I try to make every track an epic melodic adventure through many different genres.”
 

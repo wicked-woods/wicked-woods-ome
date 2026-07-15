@@ -1,14 +1,16 @@
 ---
-name: "Mae Bell"
-imageURL: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/MaeBell.jpg
-kind: "Art & Installations"
+name: Mae Bell
+images:
+- source:
+    url: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/MaeBell.jpg
+  role: photo
+  renderKind: fullImage
+  materializationPolicy: lazy
 links:
 - url: https://www.facebook.com/share/1CGWLKVdrF/
-  linkType:
-    label: facebook
+  platform: facebook
 - url: https://www.instagram.com/mensch_made?igsh=MXd1anRuaGJ5bTdldg==
-  linkType:
-    label: instagram
+  platform: instagram
 ---
 Home grown here in B.C.
 Mae is an artist who loves to create works that alow you to wonder.

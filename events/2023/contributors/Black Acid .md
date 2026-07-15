@@ -1,10 +1,18 @@
 ---
-name: "Black Acid "
-imageURL: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2F3BD3BD19-810B-4F5A-B7F9-752B9C370A36.png?alt=media&token=de7994db-3b18-43de-bbe8-4282dea65434
+name: 'Black Acid '
+images:
+- source:
+    url: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2F3BD3BD19-810B-4F5A-B7F9-752B9C370A36.png?alt=media&token=de7994db-3b18-43de-bbe8-4282dea65434
+  role: photo
+  renderKind: fullImage
+  materializationPolicy: lazy
 links:
 - url: https://m.soundcloud.com/blackacidsound
+  platform: soundcloud
 - url: https://www.instagram.com/blackacidsound/
+  platform: instagram
 - url: https://www.facebook.com/BlackAcidSound?mibextid=LQQJ4d
+  platform: facebook
 ---
 Obsidian YVR Crew
 BassCoast Crew: Cabin Stage

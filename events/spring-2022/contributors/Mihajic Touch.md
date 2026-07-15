@@ -1,3 +1,3 @@
 ---
-name: "Mihajic Touch"
+name: Mihajic Touch
 ---

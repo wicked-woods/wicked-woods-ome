@@ -1,6 +1,11 @@
 ---
-name: "Greazus"
-imageURL: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2FFE8C6172-F46F-4062-BC94-B23D1A2E6CD8.png?alt=media&token=d75b09e4-0421-4c1b-b905-5d79353b6703
+name: Greazus
+images:
+- source:
+    url: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2FFE8C6172-F46F-4062-BC94-B23D1A2E6CD8.png?alt=media&token=d75b09e4-0421-4c1b-b905-5d79353b6703
+  role: photo
+  renderKind: fullImage
+  materializationPolicy: lazy
 links: []
 ---
 When longtime friends, and well-established producer/DJs HxdB and Patrik Cure decided to join forces as

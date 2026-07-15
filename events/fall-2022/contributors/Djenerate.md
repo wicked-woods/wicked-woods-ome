@@ -1,3 +1,3 @@
 ---
-name: "Djenerate"
+name: Djenerate
 ---

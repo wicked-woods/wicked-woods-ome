@@ -1,3 +1,3 @@
 ---
-name: "Megan Hamilton"
+name: Megan Hamilton
 ---

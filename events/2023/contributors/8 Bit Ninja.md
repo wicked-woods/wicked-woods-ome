@@ -1,3 +1,3 @@
 ---
-name: "8 Bit Ninja"
+name: 8 Bit Ninja
 ---

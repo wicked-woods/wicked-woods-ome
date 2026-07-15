@@ -1,3 +1,3 @@
 ---
-name: "Colorvision"
+name: Colorvision
 ---

@@ -1,9 +1,16 @@
 ---
-name: "Muzik Therapy "
-imageURL: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2F0C160F51-C773-4B99-917C-CB2CB8D7D4F9.png?alt=media&token=c9a09fdf-358e-4ecc-8dc8-8310ddbbe39d
+name: 'Muzik Therapy '
+images:
+- source:
+    url: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2F0C160F51-C773-4B99-917C-CB2CB8D7D4F9.png?alt=media&token=c9a09fdf-358e-4ecc-8dc8-8310ddbbe39d
+  role: photo
+  renderKind: fullImage
+  materializationPolicy: lazy
 links:
 - url: https://soundcloud.com/muzik_therapy/shambhala-2023-mix
+  platform: soundcloud
 - url: https://muziktherapy.my.canva.site/
+  platform: website
 ---
 Muzik Therapy
 Muzik Therapy is live acoustic electronic improv orchestrated by turntablist and DJ, DJ PRAiZ. They are a collective of professional musicians, who are highly acclaimed in their respective musical forms. 

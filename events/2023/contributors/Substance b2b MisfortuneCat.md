@@ -1,6 +1,11 @@
 ---
-name: "Substance b2b MisfortuneCat"
-imageURL: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2F990A6979-767D-410A-A23E-87AC9558D938.png?alt=media&token=c64fdfb8-c3bc-4a59-a27e-c75c27a9c399
+name: Substance b2b MisfortuneCat
+images:
+- source:
+    url: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2F990A6979-767D-410A-A23E-87AC9558D938.png?alt=media&token=c64fdfb8-c3bc-4a59-a27e-c75c27a9c399
+  role: photo
+  renderKind: fullImage
+  materializationPolicy: lazy
 links: []
 ---
 Ẃ̸͖a̵̞͑r̴̛̙n̶͔͐ḭ̸̀n̶͍̈ğ̶̥ ̴̫̾⚠ ̸̮̊t̶̲̆h̶̥́e̶̬͝r̶̲͛ē̵̩ ̴͚͆h̸͌ͅạ̴̐ş̴͐ ̶̰͝b̴̦̌ḛ̸̀e̵̪͠n̶̼͒ ̷̧̍ḁ̵͒ ̴̧͂g̴̤͆l̵̪̈́í̴̹t̴͚͂č̴̩h̸̺̍

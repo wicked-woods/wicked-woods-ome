@@ -1,3 +1,3 @@
 ---
-name: "Lucy Da First "
+name: 'Lucy Da First '
 ---

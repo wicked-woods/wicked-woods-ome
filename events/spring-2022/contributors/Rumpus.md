@@ -1,10 +1,18 @@
 ---
-name: "Rumpus"
-imageURL: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2FB6E3143E-61A7-40F7-A0C2-040AE95F22BB.png?alt=media&token=2f2ea31c-b452-44db-8b6f-31a479f480cc
+name: Rumpus
+images:
+- source:
+    url: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2FB6E3143E-61A7-40F7-A0C2-040AE95F22BB.png?alt=media&token=2f2ea31c-b452-44db-8b6f-31a479f480cc
+  role: photo
+  renderKind: fullImage
+  materializationPolicy: lazy
 links:
 - url: https://soundcloud.com/itsrumpus
+  platform: soundcloud
 - url: https://itsrumpus.com/
+  platform: website
 - url: https://open.spotify.com/artist/6UbKjDmDWrGKZdHNYxjveJ
+  platform: spotify
 ---
 Rumpus, by definition, does in fact bring the noise – and the bodies – to dancefloors and music festivals around the globe. A badass drummer with a punk-rock upbringing, Rumpus infuses that alternative edge into his own unique brand of high vibe, bass heavy, funky house music.
 

@@ -1,9 +1,16 @@
 ---
-name: "ColtCuts"
-imageURL: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2FC4BC1CB6-2A2C-4DB6-B94A-A75434A3F3EE.png?alt=media&token=cdde5d4d-b194-4ec8-a695-1464ebb95dfd
+name: ColtCuts
+images:
+- source:
+    url: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2FC4BC1CB6-2A2C-4DB6-B94A-A75434A3F3EE.png?alt=media&token=cdde5d4d-b194-4ec8-a695-1464ebb95dfd
+  role: photo
+  renderKind: fullImage
+  materializationPolicy: lazy
 links:
 - url: https://soundcloud.com/coltcutsmusic
+  platform: soundcloud
 - url: https://www.coltcutsmusic.com/
+  platform: website
 ---
 Introducing ColtCuts - Voted #1 Best
 Breakthrough Producer of 2019 in the Duploc

@@ -1,11 +1,20 @@
 ---
-name: "Woofax"
-imageURL: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2FB6986C22-8B9F-4ABF-B608-55C701385644.png?alt=media&token=2781da21-194f-42ab-9478-11bbe39b4d44
+name: Woofax
+images:
+- source:
+    url: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2FB6986C22-8B9F-4ABF-B608-55C701385644.png?alt=media&token=2781da21-194f-42ab-9478-11bbe39b4d44
+  role: photo
+  renderKind: fullImage
+  materializationPolicy: lazy
 links:
 - url: https://soundcloud.com/woofax
+  platform: soundcloud
 - url: https://open.spotify.com/artist/5YGfuUCO9rwUjW2Ye4NMb0
+  platform: spotify
 - url: https://www.instagram.com/woofax/
+  platform: instagram
 - url: https://www.facebook.com/woofax
+  platform: facebook
 ---
 Until 2015, Woofax was the major musical creative force behind the electronic music groups Terravita and Hot Pink Delorean. He has written, engineered and consulted dozens of hit electronic tracks under different artist names in various genres. His release Spoiler Alert charted #1 for weeks on the Beatport Glitch hop charts and has recently been featured on TBS’s “The Real OG”.
 

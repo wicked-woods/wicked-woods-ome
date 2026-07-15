@@ -1,6 +1,11 @@
 ---
-name: "Bunny Hops"
-imageURL: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2F0BC31CAD-3317-4CE4-B08B-78524477F131.png?alt=media&token=aefc5358-88f7-407a-9c15-7f396072c06f
+name: Bunny Hops
+images:
+- source:
+    url: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2F0BC31CAD-3317-4CE4-B08B-78524477F131.png?alt=media&token=aefc5358-88f7-407a-9c15-7f396072c06f
+  role: photo
+  renderKind: fullImage
+  materializationPolicy: lazy
 links: []
 ---
 Alex Hopkins, known by her stage name Bunny Hops, is a DJ and producer based in Banff, Canada.

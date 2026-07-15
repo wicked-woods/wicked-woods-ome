@@ -1,12 +1,22 @@
 ---
-name: "Chimp It"
-imageURL: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2FDFAC1BF6-BF84-4636-9204-6FDEF7AEE667.png?alt=media&token=aaa03c16-33b1-46f1-9c0c-420ce390173d
+name: Chimp It
+images:
+- source:
+    url: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2FDFAC1BF6-BF84-4636-9204-6FDEF7AEE667.png?alt=media&token=aaa03c16-33b1-46f1-9c0c-420ce390173d
+  role: photo
+  renderKind: fullImage
+  materializationPolicy: lazy
 links:
 - url: https://soundcloud.com/chimpitbeats
+  platform: soundcloud
 - url: https://open.spotify.com/artist/2LPYTxwY2clyaKQ17flxKs?si=0WvWIpYARuOjgOpDgjASKQ
+  platform: spotify
 - url: https://www.youtube.com/@chimpit7913
+  platform: youtube
 - url: https://www.instagram.com/chimpitbeats/
+  platform: instagram
 - url: https://www.facebook.com/chimpitbeats
+  platform: facebook
 ---
 Hybrid Electronic DJ/Live Performance
 

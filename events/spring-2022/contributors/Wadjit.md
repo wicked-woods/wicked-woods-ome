@@ -1,6 +1,11 @@
 ---
-name: "Wadjit"
-imageURL: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2FA3F588F0-681E-4E3E-9A01-54B8CE862CD4.png?alt=media&token=0b75a670-06e8-44a2-bea3-aa2abd1ce291
+name: Wadjit
+images:
+- source:
+    url: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2FA3F588F0-681E-4E3E-9A01-54B8CE862CD4.png?alt=media&token=0b75a670-06e8-44a2-bea3-aa2abd1ce291
+  role: photo
+  renderKind: fullImage
+  materializationPolicy: lazy
 links: []
 ---
 Quickly establishing herself as a leading force within the Canadian drum and bass scene; Wadjit’s name has become synonymous with quality, whether it’s her technical mixing ability, her crisp taste in tunes or her relentless pursuit of elevating the status of the drum and bass culture.

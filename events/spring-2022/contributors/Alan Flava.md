@@ -1,3 +1,3 @@
 ---
-name: "Alan Flava"
+name: Alan Flava
 ---

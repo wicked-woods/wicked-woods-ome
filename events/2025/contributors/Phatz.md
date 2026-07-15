@@ -1,15 +1,21 @@
 ---
-name: "Phatz"
-imageURL: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/Phatz.png
-logoURL: https://wickedwoods.festivalpro.com/?getFile&FILEID=31371
-kind: "Live Performance"
+name: Phatz
+images:
+- source:
+    url: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/Phatz.png
+  role: photo
+  renderKind: fullImage
+  materializationPolicy: lazy
+- source:
+    url: https://wickedwoods.festivalpro.com/?getFile&FILEID=31371
+  role: logo
+  renderKind: transparent
+  materializationPolicy: lazy
 links:
 - url: https://on.soundcloud.com/u1D68WhZCNwL99W37
-  linkType:
-    label: soundcloud
+  platform: soundcloud
 - url: https://www.instagram.com/phatz_?igsh=MW5ucTdsZWxwdHdtbg%3D%3D&utm_source=qr
-  linkType:
-    label: instagram
+  platform: instagram
 ---
 Based in Revelstoke B.C, Phatz is an exhilarating presence in the bass music scene, specializing in the heavy-hitting sounds of 140 Dubstep, UK Garage, and Grime. With a passion for crafting dynamic sets that resonate with energy and emotion, Phatz has become a go-to DJ for those seeking an unforgettable sonic experience.
 

@@ -1,27 +1,29 @@
 ---
-name: "Abstrakt Sonance"
-imageURL: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/AbstraktSonance.jpg
-logoURL: https://wickedwoods.festivalpro.com/?getFile&FILEID=31281
-kind: "Live Performance"
+name: Abstrakt Sonance
+images:
+- source:
+    url: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/AbstraktSonance.jpg
+  role: photo
+  renderKind: fullImage
+  materializationPolicy: lazy
+- source:
+    url: https://wickedwoods.festivalpro.com/?getFile&FILEID=31281
+  role: logo
+  renderKind: transparent
+  materializationPolicy: lazy
 links:
 - url: www.soundcloud.com/abstraktsonance
-  linkType:
-    label: soundcloud
+  platform: soundcloud
 - url: www.youtube.com/abstraktsonance
-  linkType:
-    label: youtube
+  platform: youtube
 - url: www.facebook.com/abstraktsonance
-  linkType:
-    label: facebook
+  platform: facebook
 - url: www.instagram.com/abstraktsonance
-  linkType:
-    label: instagram
+  platform: instagram
 - url: https://open.spotify.com/artist/00qKBesewdWy5l0bpMdosp
-  linkType:
-    label: spotify
+  platform: spotify
 - url: n/a
-  linkType:
-    label: website
+  platform: website
 ---
 Bursting from the rugged wilds of Western Canada, Abstrakt Sonance fuses the primal pulse of nature with gritty urban basslines that are revolutionizing music. Operating from his secluded forest sanctuary, he’s struck sound gold with industry titans like D Double E and Flowdan, Irah and Killa P, while also resurrecting the classic vibes of funk phenoms, Skyler Jett and Ronald LaPread from The Commodores with his diversity of production skills.
 

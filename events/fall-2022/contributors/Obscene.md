@@ -1,3 +1,3 @@
 ---
-name: "Obscene"
+name: Obscene
 ---

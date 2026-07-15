@@ -1,3 +1,3 @@
 ---
-name: "Wolf Collar"
+name: Wolf Collar
 ---

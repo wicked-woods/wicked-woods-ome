@@ -1,7 +1,11 @@
 ---
-name: "Allie Bruni-Riendeau"
-imageURL: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/AllieBruniRiendeau.jpg
-kind: "Workshop"
+name: Allie Bruni-Riendeau
+images:
+- source:
+    url: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/AllieBruniRiendeau.jpg
+  role: photo
+  renderKind: fullImage
+  materializationPolicy: lazy
 links: []
 ---
 

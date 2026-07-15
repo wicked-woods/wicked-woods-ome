@@ -1,6 +1,11 @@
 ---
-name: "A Hundred Drums"
-imageURL: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2FAF260110-24A2-4299-A147-FD5AF45EE611.png?alt=media&token=f27201d2-e52f-49d6-ac65-1f05a9c19cc5
+name: A Hundred Drums
+images:
+- source:
+    url: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2FAF260110-24A2-4299-A147-FD5AF45EE611.png?alt=media&token=f27201d2-e52f-49d6-ac65-1f05a9c19cc5
+  role: photo
+  renderKind: fullImage
+  materializationPolicy: lazy
 links: []
 ---
 Thunderous low end and pulsating rhythm embody the powerful music of A Hundred Drums. 

@@ -1,8 +1,14 @@
 ---
-name: "Esette"
-imageURL: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2F19EAF807-8393-4D59-9A20-9297EB74AF2B.png?alt=media&token=5b2c9127-f893-4d10-afe1-daa4207b716a
+name: Esette
+images:
+- source:
+    url: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2F19EAF807-8393-4D59-9A20-9297EB74AF2B.png?alt=media&token=5b2c9127-f893-4d10-afe1-daa4207b716a
+  role: photo
+  renderKind: fullImage
+  materializationPolicy: lazy
 links:
 - url: https://soundcloud.com/isis-graham
+  platform: soundcloud
 ---
 Notoriously resilient and innovative, Esette’s unyielding work ethic, paired with over twenty years of music industry experience, have made her a household name in Western Canada. As one of the guiding forces of cultural phenomena such as The Alberta Electronic Music Conference, Girls on Decks, Substation Recordings, Versions Patio Parties, Esette (aka Isis Graham) is equally comfortable behind the decks or behind the scenes. 
 

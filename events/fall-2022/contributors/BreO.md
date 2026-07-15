@@ -1,6 +1,11 @@
 ---
-name: "BreO"
-imageURL: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2FD6EF7079-C740-453A-8C5C-58D7F6B35961.png?alt=media&token=e09cc20b-bafd-4ac1-b74d-23ade4f83c64
+name: BreO
+images:
+- source:
+    url: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2FD6EF7079-C740-453A-8C5C-58D7F6B35961.png?alt=media&token=e09cc20b-bafd-4ac1-b74d-23ade4f83c64
+  role: photo
+  renderKind: fullImage
+  materializationPolicy: lazy
 links: []
 ---
 BreO has been one of British Columbia’s leading female DJs since 2007. In the earlier years, BreO had established herself as vocalist, performing with Kelowna's all-girl DJ collective “FlyDJs”. Before her transition to turntables in 2007, BreO had performed vocally at a variety of club nights, festivals and charity events across British Columbia.

@@ -1,3 +1,3 @@
 ---
-name: "Trainwreck"
+name: Trainwreck
 ---

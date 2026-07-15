@@ -1,3 +1,3 @@
 ---
-name: "Kimati"
+name: Kimati
 ---

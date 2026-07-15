@@ -1,27 +1,29 @@
 ---
-name: "Felix Cartal"
-imageURL: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/FelixCartal.jpg
-logoURL: https://wickedwoods.festivalpro.com/?getFile&FILEID=35971
-kind: "Live Performance"
+name: Felix Cartal
+images:
+- source:
+    url: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/FelixCartal.jpg
+  role: photo
+  renderKind: fullImage
+  materializationPolicy: lazy
+- source:
+    url: https://wickedwoods.festivalpro.com/?getFile&FILEID=35971
+  role: logo
+  renderKind: transparent
+  materializationPolicy: lazy
 links:
 - url: soundcloud.com/felixcartal
-  linkType:
-    label: soundcloud
+  platform: soundcloud
 - url: youtube.com/felixcartal
-  linkType:
-    label: youtube
+  platform: youtube
 - url: Facebook.com/felixcartal
-  linkType:
-    label: facebook
+  platform: website
 - url: instagram.com/felixcartal
-  linkType:
-    label: instagram
+  platform: instagram
 - url: https://open.spotify.com/artist/6roDXEmZ6AARdOUv6x5U2v?si=3kgvXBqtRyOYCrywxDmnBw
-  linkType:
-    label: spotify
+  platform: spotify
 - url: felixcartal.com
-  linkType:
-    label: website
+  platform: website
 ---
 Felix Cartal is a prolific producer and DJ that hails from Vancouver, Canada. His style is energetic and melodic, and his shows match. His
 resume is vast, including collabs with Kaskade, Elohim, and Daya, as well as remixes for The Chainsmokers, Selena Gomez, Zedd, Illenium,

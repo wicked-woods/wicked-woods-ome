@@ -1,3 +1,3 @@
 ---
-name: "Swayze"
+name: Swayze
 ---

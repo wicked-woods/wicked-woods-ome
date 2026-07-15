@@ -1,13 +1,10 @@
 ---
-name: "TOR"
-kind: "Live Performance"
+name: TOR
 links:
 - url: https://www.instagram.com/tor_music/
-  linkType:
-    label: instagram
+  platform: instagram
 - url: https://open.spotify.com/album/0hC9leJkhmwVdsc8znWCjz?si=CawrIf30SCKBL0YRR67s2g
-  linkType:
-    label: spotify
+  platform: spotify
 ---
 Tor is a JUNO Award winning music producer and DJ who has been releasing original music since 2011. Oasis Sky is Tor’s first original body of work since his 2016 album, Blue Book. It expands on the latter’s meditative energy with the producer’s signature warmth and beat-driven atmospherics, while digging deeper into the
 experiences and emotions that have informed the past 4 years of his life. From a busy touring schedule that saw the Vancouver-based producer playing his music across the U.S., the E.U., Australia, and Costa Rica, as well as being

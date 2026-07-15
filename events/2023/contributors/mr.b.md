@@ -1,9 +1,16 @@
 ---
-name: "mr.b"
-imageURL: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2F22284B24-9F28-4A90-BD89-99397B72846D.png?alt=media&token=97bba0b2-a5cd-4345-a26d-bc53f82765a0
+name: mr.b
+images:
+- source:
+    url: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2F22284B24-9F28-4A90-BD89-99397B72846D.png?alt=media&token=97bba0b2-a5cd-4345-a26d-bc53f82765a0
+  role: photo
+  renderKind: fullImage
+  materializationPolicy: lazy
 links:
 - url: https://soundcloud.com/mr-bizzle
+  platform: soundcloud
 - url: https://www.facebook.com/djmr.bee/
+  platform: facebook
 ---
 mr.b  // Shambhala // Village Stage 
 

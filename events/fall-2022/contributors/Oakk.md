@@ -1,6 +1,11 @@
 ---
-name: "Oakk"
-imageURL: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2F729FC58C-DBBD-4A5F-B82A-74CBA9038E27.png?alt=media&token=7db83a1a-dd94-4d63-a2b2-406ada5ed58d
+name: Oakk
+images:
+- source:
+    url: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2F729FC58C-DBBD-4A5F-B82A-74CBA9038E27.png?alt=media&token=7db83a1a-dd94-4d63-a2b2-406ada5ed58d
+  role: photo
+  renderKind: fullImage
+  materializationPolicy: lazy
 links: []
 ---
 OAKK produces dynamic, eclectic, and infectious bass music that is impossible to resist. His high energy DJ sets display his commitment to diversity and flow, while telling a cohesive story that covers a vast musical range and is nothing short of striking.

@@ -1,21 +1,25 @@
 ---
-name: "Double Trouble"
-imageURL: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/DoubleTrouble.png
-logoURL: https://wickedwoods.festivalpro.com/?getFile&FILEID=31615
-kind: "Live Performance"
+name: Double Trouble
+images:
+- source:
+    url: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/DoubleTrouble.png
+  role: photo
+  renderKind: fullImage
+  materializationPolicy: lazy
+- source:
+    url: https://wickedwoods.festivalpro.com/?getFile&FILEID=31615
+  role: logo
+  renderKind: transparent
+  materializationPolicy: lazy
 links:
 - url: https://soundcloud.com/doubletroublex2
-  linkType:
-    label: soundcloud
+  platform: soundcloud
 - url: https://www.facebook.com/profile.php?id=61557526092095
-  linkType:
-    label: facebook
+  platform: facebook
 - url: https://www.instagram.com/doubletroublextwo/
-  linkType:
-    label: instagram
+  platform: instagram
 - url: https://open.spotify.com/artist/2YHNDq2g74CVIeIjxI81FN?si=yJtAQyojS0iSVuJcd1rDxQ
-  linkType:
-    label: spotify
+  platform: spotify
 ---
 Double Trouble
 

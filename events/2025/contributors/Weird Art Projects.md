@@ -1,15 +1,21 @@
 ---
-name: "Weird Art Projects"
-imageURL: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/WeirdArtProjects.jpg
-logoURL: https://wickedwoods.festivalpro.com/?getFile&FILEID=38851
-kind: "Art & Installations"
+name: Weird Art Projects
+images:
+- source:
+    url: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/WeirdArtProjects.jpg
+  role: photo
+  renderKind: fullImage
+  materializationPolicy: lazy
+- source:
+    url: https://wickedwoods.festivalpro.com/?getFile&FILEID=38851
+  role: logo
+  renderKind: transparent
+  materializationPolicy: lazy
 links:
 - url: https://www.facebook.com/people/Weird-Art-Projects/61578697527003/
-  linkType:
-    label: facebook
+  platform: facebook
 - url: https://www.instagram.com/weirdartprojects/
-  linkType:
-    label: instagram
+  platform: instagram
 ---
 Weird Art Projects is a multidisciplinary arts collective, driven to create thought-provoking, memorable, and playful works of public art.
 

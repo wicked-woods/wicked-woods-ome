@@ -1,14 +1,16 @@
 ---
-name: "Mood Change"
-imageURL: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/MoodChange.png
-kind: "Live Performance"
+name: Mood Change
+images:
+- source:
+    url: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/MoodChange.png
+  role: photo
+  renderKind: fullImage
+  materializationPolicy: lazy
 links:
 - url: https://soundcloud.com/moodchange
-  linkType:
-    label: soundcloud
+  platform: soundcloud
 - url: https://www.instagram.com/mood_______change/
-  linkType:
-    label: instagram
+  platform: instagram
 ---
 With a deep appreciation for the craft of DJing, digging, and sharing music, Mood Change (real name Taylor)  seeks out classic and contemporary sounds across genres with a focus on the deep, lush and emotive. As the host of Super Best on Subtle Radio, Taylor looks to present unfamiliar and experimental dance music and elevate his peers, his source of inspiration. 
 

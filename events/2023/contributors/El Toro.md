@@ -1,9 +1,16 @@
 ---
-name: "El Toro"
-imageURL: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2F41840C8E-BA3A-4102-9B77-9E0753B4D09E.png?alt=media&token=2c4c4f20-ed84-428d-95c0-2be58cf625e6
+name: El Toro
+images:
+- source:
+    url: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2F41840C8E-BA3A-4102-9B77-9E0753B4D09E.png?alt=media&token=2c4c4f20-ed84-428d-95c0-2be58cf625e6
+  role: photo
+  renderKind: fullImage
+  materializationPolicy: lazy
 links:
 - url: https://soundcloud.com/eltoro-1
+  platform: soundcloud
 - url: https://www.facebook.com/eltor0o
+  platform: facebook
 ---
 House, Bass, DnB 
 

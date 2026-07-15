@@ -1,21 +1,25 @@
 ---
-name: "Ed Solo"
-imageURL: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/EdSolo.png
-logoURL: https://wickedwoods.festivalpro.com/?getFile&FILEID=40557
-kind: "Live Performance"
+name: Ed Solo
+images:
+- source:
+    url: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/EdSolo.png
+  role: photo
+  renderKind: fullImage
+  materializationPolicy: lazy
+- source:
+    url: https://wickedwoods.festivalpro.com/?getFile&FILEID=40557
+  role: logo
+  renderKind: transparent
+  materializationPolicy: lazy
 links:
 - url: https://soundcloud.com/edsolo
-  linkType:
-    label: soundcloud
+  platform: soundcloud
 - url: https://www.facebook.com/DJEdSolo/
-  linkType:
-    label: facebook
+  platform: facebook
 - url: https://www.instagram.com/edsolouk/?hl=en
-  linkType:
-    label: instagram
+  platform: instagram
 - url: https://open.spotify.com/artist/7jnJgk7LLLdpPhXrOOZXCa
-  linkType:
-    label: spotify
+  platform: spotify
 ---
 Ed Solo is a highly respected DJ and producer in the drum and bass and breakbeat scenes, renowned for his signature fusion of heavy basslines, sharp drum programming, and reggae influences. Emerging in the late 1990s, Ed Solo became known for his collaborations with artists like DJ Brockie, Deekline, and Skool of Thought, producing iconic tracks such as Represent and No No No.
 

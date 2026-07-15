@@ -1,6 +1,11 @@
 ---
-name: "Zegend"
-imageURL: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2F723F9EEB-D84C-47F1-A181-52B0821B3F5C.png?alt=media&token=88310120-e175-41f8-b47d-115183472662
+name: Zegend
+images:
+- source:
+    url: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2F723F9EEB-D84C-47F1-A181-52B0821B3F5C.png?alt=media&token=88310120-e175-41f8-b47d-115183472662
+  role: photo
+  renderKind: fullImage
+  materializationPolicy: lazy
 links: []
 ---
 Hailing from beautiful British Columbia/Yukon Territory, James (Zegend) has found himself sinking roots and putting in work in Edmonton, Alberta over the last decade. He has been a part of many projects, festivals, venues and start-ups around the city and has turned his focus more towards his music career this year.

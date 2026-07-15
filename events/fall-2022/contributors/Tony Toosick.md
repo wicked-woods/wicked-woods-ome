@@ -1,3 +1,3 @@
 ---
-name: "Tony Toosick"
+name: Tony Toosick
 ---

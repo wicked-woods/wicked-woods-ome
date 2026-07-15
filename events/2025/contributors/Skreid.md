@@ -1,23 +1,26 @@
 ---
-name: "Skreid"
-imageURL: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/Skreid.jpg
-logoURL: https://wickedwoods.festivalpro.com/?getFile&FILEID=32973
-kind: "Live Performance"
+name: Skreid
+images:
+- source:
+    url: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/Skreid.jpg
+  role: photo
+  renderKind: fullImage
+  materializationPolicy: lazy
+- source:
+    url: https://wickedwoods.festivalpro.com/?getFile&FILEID=32973
+  role: logo
+  renderKind: transparent
+  materializationPolicy: lazy
 links:
 - url: https://soundcloud.com/skreidbass
-  linkType:
-    label: soundcloud
+  platform: soundcloud
 - url: https://www.facebook.com/skreidbass
-  linkType:
-    label: facebook
+  platform: facebook
 - url: https://www.instagram.com/skreidbass/
-  linkType:
-    label: instagram
+  platform: instagram
 - url: https://open.spotify.com/artist/5EreBDnGkwG9A77J2z1MV4?si=wAC1LxOkS4SxUzL5Nuadfw
-  linkType:
-    label: spotify
+  platform: spotify
 - url: www.skreid.ca
-  linkType:
-    label: website
+  platform: website
 ---
 Raised in Grand Forks, BC. DJ/Producer Skreid is known in his area for his heavy basslines and flowing style that will get the crowd bouncin'. Started at The Woods Nightclub with help and support from Pagoda mastermind DJ Soup, he started his climb into the music industry. Skreid has a diverse range and taste of Dubstep/DNB/House and everything in between and out of the box to grace those earholes, you wont be disappointed!

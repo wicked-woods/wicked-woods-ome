@@ -1,6 +1,11 @@
 ---
-name: "BLKFT"
-imageURL: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2F501A189A-AA4C-4260-9B90-38B2FAB4E13D.png?alt=media&token=6bd4cd14-86de-485f-9f7e-46a91d0b0e80
+name: BLKFT
+images:
+- source:
+    url: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2F501A189A-AA4C-4260-9B90-38B2FAB4E13D.png?alt=media&token=6bd4cd14-86de-485f-9f7e-46a91d0b0e80
+  role: photo
+  renderKind: fullImage
+  materializationPolicy: lazy
 links: []
 ---
 BLKFT is Niitsiitapi from Siksika Nation and is the Founder and Manager of Drum Beat

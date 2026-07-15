@@ -1,27 +1,29 @@
 ---
-name: "Chimp It"
-imageURL: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/ChimpIt.jpeg
-logoURL: https://wickedwoods.festivalpro.com/?getFile&FILEID=32965
-kind: "Live Performance"
+name: Chimp It
+images:
+- source:
+    url: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/ChimpIt.jpeg
+  role: photo
+  renderKind: fullImage
+  materializationPolicy: lazy
+- source:
+    url: https://wickedwoods.festivalpro.com/?getFile&FILEID=32965
+  role: logo
+  renderKind: transparent
+  materializationPolicy: lazy
 links:
 - url: www.soundcloud.com/chimpitbeats
-  linkType:
-    label: soundcloud
+  platform: soundcloud
 - url: www.youtube.com/channel/UCkynY_5NMLWgLHDAnsnZWdA
-  linkType:
-    label: youtube
+  platform: youtube
 - url: www.facebook.com/chimpitbeats
-  linkType:
-    label: facebook
+  platform: facebook
 - url: https://www.instagram.com/chimpitbeats/
-  linkType:
-    label: instagram
+  platform: instagram
 - url: https://open.spotify.com/artist/2LPYTxwY2clyaKQ17flxKs
-  linkType:
-    label: spotify
+  platform: spotify
 - url: www.fanlink.tv/CHIMPIT
-  linkType:
-    label: website
+  platform: website
 ---
 Blending the richness of cutting edge electronic music with the depth and emotion of blistering guitar licks and live vocals
 

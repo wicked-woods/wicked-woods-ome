@@ -1,228 +1,230 @@
 date: '2022-09-10'
 performances:
-  the-portal:
-  - title: Noodles, The Author, Just One, Free Samples & Jep
-    startTime: '12:00'
-    contributorIDs:
-    - Noodles
-    - The Author
-    - Just One
-    - Free Samples
-    - Jep
-  - title: Rennie
-    startTime: '19:00'
-    contributorIDs:
-    - Rennie
-  - title: DJ Polar
-    startTime: '20:00'
-    contributorIDs:
-    - DJ Polar
-  - title: Keekz
-    startTime: '21:00'
-    contributorIDs:
-    - Keekz
-  - title: PuppyCat
-    startTime: '22:00'
-    contributorIDs:
-    - PuppyCat
-  - title: Sumwan, Siadic & Kairo
-    startTime: '23:30'
-    contributorIDs:
-    - Sumwan
-    - Siadic
-    - Kairo
-  - title: Dose.
-    startTime: '02:30'
-    contributorIDs:
-    - Dose.
-  - title: HNH
-    startTime: '04:00'
-    contributorIDs:
-    - HNH
-  - title: Smirk
-    startTime: '05:00'
-    contributorIDs:
-    - Smirk
-  - title: Lil Stitious
-    startTime: '06:00'
-    contributorIDs:
-    - Lil Stitious
-  - title: Portal Fam Dub Rinseout
-    startTime: '07:00'
-    endTime: '11:00'
-    contributorIDs:
-    - Portal Fam Dub Rinseout
-  the-hallow:
-  - title: Abstrakt Sonance
-    startTime: '16:00'
-    contributorIDs:
-    - Abstrakt Sonance
-  - title: Carissa Gem
-    startTime: '17:30'
-    contributorIDs:
-    - Carissa Gem
-  - title: El Toro
-    startTime: '19:00'
-    contributorIDs:
-    - El Toro
-  - title: '4:44'
-    startTime: '20:00'
-    contributorNames:
-    - '4:44'
-  - title: Oakk
-    startTime: '21:00'
-    contributorIDs:
-    - Oakk
-  - title: Greazus
-    startTime: '22:30'
-    contributorIDs:
-    - Greazus
-  - title: MYTHYM
-    startTime: '23:30'
-    contributorIDs:
-    - MYTHYM
-  - title: Hunter Down & CallMeKeeks
-    startTime: '00:45'
-    contributorIDs:
-    - Hunter Down
-    - CallMeKeeks
-  - title: Calyx & Teebe
-    startTime: '01:00'
-    contributorIDs:
-    - Calyx & Teebe
-  - title: Diligent
-    startTime: '03:00'
-    contributorIDs:
-    - Diligent
-  - title: Kellan It
-    startTime: '04:00'
-    contributorIDs:
-    - Kellan It
-  - title: Strange Manner, Aleatha, Logo, Yontzie, Swayze, Djenerate, Mary Jane & Obscene
-    startTime: '05:00'
-    endTime: '09:30'
-    contributorIDs:
-    - Strange Manner
-    - Aleatha
-    - Logo
-    - Yontzie
-    - Swayze
-    - Djenerate
-    - Mary Jane
-    - Obscene
   unicorn-lounge:
   - title: Elephant Jukebox
     startTime: '15:00'
-    contributorIDs:
-    - Elephant Jukebox
+    contributors:
+    - id: Elephant Jukebox
   - title: Trainwreck
     startTime: '16:00'
-    contributorIDs:
-    - Trainwreck
+    contributors:
+    - id: Trainwreck
   - title: Boshco
     startTime: '17:00'
-    contributorIDs:
-    - Boshco
+    contributors:
+    - id: Boshco
   - title: Mihajic Touch
     startTime: '18:00'
-    contributorIDs:
-    - Mihajic Touch
+    contributors:
+    - id: Mihajic Touch
   - title: Das Booty
     startTime: '19:00'
-    contributorIDs:
-    - Das Booty
+    contributors:
+    - id: Das Booty
   - title: Jontin
     startTime: '20:00'
-    contributorIDs:
-    - Jontin
+    contributors:
+    - id: Jontin
   - title: Rich E Rich
     startTime: '21:00'
-    contributorIDs:
-    - Rich E Rich
+    contributors:
+    - id: Rich E Rich
   - title: Wes Please
     startTime: '22:30'
-    contributorIDs:
-    - Wes Please
+    contributors:
+    - id: Wes Please
   - title: Slynk
-    startTime: '00:00'
-    contributorIDs:
-    - Slynk
+    startTime: 00:00
+    contributors:
+    - id: Slynk
   - title: Stickybuds
-    startTime: '01:30'
-    contributorIDs:
-    - Stickybuds
+    startTime: 01:30
+    contributors:
+    - id: Stickybuds
   - title: Stanton Warriors
-    startTime: '03:00'
-    contributorIDs:
-    - Stanton Warriors
+    startTime: 03:00
+    contributors:
+    - id: Stanton Warriors
   - title: Freddy J
-    startTime: '04:30'
-    contributorIDs:
-    - Freddy J
+    startTime: 04:30
+    contributors:
+    - id: Freddy J
   - title: Funkin Right
-    startTime: '06:00'
-    contributorIDs:
-    - Funkin Right
+    startTime: 06:00
+    contributors:
+    - id: Funkin Right
   - title: Civilian
-    startTime: '07:30'
-    contributorIDs:
-    - Civilian
+    startTime: 07:30
+    contributors:
+    - id: Civilian
   - title: Jpod
-    startTime: '09:00'
-    contributorIDs:
-    - Jpod
+    startTime: 09:00
+    contributors:
+    - id: Jpod
   - title: M3RF
     startTime: '10:30'
     endTime: '12:00'
-    contributorIDs:
-    - M3RF
+    contributors:
+    - id: M3RF
   ursus:
   - title: Longwalkshortdock (Ambient set)
     startTime: '14:00'
-    contributorIDs:
-    - Longwalkshortdock (Ambient set)
+    contributors:
+    - id: Longwalkshortdock (Ambient set)
   - title: Fashion Show
     startTime: '15:30'
-    contributorIDs:
-    - Fashion Show
+    contributors:
+    - id: Fashion Show
   - title: Jess Vernon & Maponus
     startTime: '16:30'
-    contributorIDs:
-    - Jess Vernon & Maponus
-  - title: Rubix & Fallenwall, 7heory, Tony Toosick, Cinel, J-Reds, Catfishthewizard, Newman & Street Dancers
+    contributors:
+    - id: Jess Vernon & Maponus
+  - title: Rubix & Fallenwall, 7heory, Tony Toosick, Cinel, J-Reds, Catfishthewizard,
+      Newman & Street Dancers
     startTime: '17:30'
-    contributorIDs:
-    - Rubix & Fallenwall
-    - 7heory
-    - Tony Toosick
-    - Cinel
-    - J-Reds
-    - Catfishthewizard
-    - Newman
-    - Street Dancers
+    contributors:
+    - id: Rubix & Fallenwall
+    - id: 7heory
+    - id: Tony Toosick
+    - id: Cinel
+    - id: J-Reds
+    - id: Catfishthewizard
+    - id: Newman
+    - id: Street Dancers
   - title: Fitzpleasure
     startTime: '19:30'
-    contributorIDs:
-    - Fitzpleasure
+    contributors:
+    - id: Fitzpleasure
   - title: Ishtar Dance Collective
     startTime: '20:15'
-    contributorIDs:
-    - Ishtar Dance Collective
+    contributors:
+    - id: Ishtar Dance Collective
   - title: Sargeant X Comrade
     startTime: '20:30'
-    contributorIDs:
-    - Sargeant X Comrade
+    contributors:
+    - id: Sargeant X Comrade
   - title: J-Reds
     startTime: '21:30'
-    contributorIDs:
-    - J-Reds
+    contributors:
+    - id: J-Reds
   - title: Drezus
     startTime: '21:45'
     endTime: '22:45'
-    contributorIDs:
-    - Drezus
+    contributors:
+    - id: Drezus
   - title: Skreid
     startTime: '23:00'
-    endTime: '00:00'
-    contributorIDs:
-    - Skreid
+    endTime: 00:00
+    contributors:
+    - id: Skreid
+  the-portal:
+  - title: Noodles, The Author, Just One, Free Samples & Jep
+    startTime: '12:00'
+    contributors:
+    - id: Noodles
+    - id: The Author
+    - id: Just One
+    - id: Free Samples
+    - id: Jep
+  - title: Rennie
+    startTime: '19:00'
+    contributors:
+    - id: Rennie
+  - title: DJ Polar
+    startTime: '20:00'
+    contributors:
+    - id: DJ Polar
+  - title: Keekz
+    startTime: '21:00'
+    contributors:
+    - id: Keekz
+  - title: PuppyCat
+    startTime: '22:00'
+    contributors:
+    - id: PuppyCat
+  - title: Sumwan, Siadic & Kairo
+    startTime: '23:30'
+    contributors:
+    - id: Sumwan
+    - id: Siadic
+    - id: Kairo
+  - title: Dose.
+    startTime: 02:30
+    contributors:
+    - id: Dose.
+  - title: HNH
+    startTime: 04:00
+    contributors:
+    - id: HNH
+  - title: Smirk
+    startTime: 05:00
+    contributors:
+    - id: Smirk
+  - title: Lil Stitious
+    startTime: 06:00
+    contributors:
+    - id: Lil Stitious
+  - title: Portal Fam Dub Rinseout
+    startTime: 07:00
+    endTime: '11:00'
+    contributors:
+    - id: Portal Fam Dub Rinseout
+  the-hallow:
+  - title: Abstrakt Sonance
+    startTime: '16:00'
+    contributors:
+    - id: Abstrakt Sonance
+  - title: Carissa Gem
+    startTime: '17:30'
+    contributors:
+    - id: Carissa Gem
+  - title: El Toro
+    startTime: '19:00'
+    contributors:
+    - id: El Toro
+  - title: '4:44'
+    startTime: '20:00'
+    contributors:
+    - name: '4:44'
+  - title: Oakk
+    startTime: '21:00'
+    contributors:
+    - id: Oakk
+  - title: Greazus
+    startTime: '22:30'
+    contributors:
+    - id: Greazus
+  - title: MYTHYM
+    startTime: '23:30'
+    contributors:
+    - id: MYTHYM
+  - title: Hunter Down & CallMeKeeks
+    startTime: 00:45
+    contributors:
+    - id: Hunter Down
+    - id: CallMeKeeks
+  - title: Calyx & Teebe
+    startTime: 01:00
+    contributors:
+    - id: Calyx & Teebe
+  - title: Diligent
+    startTime: 03:00
+    contributors:
+    - id: Diligent
+  - title: Kellan It
+    startTime: 04:00
+    contributors:
+    - id: Kellan It
+  - title: Strange Manner, Aleatha, Logo, Yontzie, Swayze, Djenerate, Mary Jane &
+      Obscene
+    startTime: 05:00
+    endTime: 09:30
+    contributors:
+    - id: Strange Manner
+    - id: Aleatha
+    - id: Logo
+    - id: Yontzie
+    - id: Swayze
+    - id: Djenerate
+    - id: Mary Jane
+    - id: Obscene

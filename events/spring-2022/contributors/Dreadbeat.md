@@ -1,3 +1,3 @@
 ---
-name: "Dreadbeat"
+name: Dreadbeat
 ---

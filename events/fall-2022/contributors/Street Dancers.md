@@ -1,3 +1,3 @@
 ---
-name: "Street Dancers"
+name: Street Dancers
 ---

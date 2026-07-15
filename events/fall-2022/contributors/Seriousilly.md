@@ -1,3 +1,3 @@
 ---
-name: "Seriousilly"
+name: Seriousilly
 ---

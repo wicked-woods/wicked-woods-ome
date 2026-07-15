@@ -1,8 +1,14 @@
 ---
-name: "birdhaus"
-imageURL: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2F4B27B2EC-057B-4776-B46B-F03EC1C3081E.png?alt=media&token=66956757-1735-404c-b7a3-ec42f117314d
+name: birdhaus
+images:
+- source:
+    url: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2F4B27B2EC-057B-4776-B46B-F03EC1C3081E.png?alt=media&token=66956757-1735-404c-b7a3-ec42f117314d
+  role: photo
+  renderKind: fullImage
+  materializationPolicy: lazy
 links:
 - url: https://soundcloud.com/birdhaus_music
+  platform: soundcloud
 ---
 Kootenay based female DJ duo BIRDHAUS always bring the vibes with their diverse selection of all flavours of house and breaks. 
 

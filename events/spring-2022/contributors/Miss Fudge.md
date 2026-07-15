@@ -1,3 +1,3 @@
 ---
-name: "Miss Fudge"
+name: Miss Fudge
 ---

@@ -1,11 +1,20 @@
 ---
-name: "Esette"
-imageURL: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2FD0532B1B-8866-49AD-BFB9-540911B680D5.png?alt=media&token=93e734d1-4966-435a-a0f0-5c1f6e17209f
+name: Esette
+images:
+- source:
+    url: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2FD0532B1B-8866-49AD-BFB9-540911B680D5.png?alt=media&token=93e734d1-4966-435a-a0f0-5c1f6e17209f
+  role: photo
+  renderKind: fullImage
+  materializationPolicy: lazy
 links:
 - url: https://soundcloud.com/isis-graham
+  platform: soundcloud
 - url: https://open.spotify.com/artist/6nHaUo7jwAiP14o9PqH9Dd
+  platform: spotify
 - url: https://www.instagram.com/isisgraham/
+  platform: instagram
 - url: https://www.facebook.com/esettemusic
+  platform: facebook
 ---
 Notoriously resilient and innovative, Esette’s unyielding work ethic, paired with over twenty years of music industry experience, have made her a household name in Western Canada. As one of the guiding forces of cultural phenomena such as The Alberta Electronic Music Conference, Girls on Decks, Substation Recordings, Versions Patio Parties, Esette (aka Isis Graham) is equally comfortable behind the decks or behind the scenes. 
 Graham first began throwing raves in 1998, witnessing the height of Calgary’s renegade party scene with events that drew as many as 1600 people. In 1999 she began DJing, and after local bylaws brought about the end of raves the following year, she brought her sounds to some of the most notable Western Canadian venues of the last two decades, appearing at legendary spots like the Embassy, Cherry Lounge, Habitat Living Sound, 9910, The Hifi Club, Open Studios, Beaumont Studios, Gorg-O-Mish, Bloom, and the Night Gallery. She’s been invited to play notable festivals like Bass Coast, WMC, Decibel, Think! Festival, Shambhala, and Amsterdam Dance Event. 

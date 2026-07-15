@@ -1,12 +1,23 @@
 ---
-name: "Freestylers"
-imageURL: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2F03A5A3F4-DA85-4C72-8558-36C2CEFAF26D.png?alt=media&token=23a76ecd-eb1b-4753-9377-9333abc577aa
+name: Freestylers
+images:
+- source:
+    url: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2F03A5A3F4-DA85-4C72-8558-36C2CEFAF26D.png?alt=media&token=23a76ecd-eb1b-4753-9377-9333abc577aa
+  role: photo
+  renderKind: fullImage
+  materializationPolicy: lazy
 links:
 - url: https://soundcloud.com/freestylers
+  platform: soundcloud
 - url: http://freestylersmusic.co.uk/
+  platform: website
 - url: https://open.spotify.com/artist/0zg9mF9dX2knvdTKnL22T1
+  platform: spotify
 - url: https://www.youtube.com/user/FreestylersOfficial
+  platform: youtube
 - url: https://www.instagram.com/thefreestylersofficial/?hl=en-gb
+  platform: instagram
 - url: https://www.facebook.com/freestylersofficial/
+  platform: facebook
 ---
 After a 20 year career the Freestylers have covered a full 360 degrees in the Bass Music genre, having played all the biggest festivals, the most talked about Nightclubs around the World and even the quintessentially British music show, Top Of The Pops. Having achieved the kind of success most artists can only dream of, they’ve not rested on their laurels. Aston and Matt started working on Music together in the mid ‘90’s after discovering a mutual love of Hip-Hop, Electro and Beats. They released their first two Albums ‘We Rock Hard’ and ‘Pressure Point’ on legendary Breakbeat label Freskanova. ’Raw as F**K” and ‘Adventures In Freestyle” were released on ‘Against The Grain” another Breaks Power House based out of Brighton,UK. From being voted ‘Best Band’ by Muzik Magazine in ’98, to touring with Lenny Kravitz on his American Woman Tour (he asked them himself as he was so impressed with their act), rocking a crowd of 30,000 at Glastonbury Festival ’99, performing at MTV’s Times Square Millennium Party,playing Big Day Out ’05 – it’s fair to say these Guys have had one big Adventure so far. The Freestylers began their career as an Urban Electronic Music Act, and their early Tunes ‘B-Boy Stance,’’ ‘Ruffneck’ and ‘Warning’ set the marker. As their Music progressed so did their Anthems with the seminal tunes ‘Punks’, ‘Boom Blast’, ‘Fasten YourSeat-Belts’,’Painkiller” and more recently ‘Cracks.’to list a few.In addition to their status as Underground Heroes, they have gained commercial success with their Global Hit ‘Push Up’ and have had their Music synched in many TV Commercials and Films ,including the hugely successful Comedies,Zoolander,Hey Dude Where’s My Car and the more recent Sisters Their ever eclectic style and renegade approach to production focuses on everything in the Bass Music Spectrum and was on show with their 5th Studio Album ‘The Coming Storm’.The current single “Spread Love” has been crossing boundaries with it’s Bassline House/Breaks hybrid sound and soon to follow up single Hypnotic Eyez and new EP Club Tracks Vol IV have been designed for maximum dancefloor devastation.The Freestylers are here to stay and are definitely rocking even harder. 

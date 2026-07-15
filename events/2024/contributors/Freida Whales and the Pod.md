@@ -1,3 +1,3 @@
 ---
-name: "Freida Whales and the Pod"
+name: Freida Whales and the Pod
 ---

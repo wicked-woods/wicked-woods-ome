@@ -1,9 +1,16 @@
 ---
-name: "JPOD"
-imageURL: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2F981C2437-665A-428D-ABDB-21C053A114D4.png?alt=media&token=9b26fe99-46b5-4901-9424-9aed6c287f7c
+name: JPOD
+images:
+- source:
+    url: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2F981C2437-665A-428D-ABDB-21C053A114D4.png?alt=media&token=9b26fe99-46b5-4901-9424-9aed6c287f7c
+  role: photo
+  renderKind: fullImage
+  materializationPolicy: lazy
 links:
 - url: http://soundcloud.com/jpodabides
+  platform: soundcloud
 - url: http://jpodtbc.com/
+  platform: website
 ---
 Known for unique flavor and technical precision, JPOD weaves his skills through a variety of dance music styles. He is also notorious for remixing diverse genres such as gospel, bluegrass, folk, swing, blues, reggae and soul. His sincere enthusiasm and raw dancing energy tends to win even the most jaded of souls.
 

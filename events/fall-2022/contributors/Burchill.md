@@ -1,6 +1,11 @@
 ---
-name: "Burchill"
-imageURL: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2FED527A56-5662-46EC-A4FE-AC2D12E7DC1E.png?alt=media&token=eb6fdc77-e22d-4730-95c9-9ab74aa4be53
+name: Burchill
+images:
+- source:
+    url: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2FED527A56-5662-46EC-A4FE-AC2D12E7DC1E.png?alt=media&token=eb6fdc77-e22d-4730-95c9-9ab74aa4be53
+  role: photo
+  renderKind: fullImage
+  materializationPolicy: lazy
 links: []
 ---
 Find Burchill in the mountains or on stage, sometimes both ??????

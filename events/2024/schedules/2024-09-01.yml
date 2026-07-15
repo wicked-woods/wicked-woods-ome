@@ -1,228 +1,228 @@
 date: '2024-09-01'
 performances:
-  the-portal:
-  - title: 'Just One '
-    startTime: '16:00'
-    contributorIDs:
-    - 'Just One '
-  - title: Gavin K
-    startTime: '17:00'
-    contributorIDs:
-    - Gavin K
-  - title: Chacho
-    startTime: '18:00'
-    contributorIDs:
-    - Chacho
-  - title: 'Rosso '
-    startTime: '19:00'
-    contributorIDs:
-    - 'Rosso '
-  - title: Mertz
-    startTime: '20:00'
-    contributorIDs:
-    - Mertz
-  - title: Wolfcollar
-    startTime: '21:00'
-    contributorIDs:
-    - Wolfcollar
-  - title: 'melo.nade '
-    startTime: '22:00'
-    contributorIDs:
-    - 'melo.nade '
-  - title: Kali
-    startTime: '23:00'
-    contributorIDs:
-    - Kali
-  - title: Marah
-    startTime: '00:00'
-    contributorIDs:
-    - Marah
-  - title: ZURGLIN
-    startTime: '01:00'
-    contributorIDs:
-    - ZURGLIN
-  - title: PuppyCat
-    startTime: '02:00'
-    contributorIDs:
-    - PuppyCat
-  - title: BoyNotHome
-    startTime: '03:30'
-    contributorIDs:
-    - BoyNotHome
-  - title: 'Ponda '
-    startTime: '04:30'
-    contributorIDs:
-    - 'Ponda '
-  - title: The Author
-    startTime: '05:30'
-    contributorIDs:
-    - The Author
-  - title: JEP
-    startTime: '06:30'
-    contributorIDs:
-    - JEP
-  - title: 'Lil Stitious '
-    startTime: '07:30'
-    contributorIDs:
-    - 'Lil Stitious '
-  - title: Portal Fam Dub Rinseout
-    startTime: '08:30'
-    endTime: '12:00'
-    contributorIDs:
-    - Portal Fam Dub Rinseout
-  unicorn-lounge:
-  - title: 'LaBeat '
-    startTime: '15:00'
-    contributorIDs:
-    - 'LaBeat '
-  - title: Bunny Hops
-    startTime: '16:00'
-    contributorIDs:
-    - Bunny Hops
-  - title: Jontin
-    startTime: '17:00'
-    contributorIDs:
-    - Jontin
-  - title: JUST K8
-    startTime: '18:00'
-    contributorIDs:
-    - JUST K8
-  - title: DJ Praiz
-    startTime: '19:00'
-    contributorIDs:
-    - DJ Praiz
-  - title: Spanda
-    startTime: '20:00'
-    contributorIDs:
-    - Spanda
-  - title: M3RF
-    startTime: '21:00'
-    contributorIDs:
-    - M3RF
-  - title: Wes Please
-    startTime: '22:30'
-    contributorIDs:
-    - Wes Please
-  - title: Freestylers
-    startTime: '00:00'
-    contributorIDs:
-    - Freestylers
-  - title: Krafty Kuts
-    startTime: '01:30'
-    contributorIDs:
-    - Krafty Kuts
-  - title: Control Room
-    startTime: '03:00'
-    contributorIDs:
-    - Control Room
-  - title: Civillian
-    startTime: '04:30'
-    contributorIDs:
-    - Civillian
-  - title: Lefy
-    startTime: '06:00'
-    contributorIDs:
-    - Lefy
-  - title: Jon  Delerious
-    startTime: '07:30'
-    contributorIDs:
-    - Jon  Delerious
-  - title: DJ Sprout
-    startTime: '09:00'
-    contributorIDs:
-    - DJ Sprout
-  - title: Heatsource
-    startTime: '10:30'
-    endTime: '12:00'
-    contributorIDs:
-    - Heatsource
   the-hallow:
   - title: TONZ
     startTime: '15:00'
-    contributorIDs:
-    - TONZ
+    contributors:
+    - id: TONZ
   - title: Dani Expanding
     startTime: '16:30'
-    contributorIDs:
-    - Dani Expanding
+    contributors:
+    - id: Dani Expanding
   - title: adekn, Benevolent & Luna Dialect
     startTime: '17:15'
-    contributorIDs:
-    - adekn
-    - Benevolent
-    - Luna Dialect
+    contributors:
+    - id: adekn
+    - id: Benevolent
+    - id: Luna Dialect
   - title: Kellan-It
     startTime: '19:00'
-    contributorIDs:
-    - Kellan-It
+    contributors:
+    - id: Kellan-It
   - title: Illustrator
     startTime: '20:00'
-    contributorIDs:
-    - Illustrator
+    contributors:
+    - id: Illustrator
   - title: Innocent
     startTime: '21:00'
-    contributorIDs:
-    - Innocent
+    contributors:
+    - id: Innocent
   - title: Abstrakt Sonance
     startTime: '22:00'
-    contributorIDs:
-    - Abstrakt Sonance
+    contributors:
+    - id: Abstrakt Sonance
   - title: MVPZ (The Gaff & AMP Live)
     startTime: '23:00'
-    contributorIDs:
-    - MVPZ (The Gaff & AMP Live)
+    contributors:
+    - id: MVPZ (The Gaff & AMP Live)
   - title: Wreckno
-    startTime: '00:30'
-    contributorIDs:
-    - Wreckno
+    startTime: 00:30
+    contributors:
+    - id: Wreckno
   - title: Nostalgix
-    startTime: '02:00'
-    contributorIDs:
-    - Nostalgix
+    startTime: 02:00
+    contributors:
+    - id: Nostalgix
   - title: Shylow
-    startTime: '03:30'
-    contributorIDs:
-    - Shylow
+    startTime: 03:30
+    contributors:
+    - id: Shylow
   - title: Benanas
-    startTime: '04:30'
-    contributorIDs:
-    - Benanas
+    startTime: 04:30
+    contributors:
+    - id: Benanas
   - title: DnB Girls
-    startTime: '05:30'
-    endTime: '08:00'
-    contributorIDs:
-    - DnB Girls
+    startTime: 05:30
+    endTime: 08:00
+    contributors:
+    - id: DnB Girls
+  unicorn-lounge:
+  - title: 'LaBeat '
+    startTime: '15:00'
+    contributors:
+    - id: 'LaBeat '
+  - title: Bunny Hops
+    startTime: '16:00'
+    contributors:
+    - id: Bunny Hops
+  - title: Jontin
+    startTime: '17:00'
+    contributors:
+    - id: Jontin
+  - title: JUST K8
+    startTime: '18:00'
+    contributors:
+    - id: JUST K8
+  - title: DJ Praiz
+    startTime: '19:00'
+    contributors:
+    - id: DJ Praiz
+  - title: Spanda
+    startTime: '20:00'
+    contributors:
+    - id: Spanda
+  - title: M3RF
+    startTime: '21:00'
+    contributors:
+    - id: M3RF
+  - title: Wes Please
+    startTime: '22:30'
+    contributors:
+    - id: Wes Please
+  - title: Freestylers
+    startTime: 00:00
+    contributors:
+    - id: Freestylers
+  - title: Krafty Kuts
+    startTime: 01:30
+    contributors:
+    - id: Krafty Kuts
+  - title: Control Room
+    startTime: 03:00
+    contributors:
+    - id: Control Room
+  - title: Civillian
+    startTime: 04:30
+    contributors:
+    - id: Civillian
+  - title: Lefy
+    startTime: 06:00
+    contributors:
+    - id: Lefy
+  - title: Jon  Delerious
+    startTime: 07:30
+    contributors:
+    - id: Jon  Delerious
+  - title: DJ Sprout
+    startTime: 09:00
+    contributors:
+    - id: DJ Sprout
+  - title: Heatsource
+    startTime: '10:30'
+    endTime: '12:00'
+    contributors:
+    - id: Heatsource
+  the-portal:
+  - title: 'Just One '
+    startTime: '16:00'
+    contributors:
+    - id: 'Just One '
+  - title: Gavin K
+    startTime: '17:00'
+    contributors:
+    - id: Gavin K
+  - title: Chacho
+    startTime: '18:00'
+    contributors:
+    - id: Chacho
+  - title: 'Rosso '
+    startTime: '19:00'
+    contributors:
+    - id: 'Rosso '
+  - title: Mertz
+    startTime: '20:00'
+    contributors:
+    - id: Mertz
+  - title: Wolfcollar
+    startTime: '21:00'
+    contributors:
+    - id: Wolfcollar
+  - title: 'melo.nade '
+    startTime: '22:00'
+    contributors:
+    - id: 'melo.nade '
+  - title: Kali
+    startTime: '23:00'
+    contributors:
+    - id: Kali
+  - title: Marah
+    startTime: 00:00
+    contributors:
+    - id: Marah
+  - title: ZURGLIN
+    startTime: 01:00
+    contributors:
+    - id: ZURGLIN
+  - title: PuppyCat
+    startTime: 02:00
+    contributors:
+    - id: PuppyCat
+  - title: BoyNotHome
+    startTime: 03:30
+    contributors:
+    - id: BoyNotHome
+  - title: 'Ponda '
+    startTime: 04:30
+    contributors:
+    - id: 'Ponda '
+  - title: The Author
+    startTime: 05:30
+    contributors:
+    - id: The Author
+  - title: JEP
+    startTime: 06:30
+    contributors:
+    - id: JEP
+  - title: 'Lil Stitious '
+    startTime: 07:30
+    contributors:
+    - id: 'Lil Stitious '
+  - title: Portal Fam Dub Rinseout
+    startTime: 08:30
+    endTime: '12:00'
+    contributors:
+    - id: Portal Fam Dub Rinseout
   ursus:
   - title: Freida Whales and the Pod
     startTime: '14:00'
-    contributorIDs:
-    - Freida Whales and the Pod
+    contributors:
+    - id: Freida Whales and the Pod
   - title: Holden Space
     startTime: '16:00'
-    contributorIDs:
-    - Holden Space
+    contributors:
+    - id: Holden Space
   - title: 'Muzik Therapy '
     startTime: '17:00'
-    contributorIDs:
-    - 'Muzik Therapy '
+    contributors:
+    - id: 'Muzik Therapy '
   - title: Sifi & Willoway
     startTime: '18:00'
-    contributorIDs:
-    - Sifi & Willoway
+    contributors:
+    - id: Sifi & Willoway
   - title: Manteasah
     startTime: '19:30'
-    contributorIDs:
-    - Manteasah
+    contributors:
+    - id: Manteasah
   - title: Vekked
     startTime: '21:00'
-    contributorIDs:
-    - Vekked
+    contributors:
+    - id: Vekked
   - title: K+Lab
     startTime: '22:30'
-    contributorIDs:
-    - K+Lab
+    contributors:
+    - id: K+Lab
   - title: WRAZ
     startTime: '23:45'
-    endTime: '01:00'
-    contributorIDs:
-    - WRAZ
+    endTime: 01:00
+    contributors:
+    - id: WRAZ

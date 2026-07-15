@@ -1,7 +1,11 @@
 ---
-name: "Tristina Quinney-George"
-imageURL: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/TristinaQuinneyGeorge.png
-kind: "Art & Installations"
+name: Tristina Quinney-George
+images:
+- source:
+    url: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/TristinaQuinneyGeorge.png
+  role: photo
+  renderKind: fullImage
+  materializationPolicy: lazy
 links: []
 ---
 Tristina (she/her) is a 28-year-old multidisciplinary artist with roots as rich and vibrant as her creations — a beautiful blend of Indigenous and Caribbean heritage. Based in Calgary, Alberta, Canada, Tristina is known for her kind heart, thoughtful hands, and a boundless creative spirit. Friends describe her as deeply romantic, endlessly helpful, and the kind of person who somehow always remembers where the scissors are.

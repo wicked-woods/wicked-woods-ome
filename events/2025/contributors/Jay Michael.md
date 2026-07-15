@@ -1,12 +1,19 @@
 ---
-name: "Jay Michael"
-imageURL: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/JayMichael.jpg
-logoURL: https://wickedwoods.festivalpro.com/?getFile&FILEID=32291
-kind: "Live Performance"
+name: Jay Michael
+images:
+- source:
+    url: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/JayMichael.jpg
+  role: photo
+  renderKind: fullImage
+  materializationPolicy: lazy
+- source:
+    url: https://wickedwoods.festivalpro.com/?getFile&FILEID=32291
+  role: logo
+  renderKind: transparent
+  materializationPolicy: lazy
 links:
 - url: https://www.instagram.com/jaymichael_ionicsoundsystems/
-  linkType:
-    label: instagram
+  platform: instagram
 ---
 JAY MICHAEL
  For almost 2 decades Jay Michael has carved a reputation for delivering memorable hypnotic journeys through the intelligent realms of techno and progressive psytrance. Expect nothing less than a moving heart felt eyes closed journey through all the sounds of psychedelica. 

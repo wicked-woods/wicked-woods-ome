@@ -1,21 +1,25 @@
 ---
-name: "Le Cirque de la Nuit"
-imageURL: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/LeCirquedelaNuit.jpg
-logoURL: https://wickedwoods.festivalpro.com/?getFile&FILEID=38955
-kind: "Live Performance"
+name: Le Cirque de la Nuit
+images:
+- source:
+    url: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/LeCirquedelaNuit.jpg
+  role: photo
+  renderKind: fullImage
+  materializationPolicy: lazy
+- source:
+    url: https://wickedwoods.festivalpro.com/?getFile&FILEID=38955
+  role: logo
+  renderKind: transparent
+  materializationPolicy: lazy
 links:
 - url: https://www.youtube.com/@cirquenuit
-  linkType:
-    label: youtube
+  platform: youtube
 - url: https://www.facebook.com/cirquenuit
-  linkType:
-    label: facebook
+  platform: facebook
 - url: https://www.instagram.com/cirquenuit
-  linkType:
-    label: instagram
+  platform: instagram
 - url: https://www.cirquenuit.com
-  linkType:
-    label: website
+  platform: website
 ---
 Le Cirque de la Nuit / Cirque Nuit Arts Foundation is Western Canada’s leading non-profit circus and performing arts organization. Since 2013, they have been pushing the boundaries of live performance, crafting awe-inspiring shows that transport audiences into the spectacular world of the night circus!
 

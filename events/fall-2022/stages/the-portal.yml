@@ -1,3 +1,8 @@
 name: The Portal
-color: 0x4E7E94
-iconImageURL: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2F1F6E91FE-3207-4876-B52F-441604EDF25C.png?alt=media&token=dd0d24e1-52de-4752-8e82-c352053548b3
+color: 5144212
+images:
+- source:
+    url: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2F1F6E91FE-3207-4876-B52F-441604EDF25C.png?alt=media&token=dd0d24e1-52de-4752-8e82-c352053548b3
+  role: logo
+  renderKind: transparent
+  materializationPolicy: prefetchOnOpen

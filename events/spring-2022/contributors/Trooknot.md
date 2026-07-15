@@ -1,3 +1,3 @@
 ---
-name: "Trooknot"
+name: Trooknot
 ---

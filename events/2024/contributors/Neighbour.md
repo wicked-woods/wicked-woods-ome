@@ -1,3 +1,3 @@
 ---
-name: "Neighbour"
+name: Neighbour
 ---

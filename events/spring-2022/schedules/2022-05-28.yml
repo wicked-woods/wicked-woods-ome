@@ -1,183 +1,183 @@
 date: '2022-05-28'
 performances:
-  the-hallow:
-  - title: JPOD
-    startTime: '15:00'
-    contributorIDs:
-    - JPOD
-  - title: Civillian
-    startTime: '16:30'
-    contributorIDs:
-    - Civillian
-  - title: Willa
-    startTime: '17:30'
-    contributorIDs:
-    - Willa
-  - title: El Toro
-    startTime: '18:30'
-    contributorIDs:
-    - El Toro
-  - title: INC.LINE
-    startTime: '19:30'
-    contributorIDs:
-    - INC.LINE
-  - title: Metafloor
-    startTime: '20:30'
-    contributorIDs:
-    - Metafloor
-  - title: Handsome Tiger
-    startTime: '21:30'
-    contributorIDs:
-    - Handsome Tiger
-  - title: Abstrakt Sonance
-    startTime: '22:30'
-    contributorIDs:
-    - Abstrakt Sonance
-  - title: GREAZUS
-    startTime: '23:30'
-    contributorIDs:
-    - GREAZUS
-  - title: Stylust
-    startTime: '00:30'
-    contributorIDs:
-    - Stylust
-  - title: Woofax
-    startTime: '01:30'
-    contributorIDs:
-    - Woofax
-  - title: Longwalkshortdock
-    startTime: '02:30'
-    contributorIDs:
-    - Longwalkshortdock
-  - title: Smol
-    startTime: '04:00'
-    contributorIDs:
-    - Smol
-  - title: Illustrator
-    startTime: '05:00'
-    contributorIDs:
-    - Illustrator
-  - title: Carissa Gem
-    startTime: '06:00'
-    contributorIDs:
-    - Carissa Gem
-  - title: Robbie C
-    startTime: '07:00'
-    endTime: '09:00'
-    contributorIDs:
-    - Robbie C
   unicorn-lounge:
   - title: Whisper
     startTime: '14:00'
-    contributorIDs:
-    - Whisper
+    contributors:
+    - id: Whisper
   - title: Logan Hart
     startTime: '15:00'
-    contributorIDs:
-    - Logan Hart
+    contributors:
+    - id: Logan Hart
   - title: Noodles
     startTime: '16:00'
-    contributorIDs:
-    - Noodles
+    contributors:
+    - id: Noodles
   - title: Dirty-D
     startTime: '17:00'
-    contributorIDs:
-    - Dirty-D
+    contributors:
+    - id: Dirty-D
   - title: Das Booty
     startTime: '18:00'
-    contributorIDs:
-    - Das Booty
+    contributors:
+    - id: Das Booty
   - title: Jontin
     startTime: '19:00'
-    contributorIDs:
-    - Jontin
+    contributors:
+    - id: Jontin
   - title: Trainwreck
     startTime: '20:00'
-    contributorIDs:
-    - Trainwreck
+    contributors:
+    - id: Trainwreck
   - title: I.M.Fast
     startTime: '21:00'
-    contributorIDs:
-    - I.M.Fast
+    contributors:
+    - id: I.M.Fast
   - title: Ben Fox
     startTime: '22:00'
-    contributorIDs:
-    - Ben Fox
+    contributors:
+    - id: Ben Fox
   - title: PINEO & LOEB
     startTime: '23:00'
-    contributorIDs:
-    - PINEO & LOEB
+    contributors:
+    - id: PINEO & LOEB
   - title: Fort Knox Five
-    startTime: '00:30'
-    contributorIDs:
-    - Fort Knox Five
+    startTime: 00:30
+    contributors:
+    - id: Fort Knox Five
   - title: Rumpus
-    startTime: '02:00'
-    contributorIDs:
-    - Rumpus
+    startTime: 02:00
+    contributors:
+    - id: Rumpus
   - title: Average Citizens
-    startTime: '03:30'
-    contributorIDs:
-    - Average Citizens
+    startTime: 03:30
+    contributors:
+    - id: Average Citizens
   - title: Mateeson & DPM
-    startTime: '05:00'
-    contributorIDs:
-    - Mateeson
-    - DPM
+    startTime: 05:00
+    contributors:
+    - id: Mateeson
+    - id: DPM
   - title: Pete Wilde
-    startTime: '06:30'
-    contributorIDs:
-    - Pete Wilde
+    startTime: 06:30
+    contributors:
+    - id: Pete Wilde
   - title: Pleasensations
-    startTime: '08:00'
-    contributorIDs:
-    - Pleasensations
+    startTime: 08:00
+    contributors:
+    - id: Pleasensations
   - title: Vortoozo
-    startTime: '09:30'
-    contributorIDs:
-    - Vortoozo
+    startTime: 09:30
+    contributors:
+    - id: Vortoozo
   - title: M3Rf
     startTime: '11:00'
     endTime: '13:00'
-    contributorIDs:
-    - M3Rf
+    contributors:
+    - id: M3Rf
+  the-hallow:
+  - title: JPOD
+    startTime: '15:00'
+    contributors:
+    - id: JPOD
+  - title: Civillian
+    startTime: '16:30'
+    contributors:
+    - id: Civillian
+  - title: Willa
+    startTime: '17:30'
+    contributors:
+    - id: Willa
+  - title: El Toro
+    startTime: '18:30'
+    contributors:
+    - id: El Toro
+  - title: INC.LINE
+    startTime: '19:30'
+    contributors:
+    - id: INC.LINE
+  - title: Metafloor
+    startTime: '20:30'
+    contributors:
+    - id: Metafloor
+  - title: Handsome Tiger
+    startTime: '21:30'
+    contributors:
+    - id: Handsome Tiger
+  - title: Abstrakt Sonance
+    startTime: '22:30'
+    contributors:
+    - id: Abstrakt Sonance
+  - title: GREAZUS
+    startTime: '23:30'
+    contributors:
+    - id: GREAZUS
+  - title: Stylust
+    startTime: 00:30
+    contributors:
+    - id: Stylust
+  - title: Woofax
+    startTime: 01:30
+    contributors:
+    - id: Woofax
+  - title: Longwalkshortdock
+    startTime: 02:30
+    contributors:
+    - id: Longwalkshortdock
+  - title: Smol
+    startTime: 04:00
+    contributors:
+    - id: Smol
+  - title: Illustrator
+    startTime: 05:00
+    contributors:
+    - id: Illustrator
+  - title: Carissa Gem
+    startTime: 06:00
+    contributors:
+    - id: Carissa Gem
+  - title: Robbie C
+    startTime: 07:00
+    endTime: 09:00
+    contributors:
+    - id: Robbie C
   ursus:
   - title: Tate & Dallas
     startTime: '12:00'
-    contributorIDs:
-    - Tate & Dallas
+    contributors:
+    - id: Tate & Dallas
   - title: Proof Read Dread
     startTime: '13:00'
     endTime: '14:00'
-    contributorIDs:
-    - Proof Read Dread
+    contributors:
+    - id: Proof Read Dread
   - title: Fermented Beet Orchestra
     startTime: '15:00'
-    contributorIDs:
-    - Fermented Beet Orchestra
+    contributors:
+    - id: Fermented Beet Orchestra
   - title: Fashion Show
     startTime: '16:00'
-    contributorIDs:
-    - Fashion Show
+    contributors:
+    - id: Fashion Show
   - title: Val Kilmer and the New Coke
     startTime: '17:00'
     endTime: '18:00'
-    contributorIDs:
-    - Val Kilmer and the New Coke
+    contributors:
+    - id: Val Kilmer and the New Coke
   - title: More Like Space
     startTime: '19:30'
-    contributorIDs:
-    - More Like Space
+    contributors:
+    - id: More Like Space
   - title: Woodyard
     startTime: '20:30'
-    contributorIDs:
-    - Woodyard
+    contributors:
+    - id: Woodyard
   - title: Oodra Movement
     startTime: '21:30'
-    contributorIDs:
-    - Oodra Movement
+    contributors:
+    - id: Oodra Movement
   - title: Five Alarm Funk
     startTime: '22:00'
     endTime: '23:20'
-    contributorIDs:
-    - Five Alarm Funk
+    contributors:
+    - id: Five Alarm Funk

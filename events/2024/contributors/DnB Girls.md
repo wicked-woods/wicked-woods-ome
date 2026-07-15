@@ -1,11 +1,20 @@
 ---
-name: "DnB Girls"
-imageURL: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2FDACFF0CD-FA5A-4C06-BB36-3CDE1ECA78F1.png?alt=media&token=25de384e-14a5-49ef-9940-bdc1af25daca
+name: DnB Girls
+images:
+- source:
+    url: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2FDACFF0CD-FA5A-4C06-BB36-3CDE1ECA78F1.png?alt=media&token=25de384e-14a5-49ef-9940-bdc1af25daca
+  role: photo
+  renderKind: fullImage
+  materializationPolicy: lazy
 links:
 - url: https://soundcloud.com/dnbgirls
+  platform: soundcloud
 - url: https://www.youtube.com/channel/UCX5OzWBQm11B4OSqUD7wgkQ
+  platform: youtube
 - url: https://www.instagram.com/dnb_girls/
+  platform: instagram
 - url: https://www.facebook.com/drumandbassgirls/
+  platform: facebook
 ---
 Get ready for a sonic takeover as the Wicked Wood Music Festival presents the DnB Girls! This electrifying lineup brings together a force of female firepower, ready to ignite the stage with their own unique blends.
 Prepare for a genre-bending journey through the world of drum and bass, with each DJ bringing their own unique blend of melodic beats, infectious rhythms, and pulsating basslines. Jams, Mittz, kiD-Dee, and Aversive are renowned for their technical skills and ability to weave intricate soundscapes that will have you moving and grooving all night long.

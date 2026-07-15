@@ -1,3 +1,3 @@
 ---
-name: "Dither Bit"
+name: Dither Bit
 ---

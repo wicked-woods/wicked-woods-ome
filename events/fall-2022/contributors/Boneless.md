@@ -1,3 +1,3 @@
 ---
-name: "Boneless"
+name: Boneless
 ---

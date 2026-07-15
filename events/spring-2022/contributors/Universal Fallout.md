@@ -1,3 +1,3 @@
 ---
-name: "Universal Fallout"
+name: Universal Fallout
 ---

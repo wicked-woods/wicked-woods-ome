@@ -1,6 +1,11 @@
 ---
-name: "Reflektor"
-imageURL: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2F8825717C-580B-4FA6-B472-C1D4CC44C9FF.png?alt=media&token=dccf678e-b9c7-499d-bbe0-d8ab61c70c7c
+name: Reflektor
+images:
+- source:
+    url: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2F8825717C-580B-4FA6-B472-C1D4CC44C9FF.png?alt=media&token=dccf678e-b9c7-499d-bbe0-d8ab61c70c7c
+  role: photo
+  renderKind: fullImage
+  materializationPolicy: lazy
 links: []
 ---
 Since combining forces in 2015, Reflektor has been on the rise as they’ve stretched their roots across the West Coast of Canada and caught eyes within the global Drum & Bass circuit. As a duo, Alex Timmer and Alec Grose found their unique sound nestled in the deeper end of the spectrum while flaunting a smooth, soulful, and diverse style of Dnb.

@@ -1,6 +1,11 @@
 ---
-name: "Portal Fam Dub Rinseout"
-imageURL: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2F063FCCF0-E833-4FA5-B7F1-FCFB90A46C9B.png?alt=media&token=b0f05d01-0da3-442b-8592-abfd93405552
+name: Portal Fam Dub Rinseout
+images:
+- source:
+    url: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2F063FCCF0-E833-4FA5-B7F1-FCFB90A46C9B.png?alt=media&token=b0f05d01-0da3-442b-8592-abfd93405552
+  role: photo
+  renderKind: fullImage
+  materializationPolicy: lazy
 links: []
 ---
 ༼ つ ◕_◕ ༽つ

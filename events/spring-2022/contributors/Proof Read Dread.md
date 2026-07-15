@@ -1,3 +1,3 @@
 ---
-name: "Proof Read Dread"
+name: Proof Read Dread
 ---

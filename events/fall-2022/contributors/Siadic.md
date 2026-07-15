@@ -1,3 +1,3 @@
 ---
-name: "Siadic"
+name: Siadic
 ---

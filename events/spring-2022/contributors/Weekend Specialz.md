@@ -1,3 +1,3 @@
 ---
-name: "Weekend Specialz"
+name: Weekend Specialz
 ---

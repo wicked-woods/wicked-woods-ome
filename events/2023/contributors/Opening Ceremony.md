@@ -1,3 +1,3 @@
 ---
-name: "Opening Ceremony"
+name: Opening Ceremony
 ---

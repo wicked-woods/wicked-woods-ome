@@ -1,3 +1,3 @@
 ---
-name: "Mark Woodyard"
+name: Mark Woodyard
 ---

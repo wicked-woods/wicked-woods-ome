@@ -1,3 +1,3 @@
 ---
-name: "Soup"
+name: Soup
 ---

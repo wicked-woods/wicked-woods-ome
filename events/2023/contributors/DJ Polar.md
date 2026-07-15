@@ -1,3 +1,3 @@
 ---
-name: "DJ Polar"
+name: DJ Polar
 ---

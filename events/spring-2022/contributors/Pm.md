@@ -1,3 +1,3 @@
 ---
-name: "Pm"
+name: Pm
 ---

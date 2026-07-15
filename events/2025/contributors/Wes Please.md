@@ -1,21 +1,25 @@
 ---
-name: "Wes Please"
-imageURL: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/WesPlease.jpg
-logoURL: https://wickedwoods.festivalpro.com/?getFile&FILEID=31355
-kind: "Live Performance"
+name: Wes Please
+images:
+- source:
+    url: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/WesPlease.jpg
+  role: photo
+  renderKind: fullImage
+  materializationPolicy: lazy
+- source:
+    url: https://wickedwoods.festivalpro.com/?getFile&FILEID=31355
+  role: logo
+  renderKind: transparent
+  materializationPolicy: lazy
 links:
 - url: https://soundcloud.com/wesplease%20
-  linkType:
-    label: soundcloud
+  platform: soundcloud
 - url: https://www.facebook.com/WesPlease%20
-  linkType:
-    label: facebook
+  platform: facebook
 - url: https://www.instagram.com/wes_please/
-  linkType:
-    label: instagram
+  platform: instagram
 - url: www.wesplease.com
-  linkType:
-    label: website
+  platform: website
 ---
 Wes Please has journeyed through the vast expanse of music, navigating galaxies of sound and energy to reach the heights he stands at today. His path has not been without gravity—challenges have pulled him in every direction, forcing him to evolve, adapt, and launch himself further into the unknown. Yet, like a star destined to shine, he has only grown brighter.
 

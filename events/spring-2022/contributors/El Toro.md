@@ -1,3 +1,3 @@
 ---
-name: "El Toro"
+name: El Toro
 ---

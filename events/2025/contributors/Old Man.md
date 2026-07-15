@@ -1,14 +1,20 @@
 ---
-name: "Old Man"
-imageURL: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/OldMan.jpg
-logoURL: https://wickedwoods.festivalpro.com/?getFile&FILEID=31531
-kind: "Live Performance"
+name: Old Man
+images:
+- source:
+    url: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/OldMan.jpg
+  role: photo
+  renderKind: fullImage
+  materializationPolicy: lazy
+- source:
+    url: https://wickedwoods.festivalpro.com/?getFile&FILEID=31531
+  role: logo
+  renderKind: transparent
+  materializationPolicy: lazy
 links:
 - url: https://soundcloud.com/silent-sounds
-  linkType:
-    label: soundcloud
+  platform: soundcloud
 - url: https://www.instagram.com/oldmanpeacosh/
-  linkType:
-    label: instagram
+  platform: instagram
 ---
 Oldman dusting off the crates bringing the dubstep and dubwise sounds from the underground. 

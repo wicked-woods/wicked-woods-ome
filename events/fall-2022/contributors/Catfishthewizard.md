@@ -1,3 +1,3 @@
 ---
-name: "Catfishthewizard"
+name: Catfishthewizard
 ---

@@ -1,6 +1,11 @@
 ---
-name: "The Myth of Woofax"
-imageURL: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2F55A2BCFD-16C7-466A-ACC9-80F63A1FD958.png?alt=media&token=a47c1775-6719-433d-85f5-c722bb860c01
+name: The Myth of Woofax
+images:
+- source:
+    url: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2F55A2BCFD-16C7-466A-ACC9-80F63A1FD958.png?alt=media&token=a47c1775-6719-433d-85f5-c722bb860c01
+  role: photo
+  renderKind: fullImage
+  materializationPolicy: lazy
 links: []
 ---
 Combining an all-original music mix with a self-written and professionally narrated short horror story, this audio aims to alter the paradigm of the traditional music mix. A lone character stumbles upon the secrets of a haunted mansion in this short ghost story. The tale is backed by the dark electronic soundscape of Woofax’s album made especially to compliment the narrative.

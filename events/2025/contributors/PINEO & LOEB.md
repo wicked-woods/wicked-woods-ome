@@ -1,27 +1,29 @@
 ---
-name: "PINEO & LOEB"
-imageURL: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/PINEOLOEB.jpg
-logoURL: https://wickedwoods.festivalpro.com/?getFile&FILEID=32909
-kind: "Live Performance"
+name: PINEO & LOEB
+images:
+- source:
+    url: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/PINEOLOEB.jpg
+  role: photo
+  renderKind: fullImage
+  materializationPolicy: lazy
+- source:
+    url: https://wickedwoods.festivalpro.com/?getFile&FILEID=32909
+  role: logo
+  renderKind: transparent
+  materializationPolicy: lazy
 links:
 - url: https://soundcloud.com/pineo-and-loeb
-  linkType:
-    label: soundcloud
+  platform: soundcloud
 - url: https://www.youtube.com/@pineoandloeb
-  linkType:
-    label: youtube
+  platform: youtube
 - url: https://www.facebook.com/PINEOANDLOEB/
-  linkType:
-    label: facebook
+  platform: facebook
 - url: https://www.instagram.com/pineoandloeb
-  linkType:
-    label: instagram
+  platform: instagram
 - url: https://open.spotify.com/artist/7LildCOU5me58NKlvsLVRI?si=qS3vlrwzTXmQzebnFjGKeA
-  linkType:
-    label: spotify
+  platform: spotify
 - url: https://www.pineoandloeb.com/
-  linkType:
-    label: website
+  platform: website
 ---
 Energetic, genre-blurring, and unstoppable on the global stage, PINEO & LOEB are the Canadian powerhouse shaping the electronic music scene. With over 100 shows annually across international hotspots, this dynamic DJ duo thrives on high-octane performances that have rocked festivals like Shambhala, Envision, Friendship, Burning Man and Escapade.
 

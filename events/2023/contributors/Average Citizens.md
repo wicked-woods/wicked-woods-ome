@@ -1,12 +1,22 @@
 ---
-name: "Average Citizens"
-imageURL: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2F2ACF0F76-741A-4611-99AD-9E9ED3096694.png?alt=media&token=6656fd62-d7af-4502-8171-df8fb11ec993
+name: Average Citizens
+images:
+- source:
+    url: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2F2ACF0F76-741A-4611-99AD-9E9ED3096694.png?alt=media&token=6656fd62-d7af-4502-8171-df8fb11ec993
+  role: photo
+  renderKind: fullImage
+  materializationPolicy: lazy
 links:
 - url: https://soundcloud.com/averagecitizens
+  platform: soundcloud
 - url: https://open.spotify.com/artist/5sN9PgGYPrFI5OcEHF7VR9
+  platform: spotify
 - url: https://www.youtube.com/@averagecitizens2702
+  platform: youtube
 - url: https://www.instagram.com/averagecitizens/
+  platform: instagram
 - url: https://www.facebook.com/averagcitizens/
+  platform: facebook
 ---
 Canadian DJ/production couple, Average Citizens “bring only the best wobbly basslines, booty shaking vibes, & bouncy goodness to the underground scene. Their enticing stage presence & high energy performances will leave you sweating & begging for more.” [Fresh Music Freaks].
 

@@ -1,3 +1,3 @@
 ---
-name: "Just One "
+name: 'Just One '
 ---

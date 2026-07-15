@@ -1,5 +1,4 @@
 ---
-name: "Mr. Diggler"
-kind: "Live Performance"
+name: Mr. Diggler
 links: []
 ---

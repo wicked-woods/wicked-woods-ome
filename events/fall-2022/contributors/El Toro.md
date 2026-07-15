@@ -1,6 +1,11 @@
 ---
-name: "El Toro"
-imageURL: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2F199AD8D5-2BEC-479B-9EEB-89E8108BA2AB.png?alt=media&token=832c24a3-0118-4330-a707-355de98e0453
+name: El Toro
+images:
+- source:
+    url: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2F199AD8D5-2BEC-479B-9EEB-89E8108BA2AB.png?alt=media&token=832c24a3-0118-4330-a707-355de98e0453
+  role: photo
+  renderKind: fullImage
+  materializationPolicy: lazy
 links: []
 ---
 El Toro – Kimberley BC 

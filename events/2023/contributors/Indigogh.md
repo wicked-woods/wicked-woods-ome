@@ -1,10 +1,18 @@
 ---
-name: "Indigogh"
-imageURL: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2FC07CB51C-2BC1-46FA-9DBC-A88107A06260.png?alt=media&token=a904477b-d027-4b64-92f6-6a77f6ee5a51
+name: Indigogh
+images:
+- source:
+    url: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2FC07CB51C-2BC1-46FA-9DBC-A88107A06260.png?alt=media&token=a904477b-d027-4b64-92f6-6a77f6ee5a51
+  role: photo
+  renderKind: fullImage
+  materializationPolicy: lazy
 links:
 - url: https://soundcloud.com/indigogh
+  platform: soundcloud
 - url: https://www.instagram.com/indigogh_music/
+  platform: instagram
 - url: https://www.facebook.com/IndigoghMusic
+  platform: facebook
 ---
 Belonging to the up and coming artist collective the Pastel Cartel, Indigogh has swiftly gained traction in the Vancouver underground with his fresh and stylistic gangster bass sounds.
 

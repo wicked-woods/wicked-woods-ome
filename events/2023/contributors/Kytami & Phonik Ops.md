@@ -1,12 +1,22 @@
 ---
-name: "Kytami & Phonik Ops"
-imageURL: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2FADB52F8C-F956-40B1-B43A-501B477768F5.png?alt=media&token=91698e00-feee-467f-9b35-346b225555f9
+name: Kytami & Phonik Ops
+images:
+- source:
+    url: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2FADB52F8C-F956-40B1-B43A-501B477768F5.png?alt=media&token=91698e00-feee-467f-9b35-346b225555f9
+  role: photo
+  renderKind: fullImage
+  materializationPolicy: lazy
 links:
 - url: https://soundcloud.com/kytami
+  platform: soundcloud
 - url: https://open.spotify.com/artist/0LV73kKoy3jOem7j7HvzJt
+  platform: spotify
 - url: https://www.youtube.com/TheKytami
+  platform: youtube
 - url: https://instagram.com/kytami
+  platform: instagram
 - url: https://www.facebook.com/Kytami
+  platform: facebook
 ---
 There are few acts on the west coast combining live instrumentation, high energy  and gritty bass with the ferocity and craft than violinist There are few acts on the west coast combining live instrumentation, high energy  and gritty bass with the ferocity and craft than violinist Kytami and DJ/Producer Phonik Ops. They have made it their mission to create a truly unique sound that  would be instantly recognizable as their own all the while drawing on their shared love of Drum n Bass, Hip Hop, Punk and bass heavy dance music.
 

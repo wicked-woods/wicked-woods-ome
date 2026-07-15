@@ -1,3 +1,3 @@
 ---
-name: "Fermented Beet Orchestra"
+name: Fermented Beet Orchestra
 ---

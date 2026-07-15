@@ -1,149 +1,149 @@
 date: '2022-09-08'
 performances:
-  unicorn-lounge:
-  - title: Lefy
-    startTime: '16:00'
-    contributorIDs:
-    - Lefy
-  - title: Benanas
-    startTime: '17:00'
-    contributorIDs:
-    - Benanas
-  - title: Llama
-    startTime: '18:00'
-    contributorIDs:
-    - Llama
-  - title: Bass Panda
-    startTime: '19:00'
-    contributorIDs:
-    - Bass Panda
-  - title: Trevor Galore
-    startTime: '20:00'
-    contributorIDs:
-    - Trevor Galore
-  - title: Hoola
-    startTime: '21:00'
-    contributorIDs:
-    - Hoola
-  - title: Ninjette
-    startTime: '22:30'
-    contributorIDs:
-    - Ninjette
-  - title: Craze
-    startTime: '00:00'
-    contributorIDs:
-    - Craze
-  - title: The Gaff
-    startTime: '01:00'
-    contributorIDs:
-    - The Gaff
-  - title: I.M.Fast & Burchill
-    startTime: '02:30'
-    contributorIDs:
-    - I.M.Fast
-    - Burchill
-  - title: Underdog
-    startTime: '04:00'
-    contributorIDs:
-    - Underdog
-  - title: Pete Wilde
-    startTime: '05:00'
-    endTime: '06:00'
-    contributorIDs:
-    - Pete Wilde
-  the-portal:
-  - title: Opening Ceremony
-    startTime: '18:30'
-    contributorIDs:
-    - Opening Ceremony
-  - title: Skbr & Ghillie
-    startTime: '19:00'
-    contributorIDs:
-    - Skbr
-    - Ghillie
-  - title: Tone D.
-    startTime: '20:00'
-    contributorIDs:
-    - Tone D.
-  - title: Oli
-    startTime: '21:00'
-    contributorIDs:
-    - Oli
-  - title: Chuzzwuzzla
-    startTime: '22:00'
-    contributorIDs:
-    - Chuzzwuzzla
-  - title: M4XW311, Dove & Skobe
-    startTime: '23:00'
-    contributorIDs:
-    - M4XW311
-    - Dove
-    - Skobe
-  - title: Sorsari
-    startTime: '01:00'
-    contributorIDs:
-    - Sorsari
-  - title: Kilbourne
-    startTime: '02:00'
-    contributorIDs:
-    - Kilbourne
-  - title: Gremmah
-    startTime: '03:00'
-    contributorIDs:
-    - Gremmah
-  - title: Dopecreature
-    startTime: '04:00'
-    contributorIDs:
-    - Dopecreature
-  - title: Howl
-    startTime: '05:00'
-    endTime: '06:30'
-    contributorIDs:
-    - Howl
   the-hallow:
   - title: Opening Ceremony
     startTime: '14:30'
-    contributorIDs:
-    - Opening Ceremony
+    contributors:
+    - id: Opening Ceremony
   - title: Craze
     startTime: '15:00'
-    contributorIDs:
-    - Craze
+    contributors:
+    - id: Craze
   - title: Yetz
     startTime: '16:00'
-    contributorIDs:
-    - Yetz
+    contributors:
+    - id: Yetz
   - title: 8Bit Ninja
     startTime: '17:00'
-    contributorIDs:
-    - 8Bit Ninja
+    contributors:
+    - id: 8Bit Ninja
   - title: Big Medicine
     startTime: '18:00'
     endTime: '19:00'
-    contributorIDs:
-    - Big Medicine
+    contributors:
+    - id: Big Medicine
   - title: Mews
     startTime: '20:00'
-    contributorIDs:
-    - Mews
+    contributors:
+    - id: Mews
   - title: Daega Sound
     startTime: '21:30'
-    contributorIDs:
-    - Daega Sound
+    contributors:
+    - id: Daega Sound
   - title: Widow
     startTime: '23:00'
-    contributorIDs:
-    - Widow
+    contributors:
+    - id: Widow
   - title: A Hundred Drums
-    startTime: '00:30'
-    contributorIDs:
-    - A Hundred Drums
+    startTime: 00:30
+    contributors:
+    - id: A Hundred Drums
   - title: The Myth of Woofax
-    startTime: '01:45'
-    contributorIDs:
-    - The Myth of Woofax
+    startTime: 01:45
+    contributors:
+    - id: The Myth of Woofax
   - title: Illustrator
-    startTime: '03:15'
-    endTime: '05:00'
-    contributorIDs:
-    - Illustrator
+    startTime: 03:15
+    endTime: 05:00
+    contributors:
+    - id: Illustrator
+  the-portal:
+  - title: Opening Ceremony
+    startTime: '18:30'
+    contributors:
+    - id: Opening Ceremony
+  - title: Skbr & Ghillie
+    startTime: '19:00'
+    contributors:
+    - id: Skbr
+    - id: Ghillie
+  - title: Tone D.
+    startTime: '20:00'
+    contributors:
+    - id: Tone D.
+  - title: Oli
+    startTime: '21:00'
+    contributors:
+    - id: Oli
+  - title: Chuzzwuzzla
+    startTime: '22:00'
+    contributors:
+    - id: Chuzzwuzzla
+  - title: M4XW311, Dove & Skobe
+    startTime: '23:00'
+    contributors:
+    - id: M4XW311
+    - id: Dove
+    - id: Skobe
+  - title: Sorsari
+    startTime: 01:00
+    contributors:
+    - id: Sorsari
+  - title: Kilbourne
+    startTime: 02:00
+    contributors:
+    - id: Kilbourne
+  - title: Gremmah
+    startTime: 03:00
+    contributors:
+    - id: Gremmah
+  - title: Dopecreature
+    startTime: 04:00
+    contributors:
+    - id: Dopecreature
+  - title: Howl
+    startTime: 05:00
+    endTime: 06:30
+    contributors:
+    - id: Howl
+  unicorn-lounge:
+  - title: Lefy
+    startTime: '16:00'
+    contributors:
+    - id: Lefy
+  - title: Benanas
+    startTime: '17:00'
+    contributors:
+    - id: Benanas
+  - title: Llama
+    startTime: '18:00'
+    contributors:
+    - id: Llama
+  - title: Bass Panda
+    startTime: '19:00'
+    contributors:
+    - id: Bass Panda
+  - title: Trevor Galore
+    startTime: '20:00'
+    contributors:
+    - id: Trevor Galore
+  - title: Hoola
+    startTime: '21:00'
+    contributors:
+    - id: Hoola
+  - title: Ninjette
+    startTime: '22:30'
+    contributors:
+    - id: Ninjette
+  - title: Craze
+    startTime: 00:00
+    contributors:
+    - id: Craze
+  - title: The Gaff
+    startTime: 01:00
+    contributors:
+    - id: The Gaff
+  - title: I.M.Fast & Burchill
+    startTime: 02:30
+    contributors:
+    - id: I.M.Fast
+    - id: Burchill
+  - title: Underdog
+    startTime: 04:00
+    contributors:
+    - id: Underdog
+  - title: Pete Wilde
+    startTime: 05:00
+    endTime: 06:00
+    contributors:
+    - id: Pete Wilde

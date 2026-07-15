@@ -1,6 +1,11 @@
 ---
-name: "Hunter Down"
-imageURL: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2FEA709C2A-8504-45A8-94DF-DC8B6A538F7F.png?alt=media&token=bd435ba7-8a4a-4c65-9b90-ee794c97b3b0
+name: Hunter Down
+images:
+- source:
+    url: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2FEA709C2A-8504-45A8-94DF-DC8B6A538F7F.png?alt=media&token=bd435ba7-8a4a-4c65-9b90-ee794c97b3b0
+  role: photo
+  renderKind: fullImage
+  materializationPolicy: lazy
 links: []
 ---
 Don’t get too rattled, this snake charmer doesn’t bite. 

@@ -1,5 +1,5 @@
 ---
-name: "PuppyCat"
+name: PuppyCat
 ---
 
 PuppyCat is the spectral embodiment of light and dark, yin and yang, the

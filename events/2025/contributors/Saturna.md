@@ -1,21 +1,25 @@
 ---
-name: "Saturna"
-imageURL: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/Saturna.jpg
-logoURL: https://wickedwoods.festivalpro.com/?getFile&FILEID=38343
-kind: "Live Performance"
+name: Saturna
+images:
+- source:
+    url: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/Saturna.jpg
+  role: photo
+  renderKind: fullImage
+  materializationPolicy: lazy
+- source:
+    url: https://wickedwoods.festivalpro.com/?getFile&FILEID=38343
+  role: logo
+  renderKind: transparent
+  materializationPolicy: lazy
 links:
 - url: https://soundcloud.com/saturnamusic
-  linkType:
-    label: soundcloud
+  platform: soundcloud
 - url: https://www.facebook.com/SaturnaSound
-  linkType:
-    label: facebook
+  platform: facebook
 - url: https://www.instagram.com/saturnasound/
-  linkType:
-    label: instagram
+  platform: instagram
 - url: https://open.spotify.com/artist/6Y3GYermT3jkAuq3A5vLXn?si=Eu1i_2UYSbClrCYSQpOg_w
-  linkType:
-    label: spotify
+  platform: spotify
 ---
 Originating from the Sunshine Coast, British Columbia, ethereal beatsmith Saturna has an artistic voice unlike any other. Saturna is a sonic story-teller who weaves layers of deeply emotive melodies and organic rhythms with cinematic flair. A lifelong musician, Saturna is dedicated to stitching together narrative threads into a tapestry of distorted synths, warm basslines and lush percussive elements.
 

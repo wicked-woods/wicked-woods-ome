@@ -1,18 +1,23 @@
 ---
-name: "Lizard Queen Conceptuals"
-imageURL: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/LizardQueenConceptuals.JPEG
-logoURL: https://wickedwoods.festivalpro.com/?getFile&FILEID=38225
-kind: "Art & Installations"
+name: Lizard Queen Conceptuals
+images:
+- source:
+    url: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/LizardQueenConceptuals.JPEG
+  role: photo
+  renderKind: fullImage
+  materializationPolicy: lazy
+- source:
+    url: https://wickedwoods.festivalpro.com/?getFile&FILEID=38225
+  role: logo
+  renderKind: transparent
+  materializationPolicy: lazy
 links:
 - url: Lizard%20Queen%20Conceptuals
-  linkType:
-    label: facebook
+  platform: website
 - url: lizardqueenconcept
-  linkType:
-    label: instagram
+  platform: website
 - url: Lizardqueenconceptuals.com
-  linkType:
-    label: website
+  platform: website
 ---
 I’m The Lizard Queen, a multidisciplinary artist and the Art & Decor Operations Manager for Wicked Woods Music and Arts Festival. My creative journey began in early childhood with a deep love for collage, evolving into a practice rooted in storytelling, sustainability, and immersive visual environments.
 Through Lizard Queen Conceptuals, I create mixed-media works that transform recycled materials into textured, surreal compositions. My work explores themes of emotional cartography, transformation, and the hidden beauty in discarded objects. I believe art should spark reflection, invite curiosity, and reclaim what’s been overlooked.

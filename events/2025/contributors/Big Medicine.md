@@ -1,5 +1,4 @@
 ---
-name: "Big Medicine"
-kind: "Live Performance"
+name: Big Medicine
 links: []
 ---

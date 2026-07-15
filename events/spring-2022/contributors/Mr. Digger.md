@@ -1,3 +1,3 @@
 ---
-name: "Mr. Digger"
+name: Mr. Digger
 ---
