@@ -3,158 +3,158 @@ performances:
   ursus:
   - title: Lazy Syup Orchestra
     startTime: '15:00'
-    contributorIDs:
-    - Lazy Syup Orchestra
+    contributors:
+    - id: Lazy Syup Orchestra
   - title: 'Dirty Mits Mama ft. 14 Flamingos '
     startTime: '16:30'
     endTime: '17:30'
-    contributorIDs:
-    - 'Dirty Mits Mama ft. 14 Flamingos '
+    contributors:
+    - id: 'Dirty Mits Mama ft. 14 Flamingos '
   - title: Thugshells, Newman, Trooknot, Rubix, Fallen Wall & The W.O.K.E
     startTime: '18:30'
     endTime: '20:30'
-    contributorIDs:
-    - Thugshells
-    - Newman
-    - Trooknot
-    - Rubix
-    - Fallen Wall
-    - The W.O.K.E
+    contributors:
+    - id: Thugshells
+    - id: Newman
+    - id: Trooknot
+    - id: Rubix
+    - id: Fallen Wall
+    - id: The W.O.K.E
   - title: Jodie B
     startTime: '21:15'
-    contributorIDs:
-    - Jodie B
+    contributors:
+    - id: Jodie B
   - title: Manteasah
     startTime: '21:45'
     endTime: '22:45'
-    contributorIDs:
-    - Manteasah
+    contributors:
+    - id: Manteasah
   - title: Drezus
     startTime: '23:00'
     endTime: '00:00'
-    contributorIDs:
-    - Drezus
+    contributors:
+    - id: Drezus
   the-hallow:
   - title: Universal Fallout
     startTime: '14:00'
-    contributorIDs:
-    - Universal Fallout
+    contributors:
+    - id: Universal Fallout
   - title: Lefy
     startTime: '15:00'
-    contributorIDs:
-    - Lefy
+    contributors:
+    - id: Lefy
   - title: Trevor Galore
     startTime: '16:00'
-    contributorIDs:
-    - Trevor Galore
+    contributors:
+    - id: Trevor Galore
   - title: Mihajic Touch
     startTime: '17:30'
-    contributorIDs:
-    - Mihajic Touch
+    contributors:
+    - id: Mihajic Touch
   - title: Jon Delerious
     startTime: '18:30'
-    contributorIDs:
-    - Jon Delerious
+    contributors:
+    - id: Jon Delerious
   - title: Esette
     startTime: '19:30'
-    contributorIDs:
-    - Esette
+    contributors:
+    - id: Esette
   - title: Naturalist
     startTime: '20:30'
-    contributorIDs:
-    - Naturalist
+    contributors:
+    - id: Naturalist
   - title: Jessu & Pyka
     startTime: '21:30'
-    contributorIDs:
-    - Jessu & Pyka
+    contributors:
+    - id: Jessu & Pyka
   - title: Smalltown DJs
     startTime: '22:30'
-    contributorIDs:
-    - Smalltown DJs
+    contributors:
+    - id: Smalltown DJs
   - title: The Funk Hunters
     startTime: '00:00'
-    contributorIDs:
-    - The Funk Hunters
+    contributors:
+    - id: The Funk Hunters
   - title: Neon Steve
     startTime: '01:30'
-    contributorIDs:
-    - Neon Steve
+    contributors:
+    - id: Neon Steve
   - title: Aspen King
     startTime: '02:30'
-    contributorIDs:
-    - Aspen King
+    contributors:
+    - id: Aspen King
   - title: SOUP
     startTime: '03:30'
-    contributorIDs:
-    - SOUP
+    contributors:
+    - id: SOUP
   - title: Deblock
     startTime: '04:30'
-    contributorIDs:
-    - Deblock
+    contributors:
+    - id: Deblock
   - title: Mr. Digger
     startTime: '05:30'
-    contributorIDs:
-    - Mr. Digger
+    contributors:
+    - id: Mr. Digger
   - title: Neighbor
     startTime: '06:30'
     endTime: '08:30'
-    contributorIDs:
-    - Neighbor
+    contributors:
+    - id: Neighbor
   unicorn-lounge:
   - title: Djenerate, Guru, Logo, Mary Jane, Strange Manner, Swayze, Wadjit & Yontzie
     startTime: '12:00'
-    contributorIDs:
-    - Djenerate
-    - Guru
-    - Logo
-    - Mary Jane
-    - Strange Manner
-    - Swayze
-    - Wadjit
-    - Yontzie
+    contributors:
+    - id: Djenerate
+    - id: Guru
+    - id: Logo
+    - id: Mary Jane
+    - id: Strange Manner
+    - id: Swayze
+    - id: Wadjit
+    - id: Yontzie
   - title: Bass Cat, Distinct, Droplet, Kid-Dee, Mittz & Miss Fudge
     startTime: '17:30'
-    contributorIDs:
-    - Bass Cat
-    - Distinct
-    - Droplet
-    - Kid-Dee
-    - Mittz
-    - Miss Fudge
+    contributors:
+    - id: Bass Cat
+    - id: Distinct
+    - id: Droplet
+    - id: Kid-Dee
+    - id: Mittz
+    - id: Miss Fudge
   - title: Akela
     startTime: '20:30'
-    contributorIDs:
-    - Akela
+    contributors:
+    - id: Akela
   - title: Mt Doyle & Philly
     startTime: '21:30'
-    contributorIDs:
-    - Mt Doyle & Philly
+    contributors:
+    - id: Mt Doyle & Philly
   - title: Willisist
     startTime: '22:30'
-    contributorIDs:
-    - Willisist
+    contributors:
+    - id: Willisist
   - title: Jake Robertz
     startTime: '23:30'
-    contributorIDs:
-    - Jake Robertz
+    contributors:
+    - id: Jake Robertz
   - title: Kytami and Phonik Ops
     startTime: '00:30'
-    contributorIDs:
-    - Kytami and Phonik Ops
+    contributors:
+    - id: Kytami and Phonik Ops
   - title: Diligent
     startTime: '02:00'
-    contributorIDs:
-    - Diligent
+    contributors:
+    - id: Diligent
   - title: Mat B & Ohm Girl
     startTime: '03:00'
-    contributorIDs:
-    - Mat B
-    - Ohm Girl
+    contributors:
+    - id: Mat B
+    - id: Ohm Girl
   - title: Alan Flava, E-Lev-8, Killups & Wigginz
     startTime: '04:30'
     endTime: '08:00'
-    contributorIDs:
-    - Alan Flava
-    - E-Lev-8
-    - Killups
-    - Wigginz
+    contributors:
+    - id: Alan Flava
+    - id: E-Lev-8
+    - id: Killups
+    - id: Wigginz

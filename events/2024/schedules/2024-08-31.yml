@@ -3,204 +3,204 @@ performances:
   the-hallow:
   - title: Mr. Diggler
     startTime: '16:20'
-    contributorIDs:
-    - Mr. Diggler
+    contributors:
+    - id: Mr. Diggler
   - title: Esette
     startTime: '17:30'
-    contributorIDs:
-    - Esette
+    contributors:
+    - id: Esette
   - title: Morning Glory
     startTime: '18:30'
-    contributorIDs:
-    - Morning Glory
+    contributors:
+    - id: Morning Glory
   - title: LION-S
     startTime: '19:30'
-    contributorIDs:
-    - LION-S
+    contributors:
+    - id: LION-S
   - title: Hoola
     startTime: '20:30'
-    contributorIDs:
-    - Hoola
+    contributors:
+    - id: Hoola
   - title: Naturalist
     startTime: '21:30'
-    contributorIDs:
-    - Naturalist
+    contributors:
+    - id: Naturalist
   - title: Soup
     startTime: '23:00'
-    contributorIDs:
-    - Soup
+    contributors:
+    - id: Soup
   - title: Wuki
     startTime: '00:00'
-    contributorIDs:
-    - Wuki
+    contributors:
+    - id: Wuki
   - title: The Sponges
     startTime: '01:30'
-    contributorIDs:
-    - The Sponges
+    contributors:
+    - id: The Sponges
   - title: Father Funk
     startTime: '03:00'
-    contributorIDs:
-    - Father Funk
+    contributors:
+    - id: Father Funk
   - title: Thomas Anthony
     startTime: '04:00'
-    contributorIDs:
-    - Thomas Anthony
+    contributors:
+    - id: Thomas Anthony
   - title: I.M.Fast
     startTime: '05:00'
-    contributorIDs:
-    - I.M.Fast
+    contributors:
+    - id: I.M.Fast
   - title: Neighbour
     startTime: '06:00'
     endTime: '08:00'
-    contributorIDs:
-    - Neighbour
+    contributors:
+    - id: Neighbour
   the-portal:
   - title: Alisina
     startTime: '16:30'
-    contributorIDs:
-    - Alisina
+    contributors:
+    - id: Alisina
   - title: Kerz
     startTime: '17:30'
-    contributorIDs:
-    - Kerz
+    contributors:
+    - id: Kerz
   - title: Elkemist
     startTime: '18:30'
-    contributorIDs:
-    - Elkemist
+    contributors:
+    - id: Elkemist
   - title: Ghillie & Skbr
     startTime: '19:30'
-    contributorIDs:
-    - 'Ghillie & Skbr '
+    contributors:
+    - id: 'Ghillie & Skbr '
   - title: Krucial
     startTime: '20:30'
-    contributorIDs:
-    - Krucial
+    contributors:
+    - id: Krucial
   - title: Howl
     startTime: '21:30'
-    contributorIDs:
-    - 'Howl '
+    contributors:
+    - id: 'Howl '
   - title: Sorsari
     startTime: '22:30'
-    contributorIDs:
-    - 'Sorsari  '
+    contributors:
+    - id: 'Sorsari  '
   - title: ONHELL
     startTime: '23:30'
-    contributorIDs:
-    - ONHELL
+    contributors:
+    - id: ONHELL
   - title: Metafloor
     startTime: '01:00'
-    contributorIDs:
-    - Metafloor
+    contributors:
+    - id: Metafloor
   - title: M4XW311
     startTime: '02:00'
-    contributorIDs:
-    - M4XW311
+    contributors:
+    - id: M4XW311
   - title: MisfortuneCat
     startTime: '03:00'
-    contributorIDs:
-    - 'MisfortuneCat '
+    contributors:
+    - id: 'MisfortuneCat '
   - title: Sub Chakra Takeover
     startTime: '04:00'
     endTime: '08:00'
-    contributorIDs:
-    - Sub Chakra Takeover
+    contributors:
+    - id: Sub Chakra Takeover
   ursus:
   - title: Woofax
     startTime: '15:00'
-    contributorIDs:
-    - Woofax
+    contributors:
+    - id: Woofax
   - title: Tube Screamer
     startTime: '16:30'
-    contributorIDs:
-    - Tube Screamer
+    contributors:
+    - id: Tube Screamer
   - title: Skreid
     startTime: '17:30'
-    contributorIDs:
-    - Skreid
+    contributors:
+    - id: Skreid
   - title: Rabbit Hole Records Crew
     startTime: '18:30'
-    contributorIDs:
-    - Rabbit Hole Records Crew
+    contributors:
+    - id: Rabbit Hole Records Crew
   - title: Dragon Fli Empire
     startTime: '20:00'
-    contributorIDs:
-    - Dragon Fli Empire
+    contributors:
+    - id: Dragon Fli Empire
   - title: Def3
     startTime: '21:00'
-    contributorIDs:
-    - Def3
+    contributors:
+    - id: Def3
   - title: Snotty Nose Rez Kids
     startTime: '22:00'
-    contributorIDs:
-    - Snotty Nose Rez Kids
+    contributors:
+    - id: Snotty Nose Rez Kids
   - title: LONGWALKSHORTDOCK
     startTime: '23:30'
-    contributorIDs:
-    - LONGWALKSHORTDOCK
+    contributors:
+    - id: LONGWALKSHORTDOCK
   - title: Big Medicine
     startTime: '01:00'
-    contributorIDs:
-    - Big Medicine
+    contributors:
+    - id: Big Medicine
   - title: Flim Flam
     startTime: '02:00'
-    contributorIDs:
-    - Flim Flam
+    contributors:
+    - id: Flim Flam
   - title: Trip A
     startTime: '03:00'
     endTime: '04:00'
-    contributorIDs:
-    - Trip A
+    contributors:
+    - id: Trip A
   unicorn-lounge:
   - title: SHAH djs Showcase
     startTime: '14:00'
-    contributorIDs:
-    - SHAH djs Showcase
+    contributors:
+    - id: SHAH djs Showcase
   - title: Spindy b2b Chvvns
     startTime: '17:30'
-    contributorIDs:
-    - Spindy b2b Chvvns
+    contributors:
+    - id: Spindy b2b Chvvns
   - title: E-Lev-8
     startTime: '18:30'
-    contributorIDs:
-    - E-Lev-8
+    contributors:
+    - id: E-Lev-8
   - title: EFF n ED
     startTime: '19:30'
-    contributorIDs:
-    - EFF n ED
+    contributors:
+    - id: EFF n ED
   - title: Buddy and the Buffalo
     startTime: '20:30'
-    contributorIDs:
-    - Buddy and the Buffalo
+    contributors:
+    - id: Buddy and the Buffalo
   - title: 'Diligent '
     startTime: '21:30'
-    contributorIDs:
-    - 'Diligent '
+    contributors:
+    - id: 'Diligent '
   - title: Trevor Galore
     startTime: '22:30'
-    contributorIDs:
-    - Trevor Galore
+    contributors:
+    - id: Trevor Galore
   - title: Psyops
     startTime: '23:30'
-    contributorIDs:
-    - Psyops
+    contributors:
+    - id: Psyops
   - title: Dj Hybrid
     startTime: '00:30'
-    contributorIDs:
-    - Dj Hybrid
+    contributors:
+    - id: Dj Hybrid
   - title: Siren
     startTime: '02:00'
-    contributorIDs:
-    - Siren
+    contributors:
+    - id: Siren
   - title: Mat B & Ohm Girl
     startTime: '03:30'
-    contributorIDs:
-    - Mat B & Ohm Girl
+    contributors:
+    - id: Mat B & Ohm Girl
   - title: Bass Cat
     startTime: '05:00'
-    contributorIDs:
-    - Bass Cat
+    contributors:
+    - id: Bass Cat
   - title: Luna Deep
     startTime: '06:00'
     endTime: '07:00'
-    contributorIDs:
-    - Luna Deep
+    contributors:
+    - id: Luna Deep

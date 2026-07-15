@@ -3,200 +3,200 @@ performances:
   the-portal:
   - title: Colorvision
     startTime: '12:00'
-    contributorIDs:
-    - Colorvision
+    contributors:
+    - id: Colorvision
   - title: Jaq Toforo
     startTime: '14:00'
-    contributorIDs:
-    - Jaq Toforo
+    contributors:
+    - id: Jaq Toforo
   - title: FuBaR’D
     startTime: '15:30'
-    contributorIDs:
-    - FuBaR’D
+    contributors:
+    - id: FuBaR’D
   - title: Seriousilly
     startTime: '16:30'
-    contributorIDs:
-    - Seriousilly
+    contributors:
+    - id: Seriousilly
   - title: Zegend
     startTime: '17:30'
-    contributorIDs:
-    - Zegend
+    contributors:
+    - id: Zegend
   - title: Zac Fogal
     startTime: '18:30'
-    contributorIDs:
-    - Zac Fogal
+    contributors:
+    - id: Zac Fogal
   - title: Knots
     startTime: '19:30'
-    contributorIDs:
-    - Knots
+    contributors:
+    - id: Knots
   - title: Greymoon
     startTime: '20:30'
-    contributorIDs:
-    - Greymoon
+    contributors:
+    - id: Greymoon
   - title: sean beaver, Caylem Simeon, Wolf Collar & BLKFT
     startTime: '22:00'
-    contributorIDs:
-    - sean beaver
-    - Caylem Simeon
-    - Wolf Collar
-    - BLKFT
+    contributors:
+    - id: sean beaver
+    - id: Caylem Simeon
+    - id: Wolf Collar
+    - id: BLKFT
   - title: Dither Bit
     startTime: '01:00'
-    contributorIDs:
-    - Dither Bit
+    contributors:
+    - id: Dither Bit
   - title: Caro
     startTime: '02:30'
-    contributorIDs:
-    - Caro
+    contributors:
+    - id: Caro
   - title: Misfortune Cat
     startTime: '04:00'
-    contributorIDs:
-    - Misfortune Cat
+    contributors:
+    - id: Misfortune Cat
   - title: AlexMoon
     startTime: '05:30'
     endTime: '07:00'
-    contributorIDs:
-    - AlexMoon
+    contributors:
+    - id: AlexMoon
   unicorn-lounge:
   - title: Mat B & Ohm Girl
     startTime: '13:00'
-    contributorIDs:
-    - Mat B
-    - Ohm Girl
+    contributors:
+    - id: Mat B
+    - id: Ohm Girl
   - title: Captivate
     startTime: '15:00'
-    contributorIDs:
-    - Captivate
+    contributors:
+    - id: Captivate
   - title: Distinct
     startTime: '16:00'
-    contributorIDs:
-    - Distinct
+    contributors:
+    - id: Distinct
   - title: Alan Flava
     startTime: '17:00'
-    contributorIDs:
-    - Alan Flava
+    contributors:
+    - id: Alan Flava
   - title: E-Lev-8
     startTime: '18:00'
-    contributorIDs:
-    - E-Lev-8
+    contributors:
+    - id: E-Lev-8
   - title: Eradik
     startTime: '19:00'
-    contributorIDs:
-    - Eradik
+    contributors:
+    - id: Eradik
   - title: BreO
     startTime: '20:30'
-    contributorIDs:
-    - BreO
+    contributors:
+    - id: BreO
   - title: J.F.Killah
     startTime: '22:00'
-    contributorIDs:
-    - J.F.Killah
+    contributors:
+    - id: J.F.Killah
   - title: DJ Madd
     startTime: '23:30'
-    contributorIDs:
-    - DJ Madd
+    contributors:
+    - id: DJ Madd
   - title: Leo Zen
     startTime: '01:00'
-    contributorIDs:
-    - Leo Zen
+    contributors:
+    - id: Leo Zen
   - title: Jake Robertz
     startTime: '02:30'
-    contributorIDs:
-    - Jake Robertz
+    contributors:
+    - id: Jake Robertz
   - title: Reflektor
     startTime: '04:00'
-    contributorIDs:
-    - Reflektor
+    contributors:
+    - id: Reflektor
   - title: Swaggacats, Tone D. & Boneless
     startTime: '05:30'
     endTime: '07:30'
-    contributorIDs:
-    - Swaggacats
-    - Tone D.
-    - Boneless
+    contributors:
+    - id: Swaggacats
+    - id: Tone D.
+    - id: Boneless
   ursus:
   - title: Def3
     startTime: '16:00'
-    contributorIDs:
-    - Def3
+    contributors:
+    - id: Def3
   - title: Manteasah
     startTime: '17:00'
-    contributorIDs:
-    - Manteasah
+    contributors:
+    - id: Manteasah
   - title: Tate
     startTime: '18:30'
-    contributorIDs:
-    - Tate
+    contributors:
+    - id: Tate
   - title: Tube Screamer
     startTime: '19:00'
     endTime: '20:00'
-    contributorIDs:
-    - Tube Screamer
+    contributors:
+    - id: Tube Screamer
   - title: Le Cirque de la Nuit
     startTime: '20:30'
-    contributorIDs:
-    - Le Cirque de la Nuit
+    contributors:
+    - id: Le Cirque de la Nuit
   - title: CHIMP IT
     startTime: '21:30'
-    contributorIDs:
-    - CHIMP IT
+    contributors:
+    - id: CHIMP IT
   - title: Dirtwire
     startTime: '22:30'
     endTime: '00:00'
-    contributorIDs:
-    - Dirtwire
+    contributors:
+    - id: Dirtwire
   the-hallow:
   - title: Robbie C
     startTime: '15:00'
-    contributorIDs:
-    - Robbie C
+    contributors:
+    - id: Robbie C
   - title: Ninjette & Thug Shells
     startTime: '16:00'
-    contributorIDs:
-    - Ninjette
-    - Thug Shells
+    contributors:
+    - id: Ninjette
+    - id: Thug Shells
   - title: Joanna Magik
     startTime: '17:00'
-    contributorIDs:
-    - Joanna Magik
+    contributors:
+    - id: Joanna Magik
   - title: Lion-S
     startTime: '18:30'
-    contributorIDs:
-    - Lion-S
+    contributors:
+    - id: Lion-S
   - title: Dirty-D
     startTime: '20:00'
-    contributorIDs:
-    - Dirty-D
+    contributors:
+    - id: Dirty-D
   - title: Monkey Twerk
     startTime: '21:00'
-    contributorIDs:
-    - Monkey Twerk
+    contributors:
+    - id: Monkey Twerk
   - title: Rumpus
     startTime: '22:30'
-    contributorIDs:
-    - Rumpus
+    contributors:
+    - id: Rumpus
   - title: Neon Steve
     startTime: '00:00'
-    contributorIDs:
-    - Neon Steve
+    contributors:
+    - id: Neon Steve
   - title: Cazztek
     startTime: '01:30'
-    contributorIDs:
-    - Cazztek
+    contributors:
+    - id: Cazztek
   - title: Sivz
     startTime: '02:30'
-    contributorIDs:
-    - Sivz
+    contributors:
+    - id: Sivz
   - title: Ben Fox
     startTime: '03:30'
-    contributorIDs:
-    - Ben Fox
+    contributors:
+    - id: Ben Fox
   - title: Soup
     startTime: '04:30'
-    contributorIDs:
-    - Soup
+    contributors:
+    - id: Soup
   - title: Mr Diggler
     startTime: '05:30'
     endTime: '06:30'
-    contributorIDs:
-    - Mr Diggler
+    contributors:
+    - id: Mr Diggler

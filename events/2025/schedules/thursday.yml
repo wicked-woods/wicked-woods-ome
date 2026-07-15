@@ -4,8 +4,8 @@ performances:
   - title: Resonance
     startTime: '17:00'
     endTime: '18:30'
-    contributorIDs:
-    - DJ sprouT
+    contributors:
+    - id: DJ sprouT
   - title: 'Festivals 101: Rave Safer'
     description: |
       This workshop is your crash course in festival survival — from what to pack, how to find your way around, avoiding common festival faults and staying safe while still having the time of your life.
@@ -14,5 +14,5 @@ performances:
         Planning to learn about services on-site and a “pack your bag” relay race.
     startTime: '18:30'
     endTime: '19:30'
-    contributorNames:
-    - ANKORS
+    contributors:
+    - name: ANKORS

@@ -5,260 +5,260 @@ performances:
     startTime: '14:00'
   - title: Miirror
     startTime: '16:00'
-    contributorIDs:
-    - Miirror
+    contributors:
+    - id: Miirror
   - title: Just One
     startTime: '17:00'
-    contributorIDs:
-    - Just One
+    contributors:
+    - id: Just One
   - title: SmoCo b2b SID
     startTime: '18:00'
-    contributorIDs:
-    - SmoCo b2b SID
+    contributors:
+    - id: SmoCo b2b SID
   - title: ghillie & skbr
     startTime: '19:00'
-    contributorIDs:
-    - ghillie & skbr
+    contributors:
+    - id: ghillie & skbr
   - title: Passive
     startTime: '20:00'
-    contributorIDs:
-    - Passive
+    contributors:
+    - id: Passive
   - title: DGTL•SGNL
     startTime: '21:00'
-    contributorIDs:
-    - DGTL•SGNL
+    contributors:
+    - id: DGTL•SGNL
   - title: TRIOS
     startTime: '22:00'
-    contributorIDs:
-    - TRIOS
+    contributors:
+    - id: TRIOS
     recordings:
     - url: https://soundcloud.com/triosbeats/wickedwoods25
   - title: Substance
     startTime: '23:00'
     endTime: '00:30'
-    contributorIDs:
-    - Substance
+    contributors:
+    - id: Substance
   - title: CØNTRA
     startTime: '00:30'
-    contributorIDs:
-    - CØNTRA
+    contributors:
+    - id: CØNTRA
   - title: Coltcuts
     startTime: '02:00'
-    contributorIDs:
-    - Coltcuts
+    contributors:
+    - id: Coltcuts
   - title: Hello Human
     startTime: '03:00'
-    contributorIDs:
-    - Hello Human
+    contributors:
+    - id: Hello Human
   - title: lil stitious
     startTime: '04:00'
-    contributorIDs:
-    - lil stitious
+    contributors:
+    - id: lil stitious
     recordings:
     - url: https://soundcloud.com/lil-stitious/4-am-at-the-portal
   - title: Faeble
     startTime: '05:00'
-    contributorIDs:
-    - Faeble
+    contributors:
+    - id: Faeble
   - title: Shuka & Nio-B
     startTime: '06:00'
     endTime: '08:00'
-    contributorIDs:
-    - Shuka & Nio-B
+    contributors:
+    - id: Shuka & Nio-B
   unicorn-lounge:
   - title: KristalKrom
     startTime: '15:30'
-    contributorIDs:
-    - KristalKrom
+    contributors:
+    - id: KristalKrom
     recordings:
     - url: https://soundcloud.com/kristalkrom/kristalkrom-wicked-woods-2025
   - title: LVL
     startTime: '16:30'
     endTime: '18:00'
-    contributorIDs:
-    - LVL
+    contributors:
+    - id: LVL
     recordings:
     - url: https://soundcloud.com/lvl-collective/lvl-at-wicked-woods-2025
   - title: E-Lev-8
     startTime: '18:00'
-    contributorIDs:
-    - E-Lev-8
+    contributors:
+    - id: E-Lev-8
     recordings:
     - url: https://soundcloud.com/e-lev-8/wickedwoods-25
   - title: Phatz
     startTime: '19:00'
-    contributorIDs:
-    - Phatz
+    contributors:
+    - id: Phatz
   - title: ANiNjA
     startTime: '20:00'
-    contributorIDs:
-    - ANiNjA
+    contributors:
+    - id: ANiNjA
   - title: Mt. Doyle
     startTime: '21:00'
-    contributorIDs:
-    - Mt. Doyle
+    contributors:
+    - id: Mt. Doyle
   - title: Mat B & Ohm Girl
     startTime: '22:00'
-    contributorIDs:
-    - Mat B & Ohm Girl
+    contributors:
+    - id: Mat B & Ohm Girl
   - title: PSYOPS
     startTime: '23:00'
     endTime: '00:30'
-    contributorIDs:
-    - PSYOPS
+    contributors:
+    - id: PSYOPS
     recordings:
     - url: https://soundcloud.com/psyopsteam/ww2025
   - title: TC
     startTime: '00:30'
     endTime: '02:00'
-    contributorIDs:
-    - TC
+    contributors:
+    - id: TC
   - title: "[IVY]"
     startTime: '02:00'
     endTime: '03:30'
-    contributorIDs:
-    - "[IVY]"
+    contributors:
+    - id: "[IVY]"
   - title: Griimm
     startTime: '03:30'
     endTime: '05:00'
-    contributorIDs:
-    - Griimm
+    contributors:
+    - id: Griimm
   - title: Luna Deep
     startTime: '05:00'
-    contributorIDs:
-    - Luna Deep
+    contributors:
+    - id: Luna Deep
     recordings:
     - url: https://soundcloud.com/freakyfunky11/5am-in-the-unicorn-lounge
   - title: Dolla Hilz
     startTime: '06:00'
     endTime: '07:00'
-    contributorIDs:
-    - Dolla Hilz
+    contributors:
+    - id: Dolla Hilz
     recordings:
     - url: https://soundcloud.com/dollahilz/ww
   the-hallow:
   - title: The Digglet
     startTime: '16:00'
-    contributorIDs:
-    - The Digglet
+    contributors:
+    - id: The Digglet
   - title: Percusshunkidd
     startTime: '17:00'
-    contributorIDs:
-    - Percusshunkidd
+    contributors:
+    - id: Percusshunkidd
   - title: Dirty-D
     startTime: '18:00'
-    contributorIDs:
-    - Dirty-D
+    contributors:
+    - id: Dirty-D
   - title: Ginger
     startTime: '19:00'
-    contributorIDs:
-    - Ginger
+    contributors:
+    - id: Ginger
   - title: DJKJ
     startTime: '20:00'
-    contributorIDs:
-    - DJKJ
+    contributors:
+    - id: DJKJ
     recordings:
     - url: https://soundcloud.com/djkj-1/para-wicked-2025
   - title: Mr. Diggler
     startTime: '21:00'
-    contributorIDs:
-    - Mr. Diggler
+    contributors:
+    - id: Mr. Diggler
   - title: RUMPUS
     startTime: '22:00'
-    contributorIDs:
-    - RUMPUS
+    contributors:
+    - id: RUMPUS
   - title: Felix Cartal
     startTime: '23:00'
     endTime: '00:30'
-    contributorIDs:
-    - Felix Cartal
+    contributors:
+    - id: Felix Cartal
   - title: Ely Oaks
     startTime: '00:30'
     endTime: '02:00'
-    contributorIDs:
-    - Ely Oaks
+    contributors:
+    - id: Ely Oaks
     recordings:
     - url: https://www.youtube.com/watch?v=GM195gYp6FI
   - title: Neon Steve
     startTime: '02:00'
     endTime: '03:30'
-    contributorIDs:
-    - Neon Steve
+    contributors:
+    - id: Neon Steve
   - title: Ben Fox
     startTime: '03:30'
-    contributorIDs:
-    - Ben Fox
+    contributors:
+    - id: Ben Fox
   - title: I.M.Fast
     startTime: '04:30'
-    contributorIDs:
-    - I.M.Fast
+    contributors:
+    - id: I.M.Fast
     recordings:
     - url: https://soundcloud.com/imfastmusic/imfast-wicked-woods-mf-2025-hallow-stage
   - title: Naturalist
     startTime: '05:30'
     endTime: '07:00'
-    contributorIDs:
-    - Naturalist
+    contributors:
+    - id: Naturalist
   ursus:
   - title: Boogey The Beat
     startTime: '15:30'
-    contributorIDs:
-    - Boogey The Beat
+    contributors:
+    - id: Boogey The Beat
   - title: Chimp It
     startTime: '16:30'
-    contributorIDs:
-    - Chimp It
+    contributors:
+    - id: Chimp It
   - title: J. Jonah
     startTime: '17:30'
-    contributorIDs:
-    - J. Jonah
+    contributors:
+    - id: J. Jonah
   - title: Old Man
     startTime: '18:30'
-    contributorIDs:
-    - Old Man
+    contributors:
+    - id: Old Man
   - title: El Toro
     startTime: '19:30'
-    contributorIDs:
-    - El Toro
+    contributors:
+    - id: El Toro
   - title: Def3
     startTime: '20:30'
-    contributorIDs:
-    - Def3
+    contributors:
+    - id: Def3
   - title: LONGWALKSHORTDOCK
     startTime: '21:30'
-    contributorIDs:
-    - LONGWALKSHORTDOCK
+    contributors:
+    - id: LONGWALKSHORTDOCK
   - title: Woofax
     startTime: '23:00'
-    contributorIDs:
-    - Woofax
+    contributors:
+    - id: Woofax
   - title: Just John
     startTime: '00:30'
-    contributorIDs:
-    - Just John
+    contributors:
+    - id: Just John
   - title: INNOCENT
     startTime: '02:00'
-    contributorIDs:
-    - INNOCENT
+    contributors:
+    - id: INNOCENT
   - title: Big Medicine b2b Fram3s
     startTime: '03:00'
-    contributorIDs:
-    - Big Medicine
-    - Fram3s
+    contributors:
+    - id: Big Medicine
+    - id: Fram3s
     recordings:
     - url: https://soundcloud.com/faro-burgoyne-187306933/perscription-mix
   - title: Skreid
     startTime: '04:00'
     endTime: '05:00'
-    contributorIDs:
-    - Skreid
+    contributors:
+    - id: Skreid
   relaxation-ridge:
   - title: Connecting With Authenticity
     description: A fun and enlivening Kundalini infused yoga class to help you to connect to your center, followed by some group excersises to get you connecting authentically on the dance floor!
     startTime: '10:00'
     endTime: '11:00'
-    contributorIDs:
-    - Crystal McLean
+    contributors:
+    - id: Crystal McLean
   - title: Ecstatic Dance with APUKUNA
     description: |
       Ecstatic Dance is a freeform, non-verbal movement practice where you’re invited to move however you feel — with freedom, spontaneity, and self-expression. Imagine a DJ and a dance floor, but without talking, without phones, and where the music carries you on an epic journey from beginning to end.
@@ -266,8 +266,8 @@ performances:
       APUKUNA will open the space with an introduction to Ecstatic Dance and gently guide you into your own self-directed exploration of movement, emotional release, stillness, and joy.
     startTime: '11:30'
     endTime: '13:00'
-    contributorNames:
-    - Jon Steinman
+    contributors:
+    - name: Jon Steinman
   - title: 'New Groove Revolution: Release, Reframe, and Reintegrate'
     description: |
       Do you love crafting positive statements or setting goals, but sometimes feel they don’t truly stick? Maybe they sound forced, fake, or part of you still doubts them?
@@ -296,8 +296,8 @@ performances:
         Supplies (Optional) Paper and pens will be provided; however feel free to bring your journal and coloring pens if you wish plus anything that helps you to feel comfortable such as yoga mat / pillow, blanket, fidgets toys (nothing noisy please).
     startTime: '13:15'
     endTime: '14:45'
-    contributorIDs:
-    - DJ sprouT
+    contributors:
+    - id: DJ sprouT
   - title: Festival Integration Circle
     description: |
       Reflect. Ground. Integrate.
@@ -317,8 +317,8 @@ performances:
       This circle is open to all genders, identities, and experience levels. Come as you are, whether you're vibing high or feeling a little frayed, and leave feeling more grounded, connected, and aligned with tools to integrate the magic of your festival experience.
     startTime: '15:00'
     endTime: '16:00'
-    contributorIDs:
-    - Jenn Moonflower
+    contributors:
+    - id: Jenn Moonflower
   - title: 'Pleasure + Protection: Safer Sex in The Wild'
     description: |
       Safer Sex in the Wild: Explore the art of having safer sex at festivals — from consent to condoms to STI testing.
@@ -326,8 +326,8 @@ performances:
       We’ll cover practical tips and education for STI/STBBI prevention. Activities include barrier method demos, sex trivia, and creating take-home mini kits and stuff the condom games.
     startTime: '16:30'
     endTime: '17:30'
-    contributorNames:
-    - ANKORS
+    contributors:
+    - name: ANKORS
   - title: The Body Is The Bassline
     description: |
       Get grounded before you get down.
@@ -347,14 +347,14 @@ performances:
       Come get loose, get embodied, and get ready to rave with heart.
     startTime: '17:45'
     endTime: '18:45'
-    contributorIDs:
-    - Peta Thompson
+    contributors:
+    - id: Peta Thompson
   - title: Air Bending 101
     description: Learn to wield your folding fan like an airbending master with the FloWarrior. Folding fans are beautiful, badass, easy to learn, and loads of fun! In this workshop we’ll learn how to open, close, cut, spin, and throw your fan like the ninja/geisha/other of your choosing. All levels welcome—whether it’s your first fan or your hundredth, you’ll leave inspired and full of new moves to play with. Fans are provided, fun is guaranteed.Come play!
     startTime: '19:00'
     endTime: '20:00'
-    contributorNames:
-    - Daniel Tamagi
+    contributors:
+    - name: Daniel Tamagi
   aurora-gallery:
   - title: Weaving Wellness
     description: |
@@ -363,8 +363,8 @@ performances:
       The goal is to create a large-scale yarn and mixed-textile weaving that serves as a collaborative, evolving installation. Even after the workshop concludes, festival-goers who may have missed it can still engage with the piece—adding their own contributions and interacting with the work throughout the festival  - offering relational based and connectivity.
     startTime: '12:00'
     endTime: '13:30'
-    contributorIDs:
-    - Samantha Strachan
+    contributors:
+    - id: Samantha Strachan
   - title: The Joy Of Poi
     description: |
       Unleash your playful side and explore the Joy of Poi!
@@ -376,5 +376,5 @@ performances:
       Whether you’re here for fun, creative movement, or mastering a new skill, The Joy of Poi offers a joyful and transformative journey into the art of poi spinning.
     startTime: '15:00'
     endTime: '16:00'
-    contributorNames:
-    - Robin Mote
+    contributors:
+    - name: Robin Mote
