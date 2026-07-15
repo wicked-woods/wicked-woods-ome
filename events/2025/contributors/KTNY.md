@@ -1,29 +1,24 @@
 ---
-name: KTNY
-images:
-- assetKey: did:plc:5df2u7ief6m6tn77jznicxob|wicked-woods-ome-2025|contributor|KTNY|photo|default
-  source:
-    url: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/KTNY.jpg
-  role: photo
-  renderKind: fullImage
-  materializationPolicy: lazy
-- assetKey: did:plc:5df2u7ief6m6tn77jznicxob|wicked-woods-ome-2025|contributor|KTNY|logo|default
-  source:
-    url: https://wickedwoods.festivalpro.com/?getFile&FILEID=32217
-  role: logo
-  renderKind: transparent
-  materializationPolicy: lazy
+name: "KTNY"
+imageURL: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/KTNY.jpg
+logoURL: https://wickedwoods.festivalpro.com/?getFile&FILEID=32217
+kind: "Live Performance"
 links:
 - url: https://soundcloud.com/ktnymusic
-  platform: soundcloud
+  linkType:
+    label: soundcloud
 - url: https://www.facebook.com/ktny.music/
-  platform: facebook
+  linkType:
+    label: facebook
 - url: https://www.instagram.com/ktny.music
-  platform: instagram
+  linkType:
+    label: instagram
 - url: https://open.spotify.com/artist/3hTsSjLngaV8Mf97tqv8pf?si=6yfa7U2FT2ayvnr1PYg2bQ
-  platform: spotify
+  linkType:
+    label: spotify
 - url: https://linktr.ee/ktny
-  platform: website
+  linkType:
+    label: website
 ---
 Bouncing with high energy, self-taught Kootenay DJ and music producer KTNY made major moves in 2023 & 2024. His track Greecy held the #1 position on Beatport's Bass House Releases, which earned himself Phunk Junk Records #1 Artist. He played multiple festivals across Western Canada, and finished off 2024 strong with a Western Canada tour including 12 shows in 3 months.
 

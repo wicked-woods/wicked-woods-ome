@@ -1,31 +1,27 @@
 ---
-name: Sivz
-images:
-- assetKey: did:plc:5df2u7ief6m6tn77jznicxob|wicked-woods-ome-2025|contributor|Sivz|photo|default
-  source:
-    url: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/Sivz.jpg
-  role: photo
-  renderKind: fullImage
-  materializationPolicy: lazy
-- assetKey: did:plc:5df2u7ief6m6tn77jznicxob|wicked-woods-ome-2025|contributor|Sivz|logo|default
-  source:
-    url: https://wickedwoods.festivalpro.com/?getFile&FILEID=35635
-  role: logo
-  renderKind: transparent
-  materializationPolicy: lazy
+name: "Sivz"
+imageURL: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/Sivz.jpg
+logoURL: https://wickedwoods.festivalpro.com/?getFile&FILEID=35635
+kind: "Live Performance"
 links:
 - url: https://soundcloud.com/sivzmusic%20
-  platform: soundcloud
+  linkType:
+    label: soundcloud
 - url: https://www.youtube.com/channel/UCbzr7eEE37KUd7JYqExPXGQ%20
-  platform: youtube
+  linkType:
+    label: youtube
 - url: https://www.facebook.com/SivzMusic%20
-  platform: facebook
+  linkType:
+    label: facebook
 - url: https://www.instagram.com/SivzMusic/%20
-  platform: instagram
+  linkType:
+    label: instagram
 - url: https://open.spotify.com/artist/0NUhITSw1R757ncPIm3pGq%20
-  platform: spotify
+  linkType:
+    label: spotify
 - url: https://sivzmusic.com
-  platform: website
+  linkType:
+    label: website
 ---
 Sivz is an artist born out of relentless hard work and passion for the party. Using catchy lyric writing, intricate percussion, rhythmic vocal chops, and dominant vocals as her ultimate tools for expression, her releases on house imprints like Desert Hearts and Farris Wheel Recordings have received support from industry veterans like Chris Lake, CID, Claptone, and Low Steppa, repetitively landing in Beatport's Top 100 charts, placing in Spotify's editorial playlists, and above all — resonating with her dedicated fan base.
 

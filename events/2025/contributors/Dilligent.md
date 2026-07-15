@@ -1,4 +1,5 @@
 ---
-name: Dilligent
+name: "Dilligent"
+kind: "Live Performance"
 links: []
 ---

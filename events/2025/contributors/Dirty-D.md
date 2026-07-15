@@ -1,21 +1,12 @@
 ---
-name: Dirty-D
-images:
-- assetKey: did:plc:5df2u7ief6m6tn77jznicxob|wicked-woods-ome-2025|contributor|Dirty-D|photo|default
-  source:
-    url: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/DirtyD.jpg
-  role: photo
-  renderKind: fullImage
-  materializationPolicy: lazy
-- assetKey: did:plc:5df2u7ief6m6tn77jznicxob|wicked-woods-ome-2025|contributor|Dirty-D|logo|default
-  source:
-    url: https://wickedwoods.festivalpro.com/?getFile&FILEID=33539
-  role: logo
-  renderKind: transparent
-  materializationPolicy: lazy
+name: "Dirty-D"
+imageURL: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/DirtyD.jpg
+logoURL: https://wickedwoods.festivalpro.com/?getFile&FILEID=33539
+kind: "Live Performance"
 links:
 - url: https://soundcloud.com/dirty-d-3/tracks
-  platform: soundcloud
+  linkType:
+    label: soundcloud
 ---
 Dirty-D  / Genre Bender 
 

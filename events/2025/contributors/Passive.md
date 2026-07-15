@@ -1,20 +1,11 @@
 ---
-name: Passive
-images:
-- assetKey: did:plc:5df2u7ief6m6tn77jznicxob|wicked-woods-ome-2025|contributor|Passive|photo|default
-  source:
-    url: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/Passive.jpeg
-  role: photo
-  renderKind: fullImage
-  materializationPolicy: lazy
-- assetKey: did:plc:5df2u7ief6m6tn77jznicxob|wicked-woods-ome-2025|contributor|Passive|logo|default
-  source:
-    url: https://wickedwoods.festivalpro.com/?getFile&FILEID=32711
-  role: logo
-  renderKind: transparent
-  materializationPolicy: lazy
+name: "Passive"
+imageURL: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/Passive.jpeg
+logoURL: https://wickedwoods.festivalpro.com/?getFile&FILEID=32711
+kind: "Live Performance"
 links:
 - url: https://www.instagram.com/pushandturnofficial/
-  platform: instagram
+  linkType:
+    label: instagram
 ---
 From the heart of the Kootenays, BC, and now residing in Calgary, Alberta, emerges Passive, a DJ previously recognized as Push and Turn. Through dedicated exploration, Passive has cultivated a unique musical selection, seamlessly blending the deep, resonant frequencies of 140 with the immersive textures of lush Drum & Bass. This new moniker marks the beginning of an exciting auditory journey, inviting listeners to explore sound and vibrations in a fresh and captivating way.

@@ -1,18 +1,8 @@
 ---
-name: Cofresi
-images:
-- assetKey: did:plc:5df2u7ief6m6tn77jznicxob|wicked-woods-ome-2025|contributor|Cofresi|photo|default
-  source:
-    url: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/Cofresi.jpg
-  role: photo
-  renderKind: fullImage
-  materializationPolicy: lazy
-- assetKey: did:plc:5df2u7ief6m6tn77jznicxob|wicked-woods-ome-2025|contributor|Cofresi|logo|default
-  source:
-    url: https://wickedwoods.festivalpro.com/?getFile&FILEID=35917
-  role: logo
-  renderKind: transparent
-  materializationPolicy: lazy
+name: "Cofresi"
+imageURL: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/Cofresi.jpg
+logoURL: https://wickedwoods.festivalpro.com/?getFile&FILEID=35917
+kind: "Live Performance"
 links: []
 ---
 

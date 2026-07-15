@@ -1,9 +1,3 @@
 name: Unicorn Lounge
-color: 14691482
-images:
-- assetKey: did:plc:5df2u7ief6m6tn77jznicxob|wicked-woods-ome-2025|stage|unicorn-lounge|logo|default
-  source:
-    url: https://firebasestorage.googleapis.com/v0/b/festivl.appspot.com/o/wicked-woods-2025%2FUnicorn%20Lounge%20Cropped.png?alt=media&token=8e1e4dd5-192a-47bd-9d2d-38edfabe9042
-  role: logo
-  renderKind: transparent
-  materializationPolicy: prefetchOnOpen
+color: 0xE02C9A
+iconImageURL: https://firebasestorage.googleapis.com/v0/b/festivl.appspot.com/o/wicked-woods-2025%2FUnicorn%20Lounge%20Cropped.png?alt=media&token=8e1e4dd5-192a-47bd-9d2d-38edfabe9042

@@ -1,23 +1,15 @@
 ---
-name: M3RF
-images:
-- assetKey: did:plc:5df2u7ief6m6tn77jznicxob|wicked-woods-ome-2025|contributor|M3RF|photo|default
-  source:
-    url: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/MRF.jpeg
-  role: photo
-  renderKind: fullImage
-  materializationPolicy: lazy
-- assetKey: did:plc:5df2u7ief6m6tn77jznicxob|wicked-woods-ome-2025|contributor|M3RF|logo|default
-  source:
-    url: https://wickedwoods.festivalpro.com/?getFile&FILEID=33059
-  role: logo
-  renderKind: transparent
-  materializationPolicy: lazy
+name: "M3RF"
+imageURL: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/MRF.jpeg
+logoURL: https://wickedwoods.festivalpro.com/?getFile&FILEID=33059
+kind: "Live Performance"
 links:
 - url: https://soundcloud.com/loungingunicorns
-  platform: soundcloud
+  linkType:
+    label: soundcloud
 - url: '@m3rf8me'
-  platform: website
+  linkType:
+    label: instagram
 ---
 SEXY BASS DRIVEN EAR CANDY!!!
 

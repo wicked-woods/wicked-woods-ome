@@ -1,4 +1,5 @@
 ---
-name: Noodles
+name: "Noodles"
+kind: "Live Performance"
 links: []
 ---

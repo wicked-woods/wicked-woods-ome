@@ -1,23 +1,15 @@
 ---
-name: Bonzai
-images:
-- assetKey: did:plc:5df2u7ief6m6tn77jznicxob|wicked-woods-ome-2025|contributor|Bonzai|photo|default
-  source:
-    url: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/Bonzai.jpg
-  role: photo
-  renderKind: fullImage
-  materializationPolicy: lazy
-- assetKey: did:plc:5df2u7ief6m6tn77jznicxob|wicked-woods-ome-2025|contributor|Bonzai|logo|default
-  source:
-    url: https://wickedwoods.festivalpro.com/?getFile&FILEID=31901
-  role: logo
-  renderKind: transparent
-  materializationPolicy: lazy
+name: "Bonzai"
+imageURL: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/Bonzai.jpg
+logoURL: https://wickedwoods.festivalpro.com/?getFile&FILEID=31901
+kind: "Live Performance"
 links:
 - url: https://soundcloud.com/kai-bonzai
-  platform: soundcloud
+  linkType:
+    label: soundcloud
 - url: https://www.instagram.com/bonzai.wub
-  platform: instagram
+  linkType:
+    label: instagram
 ---
 Bonzai (they/them) is a DJ/producer based in amiskwaciy-wâskahikan (otherwise known as Edmonton, Alberta). With a focus on extended blends and home grown mashups, they pull heavy influence from trap, dubstep, hip hop and experimental subgenres to give listeners that underground sound they've been looking for. As a member of the trans and queer community, they strive to use their platform to bring visibility and voice to marginalized groups within the music scene.
 

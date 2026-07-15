@@ -1,12 +1,6 @@
 ---
-name: Dyzphoria
-images:
-- assetKey: did:plc:5df2u7ief6m6tn77jznicxob|wicked-woods-ome-2025|contributor|Dyzphoria|photo|default
-  source:
-    url: https://firebasestorage.googleapis.com/v0/b/festivl.appspot.com/o/wicked-woods-2025%2FDyzphoria.jpg?alt=media&token=55efdb04-9d19-42c3-81ee-fbda1f9dd0d4
-  role: photo
-  renderKind: fullImage
-  materializationPolicy: lazy
+name: "Dyzphoria"
+imageURL: 'https://firebasestorage.googleapis.com/v0/b/festivl.appspot.com/o/wicked-woods-2025%2FDyzphoria.jpg?alt=media&token=55efdb04-9d19-42c3-81ee-fbda1f9dd0d4'
 links: []
 ---
 

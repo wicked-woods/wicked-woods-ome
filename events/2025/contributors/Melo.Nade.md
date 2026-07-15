@@ -1,29 +1,24 @@
 ---
-name: Melo.Nade
-images:
-- assetKey: did:plc:5df2u7ief6m6tn77jznicxob|wicked-woods-ome-2025|contributor|Melo.Nade|photo|default
-  source:
-    url: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/MeloNade.JPG
-  role: photo
-  renderKind: fullImage
-  materializationPolicy: lazy
-- assetKey: did:plc:5df2u7ief6m6tn77jznicxob|wicked-woods-ome-2025|contributor|Melo.Nade|logo|default
-  source:
-    url: https://wickedwoods.festivalpro.com/?getFile&FILEID=31211
-  role: logo
-  renderKind: transparent
-  materializationPolicy: lazy
+name: "Melo.Nade"
+imageURL: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/MeloNade.JPG
+logoURL: https://wickedwoods.festivalpro.com/?getFile&FILEID=31211
+kind: "Live Performance"
 links:
 - url: https://soundcloud.com/melo-nade%20
-  platform: soundcloud
+  linkType:
+    label: soundcloud
 - url: https://www.facebook.com/Melo.Nade.Sound/
-  platform: facebook
+  linkType:
+    label: facebook
 - url: https://www.instagram.com/nav_melo/
-  platform: instagram
+  linkType:
+    label: instagram
 - url: https://open.spotify.com/artist/68TnV7z3MqRXWohoQkWfEj%20
-  platform: spotify
+  linkType:
+    label: spotify
 - url: https://linktr.ee/Nav_melo
-  platform: website
+  linkType:
+    label: website
 ---
 The name Melo.Nade stems from the fluid flow of the vibe. With a diverse musical palette and almost 20 years of experience behind decks, Melo.Nade has a refined ability to move crowds at any time of day. Balancing the dark and the light, you can expect to hear sounds from deep dubstep to lustful world beats, breaks/garage, grime/hip-hop/trip-hop/soul/R&B, and thought-provoking bass music. Melo.Nade’s recent festival appearances since 2023 include Envision, Shambhala, Wicked Woods, and Deep Roots.
 

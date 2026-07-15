@@ -1,4 +1,5 @@
 ---
-name: Illustrator
+name: "Illustrator"
+kind: "Live Performance"
 links: []
 ---

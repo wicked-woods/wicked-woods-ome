@@ -1,23 +1,15 @@
 ---
-name: Coltcuts
-images:
-- assetKey: did:plc:5df2u7ief6m6tn77jznicxob|wicked-woods-ome-2025|contributor|Coltcuts|photo|default
-  source:
-    url: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/Coltcuts.jpeg
-  role: photo
-  renderKind: fullImage
-  materializationPolicy: lazy
-- assetKey: did:plc:5df2u7ief6m6tn77jznicxob|wicked-woods-ome-2025|contributor|Coltcuts|logo|default
-  source:
-    url: https://wickedwoods.festivalpro.com/?getFile&FILEID=35925
-  role: logo
-  renderKind: transparent
-  materializationPolicy: lazy
+name: "Coltcuts"
+imageURL: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/Coltcuts.jpeg
+logoURL: https://wickedwoods.festivalpro.com/?getFile&FILEID=35925
+kind: "Live Performance"
 links:
 - url: Www.SoundCloud.com/coltcutsmusic
-  platform: website
+  linkType:
+    label: soundcloud
 - url: Www.instagram.com/coltcutsmusic
-  platform: instagram
+  linkType:
+    label: instagram
 ---
 Born and raised in Kimberley, BC, ColtCuts has carved a path through the North American bass music scene with his signature blend of deep dubstep, halftime, and raw, distorted low-end power.
 

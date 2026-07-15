@@ -1,25 +1,18 @@
 ---
-name: Toshiinlove
-images:
-- assetKey: did:plc:5df2u7ief6m6tn77jznicxob|wicked-woods-ome-2025|contributor|Toshiinlove|photo|default
-  source:
-    url: https://firebasestorage.googleapis.com/v0/b/festivl.appspot.com/o/wicked-woods-2025%2FToshiinlove%20Artist%20Update%20Aug%2019.jpg?alt=media&token=99035b55-d4e1-49ee-9979-742fd90d8b92
-  role: photo
-  renderKind: fullImage
-  materializationPolicy: lazy
-- assetKey: did:plc:5df2u7ief6m6tn77jznicxob|wicked-woods-ome-2025|contributor|Toshiinlove|logo|default
-  source:
-    url: https://wickedwoods.festivalpro.com/?getFile&FILEID=34255
-  role: logo
-  renderKind: transparent
-  materializationPolicy: lazy
+name: "Toshiinlove"
+imageURL: https://firebasestorage.googleapis.com/v0/b/festivl.appspot.com/o/wicked-woods-2025%2FToshiinlove%20Artist%20Update%20Aug%2019.jpg?alt=media&token=99035b55-d4e1-49ee-9979-742fd90d8b92
+logoURL: https://wickedwoods.festivalpro.com/?getFile&FILEID=34255
+kind: "Live Performance"
 links:
 - url: https://soundcloud.com/toshiinlove
-  platform: soundcloud
+  linkType:
+    label: soundcloud
 - url: https://www.facebook.com/jennifer.wiebe.52/
-  platform: facebook
+  linkType:
+    label: facebook
 - url: https://www.instagram.com/toshiinlove/
-  platform: instagram
+  linkType:
+    label: instagram
 ---
 Toshiinlove is a Calgary based DJ and event curator in the underground music scene with a mission to spread love on the dance floor. Toshi's sound reflects a passion for exploring artists who ignite the soul, delivering an immaculate blend of musical flavors. Her sets are in the wide range of house and bass, weaving together melodic layers, dynamic contrasts, and deep, dirty basslines.
 

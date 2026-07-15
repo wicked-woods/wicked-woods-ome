@@ -1,27 +1,21 @@
 ---
-name: Woofax
-images:
-- assetKey: did:plc:5df2u7ief6m6tn77jznicxob|wicked-woods-ome-2025|contributor|Woofax|photo|default
-  source:
-    url: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/Woofax.jpg
-  role: photo
-  renderKind: fullImage
-  materializationPolicy: lazy
-- assetKey: did:plc:5df2u7ief6m6tn77jznicxob|wicked-woods-ome-2025|contributor|Woofax|logo|default
-  source:
-    url: https://wickedwoods.festivalpro.com/?getFile&FILEID=33291
-  role: logo
-  renderKind: transparent
-  materializationPolicy: lazy
+name: "Woofax"
+imageURL: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/Woofax.jpg
+logoURL: https://wickedwoods.festivalpro.com/?getFile&FILEID=33291
+kind: "Live Performance"
 links:
 - url: https://soundcloud.com/woofax
-  platform: soundcloud
+  linkType:
+    label: soundcloud
 - url: https://www.facebook.com/woofax
-  platform: facebook
+  linkType:
+    label: facebook
 - url: https://www.instagram.com/woofax/
-  platform: instagram
+  linkType:
+    label: instagram
 - url: https://open.spotify.com/artist/5YGfuUCO9rwUjW2Ye4NMb0
-  platform: spotify
+  linkType:
+    label: spotify
 ---
 WOOFAX, a former driving force behind electronic groups like Terravita and Hot Pink Delorean, boasts a legacy of music featured on major networks—FOX, MTV, CBS, Netflix—and chart-topping hits like Sexy Party and SpoilerAlert. 
 

@@ -1,23 +1,23 @@
 ---
-name: TC
-images:
-- assetKey: did:plc:5df2u7ief6m6tn77jznicxob|wicked-woods-ome-2025|contributor|TC|photo|default
-  source:
-    url: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/TC.jpg
-  role: photo
-  renderKind: fullImage
-  materializationPolicy: lazy
+name: "TC"
+imageURL: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/TC.jpg
+kind: "Live Performance"
 links:
 - url: https://soundcloud.com/tcdnb
-  platform: soundcloud
+  linkType:
+    label: soundcloud
 - url: https://www.facebook.com/tc.bristol/
-  platform: facebook
+  linkType:
+    label: facebook
 - url: https://www.instagram.com/tcdnb/#
-  platform: instagram
+  linkType:
+    label: instagram
 - url: https://open.spotify.com/artist/6b1Reb7bhjdXtkR7wUYW61?si=q60ycyY0Q5yzVcEfRnZI6w
-  platform: spotify
+  linkType:
+    label: spotify
 - url: https://www.tcdnb.com/
-  platform: website
+  linkType:
+    label: website
 ---
 TC, otherwise known as Tom Casswell is a producer, DJ and singer hailing from Bristol, UK. Having taken inspiration from the rich culture in his city he began writing music at 16, landing a release on D-Style Recordings with his debut LP ‘Evolution’ that featured two of his classics, ‘Deep’ ft. MC Jakes and ‘Jump.’
 Appearing on Pendulum’s ‘Hold Your Colour’ as a vocalist in 2005, he later went on to sing on Sub Focus ‘Follow The Light’ and his later collaboration with Culture Shock ‘You Make It Better’, was included on the former’s ‘Torus’ album. TC has also developed a name for himself via his infectious bootlegs, dropping hugely popular remixes of the likes of Duke Dumont, Disclosure, Julio Bashmore and Pharrell Williams.

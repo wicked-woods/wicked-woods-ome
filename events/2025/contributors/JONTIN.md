@@ -1,27 +1,21 @@
 ---
-name: JONTIN
-images:
-- assetKey: did:plc:5df2u7ief6m6tn77jznicxob|wicked-woods-ome-2025|contributor|JONTIN|photo|default
-  source:
-    url: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/JONTIN.jpg
-  role: photo
-  renderKind: fullImage
-  materializationPolicy: lazy
-- assetKey: did:plc:5df2u7ief6m6tn77jznicxob|wicked-woods-ome-2025|contributor|JONTIN|logo|default
-  source:
-    url: https://wickedwoods.festivalpro.com/?getFile&FILEID=32477
-  role: logo
-  renderKind: transparent
-  materializationPolicy: lazy
+name: "JONTIN"
+imageURL: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/JONTIN.jpg
+logoURL: https://wickedwoods.festivalpro.com/?getFile&FILEID=32477
+kind: "Live Performance"
 links:
 - url: Soundcloud.com/jontin1
-  platform: website
+  linkType:
+    label: soundcloud
 - url: Facebook.com/jontin01
-  platform: website
+  linkType:
+    label: facebook
 - url: Jontin.music
-  platform: website
+  linkType:
+    label: instagram
 - url: Na%20
-  platform: website
+  linkType:
+    label: website
 ---
 JONTIN - newfie noun \ Jonathon \ Origin: Newfoundland pronunciation JON-TIN 
 If you've seen him play before... then you know what’s up! This guy’s ability to read the 

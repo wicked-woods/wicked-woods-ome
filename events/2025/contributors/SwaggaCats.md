@@ -1,29 +1,24 @@
 ---
-name: SwaggaCats
-images:
-- assetKey: did:plc:5df2u7ief6m6tn77jznicxob|wicked-woods-ome-2025|contributor|SwaggaCats|photo|default
-  source:
-    url: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/SwaggaCats.png
-  role: photo
-  renderKind: fullImage
-  materializationPolicy: lazy
-- assetKey: did:plc:5df2u7ief6m6tn77jznicxob|wicked-woods-ome-2025|contributor|SwaggaCats|logo|default
-  source:
-    url: https://wickedwoods.festivalpro.com/?getFile&FILEID=32935
-  role: logo
-  renderKind: transparent
-  materializationPolicy: lazy
+name: "SwaggaCats"
+imageURL: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/SwaggaCats.png
+logoURL: https://wickedwoods.festivalpro.com/?getFile&FILEID=32935
+kind: "Live Performance"
 links:
 - url: https://soundcloud.com/swaggacats
-  platform: soundcloud
+  linkType:
+    label: soundcloud
 - url: https://www.facebook.com/SwaggaCatsMedia
-  platform: facebook
+  linkType:
+    label: facebook
 - url: https://www.instagram.com/swaggacats/
-  platform: instagram
+  linkType:
+    label: instagram
 - url: https://open.spotify.com/artist/5byVG4u9Qro6xXHRG9Kdek
-  platform: spotify
+  linkType:
+    label: spotify
 - url: https://www.swaggacats.media
-  platform: website
+  linkType:
+    label: website
 ---
 SwaggaCats has been making a name for himself in the Calgary music scene for quite a few years now, joining the Sub Chakra roster in 2021. Not only is he a talented DJ, VJ, and producer, but he has also led various projects such as The Yellow Dubmarine, Dumpster Fire Records, and Quiet Hours Silent Disco.
 

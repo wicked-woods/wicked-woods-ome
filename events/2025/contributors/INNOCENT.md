@@ -1,30 +1,26 @@
 ---
-name: INNOCENT
-images:
-- assetKey: did:plc:5df2u7ief6m6tn77jznicxob|wicked-woods-ome-2025|contributor|INNOCENT|photo|default
-  source:
-    url: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/INNOCENT.jpeg
-  role: photo
-  renderKind: fullImage
-  materializationPolicy: lazy
-- assetKey: did:plc:5df2u7ief6m6tn77jznicxob|wicked-woods-ome-2025|contributor|INNOCENT|logo|default
-  source:
-    url: https://wickedwoods.festivalpro.com/?getFile&FILEID=31861
-  role: logo
-  renderKind: transparent
-  materializationPolicy: lazy
+name: "INNOCENT"
+imageURL: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/INNOCENT.jpeg
+logoURL: https://wickedwoods.festivalpro.com/?getFile&FILEID=31861
+kind: "Live Performance"
 links:
 - url: https://soundcloud.com/musicbyinnocent
-  platform: soundcloud
+  linkType:
+    label: soundcloud
 - url: https://www.youtube.com/watch?v=DcxBQwnjRPQ
-  platform: youtube
+  linkType:
+    label: youtube
 - url: https://www.facebook.com/musicbyinnocentt
-  platform: facebook
+  linkType:
+    label: facebook
 - url: https://www.instagram.com/musicbyinnocent
-  platform: instagram
+  linkType:
+    label: instagram
 - url: https://open.spotify.com/artist/4nLQkTmrwDF2urrLlgLj1y?si=s3n921f4RG2szA2kmgmWwg
-  platform: spotify
+  linkType:
+    label: spotify
 - url: https://solo.to/musicbyinnocent
-  platform: website
+  linkType:
+    label: website
 ---
 Tyrell Gravelle, better known for his artist name “INNOCENT”, and formerly known as “DjayPJ” Est, July 2017. Tyrell is an 21-year-old Indiginuous “Blackfoot” & “Kootenay”, producer based out of British Columbia, Canada. He has quickly made a name for himself in the underground Bass scene; releasing on labels such as “Deep Dark & Dangerous”, “Prime Audio”, “Wubaholics”, “Spicy Bois”, and “Headbang Society”, as well as getting placements in big Editorial playlists such as “Dubstep Don”, New Music Friday Dance, Bangers, and “Sub Low”. With hit tracks such as “Spaceship”, Blast, and “Stomp”, INNOCENT has been pulling his inspiration from both heavy and deep genres, combining elements from Dubstep, Deep Dub, Electronic, and Trap. He has been gaining the attention of bigger labels seeking exclusive releases, as well as getting support from notable artists like Distinct Motive, EAZYBAKED”, LSDREAM, MalaDMZ, Mersiv, “MeSo”, Smith., “SubDocta”, Stylust, “Tvboo, “Wraz”, and many more. INNOCENT shows no signs of stopping, as the future is bright for the young independent maestro.

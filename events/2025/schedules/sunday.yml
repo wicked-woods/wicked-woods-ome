@@ -3,391 +3,323 @@ performances:
   the-portal:
   - title: To the Tide
     startTime: '15:00'
-    endTime: '16:00'
-    contributors:
-    - id: Silk Static aka To The Tide
+    contributorIDs:
+    - Silk Static aka To The Tide
   - title: Calamity
     startTime: '16:00'
-    endTime: '17:00'
-    contributors:
-    - id: Calamity
+    contributorIDs:
+    - Calamity
   - title: KERZ
     startTime: '17:00'
-    endTime: '18:00'
-    contributors:
-    - id: KERZ
+    contributorIDs:
+    - KERZ
   - title: JEP
     startTime: '18:00'
-    endTime: '19:00'
-    contributors:
-    - id: JEP
+    contributorIDs:
+    - JEP
   - title: ViraVira
     startTime: '19:00'
-    endTime: '20:00'
-    contributors:
-    - id: ViraVira
+    contributorIDs:
+    - ViraVira
   - title: Rosso
     startTime: '20:00'
-    endTime: '21:00'
-    contributors:
-    - id: Rosso
+    contributorIDs:
+    - Rosso
   - title: Howl
     startTime: '21:00'
-    endTime: '22:00'
-    contributors:
-    - id: Howl
+    contributorIDs:
+    - Howl
     recordings:
     - url: https://soundcloud.com/ritualmagick_howl/drown
   - title: Handsome Tiger
     startTime: '22:00'
-    endTime: '23:15'
-    contributors:
-    - id: Handsome Tiger
+    contributorIDs:
+    - Handsome Tiger
   - title: Illustrator
     startTime: '23:15'
-    endTime: 00:30
-    contributors:
-    - id: Illustrator
+    contributorIDs:
+    - Illustrator
   - title: Mood Change
-    startTime: 00:30
-    endTime: 02:00
-    contributors:
-    - id: Mood Change
+    startTime: '00:30'
+    endTime: '02:00'
+    contributorIDs:
+    - Mood Change
   - title: Saturna
-    startTime: 02:00
-    endTime: 03:30
-    contributors:
-    - id: Saturna
+    startTime: '02:00'
+    endTime: '03:30'
+    contributorIDs:
+    - Saturna
   - title: Silk Static
-    startTime: 03:30
-    endTime: 04:30
-    contributors:
-    - id: Silk Static aka To The Tide
+    startTime: '03:30'
+    contributorIDs:
+    - Silk Static aka To The Tide
   - title: MisfortuneCat
-    startTime: 04:30
-    endTime: 05:30
-    contributors:
-    - id: MisfortuneCat
+    startTime: '04:30'
+    contributorIDs:
+    - MisfortuneCat
     recordings:
     - url: https://soundcloud.com/misfortunecat/entertheportal
   - title: Young Dene
-    startTime: 05:30
-    endTime: 06:30
-    contributors:
-    - id: Young Dene
+    startTime: '05:30'
+    contributorIDs:
+    - Young Dene
   - title: The Author
-    startTime: 06:30
-    endTime: 07:30
-    contributors:
-    - id: The Author
+    startTime: '06:30'
+    contributorIDs:
+    - The Author
   - title: Bonzai
-    startTime: 07:30
-    endTime: 08:30
-    contributors:
-    - id: Bonzai
+    startTime: '07:30'
+    contributorIDs:
+    - Bonzai
     recordings:
     - url: https://soundcloud.com/kai-bonzai/portal-realm-wicked-woods-25
   - title: Portal Fam Jam
-    startTime: 08:30
+    startTime: '08:30'
     endTime: '11:00'
   - title: Noodles
     startTime: '11:00'
     endTime: '13:00'
-    contributors:
-    - id: Noodles
-  relaxation-ridge:
-  - title: Hypnotic Meditation
-    description: 'A meditative psychedelic journey, experience a safe way to experience
-      the hypnagogic state easily without plant medicines.
-
-
-      Awaken infinite potentials, heal and release stuck beliefs, emotions and physical
-      symptoms, Find peace, deep relaxation, and connection.
-
-      '
-    startTime: '10:00'
-    endTime: '11:00'
-    contributors:
-    - id: Lucia Light
-  - title: Healing Strings and Sacred Sounds
-    description: "Join husband-and-wife duo Quinton and Kendra Armstrong for a deeply
-      transformative and immersive live sound healing experience designed to bring
-      participants into a state of deep relaxation, rejuvenation, and self-discovery.\n\nIn
-      this workshop, Kendra will guide participants through breathwork while playing
-      quartz crystal and Tibetan singing bowls. Quinton will complement the experience
-      with soothing, psychedelic electric guitar riffs, adding a layer of musical
-      healing through the use of various guitar pedals.\n\nThe soothing tones of the
-      crystal and Tibetan singing bowls, each tuned to a specific chakra, will help
-      align participants' physical and energetic bodies. This sound journey will guide
-      them into a deep meditative state, facilitating the release of what no longer
-      serves them. As the healing vibrations resonate throughout the body, participants
-      will experience a profound recalibration at a cellular level, resetting the
-      nervous system, calming the mind, and offering a sense of true rest.\n\nParticipants
-      will be invited to lie down in a peaceful, comfortable environment, allowing
-      them to fully receive the benefits of the sound bath. The workshop will leave
-      them feeling balanced, relaxed, and reconnected to their highest self.Please
-      bring a yoga mat or blanket to lay down on and any other props you\u2019d like
-      to feel cozy (blanket, pillow, crystals).\n"
-    startTime: '11:15'
-    endTime: '12:30'
-    contributors:
-    - id: Mindful Moon Sound
-  - title: "Intro Into \u0100yurveda"
-    description: 'Join this workshop to start your journey into the ancient wisdom
-      Ayurveda. Known as the mother of medicine, Ayurveda is the oldest system of
-      healing known to human kind. Despite having over 5000 years of history, Ayurveda
-      is timeless because it understands and applies natural law to assist us in bringing
-      harmony to our lives.
-
-
-      This workshop will give you a base understanding of what Ayurveda is, its origins
-      and provide insights to the lens of Ayurvedic medicine. This workshop is ideal
-      for anyone interested in natural health, yoga practitioners, wellness professionals,
-      or those seeking a deeper connection to their body and the rhythms of nature.
-
-
-      Leave with a foundational understanding of Ayurveda as well as resources to
-      begin incorporating Ayurveda into your life.
-
-      '
-    startTime: '12:45'
-    endTime: '13:45'
-    contributors:
-    - id: Sara DeVita
-  - title: All Levels Acroyoga Workshop
-    description: "Whether you're new to AcroYoga or looking to refine your skills,
-      come experience the magic of movement, laughter, and shared balance.\n\nStoked
-      Acroyoga has brought their energy to festivals like Kaslo Jazz Fest, Calgary
-      AcroYoga Festival, and Kootenay Yoga Festival\u2014and now it\u2019s your turn
-      to fly!\n"
-    startTime: '14:00'
-    endTime: '15:00'
-    contributors:
-    - id: Stoked Acroyoga
-  - title: Harm Reduction 101 - Party Safer
-    description: "This workshop covers the core safety skills every raver should know
-      - from sticking with your crew and spotting drinks spiking, to knowing when
-      it\u2019s time to take a break. We\u2019ll go over how to recognize when someone
-      needs support, went to take a break, and then the importance of the body system.\n\nActivities
-      include: buddy tag making and quick fire festival trivia, all while doing drinks,
-      spiking games to raise awareness.\n"
-    startTime: '15:15'
-    endTime: '16:15'
-    contributors:
-    - name: ANKORS
-  - title: 'Dance: A Love Letter For Nature'
-    startTime: '16:30'
-    endTime: '18:00'
-    contributors:
-    - id: Alison Lenora Lambert
-  - title: Wicked Woods 2nd Annual Poetry Slam
-    description: 'The Wicked Woods Poetry Slam is a one-of-a-kind, open-air spoken
-      word event that merges poetry, storytelling, and performance art into an immersive
-      festival experience. Hosted in a vibrant outdoor setting, this event invites
-      festival-goers to witness and participate in a dynamic celebration of words,
-      rhythm, and raw emotion.
-
-
-      As the host, I will begin by setting the tone with a curated selection of spoken
-      word performances, creating an inviting and inspiring atmosphere. As the energy
-      builds, audience members will be encouraged to step up and share their own poetry,
-      transforming the event into a spontaneous and interactive exchange of voices,
-      perspectives, and emotions. Whether you''re a seasoned poet or simply someone
-      who loves the beauty of language, this is a space for you to engage, express,
-      and connect.
-
-      '
-    startTime: '18:15'
-    endTime: '19:15'
-    contributors:
-    - id: Daniel Zuccarello
+    contributorIDs:
+    - Noodles
   unicorn-lounge:
   - title: Ration L
     startTime: '15:00'
-    endTime: '16:00'
-    contributors:
-    - id: Ration L
+    contributorIDs:
+    - Ration L
     recordings:
     - url: https://soundcloud.com/lewis-wood-691805040/wicked-woods-2025-live-from
   - title: Jennay Badger
     startTime: '16:00'
-    endTime: '17:00'
-    contributors:
-    - id: Jennay Badger
+    contributorIDs:
+    - Jennay Badger
   - title: Bunny Hops
     startTime: '17:00'
-    endTime: '18:00'
-    contributors:
-    - id: Bunny Hops
+    contributorIDs:
+    - Bunny Hops
     recordings:
     - url: https://soundcloud.com/alexhops/bunny-hops-at-wicked-woods-2025
   - title: J9
     startTime: '18:00'
-    endTime: '19:00'
-    contributors:
-    - id: J9
+    contributorIDs:
+    - J9
     recordings:
     - url: https://soundcloud.com/user-144122538/45e7714a-2e89-439a-989e-26d7dc1ea111
   - title: Maculate
     startTime: '19:00'
-    endTime: '20:00'
-    contributors:
-    - id: Maculate
-  - title: "Spa\u0304nda with Special Guest"
+    contributorIDs:
+    - Maculate
+  - title: Spānda with Special Guest
     startTime: '20:00'
     endTime: '21:30'
-    contributors:
-    - id: "Spa\u0304nda"
+    contributorIDs:
+    - Spānda
   - title: Sivz
     startTime: '21:30'
     endTime: '22:45'
-    contributors:
-    - id: Sivz
+    contributorIDs:
+    - Sivz
   - title: JPOD
     startTime: '22:45'
-    endTime: 00:00
-    contributors:
-    - id: JPOD
+    endTime: '00:00'
+    contributorIDs:
+    - JPOD
   - title: Ed Solo
-    startTime: 00:00
-    endTime: 01:30
-    contributors:
-    - id: Ed Solo
+    startTime: '00:00'
+    endTime: '01:30'
+    contributorIDs:
+    - Ed Solo
   - title: ESKEI83
-    startTime: 01:30
-    endTime: 03:00
-    contributors:
-    - id: ESKEI83
+    startTime: '01:30'
+    endTime: '03:00'
+    contributorIDs:
+    - ESKEI83
   - title: Glass Petals
-    startTime: 03:00
-    endTime: 04:30
-    contributors:
-    - id: Glass Petals
+    startTime: '03:00'
+    endTime: '04:30'
+    contributorIDs:
+    - Glass Petals
   - title: JONTIN
-    startTime: 04:30
-    endTime: 06:00
-    contributors:
-    - id: JONTIN
+    startTime: '04:30'
+    endTime: '06:00'
+    contributorIDs:
+    - JONTIN
     recordings:
     - url: https://soundcloud.com/jontin1/unicorn-lounge-wicked-woods-2025
   - title: Jennee Pleeze
-    startTime: 06:00
-    endTime: 07:30
-    contributors:
-    - id: Jennee Pleeze
+    startTime: '06:00'
+    endTime: '07:30'
+    contributorIDs:
+    - Jennee Pleeze
     recordings:
     - url: https://soundcloud.com/jenneepleeze/a-wicked-morning-in-the-woods
   - title: Just K8
-    startTime: 07:30
-    endTime: 09:00
-    contributors:
-    - id: Just K8
+    startTime: '07:30'
+    endTime: '09:00'
+    contributorIDs:
+    - Just K8
   - title: DJ sprouT
-    startTime: 09:00
+    startTime: '09:00'
     endTime: '10:30'
-    contributors:
-    - id: DJ sprouT
+    contributorIDs:
+    - DJ sprouT
   - title: Heat Source
     startTime: '10:30'
     endTime: '12:00'
-    contributors:
-    - id: Heat Source
-  ursus:
-  - title: Long Gone Lonesomes
-    startTime: '16:30'
-    endTime: '18:00'
-    contributors:
-    - id: Long Gone Lonesomes
-  - title: Jeff Holden of Holden Space
-    startTime: '18:00'
-    endTime: '19:00'
-    contributors:
-    - id: Jeff Holden of Holden Space
-  - title: MURGE
-    startTime: '19:00'
-    endTime: '20:00'
-    contributors:
-    - id: MURGE
-  - title: Asad Khan
-    startTime: '20:00'
-    endTime: '21:00'
-    contributors:
-    - id: Asad Khan
-  - title: KR3TURE
-    startTime: '21:00'
-    endTime: '22:30'
-    contributors:
-    - id: KR3TURE
-  - title: Cofresi
-    startTime: '22:30'
-    endTime: 00:00
-    contributors:
-    - id: Cofresi
+    contributorIDs:
+    - Heat Source
   the-hallow:
   - title: Hanna Solow
     startTime: '16:30'
     endTime: '18:00'
-    contributors:
-    - id: Hanna Solow
+    contributorIDs:
+    - Hanna Solow
   - title: Bass Cat
     startTime: '18:00'
-    endTime: '19:00'
-    contributors:
-    - id: Bass Cat
+    contributorIDs:
+    - Bass Cat
     recordings:
     - url: https://soundcloud.com/deejaybasscat/hallow-bass-cat-2025
   - title: J.F. Killah
     startTime: '19:00'
-    endTime: '20:00'
-    contributors:
-    - id: J.F. Killah
+    contributorIDs:
+    - J.F. Killah
   - title: Benanas
     startTime: '20:00'
-    endTime: '21:00'
-    contributors:
-    - id: Benanas
+    contributorIDs:
+    - Benanas
   - title: Dilligent
     startTime: '21:00'
-    endTime: '22:00'
-    contributors:
-    - id: Dilligent
+    contributorIDs:
+    - Dilligent
   - title: Buddy and the Buffalo
     startTime: '22:00'
     endTime: '23:30'
-    contributors:
-    - id: Buddy and the Buffalo
+    contributorIDs:
+    - Buddy and the Buffalo
   - title: STYLUST
     startTime: '23:30'
-    endTime: 01:00
-    contributors:
-    - id: STYLUST
+    endTime: '01:00'
+    contributorIDs:
+    - STYLUST
   - title: Kimati
-    startTime: 01:00
-    endTime: 02:30
-    contributors:
-    - name: Kimati
+    startTime: '01:00'
+    endTime: '02:30'
+    contributorNames:
+    - Kimati
   - title: Abstrakt Sonance
-    startTime: 02:30
-    endTime: 03:30
-    contributors:
-    - id: Abstrakt Sonance
+    startTime: '02:30'
+    endTime: '03:30'
+    contributorIDs:
+    - Abstrakt Sonance
   - title: Bernzikial
-    startTime: 03:30
-    endTime: 04:30
-    contributors:
-    - id: Bernzikial
+    startTime: '03:30'
+    contributorIDs:
+    - Bernzikial
   - title: Steppin' West
-    startTime: 04:30
-    endTime: 05:30
-    contributors:
-    - id: Steppin' West
+    startTime: '04:30'
+    contributorIDs:
+    - Steppin' West
   - title: Melo.Nade
-    startTime: 05:30
-    endTime: 07:00
-    contributors:
-    - id: Melo.Nade
+    startTime: '05:30'
+    endTime: '07:00'
+    contributorIDs:
+    - Melo.Nade
   - title: TOR
-    startTime: 07:00
-    endTime: 08:30
-    contributors:
-    - id: TOR
+    startTime: '07:00'
+    endTime: '08:30'
+    contributorIDs:
+    - TOR
+  ursus:
+  - title: Long Gone Lonesomes
+    startTime: '16:30'
+    endTime: '18:00'
+    contributorIDs:
+    - Long Gone Lonesomes
+  - title: Jeff Holden of Holden Space
+    startTime: '18:00'
+    contributorIDs:
+    - Jeff Holden of Holden Space
+  - title: MURGE
+    startTime: '19:00'
+    contributorIDs:
+    - MURGE
+  - title: Asad Khan
+    startTime: '20:00'
+    contributorIDs:
+    - Asad Khan
+  - title: KR3TURE
+    startTime: '21:00'
+    endTime: '22:30'
+    contributorIDs:
+    - KR3TURE
+  - title: Cofresi
+    startTime: '22:30'
+    endTime: '00:00'
+    contributorIDs:
+    - Cofresi
+  relaxation-ridge:
+  - title: Hypnotic Meditation
+    description: |
+      A meditative psychedelic journey, experience a safe way to experience the hypnagogic state easily without plant medicines.
+      
+      Awaken infinite potentials, heal and release stuck beliefs, emotions and physical symptoms, Find peace, deep relaxation, and connection.
+    startTime: '10:00'
+    endTime: '11:00'
+    contributorIDs:
+    - Lucia Light
+  - title: Healing Strings and Sacred Sounds
+    description: |
+      Join husband-and-wife duo Quinton and Kendra Armstrong for a deeply transformative and immersive live sound healing experience designed to bring participants into a state of deep relaxation, rejuvenation, and self-discovery.
+      
+      In this workshop, Kendra will guide participants through breathwork while playing quartz crystal and Tibetan singing bowls. Quinton will complement the experience with soothing, psychedelic electric guitar riffs, adding a layer of musical healing through the use of various guitar pedals.
+      
+      The soothing tones of the crystal and Tibetan singing bowls, each tuned to a specific chakra, will help align participants' physical and energetic bodies. This sound journey will guide them into a deep meditative state, facilitating the release of what no longer serves them. As the healing vibrations resonate throughout the body, participants will experience a profound recalibration at a cellular level, resetting the nervous system, calming the mind, and offering a sense of true rest.
+      
+      Participants will be invited to lie down in a peaceful, comfortable environment, allowing them to fully receive the benefits of the sound bath. The workshop will leave them feeling balanced, relaxed, and reconnected to their highest self.Please bring a yoga mat or blanket to lay down on and any other props you’d like to feel cozy (blanket, pillow, crystals).
+    startTime: '11:15'
+    endTime: '12:30'
+    contributorIDs:
+    - Mindful Moon Sound
+  - title: Intro Into Āyurveda
+    description: |
+      Join this workshop to start your journey into the ancient wisdom Ayurveda. Known as the mother of medicine, Ayurveda is the oldest system of healing known to human kind. Despite having over 5000 years of history, Ayurveda is timeless because it understands and applies natural law to assist us in bringing harmony to our lives.
+      
+      This workshop will give you a base understanding of what Ayurveda is, its origins and provide insights to the lens of Ayurvedic medicine. This workshop is ideal for anyone interested in natural health, yoga practitioners, wellness professionals, or those seeking a deeper connection to their body and the rhythms of nature.
+      
+      Leave with a foundational understanding of Ayurveda as well as resources to begin incorporating Ayurveda into your life.
+    startTime: '12:45'
+    endTime: '13:45'
+    contributorIDs:
+    - Sara DeVita
+  - title: All Levels Acroyoga Workshop
+    description: |
+      Whether you're new to AcroYoga or looking to refine your skills, come experience the magic of movement, laughter, and shared balance.
+      
+      Stoked Acroyoga has brought their energy to festivals like Kaslo Jazz Fest, Calgary AcroYoga Festival, and Kootenay Yoga Festival—and now it’s your turn to fly!
+    startTime: '14:00'
+    endTime: '15:00'
+    contributorIDs:
+    - Stoked Acroyoga
+  - title: Harm Reduction 101 - Party Safer
+    description: |
+      This workshop covers the core safety skills every raver should know - from sticking with your crew and spotting drinks spiking, to knowing when it’s time to take a break. We’ll go over how to recognize when someone needs support, went to take a break, and then the importance of the body system.
+      
+      Activities include: buddy tag making and quick fire festival trivia, all while doing drinks, spiking games to raise awareness.
+    startTime: '15:15'
+    endTime: '16:15'
+    contributorNames:
+    - ANKORS
+  - title: 'Dance: A Love Letter For Nature'
+    startTime: '16:30'
+    endTime: '18:00'
+    contributorIDs:
+    - Alison Lenora Lambert
+  - title: Wicked Woods 2nd Annual Poetry Slam
+    description: |
+      The Wicked Woods Poetry Slam is a one-of-a-kind, open-air spoken word event that merges poetry, storytelling, and performance art into an immersive festival experience. Hosted in a vibrant outdoor setting, this event invites festival-goers to witness and participate in a dynamic celebration of words, rhythm, and raw emotion.
+      
+      As the host, I will begin by setting the tone with a curated selection of spoken word performances, creating an inviting and inspiring atmosphere. As the energy builds, audience members will be encouraged to step up and share their own poetry, transforming the event into a spontaneous and interactive exchange of voices, perspectives, and emotions. Whether you're a seasoned poet or simply someone who loves the beauty of language, this is a space for you to engage, express, and connect.
+    startTime: '18:15'
+    endTime: '19:15'
+    contributorIDs:
+    - Daniel Zuccarello

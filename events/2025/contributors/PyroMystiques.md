@@ -1,27 +1,21 @@
 ---
-name: PyroMystiques
-images:
-- assetKey: did:plc:5df2u7ief6m6tn77jznicxob|wicked-woods-ome-2025|contributor|PyroMystiques|photo|default
-  source:
-    url: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/PyroMystiques.png
-  role: photo
-  renderKind: fullImage
-  materializationPolicy: lazy
-- assetKey: did:plc:5df2u7ief6m6tn77jznicxob|wicked-woods-ome-2025|contributor|PyroMystiques|logo|default
-  source:
-    url: https://wickedwoods.festivalpro.com/?getFile&FILEID=33121
-  role: logo
-  renderKind: transparent
-  materializationPolicy: lazy
+name: "PyroMystiques"
+imageURL: https://d1s8fi0p4o2ghp.cloudfront.net/images/2025/PyroMystiques.png
+logoURL: https://wickedwoods.festivalpro.com/?getFile&FILEID=33121
+kind: "Dance Performance"
 links:
 - url: https://www.youtube.com/@PyroMystiques
-  platform: youtube
+  linkType:
+    label: youtube
 - url: https://www.facebook.com/PyroMystiquesyeg
-  platform: facebook
+  linkType:
+    label: facebook
 - url: https://www.instagram.com/pyromystiques/
-  platform: instagram
+  linkType:
+    label: instagram
 - url: www.pyromystiques.ca
-  platform: website
+  linkType:
+    label: website
 ---
 
 
