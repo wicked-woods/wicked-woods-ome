@@ -1,0 +1,8 @@
+name: Ursus
+color: 39671
+images:
+- source:
+    url: https://firebasestorage.googleapis.com/v0/b/festivl.appspot.com/o/wicked-woods-2025%2FUrsusLogo%20Cropped.png?alt=media&token=ff0ae725-810c-4ac0-a333-3a9946785a2c
+  role: logo
+  renderKind: transparent
+  materializationPolicy: prefetchOnOpen

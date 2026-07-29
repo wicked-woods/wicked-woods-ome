@@ -1,0 +1,230 @@
+date: '2023-06-09'
+performances:
+  the-portal:
+  - title: Colorvision
+    startTime: '13:00'
+    contributors:
+    - id: Colorvision
+  - title: Cloak & Dagger
+    startTime: '14:30'
+    contributors:
+    - id: Cloak & Dagger
+  - title: FlatSpin
+    startTime: '16:30'
+    contributors:
+    - id: FlatSpin
+  - title: Swayze
+    startTime: '17:30'
+    contributors:
+    - id: Swayze
+  - title: Rosso
+    startTime: '18:30'
+    contributors:
+    - id: Rosso
+  - title: Indigogh
+    startTime: '19:30'
+    contributors:
+    - id: Indigogh
+  - title: LOUP
+    startTime: '20:30'
+    contributors:
+    - id: LOUP
+  - title: Substance b2b MisfortuneCat
+    startTime: '21:30'
+    contributors:
+    - id: Substance b2b MisfortuneCat
+  - title: Die By The Sword
+    startTime: '22:30'
+    contributors:
+    - id: Die By The Sword
+    recordings:
+    - url: https://www.youtube.com/watch?v=EhNz-guvBT4
+  - title: Wraz
+    startTime: '23:30'
+    contributors:
+    - id: Wraz
+  - title: m4xw311, dove & skobe
+    startTime: 01:00
+    contributors:
+    - id: m4xw311
+    - id: dove
+    - id: skobe
+  - title: Sorsari
+    startTime: 03:30
+    contributors:
+    - id: Sorsari
+  - title: GHILLIE & SKBR
+    startTime: 04:30
+    contributors:
+    - id: GHILLIE & SKBR
+  - title: Siadic
+    startTime: 05:30
+    contributors:
+    - id: Siadic
+  - title: Mews
+    startTime: 06:30
+    endTime: 07:30
+    contributors:
+    - id: Mews
+  the-hallow:
+  - title: FunkinRight
+    startTime: '15:00'
+    contributors:
+    - id: FunkinRight
+  - title: Ninjette & Thug Shells
+    startTime: '16:00'
+    contributors:
+    - id: Ninjette
+    - id: Thug Shells
+  - title: 'Jontin '
+    startTime: '17:00'
+    contributors:
+    - id: 'Jontin '
+  - title: Dirty-D
+    startTime: '18:00'
+    contributors:
+    - id: Dirty-D
+  - title: I.M.Fast
+    startTime: '19:00'
+    contributors:
+    - id: I.M.Fast
+  - title: Naturalist
+    startTime: '20:00'
+    contributors:
+    - id: Naturalist
+  - title: DeBlock
+    startTime: '21:00'
+    contributors:
+    - id: DeBlock
+  - title: 'Nicky Genesis '
+    startTime: '22:00'
+    contributors:
+    - id: 'Nicky Genesis '
+  - title: 'PINEO & LOEB '
+    startTime: '23:00'
+    contributors:
+    - id: 'PINEO & LOEB '
+  - title: SkiiTour
+    startTime: 00:00
+    contributors:
+    - id: SkiiTour
+  - title: DeFunk
+    startTime: 01:30
+    contributors:
+    - id: DeFunk
+  - title: Average Citizens
+    startTime: 03:00
+    contributors:
+    - id: Average Citizens
+  - title: Robbie C
+    startTime: 04:30
+    contributors:
+    - id: Robbie C
+  - title: Benanas
+    startTime: 05:30
+    endTime: 07:30
+    contributors:
+    - id: Benanas
+  unicorn-lounge:
+  - title: DNB Girls
+    startTime: '14:00'
+    contributors:
+    - id: DNB Girls
+  - title: Eradik
+    startTime: '17:30'
+    contributors:
+    - id: Eradik
+  - title: E-LeV-8
+    startTime: '18:30'
+    contributors:
+    - id: E-LeV-8
+  - title: Alan Flava
+    startTime: '19:30'
+    contributors:
+    - id: Alan Flava
+  - title: KILLUPS
+    startTime: '20:30'
+    contributors:
+    - id: KILLUPS
+  - title: Specific Gravity
+    startTime: '21:30'
+    contributors:
+    - id: Specific Gravity
+  - title: Trevor Galore
+    startTime: '22:30'
+    contributors:
+    - id: Trevor Galore
+  - title: PSYOPS
+    startTime: '23:30'
+    contributors:
+    - id: PSYOPS
+  - title: Icicle
+    startTime: 00:30
+    contributors:
+    - id: Icicle
+  - title: Kytami & Phonik Ops
+    startTime: 02:00
+    contributors:
+    - id: Kytami & Phonik Ops
+  - title: MatB and Ohm Girl
+    startTime: 03:30
+    contributors:
+    - id: MatB and Ohm Girl
+  - title: Reflektor
+    startTime: 05:00
+    contributors:
+    - id: Reflektor
+  - title: GREY MOON
+    startTime: 06:30
+    endTime: 07:30
+    contributors:
+    - id: GREY MOON
+  ursus:
+  - title: Lazy Syrup Orchestra
+    startTime: '15:00'
+    contributors:
+    - id: Lazy Syrup Orchestra
+  - title: Chimp It
+    startTime: '16:30'
+    contributors:
+    - id: Chimp It
+  - title: Skreid
+    startTime: '17:30'
+    contributors:
+    - id: Skreid
+  - title: J-Reds, Theory, Def3 & Paradox Life
+    startTime: '18:30'
+    contributors:
+    - id: J-Reds
+    - id: Theory
+    - id: Def3
+    - id: Paradox Life
+  - title: Tube Screamer
+    startTime: '20:00'
+    contributors:
+    - id: Tube Screamer
+  - title: Oodra Movement
+    startTime: '21:00'
+    contributors:
+    - id: Oodra Movement
+  - title: Mat The Alien
+    startTime: '21:30'
+    contributors:
+    - id: Mat The Alien
+  - title: Dakota Bear
+    startTime: '23:00'
+    contributors:
+    - id: Dakota Bear
+  - title: Handsome Tiger
+    startTime: 00:00
+    contributors:
+    - id: Handsome Tiger
+  - title: GDubz
+    startTime: 01:30
+    contributors:
+    - id: GDubz
+  - title: MoJo
+    startTime: 03:00
+    endTime: 04:00
+    contributors:
+    - id: MoJo

@@ -1,0 +1,21 @@
+---
+name: Longwalkshortdock
+images:
+- source:
+    url: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2F25FEE87F-DA49-4847-8C46-799F11C92FBF.png?alt=media&token=bb5ae1ba-1787-4f8e-beeb-5cda3ab72f0c
+  role: photo
+  renderKind: fullImage
+  materializationPolicy: lazy
+links:
+- url: https://soundcloud.com/longwalkshortdock
+  platform: soundcloud
+- url: https://open.spotify.com/artist/7idfp6RvpPr27LCuM7juVq?autoplay=true
+  platform: spotify
+---
+Longwalkshortdock essentially started the first time Dave King heard gritty electronic music in early eighties video games. Strongly influenced by these sounds and melodies, Dave started recording and looping segments as a child. He also got a taste for sampling and recording; taping segments of his piano practice to fool his parents into thinking he was practicing in the other room when he was really playing nintendo. Currently, a veteran of sound design and electronic music production for well over a decade, Longwalkshortdock's music has stepped into a genre of its own. Heavily influenced by early 80s video game music, metal and rock music, found-sound and vintage analog synthesis, he stacks layers of melody in his tracks until they implode and reform. Heavy drums and aggressive synths join forces with rolling grooves and melodic lead lines to create a wide variety of slamming dance floor originals. 
+
+Lesser known fact : Not limited to dance music, LWSD's music crosses into many territories. His vast catalogue of hundreds of songs dives into drum and bass, ambient, IDM, electro, acid, house, big beat, indie rock, drones, electronica and down tempo. Dave holds two degrees from the Art Institute of Burnaby for Music Recording and Production. Playing songs and remixes he wrote and produced, Longwalkshortdock performs live PA with live vocals, synthesizers, drum machines, guitar, effects, toys, computers and even some of his own strobes and lighting. Know for his incredibly "enthusiastic" performances, longwalkshortdock creates an undeniable stage presence and visceral experience at a show. Break through performances at Soundwave 2009 and Shambhala 2010 have made LWSD an artist to watch out for and he remains a highly sought after artist with multiple top bookings at Canada's biggest electronic festivals every year since. 
+
+Not limited to Canada, LWSD has also been invited to play festivals multiple times in the United States and recently overseas in New Zealand. Longwalkshortdock has performed live with the likes of Phil Western (Download, Skinny Puppy, Kone) and played along side or opened for talented artists like, Justin Martin, Stylust Beats, The Orb, Orbital, MSTRKRFT, Opiuo, Junkie XL, Vibesquad, Mimosa, Adam Freeland, Shout out out out out and Mat the Alien to name but a few. Always working to enhance and upgrade the LWSD live experience Dave is currently in the process of collaborating with veteran of visual wizardry Tim Hill of RIM Visuals. Using at least 10 projectors loaded with custom content, the live LWSD experience is nothing short of a full venue transformation into a etherial and immersive three dimensional light cube. 
+
+Longwalkshortdocks third full length studio album entitled "Squashing Machine" released on East Van Digital follows up on his successful debut album "Casual Tea" and sophomore "Bigger Fish Frying" with many signs of progress and promise on radio stations across Canada and international charts like Beatport. Final point of note : Did you know they found him in a cave on the moon? Thats what i heard...

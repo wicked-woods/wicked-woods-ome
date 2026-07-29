@@ -1,0 +1,8 @@
+name: The Hallow
+color: 8342239
+images:
+- source:
+    url: https://firebasestorage.googleapis.com/v0/b/festivl.appspot.com/o/wicked-woods-2025%2FHallowlogo%20White%20(1).png?alt=media&token=865a3cd2-050b-4da4-9462-224ae4319929
+  role: logo
+  renderKind: transparent
+  materializationPolicy: prefetchOnOpen

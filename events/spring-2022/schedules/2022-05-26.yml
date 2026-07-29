@@ -1,0 +1,123 @@
+date: '2022-05-26'
+performances:
+  the-hallow:
+  - title: Stylust
+    startTime: '14:00'
+    contributors:
+    - id: Stylust
+  - title: Yetz
+    startTime: '15:00'
+    contributors:
+    - id: Yetz
+  - title: Smirk
+    startTime: '16:00'
+    contributors:
+    - id: Smirk
+  - title: Zak Davis
+    startTime: '17:00'
+    contributors:
+    - id: Zak Davis
+  - title: Old Man
+    startTime: '18:00'
+    contributors:
+    - id: Old Man
+  - title: Wicca Wicca
+    startTime: '19:00'
+    contributors:
+    - id: Wicca Wicca
+  - title: Knots
+    startTime: '20:00'
+    contributors:
+    - id: Knots
+  - title: Melo.Nade
+    startTime: '21:00'
+    contributors:
+    - id: Melo.Nade
+  - title: Dubconcious
+    startTime: '22:00'
+    contributors:
+    - id: Dubconcious
+  - title: Application
+    startTime: '23:00'
+    contributors:
+    - id: Application
+  - title: Footprints
+    startTime: 00:00
+    contributors:
+    - id: Footprints
+  - title: S2
+    startTime: 01:00
+    contributors:
+    - id: S2
+  - title: ColtCuts
+    startTime: 02:00
+    contributors:
+    - id: ColtCuts
+  - title: Just John
+    startTime: 03:00
+    contributors:
+    - id: Just John
+  - title: Gangstronauts
+    startTime: 04:00
+    contributors:
+    - id: Gangstronauts
+  - title: 8 Bit Ninja
+    startTime: 05:00
+    endTime: 06:00
+    contributors:
+    - id: 8 Bit Ninja
+  unicorn-lounge:
+  - title: Benanas
+    startTime: '15:00'
+    contributors:
+    - id: Benanas
+  - title: Dreadbeat
+    startTime: '16:00'
+    contributors:
+    - id: Dreadbeat
+  - title: Fif
+    startTime: '17:00'
+    contributors:
+    - id: Fif
+  - title: Kataclysm
+    startTime: '18:00'
+    contributors:
+    - id: Kataclysm
+  - title: Eradik
+    startTime: '19:00'
+    contributors:
+    - id: Eradik
+  - title: Guru
+    startTime: '20:00'
+    contributors:
+    - id: Guru
+  - title: Two Timer
+    startTime: '21:00'
+    contributors:
+    - id: Two Timer
+  - title: WakCutt
+    startTime: '22:00'
+    contributors:
+    - id: WakCutt
+  - title: Vinyl Ritchie & Foxy Moron
+    startTime: '23:00'
+    contributors:
+    - id: Vinyl Ritchie
+    - id: Foxy Moron
+  - title: Freddy J
+    startTime: 01:00
+    contributors:
+    - id: Freddy J
+  - title: Burchill
+    startTime: 02:00
+    contributors:
+    - id: Burchill
+  - title: Ninjette
+    startTime: 03:00
+    contributors:
+    - id: Ninjette
+  - title: Weekend Specialz
+    startTime: 04:00
+    endTime: 05:30
+    contributors:
+    - id: Weekend Specialz

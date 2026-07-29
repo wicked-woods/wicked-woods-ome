@@ -1,0 +1,202 @@
+date: '2022-09-09'
+performances:
+  the-portal:
+  - title: Colorvision
+    startTime: '12:00'
+    contributors:
+    - id: Colorvision
+  - title: Jaq Toforo
+    startTime: '14:00'
+    contributors:
+    - id: Jaq Toforo
+  - title: "FuBaR\u2019D"
+    startTime: '15:30'
+    contributors:
+    - id: "FuBaR\u2019D"
+  - title: Seriousilly
+    startTime: '16:30'
+    contributors:
+    - id: Seriousilly
+  - title: Zegend
+    startTime: '17:30'
+    contributors:
+    - id: Zegend
+  - title: Zac Fogal
+    startTime: '18:30'
+    contributors:
+    - id: Zac Fogal
+  - title: Knots
+    startTime: '19:30'
+    contributors:
+    - id: Knots
+  - title: Greymoon
+    startTime: '20:30'
+    contributors:
+    - id: Greymoon
+  - title: sean beaver, Caylem Simeon, Wolf Collar & BLKFT
+    startTime: '22:00'
+    contributors:
+    - id: sean beaver
+    - id: Caylem Simeon
+    - id: Wolf Collar
+    - id: BLKFT
+  - title: Dither Bit
+    startTime: 01:00
+    contributors:
+    - id: Dither Bit
+  - title: Caro
+    startTime: 02:30
+    contributors:
+    - id: Caro
+  - title: Misfortune Cat
+    startTime: 04:00
+    contributors:
+    - id: Misfortune Cat
+  - title: AlexMoon
+    startTime: 05:30
+    endTime: 07:00
+    contributors:
+    - id: AlexMoon
+  unicorn-lounge:
+  - title: Mat B & Ohm Girl
+    startTime: '13:00'
+    contributors:
+    - id: Mat B
+    - id: Ohm Girl
+  - title: Captivate
+    startTime: '15:00'
+    contributors:
+    - id: Captivate
+  - title: Distinct
+    startTime: '16:00'
+    contributors:
+    - id: Distinct
+  - title: Alan Flava
+    startTime: '17:00'
+    contributors:
+    - id: Alan Flava
+  - title: E-Lev-8
+    startTime: '18:00'
+    contributors:
+    - id: E-Lev-8
+  - title: Eradik
+    startTime: '19:00'
+    contributors:
+    - id: Eradik
+  - title: BreO
+    startTime: '20:30'
+    contributors:
+    - id: BreO
+  - title: J.F.Killah
+    startTime: '22:00'
+    contributors:
+    - id: J.F.Killah
+  - title: DJ Madd
+    startTime: '23:30'
+    contributors:
+    - id: DJ Madd
+  - title: Leo Zen
+    startTime: 01:00
+    contributors:
+    - id: Leo Zen
+  - title: Jake Robertz
+    startTime: 02:30
+    contributors:
+    - id: Jake Robertz
+  - title: Reflektor
+    startTime: 04:00
+    contributors:
+    - id: Reflektor
+  - title: Swaggacats, Tone D. & Boneless
+    startTime: 05:30
+    endTime: 07:30
+    contributors:
+    - id: Swaggacats
+    - id: Tone D.
+    - id: Boneless
+  ursus:
+  - title: Def3
+    startTime: '16:00'
+    contributors:
+    - id: Def3
+  - title: Manteasah
+    startTime: '17:00'
+    contributors:
+    - id: Manteasah
+  - title: Tate
+    startTime: '18:30'
+    contributors:
+    - id: Tate
+  - title: Tube Screamer
+    startTime: '19:00'
+    endTime: '20:00'
+    contributors:
+    - id: Tube Screamer
+  - title: Le Cirque de la Nuit
+    startTime: '20:30'
+    contributors:
+    - id: Le Cirque de la Nuit
+  - title: CHIMP IT
+    startTime: '21:30'
+    contributors:
+    - id: CHIMP IT
+  - title: Dirtwire
+    startTime: '22:30'
+    endTime: 00:00
+    contributors:
+    - id: Dirtwire
+  the-hallow:
+  - title: Robbie C
+    startTime: '15:00'
+    contributors:
+    - id: Robbie C
+  - title: Ninjette & Thug Shells
+    startTime: '16:00'
+    contributors:
+    - id: Ninjette
+    - id: Thug Shells
+  - title: Joanna Magik
+    startTime: '17:00'
+    contributors:
+    - id: Joanna Magik
+  - title: Lion-S
+    startTime: '18:30'
+    contributors:
+    - id: Lion-S
+  - title: Dirty-D
+    startTime: '20:00'
+    contributors:
+    - id: Dirty-D
+  - title: Monkey Twerk
+    startTime: '21:00'
+    contributors:
+    - id: Monkey Twerk
+  - title: Rumpus
+    startTime: '22:30'
+    contributors:
+    - id: Rumpus
+  - title: Neon Steve
+    startTime: 00:00
+    contributors:
+    - id: Neon Steve
+  - title: Cazztek
+    startTime: 01:30
+    contributors:
+    - id: Cazztek
+  - title: Sivz
+    startTime: 02:30
+    contributors:
+    - id: Sivz
+  - title: Ben Fox
+    startTime: 03:30
+    contributors:
+    - id: Ben Fox
+  - title: Soup
+    startTime: 04:30
+    contributors:
+    - id: Soup
+  - title: Mr Diggler
+    startTime: 05:30
+    endTime: 06:30
+    contributors:
+    - id: Mr Diggler

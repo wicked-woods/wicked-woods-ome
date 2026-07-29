@@ -1,0 +1,25 @@
+---
+name: Rabbit Hole Records Crew
+images:
+- source:
+    url: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2FF960D1BA-D9A4-414E-828B-48782EE63D2C.png?alt=media&token=39fe807d-c40f-49d1-8457-66c7405a1697
+  role: photo
+  renderKind: fullImage
+  materializationPolicy: lazy
+links:
+- url: https://on.soundcloud.com/AhXGvHEqJ3Q7oWfBA
+  platform: soundcloud
+- url: https://linktr.ee/rabbitholerecordscrew?fbclid=PAZXh0bgNhZW0CMTEAAaa3mYR3Uyp4bz7CUDdBTmIaAUAZqCigPCmhsFc-RazZ3ZQmTb1ytnd35hA_aem_AQiO0gKUT8sdybE-P28AecN4XB0-iDcCYBejrZv3HFNsaetpZi3RnxPaWQQyF3u_En7IjRGrWEUT1TX1WTzQSKl7
+  platform: website
+- url: https://open.spotify.com/album/6gGl7Va0jvPT6MlTXusysM?si=pNhFKxvGRO-_FRD-aYxMoQ
+  platform: spotify
+- url: https://youtu.be/tpoHYdkNL9I?si=kvub1wHqQhBHs8ZM
+  platform: youtube
+- url: https://www.instagram.com/rabbitholerecordscrew
+  platform: instagram
+- url: https://m.facebook.com/people/Rabbit-Hole-Records-Crew/61554576691600/
+  platform: facebook
+---
+If the Beastie Boys were accompanied by a female… Similar to early Black Eyed Peas… A crew of BC underground backpack rappers gone neon electronic rave… The Wiseguy, Xavier Francis and Aambrosiaa, have all developed their own rich individual catalogues, styles and brands as artists. Making their first live public appearance together at Laketown Shakedown 2023 helping close Xavier’s set at the flats stage. Making a name for themselves popping up at local Vancouver Island bush raves and most notably combining forces as the in house crew at the local Duncan IYKYK music venue “The Lawnchpad”. Opening and hosting the likes of Aspen King, JUNK, Sirreal, Roney, Jellynote, Kilbourne and so many more. 
+The diversity of the three MC’s inspire them to approach music with a lightheartedness long missed in hiphop. Loose, groovy soulful and fun, it’s like they are jamming on stage. Deeming their sound “Rave-Rap”, flipping between live remixes of familiar EDM tracks, and fully original productions, each set is a psychedelic tea party. With a calculated bass heavy grass roots sound, backboned by Ben Chemikal beats, fairly complex song structures with conscious, catchy, feel good rhymes are strung together with style and ease by the crew. With a mission to get crowds dancing from start to finish, the sounds of bass house to DnB, dubstep and trap to lofi hiphop can be heard throughout their sets, The Rabbit Crew truly bend all concepts of space and time, genres and sound as they take you down the Hole.
+Their unique rave-rap sound as a hiphop crew has made a name in the Vancouver Island underground rave scene. Spreading the word as far as California, the crew already landed a record deal for their first single together “Ghostbumpz‘’ releasing through MalLabel Music out of San Francisco on the leap year of February 29th 2024. The single peaked at number 7 on Itunes and Apple music charts and remained in the top 200 all weekend. Although the crew’s inception was not long ago, the combination of all three artists individuality, hustle, creative work flow, energy and dedication to perfecting their sound and performance has got them off to a running start! With a Triple booking Friday, Saturday and Sunday at Laketown Shakedown to start the Summer, a BC/Alberta tour on the horizon, Rabbit Hole Records Crew are ready to showcase what they are all about on the Ursus stage at Wicked Woods 2024!

@@ -1,0 +1,166 @@
+date: '2023-06-08'
+performances:
+  unicorn-lounge:
+  - title: Donald Bump
+    startTime: '16:00'
+    contributors:
+    - id: Donald Bump
+  - title: DJ Polar
+    startTime: '17:00'
+    contributors:
+    - id: DJ Polar
+  - title: Boshco
+    startTime: '18:00'
+    contributors:
+    - id: Boshco
+  - title: Fattycakes
+    startTime: '19:00'
+    contributors:
+    - id: Fattycakes
+  - title: Underdog
+    startTime: '20:00'
+    contributors:
+    - id: Underdog
+  - title: Mr Diggler
+    startTime: '21:00'
+    contributors:
+    - id: Mr Diggler
+  - title: Mark Farina
+    startTime: '22:00'
+    contributors:
+    - id: Mark Farina
+  - title: Father Funk
+    startTime: 00:00
+    contributors:
+    - id: Father Funk
+  - title: X-Ray Ted
+    startTime: 01:30
+    contributors:
+    - id: X-Ray Ted
+  - title: Mt. Doyle & Philly
+    startTime: 02:30
+    contributors:
+    - id: Mt. Doyle & Philly
+  - title: Bass Panda
+    startTime: 03:30
+    contributors:
+    - id: Bass Panda
+  - title: Thug Shells
+    startTime: 04:30
+    endTime: 05:30
+    contributors:
+    - id: Thug Shells
+  the-hallow:
+  - title: Opening Ceremony
+    startTime: '14:30'
+    contributors:
+    - id: Opening Ceremony
+  - title: The Gaff
+    startTime: '15:00'
+    contributors:
+    - id: The Gaff
+  - title: Civillian
+    startTime: '16:00'
+    contributors:
+    - id: Civillian
+  - title: Yetz
+    startTime: '17:00'
+    contributors:
+    - id: Yetz
+  - title: El Toro
+    startTime: '18:00'
+    contributors:
+    - id: El Toro
+  - title: Oldman
+    startTime: '19:00'
+    contributors:
+    - id: Oldman
+  - title: Big Medicine
+    startTime: '20:00'
+    contributors:
+    - id: Big Medicine
+  - title: INNOCENT
+    startTime: '21:00'
+    contributors:
+    - id: INNOCENT
+  - title: just john
+    startTime: '22:00'
+    contributors:
+    - id: just john
+  - title: COLTCUTS
+    startTime: '23:00'
+    contributors:
+    - id: COLTCUTS
+  - title: Abstrakt Sonance
+    startTime: 00:30
+    contributors:
+    - id: Abstrakt Sonance
+  - title: S2
+    startTime: 02:00
+    contributors:
+    - id: S2
+  - title: Kellan It
+    startTime: 03:00
+    contributors:
+    - id: Kellan It
+  - title: 8 Bit Ninja
+    startTime: 04:00
+    endTime: 05:00
+    contributors:
+    - id: 8 Bit Ninja
+  the-portal:
+  - title: LaBeat
+    startTime: '16:30'
+    contributors:
+    - id: LaBeat
+  - title: Paint Department
+    startTime: '17:30'
+    contributors:
+    - id: Paint Department
+  - title: Dee Bass
+    startTime: '18:30'
+    contributors:
+    - id: Dee Bass
+  - title: Lao Zi
+    startTime: '19:30'
+    contributors:
+    - id: Lao Zi
+  - title: Free Samples
+    startTime: '20:30'
+    contributors:
+    - id: Free Samples
+  - title: Lefy
+    startTime: '21:30'
+    contributors:
+    - id: Lefy
+  - title: Mollyfi
+    startTime: '22:30'
+    contributors:
+    - id: Mollyfi
+  - title: Ghostwhip, Chvvns & Nurmi
+    startTime: '23:30'
+    contributors:
+    - id: Ghostwhip
+    - id: Chvvns
+    - id: Nurmi
+  - title: Rennie
+    startTime: 01:30
+    contributors:
+    - id: Rennie
+  - title: birdhaus
+    startTime: 02:30
+    contributors:
+    - id: birdhaus
+  - title: Heidro
+    startTime: 03:30
+    contributors:
+    - id: Heidro
+  - title: HNH
+    startTime: 04:30
+    contributors:
+    - id: HNH
+  - title: Howl
+    startTime: 05:30
+    endTime: 07:30
+    contributors:
+    - id: Howl

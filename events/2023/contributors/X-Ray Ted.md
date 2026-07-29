@@ -1,0 +1,19 @@
+---
+name: X-Ray Ted
+images:
+- source:
+    url: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2FB3FB7CE5-7B1A-4901-B63A-DDB7F108DE82.png?alt=media&token=3d792fa3-cca7-4dba-956d-043e2cfb2149
+  role: photo
+  renderKind: fullImage
+  materializationPolicy: lazy
+links:
+- url: https://soundcloud.com/xraybreaks
+  platform: soundcloud
+- url: https://youtube.com/@x-rayted5906
+  platform: youtube
+- url: https://www.facebook.com/xraytedbreaks
+  platform: facebook
+---
+X-Ray Ted is a DJ & producer from Bristol, UK, specialising in a unique blend of Party Breaks, Hip Hop, Funk, Disco & Rock. A bona-fide, tried and tested party rocker with the skills to match his selections. His multi-genre DJ sets & cut-and-paste production have gained him support from the likes of BBC Radio 2, BBC 6 Music, international clothing label Superdry; and placed him in the 2019 Redbull 3style UK Finals.In a whirlwind of beats, breaks, and bass, X-Ray Ted gained momentum - playing headline shows across Europe and Canada, alongside performances at almost every UK festival; always paying homage to the original artform of DJing. The seamless blend of heavy hitters, guilty pleasures, classic breaks, and rare grooves is reminiscent of the NY block party vibe; and the addition of turntablist trickery, exclusive remixes, and original production keeps the crowd guessing. Revered among DJs, radio producers, promoters and fans, X-Ray Ted is a sure shot in all fields. In 2021, he collaborated with hip hop legend Nathaniel Hall (aka Afrika Baby Bam of Jungle Brothers) on the single “Get Out The House”, released a chart toppping compilation album including his own original music, and created remixes for the likes of Fort Knox Five, Oh My God! It's The Church, Funkanomics, and more.
+
+His efforts in production have gained him regular radio support from BBC Radio 2, BBC Radio 6Music, and was name checked by Craig Charles as one of [his] favourite DJ's and producers. His cut-and-paste masterpiece Mirror Ballin sold out on wax in a few short days, and is included on Spotify's largest editorial funk playlist – amassing over 1,000,000 total streams. He is also known for the Trunk Of Punk mixtapes on BBC Radio - a series of intricate punk rock DJ mixes.

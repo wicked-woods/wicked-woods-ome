@@ -1,0 +1,8 @@
+name: Unicorn Lounge
+color: 12345508
+images:
+- source:
+    url: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2FF0BC110C-D42E-4CC9-BED3-59E2700938FF.png?alt=media&token=472a66e1-c45a-4a67-895a-5ec7e0ad95c0
+  role: logo
+  renderKind: transparent
+  materializationPolicy: prefetchOnOpen
