@@ -1,5 +1,5 @@
 {
-  "originHash" : "eb55efd08e7f54f39403e77541fb1a44476bfa8ceb417a259c75fa7495303c95",
+  "originHash" : "d4b3b8c01e0499e22c2d2095870b1d58535fd1570b5c3a6d597136aa6a4e6bff",
   "pins" : [
     {
       "identity" : "combine-schedulers",
@@ -8,15 +8,6 @@
       "state" : {
         "revision" : "dcccb979a2183b8df3334237e3dc1ae2b4116a86",
         "version" : "1.2.0"
-      }
-    },
-    {
-      "identity" : "skip",
-      "kind" : "remoteSourceControl",
-      "location" : "https://source.skip.tools/skip.git",
-      "state" : {
-        "revision" : "885f0c520e1ebdbec1f0e296d713293dadc5a2f4",
-        "version" : "1.9.5"
       }
     },
     {
@@ -98,15 +89,6 @@
       "state" : {
         "revision" : "42161b785368386648af8bc595d51aed9d316320",
         "version" : "0.15.0"
-      }
-    },
-    {
-      "identity" : "swift-snapshot-testing",
-      "kind" : "remoteSourceControl",
-      "location" : "https://github.com/pointfreeco/swift-snapshot-testing",
-      "state" : {
-        "revision" : "59a99c458de4d2dee580529b61b4f78dca7b7fa6",
-        "version" : "1.19.4"
       }
     },
     {

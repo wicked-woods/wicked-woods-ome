@@ -23,15 +23,14 @@ jobs:
         with:
           repository: ometools/open-music-event
           ref: 40c7d2abe42eba8649cf61943ab5a1702e027f4b
-          path: .legacy-open-music-event
+          path: .github/legacy-parser/open-music-event
 
       - name: Run legacy validation tool
         run: |
-          cp .github/legacy-parser/Package.resolved .legacy-open-music-event/Core/Package.resolved
           echo "Running validation tool..."
           swift run \
-            --package-path .legacy-open-music-event/Core \
-            open-music-event validate .
+            --package-path .github/legacy-parser \
+            legacy-validator .
 
   upload_contents_to_s3:
     if: github.event_name == 'push' && github.ref == 'refs/heads/main'
